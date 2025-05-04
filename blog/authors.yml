@@ -1,0 +1,35 @@
+yangshun:
+  name: Yangshun Tay
+  title: Front End Engineer @ Facebook
+  url: https://github.com/yangshun
+  image_url: https://github.com/yangshun.png
+  page: true
+  socials:
+    x: yangshunz
+    github: yangshun
+
+slorber:
+  name: Sébastien Lorber
+  title: Docusaurus maintainer
+  url: https://sebastienlorber.com
+  image_url: https://github.com/slorber.png
+  page:
+    # customize the url of the author page at /blog/authors/<permalink>
+    permalink: "/all-sebastien-lorber-articles"
+  socials:
+    x: sebastienlorber
+    linkedin: sebastienlorber
+    github: slorber
+    newsletter: https://thisweekinreact.com
+
+athena:
+  name: Athena
+  title: Wayfinder maintainer
+  url: https://athena.sh
+  image_url: https://wayfinder.page/_astro/athena.DOa6FvLp_1jsMbR.webp
+  page:
+    # customize the url of the author page at /blog/authors/<permalink>
+    permalink: "/athena"
+  socials:
+    x: wayfinderpage
+    newsletter: https://wayfinder.eo.page/v6y87

@@ -1,0 +1,102 @@
+/* ── HERO BANNER ────────────────────────────────────────── */
+.heroBanner {
+  /* subtle radial glow behind logo + base slate */
+  background: radial-gradient(
+      circle at 85% 45%,
+      rgba(81, 179, 208, 0.15) 0%,
+      rgba(31, 36, 42, 0) 50%
+    ),
+    #1f242a;
+  color: #ffffff;
+  padding: 5rem 0;
+  text-align: left;
+}
+
+/* ── FLEX LAYOUT (text + logo) ─────────────────────────── */
+.heroInner {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  gap: 2.5rem;
+}
+@media (max-width: 996px) {
+  .heroInner {
+    flex-direction: column;
+    align-items: flex-start;
+  }
+}
+
+/* limit headline block width */
+.heroCopy {
+  max-width: 680px;
+}
+
+/* logo */
+.heroLogo {
+  width: 140px; /* slightly larger for balance */
+  height: auto;
+  flex-shrink: 0;
+}
+
+/* ── TYPOGRAPHY ─────────────────────────────────────────── */
+.heroTitle {
+  font-size: 4rem;
+  font-weight: 800;
+  line-height: 1.1;
+  letter-spacing: -0.02em; /* tighter tracking */
+  margin: 0;
+}
+
+/* keep words intact */
+.heroTitle,
+.heroTitle span {
+  overflow-wrap: normal;
+  word-break: keep-all;
+}
+
+/* manual desktop line‑break element */
+.desktopBreak {
+  display: none;
+}
+@media (min-width: 997px) {
+  .desktopBreak {
+    display: inline;
+  }
+}
+
+/* responsive headline scale */
+@media (max-width: 1199px) {
+  .heroTitle {
+    font-size: 3.2rem;
+  }
+}
+@media (max-width: 767px) {
+  .heroTitle {
+    font-size: 2.4rem;
+  }
+}
+
+.heroSubtitle {
+  font-size: 1.5rem;
+  margin: 1.5rem 0 0 0;
+  color: rgba(255, 255, 255, 0.85);
+}
+
+/* coloured highlight */
+.highlight {
+  color: var(--ifm-color-primary);
+}
+
+/* ── BUTTONS ────────────────────────────────────────────── */
+.buttons {
+  margin-top: 2.5rem;
+  display: flex;
+  gap: 1rem;
+  justify-content: flex-start;
+}
+
+/* darker primary button for clearer hierarchy */
+.heroBanner .button--primary {
+  background: var(--ifm-color-primary-dark);
+  color: #000; /* keep text visible */
+}
