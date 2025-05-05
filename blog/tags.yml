@@ -1,24 +1,34 @@
 Branding:
   label: Branding
   permalink: /branding
-  description: Branding tag description
+  description: Strategies, tips, and case studies for building memorable brand identities and effective brand positioning
 
 Monetization:
   label: Monetization
   permalink: /monetization
-  description: Monetization tag description
+  description: Methods and insights for generating revenue from content, services, and digital products
 
 Meditation:
   label: Meditation
   permalink: /meditation
-  description: Meditation tag description
+  description: Techniques, practices, and benefits of meditation for mental clarity, stress reduction, and mindfulness
 
 Elon Musk:
   label: Elon Musk
   permalink: /elon-musk
-  description: Elon Musk tag description
+  description: News, analysis, and insights about Elon Musk's companies, projects, and impact on technology and business
 
 AI:
   label: AI
   permalink: /ai
-  description: AI tag description
+  description: Developments, applications, and implications of artificial intelligence in business, technology, and daily life
+
+Wellness:
+  label: Wellness
+  permalink: /wellness
+  description: Articles focused on physical, mental, and emotional wellbeing practices and lifestyle choices
+
+Productivity:
+  label: Productivity
+  permalink: /productivity
+  description: Strategies, techniques, and tools to enhance personal and professional efficiency, time management, and goal achievement
