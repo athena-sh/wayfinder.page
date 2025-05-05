@@ -60,9 +60,9 @@ const config: Config = {
       apiKey: "d44226b6efcc3817fb821a938e8f4a01",
       indexName: "wayfinder",
       // Optional: See below for advanced options
-      contextualSearch: true, // default: true
-      searchParameters: {}, // Algolia search parameters
-      searchPagePath: "search", // if you have a custom search page
+      //contextualSearch: true, // default: true
+      //searchParameters: {}, // Algolia search parameters
+      //searchPagePath: "search", // if you have a custom search page
     },
     image: "img/docusaurus-social-card.jpg",
     navbar: {
