@@ -57,7 +57,7 @@ const config: Config = {
       appId: "Y9DKV91KMO",
       apiKey: "d44226b6efcc3817fb821a938e8f4a01",
       indexName: "wayfinder",
-      contextualSearch: false,
+      contextualSearch: true,
     },
     image: "img/docusaurus-social-card.jpg",
     navbar: {
