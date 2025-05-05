@@ -75,7 +75,7 @@ const config: Config = {
         //},
         { to: "/blog", label: "Blog", position: "left" },
         {
-          href: "https://github.com/facebook/docusaurus",
+          href: "https://github.com/athena-sh/wayfinder.page",
           label: "GitHub",
           position: "right",
         },
