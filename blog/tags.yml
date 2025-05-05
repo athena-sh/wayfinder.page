@@ -12,3 +12,13 @@ Meditation:
   label: Meditation
   permalink: /meditation
   description: Meditation tag description
+
+Elon Musk:
+  label: Elon Musk
+  permalink: /elon-musk
+  description: Elon Musk tag description
+
+AI:
+  label: AI
+  permalink: /ai
+  description: AI tag description
