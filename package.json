@@ -12,7 +12,8 @@
     "serve": "docusaurus serve",
     "write-translations": "docusaurus write-translations",
     "write-heading-ids": "docusaurus write-heading-ids",
-    "typecheck": "tsc"
+    "typecheck": "tsc",
+    "postbuild": "curl -X POST \"https://crawler.algolia.com/api/v1/crawlers/5ee0305c-87ed-4209-946c-63e807e6684e/runs\" -H \"X-Algolia-API-Key: $CRAWLER_API_KEY\" -H \"X-Algolia-Application-Id: $PUBLIC_DOCSEARCH_APP_ID\""
   },
   "dependencies": {
     "@docusaurus/core": "3.7.0",
