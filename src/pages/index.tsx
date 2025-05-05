@@ -1,4 +1,5 @@
 import type { ReactNode } from "react";
+import Head from "@docusaurus/Head";
 import Link from "@docusaurus/Link";
 import useDocusaurusContext from "@docusaurus/useDocusaurusContext";
 import Layout from "@theme/Layout";
@@ -17,10 +18,15 @@ export default function Home(): ReactNode {
       title={siteConfig.title}
       description="Your roadmap to resilience, creativity, and financial freedom."
     >
+      {/* Hidden meta so “Wayfinder” is indexed even if the word isn’t visible */}
+      <Head>
+        <meta name="keywords" content="Wayfinder" />
+      </Head>
+
       <header className={styles.heroBanner}>
         <div className="container">
           <div className={styles.heroInner}>
-            {/* TEXT  */}
+            {/* TEXT */}
             <div className={styles.heroCopy}>
               <Heading as="h1" className={styles.heroTitle}>
                 Charting&nbsp;

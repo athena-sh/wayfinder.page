@@ -2,10 +2,11 @@ athena:
   name: Athena
   title: Wayfinder maintainer
   url: https://athena.sh
-  image_url: /img/athena.DOa6FvLp_1jsMbR.webp
+  image_url: https://res.cloudinary.com/ddicetqs5/image/upload/f_auto/v1746417337/wayfinder-images/author-athena_mdjztb
   page:
     # customize the url of the author page at /blog/authors/<permalink>
     permalink: "/athena"
   socials:
     x: wayfinderpage
+    github: athena-sh
     newsletter: https://wayfinder.eo.page/v6y87
