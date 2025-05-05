@@ -59,7 +59,7 @@ const config: Config = {
       indexName: "wayfinder",
       contextualSearch: true,
     },
-    image: "img/docusaurus-social-card.jpg",
+    image: "img/1200x675_social_card_wayfinder.jpg",
     navbar: {
       title: "Wayfinder",
       logo: {
