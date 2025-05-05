@@ -2,7 +2,7 @@ athena:
   name: Athena
   title: Wayfinder maintainer
   url: https://athena.sh
-  image_url: https://wayfinder.page/_astro/athena.DOa6FvLp_1jsMbR.webp
+  image_url: /img/athena.DOa6FvLp_1jsMbR.webp
   page:
     # customize the url of the author page at /blog/authors/<permalink>
     permalink: "/athena"
