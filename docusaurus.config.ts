@@ -59,6 +59,7 @@ const config: Config = {
       // Public API key: it is safe to commit this
       apiKey: "d44226b6efcc3817fb821a938e8f4a01",
       indexName: "wayfinder",
+      contextualSearch: true,
       // Optional: See below for advanced options
       //contextualSearch: true, // default: true
       //searchParameters: {}, // Algolia search parameters
