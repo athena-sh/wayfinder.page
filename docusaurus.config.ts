@@ -54,16 +54,10 @@ const config: Config = {
       maxHeadingLevel: 2,
     },
     algolia: {
-      // The application ID provided by Algolia
       appId: "Y9DKV91KMO",
-      // Public API key: it is safe to commit this
       apiKey: "d44226b6efcc3817fb821a938e8f4a01",
       indexName: "wayfinder",
-      contextualSearch: true,
-      // Optional: See below for advanced options
-      //contextualSearch: true, // default: true
-      //searchParameters: {}, // Algolia search parameters
-      //searchPagePath: "search", // if you have a custom search page
+      contextualSearch: false,
     },
     image: "img/docusaurus-social-card.jpg",
     navbar: {

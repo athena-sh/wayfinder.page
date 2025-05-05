@@ -17,3 +17,13 @@ hola:
   label: Hola
   permalink: /hola
   description: Hola tag description
+
+Branding:
+  label: Branding
+  permalink: /branding
+  description: Branding tag description
+
+Monetization:
+  label: Monetization
+  permalink: /monetization
+  description: Monetization tag description
