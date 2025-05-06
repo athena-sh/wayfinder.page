@@ -12,8 +12,7 @@
     "serve": "docusaurus serve",
     "write-translations": "docusaurus write-translations",
     "write-heading-ids": "docusaurus write-heading-ids",
-    "typecheck": "tsc",
-    "postbuild": "curl -u \"${ALGOLIA_USER_ID}:${ALGOLIA_API_KEY}\" -X POST \"https://crawler.algolia.com/api/1/crawlers/${ALGOLIA_CRAWLER_ID}/reindex\""
+    "typecheck": "tsc"
   },
   "dependencies": {
     "@docusaurus/core": "3.7.0",
