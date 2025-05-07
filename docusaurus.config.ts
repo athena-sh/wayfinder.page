@@ -47,6 +47,7 @@ const config: Config = {
     /* NEW — extra global <meta> tags */
     metadata: [
       { property: "og:site_name", content: "Wayfinder" },
+      { property: "og:type", content: "website" },
       { name: "twitter:site", content: "@wayfinderpage" },
     ],
 
