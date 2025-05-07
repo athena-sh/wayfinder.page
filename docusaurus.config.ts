@@ -1,17 +1,22 @@
+// docusaurus.config.ts
 import { themes as prismThemes } from "prism-react-renderer";
 import type { Config } from "@docusaurus/types";
 import type * as Preset from "@docusaurus/preset-classic";
 
 const config: Config = {
-  title: "Charting Simple Routes to Success 🧭",
+  /* ——————————— core site settings ——————————— */
+  title: "Wayfinder", // <—— changed
   tagline: "Your roadmap to resilience, creativity, and financial freedom.",
   favicon: "img/favicon.ico",
   url: "https://wayfinder.page",
   baseUrl: "/",
+
+  /* ——————————— build settings ——————————— */
   onBrokenLinks: "throw",
   onBrokenMarkdownLinks: "warn",
   i18n: { defaultLocale: "en", locales: ["en"] },
 
+  /* ——————————— preset ——————————— */
   presets: [
     [
       "classic",
@@ -31,21 +36,11 @@ const config: Config = {
           onUntruncatedBlogPosts: "warn",
         },
         theme: { customCss: "./src/css/custom.css" },
-
-        /* ▶️  GA4 (gtag.js) */
-        gtag: {
-          trackingID: "G-XXXXXXXXXX", // replace with your GA‑4 measurement ID
-          anonymizeIP: true,
-        },
-
-        /* ▶️  Google Tag Manager — remove if you don’t use GTM */
-        googleTagManager: {
-          containerId: "GTM-MZZPFK44", // replace with your GTM container ID
-        },
       } satisfies Preset.Options,
     ],
   ],
 
+  /* ——————————— theme config ——————————— */
   themeConfig: {
     tableOfContents: { minHeadingLevel: 2, maxHeadingLevel: 2 },
     algolia: {

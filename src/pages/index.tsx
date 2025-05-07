@@ -1,21 +1,18 @@
+// src/pages/index.tsx
 import type { ReactNode } from "react";
 import Head from "@docusaurus/Head";
 import Link from "@docusaurus/Link";
-import useDocusaurusContext from "@docusaurus/useDocusaurusContext";
 import Layout from "@theme/Layout";
 import Heading from "@theme/Heading";
 
 import HomepageFeatures from "@site/src/components/HomepageFeatures";
 import Logo from "@site/static/img/logo.svg";
-
 import styles from "./index.module.css";
 
 export default function Home(): ReactNode {
-  const { siteConfig } = useDocusaurusContext();
-
   return (
     <Layout
-      title={siteConfig.title}
+      title="Charting Simple Routes to Success"
       description="Your roadmap to resilience, creativity, and financial freedom."
     >
       {/* Hidden meta so “Wayfinder” is indexed even if the word isn’t visible */}
