@@ -17,10 +17,7 @@ export default function Home(): ReactNode {
     >
       {/* Hidden meta so “Wayfinder” is indexed even if the word isn’t visible */}
       <Head>
-        <meta
-          property="og:title"
-          content="Charting Simple Routes to Success 🧭"
-        />
+        <meta property="og:title" content="Charting Simple Routes to Success" />
       </Head>
 
       <header className={styles.heroBanner}>

@@ -44,12 +44,8 @@ const config: Config = {
 
   /* ─────────── themeConfig ─────────── */
   themeConfig: {
-    /* NEW — extra global <meta> tags */
-    metadata: [
-      { property: "og:site_name", content: "Wayfinder" },
-      { property: "og:type", content: "website" },
-      { name: "twitter:site", content: "@wayfinderpage" },
-    ],
+    image: "img/1200x675_social_card_wayfinder.jpg",
+    metadata: [{ name: "twitter:card", content: "summary_large_image" }],
 
     tableOfContents: { minHeadingLevel: 2, maxHeadingLevel: 2 },
 
@@ -59,8 +55,6 @@ const config: Config = {
       indexName: "wayfinder",
       contextualSearch: true,
     },
-
-    image: "img/1200x675_social_card_wayfinder.jpg",
 
     navbar: {
       title: "Wayfinder",
