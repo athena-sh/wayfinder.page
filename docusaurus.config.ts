@@ -1,24 +1,19 @@
-// docusaurus.config.ts
 import { themes as prismThemes } from "prism-react-renderer";
 import type { Config } from "@docusaurus/types";
 import type * as Preset from "@docusaurus/preset-classic";
 
 const config: Config = {
-  /* ─────────── site metadata ─────────── */
   title: "Wayfinder",
   tagline: "Your roadmap to resilience, creativity, and financial freedom.",
   favicon: "img/favicon.ico",
   url: "https://wayfinder.page",
   baseUrl: "/",
 
-  /* ─────────── build settings ─────────── */
   onBrokenLinks: "throw",
   onBrokenMarkdownLinks: "warn",
 
-  /* ─────────── i18n ─────────── */
   i18n: { defaultLocale: "en", locales: ["en"] },
 
-  /* ─────────── presets ─────────── */
   presets: [
     [
       "classic",
@@ -42,10 +37,13 @@ const config: Config = {
     ],
   ],
 
-  /* ─────────── themeConfig ─────────── */
   themeConfig: {
-    image: "img/1200x675_social_card_wayfinder.jpg",
-    metadata: [{ name: "twitter:card", content: "summary_large_image" }],
+    image: "https://wayfinder.page/img/1200x675_social_card_wayfinder.jpg",
+    metadata: [
+      { name: "twitter:card", content: "summary_large_image" },
+      { property: "og:image:width", content: "1200" },
+      { property: "og:image:height", content: "675" },
+    ],
 
     tableOfContents: { minHeadingLevel: 2, maxHeadingLevel: 2 },
 

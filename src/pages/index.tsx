@@ -15,7 +15,6 @@ export default function Home(): ReactNode {
       title="Charting Simple Routes to Success"
       description="Your roadmap to resilience, creativity, and financial freedom."
     >
-      {/* Hidden meta so “Wayfinder” is indexed even if the word isn’t visible */}
       <Head>
         <meta property="og:title" content="Charting Simple Routes to Success" />
       </Head>
@@ -23,7 +22,6 @@ export default function Home(): ReactNode {
       <header className={styles.heroBanner}>
         <div className="container">
           <div className={styles.heroInner}>
-            {/* TEXT */}
             <div className={styles.heroCopy}>
               <Heading as="h1" className={styles.heroTitle}>
                 Charting&nbsp;
