@@ -118,6 +118,16 @@ Marketing:
   permalink: /marketing
   description: Comprehensive insights into digital and traditional marketing strategies and trends
 
+MEDDICC:
+  label: MEDDICC
+  permalink: /meddicc
+  description: A proven B2B sales qualification framework helping sales teams identify key decision makers, understand buying processes, and close enterprise deals more effectively
+
+MEDDPICC:
+  label: MEDDPICC
+  permalink: /meddpicc
+  description: An enhanced B2B sales qualification framework adding Pain and Paper Process to the original methodology for more comprehensive deal assessment and increased closing probability
+
 Meditation:
   label: Meditation
   permalink: /meditation
