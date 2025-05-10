@@ -45,7 +45,14 @@ const config: Config = {
   /* ─────────── themeConfig ─────────── */
   themeConfig: {
     image: "img/1200x675_social_card_wayfinder.jpg",
-    metadata: [{ name: "twitter:card", content: "summary_large_image" }],
+    metadata: [
+      { name: "twitter:card", content: "summary_large_image" },
+      {
+        name: "twitter:image",
+        content:
+          "https://res.cloudinary.com/ddicetqs5/image/upload/f_auto/v1746909376/wayfinder-images/1200x675_social_card_wayfinder_iwvuho",
+      },
+    ],
 
     tableOfContents: { minHeadingLevel: 2, maxHeadingLevel: 2 },
 
