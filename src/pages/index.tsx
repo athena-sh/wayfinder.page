@@ -16,7 +16,10 @@ export default function Home(): ReactNode {
       description="Your roadmap to resilience, creativity, and financial freedom."
     >
       <Head>
-        <meta property="og:title" content="Charting Simple Routes to Success" />
+        <meta
+          property="og:title"
+          content="Charting Simple Routes to Success | Wayfinder"
+        />
       </Head>
 
       <header className={styles.heroBanner}>
