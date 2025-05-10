@@ -1,39 +1,234 @@
+AI:
+  label: AI
+  permalink: /ai
+  description: Developments, applications, and implications of artificial intelligence in business, technology, and daily life
+
+Affiliate:
+  label: Affiliate
+  permalink: /affiliate
+  description: Strategies, platforms, and tips for earning income through affiliate marketing
+
+Blogging:
+  label: Blogging
+  permalink: /blogging
+  description: Techniques, tools, and best practices for creating and growing a successful blog
+
 Branding:
   label: Branding
   permalink: /branding
   description: Strategies, tips, and case studies for building memorable brand identities and effective brand positioning
 
-Monetization:
-  label: Monetization
-  permalink: /monetization
-  description: Methods and insights for generating revenue from content, services, and digital products
+Career:
+  label: Career
+  permalink: /career
+  description: Advice, strategies, and insights for career development, advancement, and transitions
 
-Meditation:
-  label: Meditation
-  permalink: /meditation
-  description: Techniques, practices, and benefits of meditation for mental clarity, stress reduction, and mindfulness
+Cybersecurity:
+  label: Cybersecurity
+  permalink: /cybersecurity
+  description: Guidance on protecting digital assets, data privacy, and mitigating online threats
+
+Customer Service:
+  label: Customer Service
+  permalink: /customer-service
+  description: Methods and best practices for delivering exceptional customer experiences online and offline
+
+Digital Business:
+  label: Digital Business
+  permalink: /digital-business
+  description: Insights, tools, and models for starting and scaling online businesses
 
 Elon Musk:
   label: Elon Musk
   permalink: /elon-musk
   description: News, analysis, and insights about Elon Musk's companies, projects, and impact on technology and business
 
-AI:
-  label: AI
-  permalink: /ai
-  description: Developments, applications, and implications of artificial intelligence in business, technology, and daily life
+Email Marketing:
+  label: Email Marketing
+  permalink: /email-marketing
+  description: Tactics and tools to build lists, craft campaigns, and drive conversions via email
 
-Wellness:
-  label: Wellness
-  permalink: /wellness
-  description: Articles focused on physical, mental, and emotional wellbeing practices and lifestyle choices
+Emotional Intelligence:
+  label: Emotional Intelligence
+  permalink: /emotional-intelligence
+  description: Concepts, exercises, and applications of EQ for personal and professional success
+
+Entrepreneurship:
+  label: Entrepreneurship
+  permalink: /entrepreneurship
+  description: Guidance, case studies, and resources for launching and growing startups and small businesses
+
+Facebook:
+  label: Facebook
+  permalink: /facebook
+  description: Tips, updates, and strategies for leveraging Facebook for marketing and community building
+
+Finance:
+  label: Finance
+  permalink: /finance
+  description: Personal and business finance tips, budgeting, investing, and money management strategies
+
+Fitness:
+  label: Fitness
+  permalink: /fitness
+  description: Workouts, routines, and advice for improving physical health and performance
+
+Freelance:
+  label: Freelance
+  permalink: /freelance
+  description: Tips, tools, and strategies for thriving as a freelancer in diverse industries
+
+Goals:
+  label: Goals
+  permalink: /goals
+  description: Frameworks and methods to set, track, and achieve personal and professional goals
+
+Google Ads:
+  label: Google Ads
+  permalink: /google-ads
+  description: Strategies and tactics to maximize ROI with Google Ads campaigns
+
+Growth:
+  label: Growth
+  permalink: /growth
+  description: Mindsets, tactics, and case studies focused on personal and business growth
+
+Habit Building:
+  label: Habit Building
+  permalink: /habit-building
+  description: Techniques and science‑based methods for forming and maintaining healthy habits
+
+Instagram:
+  label: Instagram
+  permalink: /instagram
+  description: Strategies and creative tips for growing reach and engagement on Instagram
+
+Leadership:
+  label: Leadership
+  permalink: /leadership
+  description: Principles, skills, and practices for effective leadership and team management
+
+LinkedIn:
+  label: LinkedIn
+  permalink: /linkedin
+  description: Optimization tips and strategies to build authority and network on LinkedIn
+
+Marketing:
+  label: Marketing
+  permalink: /marketing
+  description: Comprehensive insights into digital and traditional marketing strategies and trends
+
+Meditation:
+  label: Meditation
+  permalink: /meditation
+  description: Techniques, practices, and benefits of meditation for mental clarity, stress reduction, and mindfulness
+
+Mindfulness:
+  label: Mindfulness
+  permalink: /mindfulness
+  description: Practices, research, and tips for cultivating present‑moment awareness and focus
+
+Mobile Marketing:
+  label: Mobile Marketing
+  permalink: /mobile-marketing
+  description: Methods and trends for reaching and engaging customers on mobile devices
+
+Monetization:
+  label: Monetization
+  permalink: /monetization
+  description: Methods and insights for generating revenue from content, services, and digital products
+
+Networking:
+  label: Networking
+  permalink: /networking
+  description: Strategies and etiquette for building valuable professional relationships
+
+Nutrition:
+  label: Nutrition
+  permalink: /nutrition
+  description: Guidance on healthy eating, macronutrients, and dietary strategies for wellness
+
+Personal Growth:
+  label: Personal Growth
+  permalink: /personal-growth
+  description: Resources, reflections, and strategies for continuous self‑improvement
+
+Pinterest:
+  label: Pinterest
+  permalink: /pinterest
+  description: Tips, SEO, and strategies for driving traffic and sales via Pinterest
+
+Podcast:
+  label: Podcast
+  permalink: /podcast
+  description: Production, marketing, and monetization strategies for successful podcasts
 
 Productivity:
   label: Productivity
   permalink: /productivity
   description: Strategies, techniques, and tools to enhance personal and professional efficiency, time management, and goal achievement
 
+Sales:
+  label: Sales
+  permalink: /sales
+  description: Techniques, psychology, and tools to close deals and drive revenue
+
+SEO:
+  label: SEO
+  permalink: /seo
+  description: Best practices and tools for optimizing content to rank in search engines
+
+Side Hustle:
+  label: Side Hustle
+  permalink: /side-hustle
+  description: Ideas, tools, and guidance for starting profitable side projects
+
+Sleep:
+  label: Sleep
+  permalink: /sleep
+  description: Science‑backed tips and routines for improving sleep quality and recovery
+
+Social Media:
+  label: Social Media
+  permalink: /social-media
+  description: Strategies, tools, and trends for multi‑platform social media success
+
+Stress Management:
+  label: Stress Management
+  permalink: /stress-management
+  description: Techniques and practices for reducing stress and enhancing resilience
+
 Technology:
   label: Technology
   permalink: /technology
   description: Reviews, comparisons, and insights about consumer electronics, digital services, and emerging tech trends for everyday users
+
+Time Management:
+  label: Time Management
+  permalink: /time-management
+  description: Methods and tools for planning, prioritizing, and maximizing productivity
+
+TikTok:
+  label: TikTok
+  permalink: /tiktok
+  description: Trends, algorithms, and strategies to grow and monetize on TikTok
+
+Video Marketing:
+  label: Video Marketing
+  permalink: /video-marketing
+  description: Creation, optimization, and promotion of video content for engagement and sales
+
+Wellness:
+  label: Wellness
+  permalink: /wellness
+  description: Articles focused on physical, mental, and emotional wellbeing practices and lifestyle choices
+
+Writing:
+  label: Writing
+  permalink: /writing
+  description: Craft, style, and productivity tips for impactful writing across mediums
+
+YouTube:
+  label: YouTube
+  permalink: /youtube
+  description: Strategies, SEO, and monetization methods for growing a YouTube channel
