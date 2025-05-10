@@ -60,6 +60,7 @@ const config: Config = {
       title: "Wayfinder",
       logo: { alt: "Wayfinder Logo", src: "img/logo.svg" },
       items: [
+        { to: "/about", label: "About", position: "left" },
         { to: "/blog", label: "Blog", position: "left" },
         {
           href: "https://github.com/athena-sh/wayfinder.page",
@@ -85,6 +86,7 @@ const config: Config = {
         {
           title: "More",
           items: [
+            { label: "About", to: "/about" },
             { label: "Blog", to: "/blog" },
             {
               label: "GitHub",
