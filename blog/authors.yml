@@ -2,7 +2,7 @@ athena:
   name: Athena
   title: Content Creator & Founder @ Wayfinder.page
   url: https://athena.sh
-  image_url: https://res.cloudinary.com/ddicetqs5/image/upload/f_auto/v1746417337/wayfinder-images/author-athena_mdjztb
+  image_url: https://res.cloudinary.com/ddicetqs5/image/upload/f_auto/v1746910194/wayfinder-images/athena-profile-office-setting_lzyio6
   page:
     # customize the url of the author page at /blog/authors/<permalink>
     permalink: "/athena"
@@ -10,3 +10,4 @@ athena:
     x: wayfinderpage
     github: athena-sh
     newsletter: https://wayfinder.eo.page/v6y87
+# bluesky's cdn profile image: https://cdn.bsky.app/img/avatar/plain/did:plc:uou2zz4rjdhlnbqe2ex2hoir/bafkreicqh4glr6ter5jvlv5cbwmf2zho5apoerrcq6ahse7f6xr5bxux5i@jpeg
