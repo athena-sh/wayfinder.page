@@ -44,7 +44,8 @@ const config: Config = {
 
   /* ─────────── themeConfig ─────────── */
   themeConfig: {
-    image: "img/1200x675_social_card_wayfinder.jpg",
+    image:
+      "https://res.cloudinary.com/ddicetqs5/image/upload/f_auto/v1746909376/wayfinder-images/1200x675_social_card_wayfinder_iwvuho",
     metadata: [
       { name: "twitter:card", content: "summary_large_image" },
       {
