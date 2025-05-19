@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 
-# python3 gen_redirects.py > _redirects
+# python3 gen_redirects.py > static/_redirects
 
 import pathlib
 
