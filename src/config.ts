@@ -55,7 +55,7 @@ export const navBarConfig: NavBarConfig = {
 };
 
 export const profileConfig: ProfileConfig = {
-  avatar: "assets/images/image.jpg", // Relative to the /src directory. Relative to the /public directory if it starts with '/'
+  avatar: "assets/images/athena.jpg", // Relative to the /src directory. Relative to the /public directory if it starts with '/'
   name: "Athena",
   bio: "Content Creator & Founder @ Wayfinder.page. Tech-savvy millennial helping you navigate life's chaos. Fitness junkie, sarcasm pro, and occasional cookie monster.",
   links: [
