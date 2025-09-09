@@ -1,0 +1,38 @@
+<svg width="400" height="400" viewBox="0 0 400 400" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="cardGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#2d3748;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#1a202c;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient id="iconGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#4299e1;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#2b6cb0;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  
+  <!-- Card background with rounded corners -->
+  <rect width="400" height="400" rx="32" ry="32" fill="url(#cardGradient)"/>
+  
+  <!-- Icon circle background -->
+  <circle cx="200" cy="160" r="60" fill="url(#iconGradient)"/>
+  
+  <!-- Meditation figure icon -->
+  <g transform="translate(200, 160)">
+    <!-- Head -->
+    <circle cx="0" cy="-20" r="12" fill="white" stroke="none"/>
+    
+    <!-- Body -->
+    <path d="M -8 -8 Q -8 0 -8 8 Q -8 16 0 16 Q 8 16 8 8 Q 8 0 8 -8 Z" fill="white"/>
+    
+    <!-- Arms in meditation pose -->
+    <path d="M -8 -4 Q -20 -4 -24 4 Q -20 12 -8 8" fill="none" stroke="white" stroke-width="6" stroke-linecap="round"/>
+    <path d="M 8 -4 Q 20 -4 24 4 Q 20 12 8 8" fill="none" stroke="white" stroke-width="6" stroke-linecap="round"/>
+    
+    <!-- Legs in lotus position -->
+    <path d="M -8 16 Q -16 20 -20 28 Q -16 32 -8 28" fill="none" stroke="white" stroke-width="6" stroke-linecap="round"/>
+    <path d="M 8 16 Q 16 20 20 28 Q 16 32 8 28" fill="none" stroke="white" stroke-width="6" stroke-linecap="round"/>
+  </g>
+  
+  <!-- BALANCE text -->
+  <text x="200" y="320" font-family="Arial, sans-serif" font-size="48" font-weight="bold" fill="white" text-anchor="middle">BALANCE</text>
+</svg>
