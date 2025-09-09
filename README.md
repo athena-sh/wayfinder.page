@@ -1,92 +1,78 @@
-# 🍥Fuwari  
-![Node.js >= 20](https://img.shields.io/badge/node.js-%3E%3D20-brightgreen) 
-![pnpm >= 9](https://img.shields.io/badge/pnpm-%3E%3D9-blue) 
-[![DeepWiki](https://img.shields.io/badge/DeepWiki-saicaca%2Ffuwari-blue.svg?logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACwAAAAyCAYAAAAnWDnqAAAAAXNSR0IArs4c6QAAA05JREFUaEPtmUtyEzEQhtWTQyQLHNak2AB7ZnyXZMEjXMGeK/AIi+QuHrMnbChYY7MIh8g01fJoopFb0uhhEqqcbWTp06/uv1saEDv4O3n3dV60RfP947Mm9/SQc0ICFQgzfc4CYZoTPAswgSJCCUJUnAAoRHOAUOcATwbmVLWdGoH//PB8mnKqScAhsD0kYP3j/Yt5LPQe2KvcXmGvRHcDnpxfL2zOYJ1mFwrryWTz0advv1Ut4CJgf5uhDuDj5eUcAUoahrdY/56ebRWeraTjMt/00Sh3UDtjgHtQNHwcRGOC98BJEAEymycmYcWwOprTgcB6VZ5JK5TAJ+fXGLBm3FDAmn6oPPjR4rKCAoJCal2eAiQp2x0vxTPB3ALO2CRkwmDy5WohzBDwSEFKRwPbknEggCPB/imwrycgxX2NzoMCHhPkDwqYMr9tRcP5qNrMZHkVnOjRMWwLCcr8ohBVb1OMjxLwGCvjTikrsBOiA6fNyCrm8V1rP93iVPpwaE+gO0SsWmPiXB+jikdf6SizrT5qKasx5j8ABbHpFTx+vFXp9EnYQmLx02h1QTTrl6eDqxLnGjporxl3NL3agEvXdT0WmEost648sQOYAeJS9Q7bfUVoMGnjo4AZdUMQku50McDcMWcBPvr0SzbTAFDfvJqwLzgxwATnCgnp4wDl6Aa+Ax283gghmj+vj7feE2KBBRMW3FzOpLOADl0Isb5587h/U4gGvkt5v60Z1VLG8BhYjbzRwyQZemwAd6cCR5/XFWLYZRIMpX39AR0tjaGGiGzLVyhse5C9RKC6ai42ppWPKiBagOvaYk8lO7DajerabOZP46Lby5wKjw1HCRx7p9sVMOWGzb/vA1hwiWc6jm3MvQDTogQkiqIhJV0nBQBTU+3okKCFDy9WwferkHjtxib7t3xIUQtHxnIwtx4mpg26/HfwVNVDb4oI9RHmx5WGelRVlrtiw43zboCLaxv46AZeB3IlTkwouebTr1y2NjSpHz68WNFjHvupy3q8TFn3Hos2IAk4Ju5dCo8B3wP7VPr/FGaKiG+T+v+TQqIrOqMTL1VdWV1DdmcbO8KXBz6esmYWYKPwDL5b5FA1a0hwapHiom0r/cKaoqr+27/XcrS5UwSMbQAAAABJRU5ErkJggg==)](https://deepwiki.com/saicaca/fuwari)
-[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fsaicaca%2Ffuwari.svg?type=shield&issueType=license)](https://app.fossa.com/projects/git%2Bgithub.com%2Fsaicaca%2Ffuwari?ref=badge_shield&issueType=license)
+# 🧭 Wayfinder
+![Website](https://img.shields.io/website?url=https%3A//wayfinder.page&style=flat-square) 
+![License](https://img.shields.io/badge/license-MIT-blue?style=flat-square)
+![Node.js >= 20](https://img.shields.io/badge/node.js-%3E%3D20-brightgreen?style=flat-square) 
+![Built with Astro](https://img.shields.io/badge/Built%20with-Astro-orange?style=flat-square)
 
-A static blog template built with [Astro](https://astro.build).
+**Charting Simple Routes to Success** - The source code for [Wayfinder.page](https://wayfinder.page), a personal growth and productivity blog built with the Fuwari theme.
 
-[**🖥️ Live Demo (Vercel)**](https://fuwari.vercel.app)
+This is a fork of the excellent [Fuwari](https://github.com/saicaca/fuwari) Astro blog template, customized for the Wayfinder brand and content.
 
-![Preview Image](https://raw.githubusercontent.com/saicaca/resource/main/fuwari/home.png)
+## 🚀 Live Site
 
-🌏 README in
-[**中文**](https://github.com/saicaca/fuwari/blob/main/docs/README.zh-CN.md) /
-[**日本語**](https://github.com/saicaca/fuwari/blob/main/docs/README.ja.md) /
-[**한국어**](https://github.com/saicaca/fuwari/blob/main/docs/README.ko.md) /
-[**Español**](https://github.com/saicaca/fuwari/blob/main/docs/README.es.md) /
-[**ไทย**](https://github.com/saicaca/fuwari/blob/main/docs/README.th.md) /
-[**Tiếng Việt**](https://github.com/saicaca/fuwari/blob/main/docs/README.vi.md) /
-[**Bahasa Indonesia**](https://github.com/saicaca/fuwari/blob/main/docs/README.id.md) (Provided by the community and may not always be up-to-date)
+Visit **[wayfinder.page](https://wayfinder.page)** to see this code in action!
+
+## 📖 About Wayfinder
+
+Wayfinder is your digital compass for navigating life's challenges. We provide:
+
+- 📈 **Personal Growth** - Strategies for self-improvement and mindfulness
+- 💼 **Career Development** - Freelancing, entrepreneurship, and professional skills  
+- ⚡ **Productivity** - Time management, workflow optimization, and focus techniques
+- 🧘 **Wellness** - Health, fitness, nutrition, and mental well-being
+- 📊 **Business Insights** - Marketing, sales psychology, and digital strategies
 
 ## ✨ Features
 
 - [x] Built with [Astro](https://astro.build) and [Tailwind CSS](https://tailwindcss.com)
 - [x] Smooth animations and page transitions
-- [x] Light / dark mode
-- [x] Customizable theme colors & banner
-- [x] Responsive design
+- [x] Light / dark mode with custom purple theme
+- [x] Responsive design optimized for all devices
 - [x] Search functionality with [Pagefind](https://pagefind.app/)
-- [x] [Markdown extended features](https://github.com/saicaca/fuwari?tab=readme-ov-file#-markdown-extended-syntax)
-- [x] Table of contents
-- [x] RSS feed
+- [x] RSS feed and sitemap generation
+- [x] Table of contents for long-form articles
+- [x] Comprehensive redirect system for SEO
 
-## 🚀 Getting Started
+## 🛠️ Development
 
-1. Create your blog repository:
-    - [Generate a new repository](https://github.com/saicaca/fuwari/generate) from this template or fork this repository.
-    - Or run one of the following commands:
-       ```sh
-       npm create fuwari@latest
-       yarn create fuwari
-       pnpm create fuwari@latest
-       bun create fuwari@latest
-       deno run -A npm:create-fuwari@latest
-       ```
-2. To edit your blog locally, clone your repository, run `pnpm install` to install dependencies.
-    - Install [pnpm](https://pnpm.io) `npm install -g pnpm` if you haven't.
-3. Edit the config file `src/config.ts` to customize your blog.
-4. Run `pnpm new-post <filename>` to create a new post and edit it in `src/content/posts/`.
-5. Deploy your blog to Vercel, Netlify, GitHub Pages, etc. following [the guides](https://docs.astro.build/en/guides/deploy/). You need to edit the site configuration in `astro.config.mjs` before deployment.
+### Prerequisites
 
-## 📝 Frontmatter of Posts
+- **Node.js** >= 20
+- **pnpm** >= 9
 
-```yaml
----
-title: My First Blog Post
-published: 2023-09-09
-description: This is the first post of my new Astro blog.
-image: ./cover.jpg
-tags: [Foo, Bar]
-category: Front-end
-draft: false
-lang: jp      # Set only if the post's language differs from the site's language in `config.ts`
----
-```
-
-## 🧩 Markdown Extended Syntax
-
-In addition to Astro's default support for [GitHub Flavored Markdown](https://github.github.com/gfm/), several extra Markdown features are included:
-
-- Admonitions ([Preview and Usage](https://fuwari.vercel.app/posts/markdown-extended/#admonitions))
-- GitHub repository cards ([Preview and Usage](https://fuwari.vercel.app/posts/markdown-extended/#github-repository-cards))
-- Enhanced code blocks with Expressive Code ([Preview](https://fuwari.vercel.app/posts/expressive-code/) / [Docs](https://expressive-code.com/))
-
-## ⚡ Commands
-
-All commands are run from the root of the project, from a terminal:
+### Commands
 
 | Command                    | Action                                              |
 |:---------------------------|:----------------------------------------------------|
-| `pnpm install`             | Installs dependencies                               |
-| `pnpm dev`                 | Starts local dev server at `localhost:4321`         |
-| `pnpm build`               | Build your production site to `./dist/`             |
-| `pnpm preview`             | Preview your build locally, before deploying        |
-| `pnpm check`               | Run checks for errors in your code                  |
-| `pnpm format`              | Format your code using Biome                        |
+| `pnpm install`             | Install dependencies                                |
+| `pnpm dev`                 | Start local dev server at `localhost:4321`         |
+| `pnpm build`               | Build production site to `./dist/`                 |
+| `pnpm preview`             | Preview build locally                               |
+| `pnpm check`               | Run checks for errors                               |
+| `pnpm format`              | Format code using Biome                             |
 | `pnpm new-post <filename>` | Create a new post                                   |
-| `pnpm astro ...`           | Run CLI commands like `astro add`, `astro check`    |
-| `pnpm astro --help`        | Get help using the Astro CLI                        |
+
+### Content Structure
+
+```
+src/content/posts/[slug]/
+├── index.md       # Post content with frontmatter
+└── heroImage.jpg  # Featured image (optional)
+```
+
+### Frontmatter Format
+
+```yaml
+---
+title: "Your Post Title"
+published: 2024-01-15
+description: "Brief description for SEO and previews"
+image: ./heroImage.jpg
+tags: ["Productivity", "Business"]
+category: "Guides"
+draft: false
+---
+```
 
 ## 🚚 Migration from Docusaurus
 
@@ -122,16 +108,25 @@ This repository represents a complete migration from Docusaurus to Fuwari, featu
 - **Tags optimized**: 112 → 82 clean, consistent tags
 - **Average URL reduction**: 60-70% shorter slugs
 
-## ✏️ Contributing
+## 🎨 Using the Fuwari Template
 
-Check out the [Contributing Guide](https://github.com/saicaca/fuwari/blob/main/CONTRIBUTING.md) for details on how to contribute to this project.
+If you like this blog design, you can use the original Fuwari template for your own project:
+
+**[Fork Fuwari Template](https://github.com/saicaca/fuwari)** - The original Astro blog theme
+
+Fuwari offers:
+- Clean, minimal design
+- Multiple color themes
+- Markdown extended features  
+- Easy customization
+- Active community support
 
 ## 👥 Credits
 
 **Migration Co-Editor**: [Claude (Anthropic)](https://claude.ai/code) - Assisted with the comprehensive migration from Docusaurus to Fuwari, including content processing, URL optimization, redirects configuration, and automation scripts.
 
+**Original Template**: [Fuwari](https://github.com/saicaca/fuwari) by [saicaca](https://github.com/saicaca)
+
 ## 📄 License
 
-This project is licensed under the MIT License.
-
-[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fsaicaca%2Ffuwari.svg?type=large&issueType=license)](https://app.fossa.com/projects/git%2Bgithub.com%2Fsaicaca%2Ffuwari?ref=badge_large&issueType=license)
+This project is licensed under the MIT License - see the original [Fuwari license](https://github.com/saicaca/fuwari/blob/main/LICENSE) for details.
