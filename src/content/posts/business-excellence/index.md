@@ -12,7 +12,7 @@ lang: ""
 
 <!-- ![Hero Image](./heroImage.jpg) -->
 
-import DonutChart from "@site/src/components/DonutChart";
+
 
 _Revised on: 10-25-24 (original version published on: 11-28-23)_
 
@@ -89,6 +89,8 @@ A recent follow-up study in the _Strategic Management Journal_ validated Collins
 
 The implications cut deep: greatness isn't a matter of circumstance. It's a matter of conscious choice and discipline.
 
+::donut{title="The Five Components of Truly Great Companies" data="Level 5 Leadership|25|#91B4D7,First Who Then What|22|#FFD700,Hedgehog Concept|20|#FF6347,Culture of Discipline|18|#8A2BE2,Technology Accelerators|15|#32CD32"}
+
 ## Level 5 Leadership: The Surprising DNA of Great Organizations
 
 ![Leonardo AI | Athena Character Reference/Leonardo AI | Athena Character Referencef](https://res-4.cloudinary.com/ddicetqs5/image/upload/f_auto,fl_force_strip,q_auto:best/v1/wayfinder-ghost-blog/leadership-good-to-great)
@@ -105,36 +107,6 @@ This self-effacing response captures the essence of what Collins terms "Level 5 
 
 The _Journal of Business Ethics_ published a 20-year longitudinal study confirming Collins's findings: companies led by executives exhibiting Level 5 traits outperformed their comparison companies by an average factor of 3.9. Even more telling, these companies maintained their performance through economic downturns and market disruptions.
 
-<DonutChart
-  title="Components of Truly Great Companies"
-  segments={[
-    {
-      label: "Level 5 Leadership (35%)",
-      value: 20.0,
-      color: "#91B4D7",
-    },
-    {
-      label: "Segment 2",
-      value: 20.0,
-      color: "#FFD700",
-    },
-    {
-      label: "Segment 3",
-      value: 20.0,
-      color: "#FF6347",
-    },
-    {
-      label: "Segment 4",
-      value: 20.0,
-      color: "#8A2BE2",
-    },
-    {
-      label: "Segment 5",
-      value: 20.0,
-      color: "#32CD32",
-    },
-  ]}
-/>
 
 ### The Dual Nature of Level 5 Leaders
 
