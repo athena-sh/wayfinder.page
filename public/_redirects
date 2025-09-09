@@ -508,3 +508,4 @@
 /home-gym-heroes-fitness-fortress-budget/ /posts/home-gym/ 301!
 /overcome-procrastination-5-proven-strategies-success /posts/beat-procrastination 301!
 /overcome-procrastination-5-proven-strategies-success/ /posts/beat-procrastination/ 301!
+/blog/* /posts/:splat 301!
