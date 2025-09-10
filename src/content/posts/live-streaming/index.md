@@ -10,7 +10,6 @@ lang: ""
 
 <!-- ![Hero Image](./heroImage.jpg) -->
 
-import DonutChart from "@site/src/components/DonutChart";
 
 Hey there, future streaming superstar! 👋 Ready to dive into the world of live streaming? Buckle up, because we're about to embark on a wild ride through the basics of engaging your audience in real-time. And trust me, I'm no streaming guru – just someone who's fumbled their way through enough awkward silences and technical hiccups to learn a thing or two.
 
@@ -34,36 +33,7 @@ This quote from the legendary Isaac Asimov applies perfectly to live streaming. 
 
 Now, here's where the magic happens. Engaging your audience is what transforms your stream from a monologue into a party. Let's break it down:
 
-<DonutChart
-  title="Chart Title"
-  segments={[
-    {
-      label: "Content Quality (30%)",
-      value: 20.0,
-      color: "#a4c2f4",
-    },
-    {
-      label: "Audience Interaction (25%)",
-      value: 20.0,
-      color: "#ffe599",
-    },
-    {
-      label: "Technical Setup (20%)",
-      value: 20.0,
-      color: "#f4b183",
-    },
-    {
-      label: "Consistency (15%)",
-      value: 20.0,
-      color: "#b6d7a8",
-    },
-    {
-      label: "Personality (10%)",
-      value: 20.0,
-      color: "#b4a7d6",
-    },
-  ]}
-/>
+::donut{title="Live Streaming Success Factors" data="Content Quality|30|#a4c2f4,Audience Interaction|25|#ffe599,Technical Setup|20|#f4b183,Consistency|15|#b6d7a8,Personality|10|#b4a7d6"}
 
 ### 1. Be Yourself (But Maybe a Slightly More Caffeinated Version)
 

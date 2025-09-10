@@ -10,43 +10,13 @@ lang: ""
 
 <!-- ![Hero Image](./heroImage.jpg) -->
 
-import DonutChart from "@site/src/components/DonutChart";
 
 Look, I'm not some YouTube sensation with millions of subscribers. I'm just a regular person who decided to dive headfirst into the wild world of content creation. But I've learned a thing or two along the way, and I thought, "Why not share this stuff?"
 
 
 So here we go, my utterly non-expert guide to starting a YouTube channel that doesn't completely suck.
 
-<DonutChart
-  title="Key Factors for YouTube Success"
-  segments={[
-    {
-      label: "Content Quality",
-      value: 20.0,
-      color: "#91B4D7",
-    },
-    {
-      label: "Consistency",
-      value: 20.0,
-      color: "#FFD700",
-    },
-    {
-      label: "SEO",
-      value: 20.0,
-      color: "#FF6347",
-    },
-    {
-      label: "Engagement",
-      value: 20.0,
-      color: "#32CD32",
-    },
-    {
-      label: "Collaborations",
-      value: 20.0,
-      color: "#8A2BE2",
-    },
-  ]}
-/>
+::donut{title="Key Factors for YouTube Success" data="Content Quality|20|#91B4D7,Consistency|20|#FFD700,SEO|20|#FF6347,Engagement|20|#32CD32,Collaborations|20|#8A2BE2"}
 
 ## 1. Find Your Niche (Or: What the Hell Am I Even Doing?)
 

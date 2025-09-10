@@ -40,6 +40,16 @@ Wayfinder is your digital compass for navigating life's challenges. We provide:
 - **Node.js** >= 20
 - **pnpm** >= 9
 
+### Recent Fixes
+
+**Donut Chart Components** - Fixed donut charts that were breaking in dark/light mode switching. All posts have been updated from old React component syntax (`<DonutChart>`) to new working markdown syntax (`::donut{}`). The fix includes:
+- Proper CSS variable usage for theme-adaptive colors
+- Removal of JavaScript color manipulation that was overriding theme colors  
+- Better hover states and interactions
+- Charts now start from top (-π/2) for improved visual appearance
+
+See the business-excellence post for a working example of the fixed donut chart syntax.
+
 ### Commands
 
 | Command                    | Action                                              |

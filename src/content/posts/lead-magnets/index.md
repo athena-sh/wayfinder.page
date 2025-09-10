@@ -10,7 +10,6 @@ lang: ""
 
 <!-- ![Hero Image](./heroImage.jpg) -->
 
-import DonutChart from "@site/src/components/DonutChart";
 
 Look, I'm not going to pretend I'm some email marketing guru. I'm just a regular person who stumbled into this whole lead magnet thing and somehow didn't screw it up completely. But hey, if I can figure it out, anyone can, right?
 
@@ -23,36 +22,7 @@ Before we go any further, let's get one thing straight: a lead magnet isn't some
 
 But here's the kicker: it's gotta be something people actually want. You can't just offer a PDF of your cat's favorite recipes and expect the emails to come rolling in (unless you've got some seriously gourmet felines).
 
-<DonutChart
-  title="Key Components of Effective Lead Magnets"
-  segments={[
-    {
-      label: "Audience Relevance",
-      value: 20.0,
-      color: "#91B4D7",
-    },
-    {
-      label: "Problem-Solving",
-      value: 20.0,
-      color: "#FFD700",
-    },
-    {
-      label: "Quick Consumption",
-      value: 20.0,
-      color: "#FF6347",
-    },
-    {
-      label: "Visual Appeal",
-      value: 20.0,
-      color: "#32CD32",
-    },
-    {
-      label: "Easy Access",
-      value: 20.0,
-      color: "#8A2BE2",
-    },
-  ]}
-/>
+::donut{title="Key Components of Effective Lead Magnets" data="Audience Relevance|20|#91B4D7,Problem-Solving|20|#FFD700,Quick Consumption|20|#FF6347,Visual Appeal|20|#32CD32,Easy Access|20|#8A2BE2"}
 
 ## 1. Know Your Audience (Or at Least Pretend To)
 

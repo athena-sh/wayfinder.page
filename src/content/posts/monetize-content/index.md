@@ -10,7 +10,6 @@ lang: ""
 
 <!-- ![Hero Image](./heroImage.jpg) -->
 
-import DonutChart from "@site/src/components/DonutChart";
 
 Hey there, fellow content creator! If you're reading this, chances are you're knee-deep in the content game, churning out videos, posts, or podcasts like there's no tomorrow. But let's be real — passion doesn't pay the bills (trust me, I've tried). So, let's dive into the world of content monetization, shall we?
 
@@ -83,36 +82,7 @@ But then I made a commitment. Rain or shine, inspired or not, I was going to pos
 
 Now, let's talk numbers [1]. Because let's face it, we're all here to make some moolah, right? But before you start planning your early retirement, let's break down what you can really expect:
 
-<DonutChart
-  title="Chart Title"
-  segments={[
-    {
-      label: "YouTube ($500-$1000)",
-      value: 20.0,
-      color: "#91B4D7",
-    },
-    {
-      label: "Instagram ($200-$500)",
-      value: 20.0,
-      color: "#FFD700",
-    },
-    {
-      label: "TikTok ($100-$300)",
-      value: 20.0,
-      color: "#FF6347",
-    },
-    {
-      label: "Twitch ($50-$200)",
-      value: 20.0,
-      color: "#32CD32",
-    },
-    {
-      label: "Podcasting ($20-$100)",
-      value: 20.0,
-      color: "#8A2BE2",
-    },
-  ]}
-/>
+::donut{title="Average Monthly Earnings by Platform" data="YouTube (\$500-\$1000)|20|#91B4D7,Instagram (\$200-\$500)|20|#FFD700,TikTok (\$100-\$300)|20|#FF6347,Twitch (\$50-\$200)|20|#32CD32,Podcasting (\$20-\$100)|20|#8A2BE2"}
 
 Now, before you get too excited (or too depressed), keep this in mind: these are averages. Your mileage may vary. A lot. Like, "I made $5 this month" to "Holy cow, I can buy a yacht!" kind of vary.
 

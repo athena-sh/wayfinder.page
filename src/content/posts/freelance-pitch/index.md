@@ -10,7 +10,6 @@ lang: ""
 
 <!-- ![Hero Image](./heroImage.jpg) -->
 
-import DonutChart from "@site/src/components/DonutChart";
 
 Hey there, fellow freelance hustlers! If you're reading this, chances are you're either:
 
@@ -27,41 +26,7 @@ Let's face it, pitching is about as fun as a root canal for most of us. But unle
 
 So, how do we turn this necessary evil into our secret weapon? Well, grab your metaphorical machete, and let's hack our way through this jungle of opportunity!
 
-<DonutChart
-  title="Key Components of a Successful Freelance Pitch"
-  segments={[
-    {
-      label: "Successful",
-      value: 16.67,
-      color: "#4CAF50",
-    },
-    {
-      label: "Freelance",
-      value: 16.67,
-      color: "#2196F3",
-    },
-    {
-      label: "Pitch",
-      value: 16.67,
-      color: "#FFC107",
-    },
-    {
-      label: "Segment 4",
-      value: 16.67,
-      color: "#FF5722",
-    },
-    {
-      label: "Segment 5",
-      value: 16.67,
-      color: "#9C27B0",
-    },
-    {
-      label: "Segment 6",
-      value: 16.67,
-      color: "#607D8B",
-    },
-  ]}
-/>
+::donut{title="Key Components of a Successful Freelance Pitch" data="Research|25|#4CAF50,Personalization|20|#2196F3,Value Proposition|20|#FFC107,Portfolio Samples|15|#FF5722,Clear Pricing|10|#9C27B0,Follow-up|10|#607D8B"}
 
 ### 1. Know Your Audience (Or at Least Pretend To)
 

@@ -10,7 +10,6 @@ lang: ""
 
 <!-- ![Hero Image](./heroImage.jpg) -->
 
-import DonutChart from "@site/src/components/DonutChart";
 
 Hey there, fellow social media strugglers! It's your friendly neighborhood content creator here, fresh from a weekend of binge-watching cat videos and doom-scrolling through my feed. But hey, it's Labor Day, and what better time to talk about putting in some work on our social media game, right?
 
@@ -47,31 +46,7 @@ Pro tip: Leave some room for spontaneity. You know, for those moments when you h
 
 ## 3. Mix It Up (Because Variety is the Spice of Social Media Life)
 
-<DonutChart
-  title="Recommended Social Media Content Mix"
-  segments={[
-    {
-      label: "Educational (20%)",
-      value: 25.0,
-      color: "#91B4D7",
-    },
-    {
-      label: "Entertaining (30%)",
-      value: 25.0,
-      color: "#FFD700",
-    },
-    {
-      label: "Engaging (30%)",
-      value: 25.0,
-      color: "#FF6347",
-    },
-    {
-      label: "Promotional (20%)",
-      value: 25.0,
-      color: "#32CD32",
-    },
-  ]}
-/>
+::donut{title="Recommended Social Media Content Mix" data="Educational|20|#91B4D7,Entertaining|30|#FFD700,Engaging|30|#FF6347,Promotional|20|#32CD32"}
 
 Listen, if your feed looks like a never-ending infomercial for your brand, don't be surprised when your followers start ghosting you faster than a bad Tinder date. Mix things up!
 

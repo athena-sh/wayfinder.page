@@ -12,7 +12,6 @@ lang: ""
 
 <!-- ![Hero Image](./heroImage.jpg) -->
 
-import DonutChart from "@site/src/components/DonutChart";
 
 Hey there, fellow content creators! 👋
 
@@ -39,36 +38,7 @@ Sound familiar? Yeah, I've been there too. That's where a content calendar comes
 
 ## The Step-by-Step Guide to Creating Your Content Calendar
 
-<DonutChart
-  title="Key Components of a Successful Content Calendar"
-  segments={[
-    {
-      label: "Strategic Planning (30%)",
-      value: 20.0,
-      color: "#91B4D7",
-    },
-    {
-      label: "Consistency (25%)",
-      value: 20.0,
-      color: "#FFD700",
-    },
-    {
-      label: "Flexibility (20%)",
-      value: 20.0,
-      color: "#FF6347",
-    },
-    {
-      label: "Audience Alignment (15%)",
-      value: 20.0,
-      color: "#32CD32",
-    },
-    {
-      label: "Content Variety (10%)",
-      value: 20.0,
-      color: "#8A2BE2",
-    },
-  ]}
-/>
+::donut{title="Key Components of a Successful Content Calendar" data="Strategic Planning|30|#91B4D7,Consistency|25|#FFD700,Flexibility|20|#FF6347,Audience Alignment|15|#32CD32,Content Variety|10|#8A2BE2"}
 
 Alright, let's roll up our sleeves and get down to business. Here's how you can create a content calendar that'll make your digital strategy sing:
 

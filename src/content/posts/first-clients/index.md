@@ -10,7 +10,6 @@ lang: ""
 
 <!-- ![Hero Image](./heroImage.jpg) -->
 
-import DonutChart from "@site/src/components/DonutChart";
 
 Hey there, aspiring freelance graphic designer! Are you staring at your empty portfolio, wondering how on earth you're going to fill it with paying clients? Trust me, I've been there. It's like standing at the edge of a creative cliff, unsure if your parachute (aka your skills) will actually open. But guess what? We're going to jump together.
 
@@ -23,31 +22,7 @@ But here's the thing: every successful freelancer started exactly where you are 
 
 So, how do you go from zero to booked? Let's dive in.
 
-<DonutChart
-  title="Strategies for Landing"
-  segments={[
-    {
-      label: "Network",
-      value: 25.0,
-      color: "none",
-    },
-    {
-      label: "Segment 2",
-      value: 25.0,
-      color: "None",
-    },
-    {
-      label: "Segment 3",
-      value: 25.0,
-      color: "none",
-    },
-    {
-      label: "Segment 4",
-      value: 25.0,
-      color: "None",
-    },
-  ]}
-/>
+::donut{title="Strategies for Landing Your First Clients" data="Network|25|#91B4D7,Portfolio|25|#FFD700,Cold Outreach|25|#FF6347,Referrals|25|#32CD32"}
 
 ## 1. Polish Your Portfolio (Even If It's All Personal Projects)
 

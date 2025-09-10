@@ -14,7 +14,6 @@ published: 2024-09-07
 <!-- ![Hero Image](./heroImage.jpg) -->
 #image: "./heroImage.jpg"
 
-import DonutChart from "@site/src/components/DonutChart";
 
 Hey there, fellow visual content novice! Are you tired of staring at a blank canvas, feeling like you're trying to paint a masterpiece with crayons? Trust me, I've been there. As someone who once thought "kerning" was a type of German sausage, I feel your pain. But fear not! I've stumbled my way through the design wilderness and emerged with some tricks up my sleeve. So, grab your metaphorical paintbrush (or, let's be real, your mouse), and let's dive into the world of visual content creation!
 
@@ -23,41 +22,7 @@ Hey there, fellow visual content novice! Are you tired of staring at a blank can
 
 Before we jump in, let's address the elephant in the room: imposter syndrome. You know, that nagging voice that whispers, "You're not a real designer!" Well, guess what? Neither was Pablo Picasso when he first picked up a paintbrush. As the legendary artist himself once said, "I am always doing that which I cannot do, in order that I may learn how to do it." So, let's channel our inner Picasso and embrace the learning process!
 
-<DonutChart
-  title="Key Elements of Visual Content Creation"
-  segments={[
-    {
-      label: "Segment 1",
-      value: 16.67,
-      color: "#FF6B6B",
-    },
-    {
-      label: "Segment 2",
-      value: 16.67,
-      color: "#4ECDC4",
-    },
-    {
-      label: "Segment 3",
-      value: 16.67,
-      color: "#45B7D1",
-    },
-    {
-      label: "Segment 4",
-      value: 16.67,
-      color: "#F9D56E",
-    },
-    {
-      label: "Segment 5",
-      value: 16.67,
-      color: "#FF8C42",
-    },
-    {
-      label: "Segment 6",
-      value: 16.67,
-      color: "#98D8C8",
-    },
-  ]}
-/>
+::donut{title="Key Elements of Visual Content Creation" data="Segment 1|16.67|#FF6B6B,Segment 2|16.67|#4ECDC4,Segment 3|16.67|#45B7D1,Segment 4|16.67|#F9D56E,Segment 5|16.67|#FF8C42,Segment 6|16.67|#98D8C8"}
 
 ## 1. Keep It Simple, Smarty-Pants
 

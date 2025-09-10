@@ -10,48 +10,13 @@ lang: ""
 
 <!-- ![Hero Image](./heroImage.jpg) -->
 
-import DonutChart from "@site/src/components/DonutChart";
 
 Hey there, fellow freelance warriors! Let's chat about the elephant in the room – time management. You know, that thing we're all supposed to be experts at, but secretly struggle with while binge-watching Netflix instead of meeting deadlines. Don't worry, I'm right there with you.
 
 
 As someone who's been freelancing for years, I've picked up a few tricks along the way. Are they foolproof? Heck no. But they've helped me go from "constant panic mode" to "occasional moments of productivity." So, grab your favorite procrastination snack, and let's dive into some time management tips that might just save your freelance behind.
 
-<DonutChart
-  title="Key Components of a Successful Freelance Pitch"
-  segments={[
-    {
-      label: "Successful",
-      value: 16.67,
-      color: "#4CAF50",
-    },
-    {
-      label: "Freelance",
-      value: 16.67,
-      color: "#2196F3",
-    },
-    {
-      label: "Pitch",
-      value: 16.67,
-      color: "#FFC107",
-    },
-    {
-      label: "Research (20%)",
-      value: 16.67,
-      color: "#FF5722",
-    },
-    {
-      label: "Customization (20%)",
-      value: 16.67,
-      color: "#9C27B0",
-    },
-    {
-      label: "Unique Value (15%)",
-      value: 16.67,
-      color: "#607D8B",
-    },
-  ]}
-/>
+::donut{title="Time Management Challenges for Freelancers" data="Procrastination|25|#FF6347,Distractions|20|#FFD700,Poor Planning|20|#91B4D7,Client Interruptions|20|#32CD32,Overcommitment|15|#8A2BE2"}
 
 ## 1. The "Eat That Frog" Technique (Or, How to Stop Avoiding That One Awful Task)
 
