@@ -10,7 +10,6 @@ lang: ""
 
 <!-- ![Hero Image](./heroImage.jpg) -->
 
-<!-- import DonutChart from "@site/src/components/DonutChart"; -->
 
 Hey there, fellow content creator! Let's chat about evergreen content, shall we? Now, I'm not some marketing wizard with a crystal ball that predicts viral hits. Nope, I'm just a regular person who's been through the content creation wringer and somehow came out the other side with a few nuggets of wisdom. So, buckle up for a journey through the world of evergreen content – mistakes, triumphs, and all.
 
@@ -29,7 +28,6 @@ Picture this: It's 2 AM, I'm knee-deep in my third cup of coffee, frantically tr
 
 That's when I had my evergreen epiphany. What if, instead of chasing fleeting trends, I focused on creating content that would be just as valuable a year or even five years from now? It was a game-changer, folks.
 
-<!-- DonutChart component removed - Evergreen Content Strategy Components -->
 
 ## Strategy 1: Dive Deep into Timeless Topics
 

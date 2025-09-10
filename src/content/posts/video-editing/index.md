@@ -10,7 +10,6 @@ lang: ""
 
 <!-- ![Hero Image](./heroImage.jpg) -->
 
-<!-- import DonutChart from "@site/src/components/DonutChart"; -->
 
 Hey there, aspiring Spielberg! So, you've decided to dip your toes into the world of video editing. Maybe you're looking to spruce up your family Labor Day barbecue footage, or perhaps you're dreaming of becoming the next YouTube sensation.
 
@@ -30,12 +29,6 @@ With editing, you're serving up a gourmet burger that'll make your audience's mo
 
 To give you a clearer picture of what other beginners are using, I've compiled some data on the popularity of different video editing software among new users. Check out this breakdown:
 
-<!-- DonutChart component removed - Video Editing Software Usage Among Beginners:
-- iMovie (30%)
-- DaVinci Resolve (25%) 
-- OpenShot (20%)
-- Filmora (15%)
-- Others (10%) -->
 
 As you can see, iMovie is the most popular choice among beginners, likely due to its free availability on Mac devices and user-friendly interface.
 
