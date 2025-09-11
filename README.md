@@ -1,7 +1,9 @@
 # 🧭 Wayfinder
-![Website](https://img.shields.io/website?url=https%3A//wayfinder.page&style=flat-square) 
+
+![Website](https://img.shields.io/website?url=https%3A//wayfinder.page&style=flat-square)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/0960fa68-f10c-464c-a597-9d8dec7af987/deploy-status)](https://app.netlify.com/projects/wayfinderpage/deploys)
 ![License](https://img.shields.io/badge/license-MIT-blue?style=flat-square)
-![Node.js >= 20](https://img.shields.io/badge/node.js-%3E%3D20-brightgreen?style=flat-square) 
+![Node.js >= 20](https://img.shields.io/badge/node.js-%3E%3D20-brightgreen?style=flat-square)
 ![Built with Astro](https://img.shields.io/badge/Built%20with-Astro-orange?style=flat-square)
 
 **Charting Simple Routes to Success** - The source code for [Wayfinder.page](https://wayfinder.page), a personal growth and productivity blog built with the Fuwari theme.
@@ -17,7 +19,7 @@ Visit **[wayfinder.page](https://wayfinder.page)** to see this code in action!
 Wayfinder is your digital compass for navigating life's challenges. We provide:
 
 - 📈 **Personal Growth** - Strategies for self-improvement and mindfulness
-- 💼 **Career Development** - Freelancing, entrepreneurship, and professional skills  
+- 💼 **Career Development** - Freelancing, entrepreneurship, and professional skills
 - ⚡ **Productivity** - Time management, workflow optimization, and focus techniques
 - 🧘 **Wellness** - Health, fitness, nutrition, and mental well-being
 - 📊 **Business Insights** - Marketing, sales psychology, and digital strategies
@@ -43,8 +45,9 @@ Wayfinder is your digital compass for navigating life's challenges. We provide:
 ### Recent Fixes
 
 **Donut Chart Components** - Fixed donut charts that were breaking in dark/light mode switching. All posts have been updated from old React component syntax (`<DonutChart>`) to new working markdown syntax (`::donut{}`). The fix includes:
+
 - Proper CSS variable usage for theme-adaptive colors
-- Removal of JavaScript color manipulation that was overriding theme colors  
+- Removal of JavaScript color manipulation that was overriding theme colors
 - Better hover states and interactions
 - Charts now start from top (-π/2) for improved visual appearance
 
@@ -52,15 +55,15 @@ See the business-excellence post for a working example of the fixed donut chart 
 
 ### Commands
 
-| Command                    | Action                                              |
-|:---------------------------|:----------------------------------------------------|
-| `pnpm install`             | Install dependencies                                |
-| `pnpm dev`                 | Start local dev server at `localhost:4321`         |
-| `pnpm build`               | Build production site to `./dist/`                 |
-| `pnpm preview`             | Preview build locally                               |
-| `pnpm check`               | Run checks for errors                               |
-| `pnpm format`              | Format code using Biome                             |
-| `pnpm new-post <filename>` | Create a new post                                   |
+| Command                    | Action                                     |
+| :------------------------- | :----------------------------------------- |
+| `pnpm install`             | Install dependencies                       |
+| `pnpm dev`                 | Start local dev server at `localhost:4321` |
+| `pnpm build`               | Build production site to `./dist/`         |
+| `pnpm preview`             | Preview build locally                      |
+| `pnpm check`               | Run checks for errors                      |
+| `pnpm format`              | Format code using Biome                    |
+| `pnpm new-post <filename>` | Create a new post                          |
 
 ### Content Structure
 
@@ -89,6 +92,7 @@ draft: false
 This repository represents a complete migration from Docusaurus to Fuwari, featuring:
 
 ### ✨ **Migration Achievements**
+
 - **251 blog posts** successfully migrated from `.mdx` to `.md` format
 - **Ultra-concise URLs** with 60-70% size reduction for better SEO
 - **Comprehensive redirects** maintaining all SEO value during transition
@@ -98,21 +102,24 @@ This repository represents a complete migration from Docusaurus to Fuwari, featu
 - **Production-ready** with Netlify deployment configuration
 
 ### 🎯 **URL Optimization Examples**
+
 - `effective-client-communication-strategies-freelancers-2024` → `client-communication`
 - `7-mindfulness-techniques-productivity-focus` → `mindfulness-productivity`
 - `best-side-hustle-ideas-earn-500-3000-month-working-part-time` → `side-hustle-500-3000`
 - `overcome-procrastination-5-proven-strategies-success` → `beat-procrastination`
 
 ### 🔧 **Technical Implementation**
-- **Path structure**: `/blog/` → `/posts/` for Fuwari compatibility  
+
+- **Path structure**: `/blog/` → `/posts/` for Fuwari compatibility
 - **Redirects file**: 486 redirects ensuring seamless URL transitions
 - **Content processing**: Automated emoji spacing, truncate comment removal
 - **Schema validation**: All posts validated against Astro content collections
 - **Development workflow**: Custom scripts and automation for future maintenance
 
 ### 📊 **Migration Statistics**
+
 - **Total files processed**: 251 blog posts
-- **Redirects created**: 486 URL mappings  
+- **Redirects created**: 486 URL mappings
 - **Folders renamed**: 240+ for clean URL structure
 - **Schema errors resolved**: 120+ frontmatter formatting issues fixed
 - **Tags optimized**: 112 → 82 clean, consistent tags
@@ -125,9 +132,10 @@ If you like this blog design, you can use the original Fuwari template for your 
 **[Fork Fuwari Template](https://github.com/saicaca/fuwari)** - The original Astro blog theme
 
 Fuwari offers:
+
 - Clean, minimal design
 - Multiple color themes
-- Markdown extended features  
+- Markdown extended features
 - Easy customization
 - Active community support
 
