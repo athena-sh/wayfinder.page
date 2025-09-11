@@ -3,23 +3,18 @@ title: "From Idea to Launch: How to Use the Lean Startup Method to Innovate"
 description: "Master Lean Startup for business launch: key concepts from Ries' book — MVP, validated learning, build-measure-learn — plus FAQs."
 published: 2025-09-06
 draft: false
-tags:
-  - AI
-  - Monetization
-#image: "./heroImage.jpg"
+tags: [AI, Monetization]
+image: "rocket.svg"
+showImageInline: false
 category: "Business"
 lang: ""
 ---
 
-
-
 _Rapidly Test and Iterate Your Way to Product-Market Fit_
 
-
-
-> [!NOTE]
-> Originally published November 27, 2024
-
+:::note
+Originally published November 27, 2024
+:::
 
 ## Introduction
 
@@ -59,7 +54,7 @@ This builds actionable knowledge much faster than making elaborate untested plan
 
 ### Minimum Viable Product
 
-![Crafted using Athena's imaginative AI prompts on theDALLE3platform.](https://res-2.cloudinary.com/ddicetqs5/image/upload/f_auto,fl_force_strip,q_auto:best/v1/wayfinder-ghost-blog/1_BekjjZ5NZURprEOGjQtqqw)
+![DALLE3](https://res.cloudinary.com/ddicetqs5/image/upload/f_auto,fl_force_strip,q_auto:best/v1/wayfinder-images/product-fit-mvp_mcxgjp.png)
 
 🔖 The minimum viable product (MVP) is a central concept in the lean startup methodology.
 
@@ -83,7 +78,7 @@ Start small but smart, so you can conserve resources and gain invaluable validat
 
 ### Innovation Accounting
 
-Traditional accounting focuses on financials   —  profit, loss, revenue, expenses.
+Traditional accounting focuses on financials—profit, loss, revenue, expenses.
 
 This works for established businesses, but for startups early traction is more important than financials. Startups need a new kind of accounting focused on actionable metrics that indicate true progress.
 
@@ -123,7 +118,7 @@ The Build-Measure-Learn loop provides the core process to achieve validated lear
 
 ### Actionable Metrics
 
-![Crafted using Athena's imaginative AI prompts on theDALLE3platform.](https://res-4.cloudinary.com/ddicetqs5/image/upload/f_auto,fl_force_strip,q_auto:best/v1/wayfinder-ghost-blog/1_x79DtkR3i2EP9E15Y79B_g)
+![DALLE3](https://res-4.cloudinary.com/ddicetqs5/image/upload/f_auto,fl_force_strip,q_auto:best/v1/wayfinder-ghost-blog/1_x79DtkR3i2EP9E15Y79B_g)
 
 Metrics are an important part of the Lean Startup model. They should accurately measure your startup's progress towards business goals.
 
@@ -186,7 +181,7 @@ The Customer Development process involves four key steps:
 
 The goal of Customer Development is to gather actionable insights that can inform how to build and market your product. However, it requires actually talking to prospective users rather than hypothesizing.
 
-〽 ️ This reduces wasted time and money on features or products that customers don't want.
+〽 ️This reduces wasted time and money on features or products that customers don't want.
 
 ### Pivot or Persevere
 
@@ -316,8 +311,9 @@ Indeed, Lean Startup's ideas have been instrumental in the growth and scaling of
 
 ---
 
-> [!NOTE]
-> **Affiliate Disclosure:** As a participant in the Amazon Affiliate Program, I earn from qualifying purchases made through links provided in this content. This means if you click on a link and make a qualifying purchase, I may receive a commission at no additional cost to you. Thank you for supporting my work and allowing me to bring you valuable insights!
+:::note
+**Affiliate Disclosure:** As a participant in the Amazon Affiliate Program, I earn from qualifying purchases made through links provided in this content. This means if you click on a link and make a qualifying purchase, I may receive a commission at no additional cost to you. Thank you for supporting my work and allowing me to bring you valuable insights!
+:::
 
 [^1]: [Eric Ries - Wikipedia](https://en.wikipedia.org/wiki/Eric_Ries)
 [^2]: [Eric Ries's Lean Startup: Validated Learning - Medium](https://medium.com/@skhakshouri2018/eric-riess-lean-startup-validated-learning-a358f93344a2)

@@ -10,9 +10,6 @@ category: "Business"
 lang: ""
 ---
 
-
-
-
 _Revised on: 10-25-24 (original version published on: 11-28-23)_
 
 ### The Comfortable Trap
@@ -22,7 +19,6 @@ The taste of stale coffee lingered as I stared at our Q4 dashboard. 18% growth. 
 "Another record quarter," my CFO beamed, sliding the latest reports across my desk. "The board's thrilled."
 
 I nodded, but the knot in my stomach tightened. Six years ago, we were the scrappy underdog, hungry and determined to change our industry. Now? We were... comfortable. Good. Safe.
-
 
 ### The Wake-Up Call
 
@@ -105,7 +101,6 @@ Darwin Smith, who led Kimberly-Clark's remarkable transformation, epitomizes thi
 This self-effacing response captures the essence of what Collins terms "Level 5 Leadership" - a powerful combination of personal humility and professional will that defies conventional wisdom about successful leadership.
 
 The _Journal of Business Ethics_ published a 20-year longitudinal study confirming Collins's findings: companies led by executives exhibiting Level 5 traits outperformed their comparison companies by an average factor of 3.9. Even more telling, these companies maintained their performance through economic downturns and market disruptions.
-
 
 ### The Dual Nature of Level 5 Leaders
 
