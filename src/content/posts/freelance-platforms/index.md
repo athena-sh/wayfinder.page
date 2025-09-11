@@ -9,7 +9,6 @@ tags:
 published: 2024-09-26
 ---
 
-<!-- ![Hero Image](./heroImage.jpg) -->
 #image: "./heroImage.jpg"
 
 Freelancing has become a popular career choice for many professionals seeking flexibility and independence. But when it comes to finding work, freelancers often face a crucial decision: should they use freelance platforms or pursue direct clients?

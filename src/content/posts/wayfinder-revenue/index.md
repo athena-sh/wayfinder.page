@@ -8,7 +8,6 @@ category: "Business"
 lang: ""
 ---
 
-<!-- ![Hero Image](./heroImage.jpg) -->
 
 _Series: Medium Monetization Tips_
 

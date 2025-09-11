@@ -8,7 +8,6 @@ category: "Wellness"
 lang: ""
 ---
 
-<!-- ![Hero Image](./heroImage.jpg) -->
 
 Ever had a "gut feeling" about something?
 

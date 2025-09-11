@@ -10,7 +10,6 @@ tags:
 published: 2024-08-31
 ---
 
-<!-- ![Hero Image](./heroImage.jpg) -->
 #image: "./heroImage.jpg"
 
 Hey there, fellow keyboard warriors! So you want to write engaging blog posts, huh? Well, buckle up because I'm about to take you on a wild ride through the treacherous terrain of content creation.

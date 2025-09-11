@@ -11,8 +11,6 @@ tags:
 #image: "./heroImage.jpg"
 ---
 
-<!-- ![Hero Image](./heroImage.jpg) -->
-
 ## Welcome Back!
 
 This is a continuation of our AI exploration series. For those who read the previous article, **thank you**, and as promised, here's the AI-generated story that demonstrates ChatGPT's creative writing capabilities.
@@ -20,7 +18,6 @@ This is a continuation of our AI exploration series. For those who read the prev
 ## The Creative Process
 
 Let's see how ChatGPT handles creative writing when given free rein. Here's what happened when I asked it to write a fantasy story about Pandora's box.
-
 
 ### The Writing Prompt
 

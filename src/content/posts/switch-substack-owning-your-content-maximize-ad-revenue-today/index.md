@@ -11,7 +11,6 @@ published: 2024-02-23
 #image: "./heroImage.jpg"
 ---
 
-<!-- ![Hero Image](./heroImage.jpg) -->
 
 ### Why Should You Care?
 

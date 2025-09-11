@@ -9,7 +9,6 @@ tags:
 published: 2024-08-22
 ---
 
-<!-- ![Hero Image](./heroImage.jpg) -->
 #image: "./heroImage.jpg"
 
 Ever catch yourself staring at your water bottle, wondering if you're drinking enough? Or maybe you're that person who's always running to the bathroom, cursing your well-meaning friend who convinced you to chug gallons a day.

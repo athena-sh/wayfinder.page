@@ -8,7 +8,6 @@ category: "Wellness"
 lang: ""
 ---
 
-<!-- ![Hero Image](./heroImage.jpg) -->
 
 Look, I'm not some personal growth guru. I'm just a regular person trying to figure out life, much like you. But I've stumbled upon some strategies that have actually worked for me, and I thought, "Why not share this stuff?" So here we go, my utterly non-expert guide to personal growth.
 

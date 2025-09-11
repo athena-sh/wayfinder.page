@@ -8,7 +8,6 @@ category: "Business"
 lang: ""
 ---
 
-<!-- ![Hero Image](./heroImage.jpg) -->
 
 Are you looking to harness the power of Pinterest for your business? You're in the right place!
 

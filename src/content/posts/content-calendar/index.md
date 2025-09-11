@@ -10,7 +10,6 @@ category: "Business"
 lang: ""
 ---
 
-<!-- ![Hero Image](./heroImage.jpg) -->
 
 
 Hey there, fellow content creators! 👋

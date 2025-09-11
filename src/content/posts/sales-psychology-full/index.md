@@ -8,7 +8,6 @@ category: "Business"
 lang: ""
 ---
 
-<!-- ![Hero Image](./heroImage.jpg) -->
 
 _How to Harness 5 Powerful Impulses for Effective Sales Strategies._
 

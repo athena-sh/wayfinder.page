@@ -8,7 +8,6 @@ category: "Business"
 lang: ""
 ---
 
-<!-- ![Hero Image](./heroImage.jpg) -->
 
 Let's talk about the entrepreneurial growth mindset. It's not just some fancy business jargon – it's a game-changer for anyone looking to level up their business game.
 

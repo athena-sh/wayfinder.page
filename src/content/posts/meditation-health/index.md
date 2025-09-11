@@ -10,7 +10,6 @@ category: "Wellness"
 lang: ""
 ---
 
-<!-- ![Hero Image](./heroImage.jpg) -->
 
 We all know that meditation is good for reducing stress and improving mental well-being. But did you know that it can also have a profound impact on your cardiovascular health?
 

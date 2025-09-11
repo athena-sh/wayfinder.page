@@ -11,7 +11,6 @@ category: "Wellness"
 lang: ""
 ---
 
-<!-- ![Hero Image](./heroImage.jpg) -->
 
 ## Introduction
 

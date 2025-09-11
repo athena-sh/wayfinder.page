@@ -8,7 +8,6 @@ category: "Technology"
 lang: ""
 ---
 
-<!-- ![Hero Image](./heroImage.jpg) -->
 
 
 Hey there, fellow social media strugglers! It's your friendly neighborhood content creator here, fresh from a weekend of binge-watching cat videos and doom-scrolling through my feed. But hey, it's Labor Day, and what better time to talk about putting in some work on our social media game, right?

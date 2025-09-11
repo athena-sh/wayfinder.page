@@ -8,7 +8,6 @@ category: "Business"
 lang: ""
 ---
 
-<!-- ![Hero Image](./heroImage.jpg) -->
 
 Are you ready to take your freelance hustle to the next level? You're not alone. Many freelancers dream of growing their business, but aren't sure where to start. Don't worry - I've got your back. Let's walk through seven steps that'll help you scale up and stand out in the crowded freelance market.
 

@@ -8,7 +8,6 @@ category: "Technology"
 lang: ""
 ---
 
-<!-- ![Hero Image](./heroImage.jpg) -->
 
 _Is this just the beginning?_
 

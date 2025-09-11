@@ -8,7 +8,6 @@ category: "Wellness"
 lang: ""
 ---
 
-<!-- ![Hero Image](./heroImage.jpg) -->
 
 You've probably heard the terms "mindfulness" and "meditation" thrown around like they're interchangeable. But hold up, are they really the same thing? 🤔 As someone who's dabbled in both (and by "dabbled," I mean "tried it once and got distracted by a squirrel"), I'm here to break it down for you.
 

@@ -12,7 +12,6 @@ category: "Wellness"
 lang: ""
 ---
 
-<!-- ![Hero Image](https://res.cloudinary.com/ddicetqs5/image/upload/f_auto/v1746902464/wayfinder-images/ery0ynketfcclgecev7u) -->
 
 White I'm no expert on emotions —_half the time, I can't even figure out if I'm hungry or just bored_— but I've stumbled upon this thing called emotional intelligence, and apparently, it's kind of a big deal. So, being the totally-not-put-together person I am, I decided to dive into some emotional intelligence courses. Buckle up, folks – this is gonna be a bumpy ride through the land of feelings.
 

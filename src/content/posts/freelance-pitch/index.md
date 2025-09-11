@@ -8,7 +8,6 @@ category: "Business"
 lang: ""
 ---
 
-<!-- ![Hero Image](./heroImage.jpg) -->
 
 
 Hey there, fellow freelance hustlers! If you're reading this, chances are you're either:

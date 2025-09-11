@@ -9,7 +9,6 @@ tags:
 published: 2024-08-07
 ---
 
-<!-- ![Hero Image](./heroImage.jpg) -->
 
 Looking for some fresh mindfulness content to breathe new life into your practice?
 

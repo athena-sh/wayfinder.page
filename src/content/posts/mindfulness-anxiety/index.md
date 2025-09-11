@@ -11,7 +11,6 @@ category: "Wellness"
 lang: ""
 ---
 
-<!-- ![Hero Image](./heroImage.jpg) -->
 
 You know that feeling when your mind is racing, your heart is pounding, and you can't seem to catch your breath?
 

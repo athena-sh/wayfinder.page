@@ -10,7 +10,6 @@ tags:
 #image: "./heroImage.jpg"
 ---
 
-<!-- ![Hero Image](./heroImage.jpg) -->
 
 Look, I'm no EQ guru. I'm just a regular person trying to figure out how to not be a total disaster in social situations. But I've stumbled upon some books that have actually helped me understand this whole "emotional intelligence" thing. So here we go, my utterly non-expert guide to the best emotional intelligence books that might just save you from your next awkward encounter.
 

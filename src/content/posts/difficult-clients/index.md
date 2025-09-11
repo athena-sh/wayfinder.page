@@ -8,7 +8,6 @@ category: "Business"
 lang: ""
 ---
 
-<!-- ![Hero Image](./heroImage.jpg) -->
 
 Freelancing can be a rollercoaster ride. One minute you're on top of the world, the next you're dealing with a client who's making your life miserable. Sound familiar? Don't worry, you're not alone.
 

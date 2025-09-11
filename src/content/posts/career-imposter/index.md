@@ -8,7 +8,6 @@ lang: ""
 #image: "./heroImage.jpg"
 ---
 
-<!-- ![Hero Image](./heroImage.jpg) -->
 
 ## Introduction
 

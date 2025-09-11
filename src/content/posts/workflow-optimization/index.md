@@ -8,7 +8,6 @@ category: "Productivity"
 lang: ""
 ---
 
-<!-- ![Hero Image](./heroImage.jpg) -->
 
 _I Tripled My Productivity in Just 30 Days Compared to My Previous 3 Months in 2024._
 

@@ -8,7 +8,6 @@ category: "Wellness"
 lang: ""
 ---
 
-<!-- ![Hero Image](./heroImage.jpg) -->
 
 Hey there, fellow stress-ball. If you're reading this, chances are you're looking for ways to manage that ever-present companion we call stress. Well, buckle up, because we're about to embark on a journey through the wild world of stress management techniques.
 

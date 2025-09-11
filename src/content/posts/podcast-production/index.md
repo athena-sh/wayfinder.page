@@ -8,7 +8,6 @@ category: "Technology"
 lang: ""
 ---
 
-<!-- ![Hero Image](./heroImage.jpg) -->
 
 Hey there, aspiring podcasters! So you want to start a podcast, huh? Well, buckle up, because we're about to dive into the wild world of podcast production.
 

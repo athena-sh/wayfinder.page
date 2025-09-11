@@ -8,7 +8,6 @@ category: "Wellness"
 lang: ""
 ---
 
-<!-- ![Hero Image](./heroImage.jpg) -->
 
 See, I'm not here to sell you some magic leadership potion or pretend I've got it all figured out. I'm just a regular clown shoe who's been thrown into leadership roles and somehow managed not to burn everything to the ground.
 

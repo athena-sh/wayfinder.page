@@ -9,7 +9,6 @@ category: "Wellness"
 lang: ""
 ---
 
-<!-- ![Hero Image](./heroImage.jpg) -->
 
 Look, I get it. You're stressed out, overworked, and your boss is breathing down your neck. The last thing on your mind is mindfulness. But here's the thing – incorporating mindfulness into your workday can actually make you more productive, less stressed, and maybe even a little happier.
 

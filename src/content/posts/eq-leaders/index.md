@@ -8,7 +8,6 @@ category: "Wellness"
 lang: ""
 ---
 
-<!-- ![Hero Image](./heroImage.jpg) -->
 
 Let's face it – we've all had bosses who seemed to have the emotional range of a teaspoon. But then there are those rare gems, the leaders who make you think, "Wow, this person actually gets it." Spoiler alert: They're probably rocking some serious emotional intelligence (EI).
 

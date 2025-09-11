@@ -8,7 +8,6 @@ category: "Guides"
 lang: ""
 ---
 
-<!-- ![Hero Image](./heroImage.jpg) -->
 
 #### Have you ever felt like your voice is lost among the millions, merely whispering into the void of the internet?
 

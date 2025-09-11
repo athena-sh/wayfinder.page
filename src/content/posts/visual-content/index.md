@@ -11,7 +11,6 @@ tags:
 published: 2024-09-07
 ---
 
-<!-- ![Hero Image](./heroImage.jpg) -->
 #image: "./heroImage.jpg"
 
 

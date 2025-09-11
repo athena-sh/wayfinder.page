@@ -8,7 +8,6 @@ category: "Wellness"
 lang: ""
 ---
 
-<!-- ![Hero Image](./heroImage.jpg) -->
 
 So … I'm no emotions expert. I'm just a regular person trying to figure out why I cry during dog food commercials. But I've stumbled upon this thing called "emotional intelligence" (EI), and let me tell you, it's a game-changer. So, buckle up, buttercup – we're about to dive into the world of feelings, and I promise it's not as scary as it sounds.
 

@@ -9,7 +9,6 @@ tags:
 published: 2024-08-25
 ---
 
-<!-- ![Hero Image](./heroImage.jpg) -->
 #image: "./heroImage.jpg"
 
 Ever stood in front of your fridge, staring blankly at its contents, and wondered, "What the heck should I eat?" If you're nodding your head (or your stomach is growling in agreement), you're not alone.

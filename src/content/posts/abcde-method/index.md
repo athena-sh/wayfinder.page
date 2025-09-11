@@ -8,14 +8,11 @@ category: "Productivity"
 lang: ""
 ---
 
-<!-- ![Hero Image](./heroImage.jpg) -->
-
 ## Introduction
 
 Ever feel like you're drowning in a sea of to-dos? Join the club. We've all been there, staring at our mile-long task list, wondering where the heck to start. But what if I told you there's a way to turn that chaos into a well-oiled productivity machine? Enter the ABCDE method - your new secret weapon for task prioritization.
 
 This isn't just another fancy acronym to impress your coworkers. It's a practical, no-nonsense approach to getting stuff done. And the best part? It's so simple, you'll wonder why you didn't think of it yourself.
-
 
 So, ready to transform your workday from a frantic juggling act to a prioritized parade of productivity? Let's dive in and discover how the ABCDE method can help you crush your to-do list like a boss.
 

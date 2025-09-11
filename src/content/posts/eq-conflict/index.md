@@ -8,7 +8,6 @@ category: "Wellness"
 lang: ""
 ---
 
-<!-- ![Hero Image](./heroImage.jpg) -->
 
 Look, we've all been there. You're in the middle of a heated argument, your blood's boiling, and suddenly you find yourself saying something like, "Well, at least I don't look like a potato in a wig!" Congratulations, you've just spectacularly failed at using emotional intelligence in conflict resolution. But don't worry, you're in good company.
 

@@ -11,7 +11,6 @@ category: "Wellness"
 lang: ""
 ---
 
-<!-- ![Hero Image](./heroImage.jpg) -->
 
 Hey there, fellow emotional mess! If you're reading this, chances are you're either:
 

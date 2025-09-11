@@ -8,7 +8,6 @@ category: "Technology"
 lang: ""
 ---
 
-<!-- ![Hero Image](./heroImage.jpg) -->
 
 
 Hey there, future streaming superstar! 👋 Ready to dive into the world of live streaming? Buckle up, because we're about to embark on a wild ride through the basics of engaging your audience in real-time. And trust me, I'm no streaming guru – just someone who's fumbled their way through enough awkward silences and technical hiccups to learn a thing or two.

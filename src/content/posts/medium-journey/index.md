@@ -11,7 +11,6 @@ tags:
 published: 2024-02-04
 ---
 
-<!-- ![Hero Image](./heroImage.jpg) -->
 #image: "./heroImage.jpg"
 
 _Series: Medium Monetization Tips_

@@ -8,7 +8,6 @@ category: "Wellness"
 lang: ""
 ---
 
-<!-- ![Hero Image](./heroImage.jpg) -->
 
 Listen up, emotionally challenged friends! If you've ever ugly-cried during a cat food commercial or sent a passive-aggressive text to your ex at 2 AM, congratulations – you're human. But fear not!
 

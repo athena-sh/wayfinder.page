@@ -10,7 +10,6 @@ category: "Business"
 lang: ""
 ---
 
-<!-- ![Hero Image](./heroImage.jpg) -->
 
 Are you ready to make your mark in the digital world? Building a personal brand online has become essential in today's interconnected landscape.
 

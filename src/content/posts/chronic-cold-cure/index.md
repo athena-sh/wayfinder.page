@@ -10,7 +10,6 @@ category: "Wellness"
 lang: ""
 ---
 
-<!-- ![Hero Image](./heroImage.jpg) -->
 
 ### This One Thing Turned My Chronic Cold Around the Same Day!
 

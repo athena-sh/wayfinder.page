@@ -8,7 +8,6 @@ category: "Wellness"
 lang: ""
 ---
 
-<!-- ![Hero Image](./heroImage.jpg) -->
 
 Look, I'm not some nutrition guru with a perfect six-pack and a kale smoothie addiction. I'm just a regular person trying to figure out how to fuel my body without losing my mind (or my love for pizza).
 

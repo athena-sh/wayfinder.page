@@ -8,7 +8,6 @@ category: "Wellness"
 lang: ""
 ---
 
-<!-- ![Hero Image](./heroImage.jpg) -->
 
 Hey there, fellow traveler on the path to inner peace! If you're anything like me, you've probably heard the buzz about mindfulness and thought, "Sounds great, but how do I actually do it?"
 

@@ -9,7 +9,6 @@ category: "Wellness"
 lang: ""
 ---
 
-<!-- ![Hero Image](./heroImage.jpg) -->
 
 Picture this: You're sitting in front of the TV, a bag of chips in your lap. Before you know it, you've reached the bottom of the bag, and you're left wondering, "Did I even taste any of that?" If this scenario sounds all too familiar, you might benefit from a little thing called mindful eating.
 

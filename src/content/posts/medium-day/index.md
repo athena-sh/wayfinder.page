@@ -9,7 +9,6 @@ tags:
 published: 2024-08-16
 ---
 
-<!-- ![Hero Image](./heroImage.jpg) -->
 #image: "./heroImage.jpg"
 
 Hey there, internet enthusiasts and knowledge seekers! Guess what? It's Medium Day, and boy, do we have a treat for you! Today, August 17, 2024, from 9am ET to 6pm ET, we're gathering for a virtual extravaganza that's all about making the internet a better place. And the best part? You're invited!

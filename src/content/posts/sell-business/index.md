@@ -9,7 +9,6 @@ draft: false
 lang: ""
 ---
 
-<!-- ![Hero Image](./heroImage.jpg) -->
 
 ## Background Intro
 

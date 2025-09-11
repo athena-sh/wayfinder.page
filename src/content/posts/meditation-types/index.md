@@ -9,7 +9,6 @@ tags: ["Meditation"]
 #image: "./heroImage.jpg"
 ---
 
-<!-- ![Hero Image](./heroImage.jpg) -->
 
 Look, I get it. The idea of sitting still and trying to "clear your mind" sounds about as appealing as watching paint dry.
 

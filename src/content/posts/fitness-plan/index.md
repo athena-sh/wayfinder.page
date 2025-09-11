@@ -11,7 +11,6 @@ tags:
 #image: "./heroImage.jpg"
 ---
 
-<!-- ![Hero Image](./heroImage.jpg) -->
 
 ## Introduction
 

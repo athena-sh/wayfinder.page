@@ -10,7 +10,6 @@ lang: ""
 
 ## Introduction
 
-<!-- ![Hero Image](https://res.cloudinary.com/ddicetqs5/image/upload/f_auto/v1746420238/wayfinder-images/monetize-niche-online-community-heroImage_dz1hcd) -->
 
 ### The importance of niche communities
 

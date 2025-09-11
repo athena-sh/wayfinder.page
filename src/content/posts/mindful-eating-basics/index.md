@@ -9,7 +9,6 @@ tags: ["Meditation", "Wellness"]
 #image: "./heroImage.jpg"
 ---
 
-<!-- ![Hero Image](./heroImage.jpg) -->
 
 Ever found yourself mindlessly shoveling food into your face while binge-watching your favorite show? Or maybe you've demolished an entire bag of chips without even realizing it?
 

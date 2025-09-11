@@ -11,7 +11,6 @@ tags:
 published: 2024-01-11
 ---
 
-<!-- ![Hero Image](./heroImage.jpg) -->
 #image: "./heroImage.jpg"
 
 ## **A Community Effort**

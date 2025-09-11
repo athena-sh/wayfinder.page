@@ -8,7 +8,6 @@ category: "Wellness"
 lang: ""
 ---
 
-<!-- ![Hero Image](./heroImage.jpg) -->
 
 Let's get one thing straight: I'm not some zen master or stress management guru. Nope, I'm just a regular person trying to keep my head above water in this chaotic world, much like you. But here's the thing - I've stumbled upon some emotional intelligence techniques that have actually helped me deal with stress, and I thought,
 

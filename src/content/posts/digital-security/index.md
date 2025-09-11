@@ -8,7 +8,6 @@ category: "Technology"
 lang: ""
 ---
 
-<!-- ![Hero Image](./heroImage.jpg) -->
 
 #### A story driven approach to learn how to secure AWS S3 buckets
 

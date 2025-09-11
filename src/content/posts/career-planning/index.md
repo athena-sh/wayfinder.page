@@ -8,7 +8,6 @@ category: "Productivity"
 lang: ""
 ---
 
-<!-- ![Hero Image](./heroImage.jpg) -->
 
 
 ## Introduction

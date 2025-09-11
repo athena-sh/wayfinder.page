@@ -8,7 +8,6 @@ category: "Productivity"
 lang: ""
 ---
 
-<!-- ![Hero Image](./heroImage.jpg) -->
 
 Alright, let's get one thing straight: I'm no expert on emotional intelligence. Heck, half the time I can barely figure out if I'm hungry or just bored. But I've stumbled upon some interesting self-assessment tools that claim to measure emotional intelligence, and I thought, "Why not share my awkward journey of self-discovery?"
 

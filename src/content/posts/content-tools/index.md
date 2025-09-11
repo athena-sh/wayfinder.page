@@ -10,7 +10,6 @@ tags:
 #image: "./heroImage.jpg"
 ---
 
-<!-- ![Hero Image](./heroImage.jpg) -->
 
 Seeking to enhance your blog writing skills and engage your audience in unprecedented ways? Your search ends here! Dive into our top rated blog content creation tools that will improve the way you craft compelling articles.
 

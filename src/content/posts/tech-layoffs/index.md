@@ -9,7 +9,6 @@ category: "News"
 lang: ""
 ---
 
-<!-- ![Hero Image](./heroImage.jpg) -->
 
 Do you have any friends in tech who are laid off? This is the longest periods of unemployment in my life, by far. Check out an example of what we are going through:
 

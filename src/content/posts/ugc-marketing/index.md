@@ -11,7 +11,6 @@ category: "Business"
 lang: ""
 ---
 
-<!-- ![Hero Image](./heroImage.jpg) -->
 
 Hey there, fellow content creators and marketing enthusiasts! Today, we're diving into the world of user-generated content (UGC). Now, I'm not claiming to be some UGC wizard or anything, but I've stumbled upon some pretty cool strategies that have actually worked for my brand. So, grab a cup of coffee (or tea, or heck, even a glass of wine – I won't judge), and let's chat about how to turn your audience into your secret marketing weapon.
 

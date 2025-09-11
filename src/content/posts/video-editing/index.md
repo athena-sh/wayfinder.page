@@ -8,7 +8,6 @@ lang: ""
 #image: "./heroImage.jpg"
 ---
 
-<!-- ![Hero Image](./heroImage.jpg) -->
 
 
 Hey there, aspiring Spielberg! So, you've decided to dip your toes into the world of video editing. Maybe you're looking to spruce up your family Labor Day barbecue footage, or perhaps you're dreaming of becoming the next YouTube sensation.

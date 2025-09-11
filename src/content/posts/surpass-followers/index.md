@@ -9,7 +9,6 @@ category: "News"
 lang: ""
 ---
 
-<!-- ![Hero Image](./heroImage.jpg) -->
 
 ## **My Previous Milestone**
 

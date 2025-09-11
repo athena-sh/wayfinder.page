@@ -8,7 +8,6 @@ category: "Business"
 lang: ""
 ---
 
-<!-- ![Hero Image](./heroImage.jpg) -->
 
 Managing cash flow is the lifeblood of any online business, yet it's a skill many entrepreneurs struggle to master.
 

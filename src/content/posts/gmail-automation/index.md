@@ -10,7 +10,6 @@ category: "Guides"
 lang: ""
 ---
 
-<!-- ![Hero Image](./heroImage.jpg) -->
 
 _Do you ever find your Gmail inbox cluttered with emails that are only relevant for a short period?_
 

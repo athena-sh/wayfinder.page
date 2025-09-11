@@ -11,7 +11,6 @@ tags:
 #image: "./heroImage.jpg"
 ---
 
-<!-- ![Hero Image](./heroImage.jpg) -->
 
 Affiliate marketing passive income is the holy grail for many online entrepreneurs. It's the idea of earning money while you sleep, and who doesn't want that?
 

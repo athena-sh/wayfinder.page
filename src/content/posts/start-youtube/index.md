@@ -8,7 +8,6 @@ category: "Technology"
 lang: ""
 ---
 
-<!-- ![Hero Image](./heroImage.jpg) -->
 
 
 Look, I'm not some YouTube sensation with millions of subscribers. I'm just a regular person who decided to dive headfirst into the wild world of content creation. But I've learned a thing or two along the way, and I thought, "Why not share this stuff?"

@@ -10,7 +10,6 @@ category: "Guides"
 lang: ""
 ---
 
-<!-- ![Hero Image](./heroImage.jpg) -->
 
 _Ever wonder how our brains think?_
 

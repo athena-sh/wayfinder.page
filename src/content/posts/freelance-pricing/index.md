@@ -8,7 +8,6 @@ category: "Business"
 lang: ""
 ---
 
-<!-- ![Hero Image](./heroImage.jpg) -->
 
 Hey there, fellow freelance warrior! If you're reading this, chances are you've found yourself staring at your computer screen, cursor blinking accusingly as you try to figure out what to charge for your services. Trust me, I've been there – sweating bullets, second-guessing every decision, and wondering if I should just give up and get a "real" job.
 

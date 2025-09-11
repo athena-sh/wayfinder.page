@@ -8,7 +8,6 @@ category: "Productivity"
 lang: ""
 ---
 
-<!-- ![Hero Image](./heroImage.jpg) -->
 
 You know that feeling when you're sitting at your desk, trying to get work done, but your mind is running around like a squirrel on Red Bull? 🐿 ️💨 Yeah, we've all been there. It's like your brain is determined to think about anything _except_ the task at hand.
 

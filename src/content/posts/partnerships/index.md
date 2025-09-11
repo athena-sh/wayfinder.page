@@ -8,7 +8,6 @@ category: "Business"
 lang: ""
 ---
 
-<!-- ![Hero Image](./heroImage.jpg) -->
 
 I used to think my company could do it all. Then I learned what every successful business owner eventually figures out: the right partnerships can change everything.
 

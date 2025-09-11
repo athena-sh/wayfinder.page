@@ -9,7 +9,6 @@ category: "Business"
 lang: ""
 ---
 
-<!-- ![Hero Image](./heroImage.jpg) -->
 
 Running a small online business can feel like juggling flaming torches while riding a unicycle.
 

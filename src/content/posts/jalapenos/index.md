@@ -8,7 +8,6 @@ category: "Guides"
 lang: ""
 ---
 
-<!-- ![Hero Image](./heroImage.jpg) -->
 
 ## Your Gateway to Health Improvement
 

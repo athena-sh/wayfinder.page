@@ -9,7 +9,6 @@ category: "Business"
 lang: ""
 ---
 
-<!-- ![Hero Image](https://res.cloudinary.com/ddicetqs5/image/upload/f_auto/t_wm2px_outline/v1747525786/wayfinder-images/built-to-serve-heroImage_lr9dub) -->
 
 🙋 Have you ever noticed how working 10X eventually results in diminishing returns?
 

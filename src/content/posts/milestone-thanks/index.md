@@ -8,7 +8,6 @@ category: "Guides"
 lang: ""
 ---
 
-<!-- ![Hero Image](./heroImage.jpg) -->
 
 _Pay it forward & help others._
 

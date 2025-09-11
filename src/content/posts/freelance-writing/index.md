@@ -8,7 +8,6 @@ lang: ""
 #image: "./heroImage.jpg"
 ---
 
-<!-- ![Hero Image](./heroImage.jpg) -->
 
 Hey there, aspiring word-slinger! So you're thinking about diving into the world of freelance writing? Well, buckle up, because you're in for a wild ride of late-night typing sessions, caffeine-fueled creativity, and the occasional existential crisis. But don't worry, I've been there, done that, and lived to tell the tale.
 

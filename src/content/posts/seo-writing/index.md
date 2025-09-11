@@ -8,7 +8,6 @@ category: "Technology"
 lang: ""
 ---
 
-<!-- ![Hero Image](./heroImage.jpg) -->
 
 Hey there, fellow word-wranglers and SEO adventurers! Ready to embark on a journey through the wild world of search engine optimization? Buckle up, because we're about to dive into the art of crafting content that not only ranks but also doesn't make you want to gouge your eyes out with a rusty spoon.
 

@@ -8,7 +8,6 @@ category: "Wellness"
 lang: ""
 ---
 
-<!-- ![Hero Image](./heroImage.jpg) -->
 
 You've probably heard the buzz about meditation. It's touted as a cure-all for everything from stress to sleeplessness, and it seems like everyone from your coworker to your favorite celebrity is doing it.
 

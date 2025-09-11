@@ -8,7 +8,6 @@ category: "Wellness"
 lang: ""
 ---
 
-<!-- ![Hero Image](./heroImage.jpg) -->
 
 Hey there, fellow workplace wanderer! Let's talk about something that's supposedly crucial for career success but sounds like it belongs in a self-help book gathering dust on your nightstand: emotional intelligence at work.
 

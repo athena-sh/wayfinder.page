@@ -9,7 +9,6 @@ category: "Productivity"
 lang: ""
 ---
 
-<!-- ![Hero Image](https://res.cloudinary.com/ddicetqs5/image/upload/f_auto/t_wm2px_outline/v1747444812/wayfinder-images/2-minute-rule-productivity-hack-heroImage_k1sart) -->
 
 ## Introduction
 

@@ -9,7 +9,6 @@ category: "Wellness"
 lang: ""
 ---
 
-<!-- ![Hero Image](./heroImage.jpg) -->
 
 Look, I'm no genius. I'm just a regular person trying to figure out why some people seem to have it all together while others... well, let's just say they're still working on it. And lately, I've been wondering about this whole emotional intelligence vs IQ thing. Which one's really the secret sauce for success? Buckle up, folks, because we're about to dive into this messy, confusing world of human intelligence.
 

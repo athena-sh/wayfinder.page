@@ -11,7 +11,6 @@ category: "Business"
 lang: ""
 ---
 
-<!-- ![Hero Image](./heroImage.jpg) -->
 
 Are you ready to skyrocket your digital product sales? You're in the right place. Building a sales funnel for digital products isn't rocket science, but it does require strategy and know-how. In this guide, we'll walk you through the process step-by-step. No fluff, no jargon – just actionable advice you can implement today. Let's dive in and start building your high-converting sales funnel.
 

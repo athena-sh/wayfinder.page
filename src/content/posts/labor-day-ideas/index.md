@@ -8,7 +8,6 @@ category: "Business"
 lang: ""
 ---
 
-<!-- ![Hero Image](./heroImage.jpg) -->
 
 Hey there, social media wizards and content conjurers! 👋 Feeling stuck in a content rut? Is your engagement flatlining faster than my motivation on a Monday morning? Well, grab your favorite caffeinated beverage and buckle up, because we're about to embark on a wild ride through the land of scroll-stopping, like-inducing content ideas!
 

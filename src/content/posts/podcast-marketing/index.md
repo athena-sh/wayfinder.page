@@ -8,7 +8,6 @@ category: "Business"
 lang: ""
 ---
 
-<!-- ![Hero Image](./heroImage.jpg) -->
 
 Are you ready to turn your passion for podcasting into a profitable venture? You're in the right place!
 

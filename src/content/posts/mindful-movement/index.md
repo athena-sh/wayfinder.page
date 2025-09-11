@@ -8,7 +8,6 @@ category: "Wellness"
 lang: ""
 ---
 
-<!-- ![Hero Image](./heroImage.jpg) -->
 
 You know that feeling when your mind is racing, your body is tense, and you just can't seem to find a moment of peace?
 

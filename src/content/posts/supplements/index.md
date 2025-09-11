@@ -8,7 +8,6 @@ category: "Wellness"
 lang: ""
 ---
 
-<!-- ![Hero Image](./heroImage.jpg) -->
 
 Ever stood in the supplement aisle, staring at rows of bottles, feeling like you're decoding hieroglyphics? Yeah, me too. It's like being a kid in a candy store, except instead of sugar highs, we're chasing... what exactly? "Optimal health"? "Improved well-being"? Let's be real – most of us are just trying not to feel like we're falling apart.
 

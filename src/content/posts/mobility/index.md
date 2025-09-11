@@ -8,7 +8,6 @@ category: "Guides"
 lang: ""
 ---
 
-<!-- ![Hero Image](./heroImage.jpg) -->
 
 The authors, a physical therapist, and a CrossFit gym owner argue that humans were designed for constant movement, not prolonged sitting or limited ranges of motion.
 

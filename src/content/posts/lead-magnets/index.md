@@ -8,7 +8,6 @@ category: "Guides"
 lang: ""
 ---
 
-<!-- ![Hero Image](./heroImage.jpg) -->
 
 
 Look, I'm not going to pretend I'm some email marketing guru. I'm just a regular person who stumbled into this whole lead magnet thing and somehow didn't screw it up completely. But hey, if I can figure it out, anyone can, right?

@@ -8,7 +8,6 @@ lang: ""
 #image: "./heroImage.jpg"
 ---
 
-<!-- ![Hero Image](./heroImage.jpg) -->
 
 Hang on, folks! We're about to embark on a wild ride through the annals of meditation history.
 

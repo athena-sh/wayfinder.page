@@ -8,7 +8,6 @@ category: "Guides"
 lang: ""
 ---
 
-<!-- ![Hero Image](./heroImage.jpg) -->
 
 Hey there, fellow content creators! Ever feel like your words are just floating around in the vast digital ocean, barely making a ripple? Yeah, me too. But here's the thing: I've stumbled upon a secret weapon that's been hiding in plain sight since... well, since humans first gathered around campfires. It's storytelling, my friends!
 

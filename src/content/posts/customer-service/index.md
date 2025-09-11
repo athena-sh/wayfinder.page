@@ -8,7 +8,6 @@ category: "Technology"
 lang: ""
 ---
 
-<!-- ![Hero Image](./heroImage.jpg) -->
 
 In today's digital-first world, exceptional customer service is no longer optional — it's essential. As businesses increasingly move online, mastering digital customer service has become a critical factor in success. But what exactly does digital customer service excellence look like?
 

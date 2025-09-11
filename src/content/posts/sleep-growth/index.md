@@ -8,7 +8,6 @@ category: "Business"
 lang: ""
 ---
 
-<!-- ![Hero Image](./heroImage.jpg) -->
 
 Hey there, fellow sleep enthusiasts and personal growth warriors! I'm me, and your friendly neighborhood insomniac turned primarily functional adult.
 

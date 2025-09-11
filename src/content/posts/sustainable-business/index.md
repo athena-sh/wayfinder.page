@@ -8,7 +8,6 @@ category: "Business"
 lang: ""
 ---
 
-<!-- ![Hero Image](./heroImage.jpg) -->
 
 In today's digital age, running an online business comes with both opportunities and responsibilities. As entrepreneurs, we have the power to make a positive impact on the environment while growing our ventures.
 

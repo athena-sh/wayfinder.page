@@ -11,7 +11,6 @@ tags:
 #image: "./heroImage.jpg"
 ---
 
-<!-- ![Hero Image](./heroImage.jpg) -->
 
 _Expert insights on managing new COVID symptoms. Discover effective treatments, natural remedies, and lifestyle tips for swift recovery._
 

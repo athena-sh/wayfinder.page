@@ -10,7 +10,6 @@ tags:
 published: 2024-07-27
 ---
 
-<!-- ![Hero Image](./heroImage.jpg) -->
 #image: "./heroImage.jpg"
 
 _Combat imposter syndrome by identifying triggers, embracing support, and setting realistic goals for lasting confidence._

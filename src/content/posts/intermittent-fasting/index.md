@@ -8,7 +8,6 @@ category: "Wellness"
 lang: ""
 ---
 
-<!-- ![Hero Image](./heroImage.jpg) -->
 
 Ever catch yourself staring at the fridge at midnight, wondering if that leftover pizza is calling your name (because it totally IS)?
 

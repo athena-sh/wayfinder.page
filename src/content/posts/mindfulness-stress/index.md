@@ -8,7 +8,6 @@ category: "Wellness"
 lang: ""
 ---
 
-<!-- ![Hero Image](./heroImage.jpg) -->
 
 Okay, let's get real for a second. Life can be stressful AF. Between work, relationships, and the constant barrage of notifications on our phones, it's no wonder we're all walking around like zombies half the time.
 

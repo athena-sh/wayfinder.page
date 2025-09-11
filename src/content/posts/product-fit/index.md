@@ -11,7 +11,7 @@ category: "Business"
 lang: ""
 ---
 
-<!-- ![Hero Image](./heroImage.jpg) -->
+
 
 _Rapidly Test and Iterate Your Way to Product-Market Fit_
 

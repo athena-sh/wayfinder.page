@@ -8,7 +8,6 @@ category: "Business"
 lang: ""
 ---
 
-<!-- ![Hero Image](./heroImage.jpg) -->
 
 In today's digital landscape, pricing your products and services can feel like navigating a minefield. It's a delicate balance between making a profit and keeping your customers happy.
 

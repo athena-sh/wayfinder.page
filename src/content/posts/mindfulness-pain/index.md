@@ -8,7 +8,6 @@ category: "Wellness"
 lang: ""
 ---
 
-<!-- ![Hero Image](./heroImage.jpg) -->
 
 _Pain sucks_. There's no way around it. Whether it's chronic pain from a condition like fibromyalgia or acute pain from an injury, it can make life feel unbearable at times.
 

@@ -11,7 +11,6 @@ category: "Business"
 lang: ""
 ---
 
-<!-- ![Hero Image](./heroImage.jpg) -->
 
 Ever dreamed of sipping cocktails on a sun-soaked beach while your bank account grows? Well, grab your sunscreen and let's dive into the world of travel blog monetization!
 

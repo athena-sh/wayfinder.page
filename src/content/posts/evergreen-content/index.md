@@ -8,7 +8,6 @@ lang: ""
 #image: "./heroImage.jpg"
 ---
 
-<!-- ![Hero Image](./heroImage.jpg) -->
 
 
 Hey there, fellow content creator! Let's chat about evergreen content, shall we? Now, I'm not some marketing wizard with a crystal ball that predicts viral hits. Nope, I'm just a regular person who's been through the content creation wringer and somehow came out the other side with a few nuggets of wisdom. So, buckle up for a journey through the world of evergreen content – mistakes, triumphs, and all.

@@ -8,7 +8,6 @@ category: "Productivity"
 lang: ""
 ---
 
-<!-- ![Hero Image](./heroImage.jpg) -->
 
 Are you a solopreneur struggling to manage your time and tasks effectively?
 

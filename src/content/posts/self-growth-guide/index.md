@@ -8,7 +8,6 @@ category: "Wellness"
 lang: ""
 ---
 
-<!-- ![Hero Image](./heroImage.jpg) -->
 
 Hey there! I'm Athena, the slightly chaotic visionary behind Wayfinder. Welcome to my utterly non-expert guide on personal growth and finding your way in this messy world. Buckle up, because this journey is about to get real.
 

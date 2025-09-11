@@ -10,7 +10,6 @@ tags:
 published: 2024-08-08
 ---
 
-<!-- ![Hero Image](./heroImage.jpg) -->
 #image: "./heroImage.jpg"
 
 Ever feel like your mind is a tangled mess of thoughts, emotions, and self-doubt? 🙋‍♀️ Same. Enter: **Mindfulness**-**Based** **Cognitive** **Therapy** (MBCT). It's like therapy and meditation had a baby, and that baby is here to help you sort out your mental clutter.

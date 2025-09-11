@@ -8,7 +8,6 @@ category: "Wellness"
 lang: ""
 ---
 
-<!-- ![Hero Image](./heroImage.jpg) -->
 
 Well, I'm not some self-improvement wizard. I'm just a regular person trying to figure out how to adult without completely losing it. But when I heard about Yale's popular emotional intelligence course, I thought, "Hey, why not? Maybe I'll learn how to stop ugly-crying during car commercials."
 

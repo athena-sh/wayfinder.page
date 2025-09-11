@@ -9,7 +9,6 @@ tags: ["Wellness", "Meditation"]
 #image: "./heroImage.jpg"
 ---
 
-<!-- ![Hero Image](./heroImage.jpg) -->
 
 Ever feel like your body's as flexible as a steel beam? Or like your stress levels are through the roof? Yeah, me too. That's why I decided to give yoga a shot. Spoiler alert: I'm no guru, but I've picked up a few things that might help you too.
 

@@ -8,7 +8,6 @@ category: "Business"
 lang: ""
 ---
 
-<!-- ![Hero Image](./heroImage.jpg) -->
 
 
 Hey there, aspiring freelance graphic designer! Are you staring at your empty portfolio, wondering how on earth you're going to fill it with paying clients? Trust me, I've been there. It's like standing at the edge of a creative cliff, unsure if your parachute (aka your skills) will actually open. But guess what? We're going to jump together.

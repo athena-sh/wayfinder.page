@@ -10,7 +10,6 @@ category: "Wellness"
 lang: ""
 ---
 
-<!-- ![Hero Image](./heroImage.jpg) -->
 
 Look, I'm no emotional intelligence guru. I'm just a regular person trying to navigate the minefield of human emotions without blowing myself up too often. But I've stumbled upon some exercises that have actually helped me become slightly less of an emotional disaster, and I thought, "Why not share this stuff?" So here we go, my utterly non-expert guide to boosting your emotional intelligence.
 

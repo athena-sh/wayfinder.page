@@ -8,7 +8,6 @@ category: "Wellness"
 lang: ""
 ---
 
-<!-- ![Hero Image](./heroImage.jpg) -->
 
 Look, I'm not some fitness guru or wellness expert. I'm just a regular person who stumbled into the world of outdoor exercise and thought, "Hey, this isn't half bad." So buckle up, because I'm about to spill the beans on why working out in nature might just be the game-changer you never knew you needed.
 

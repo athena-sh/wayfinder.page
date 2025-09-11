@@ -9,7 +9,6 @@ category: "Guides"
 lang: ""
 ---
 
-<!-- ![Hero Image](https://res.cloudinary.com/ddicetqs5/image/upload/f_auto/v1740955449/wayfinder-ghost-blog/201-iphone-to-pixel-transition-guide-1-196417) -->
 
 ## Introduction
 

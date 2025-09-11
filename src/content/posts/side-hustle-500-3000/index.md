@@ -10,7 +10,6 @@ tags:
 #image: "./heroImage.jpg"
 ---
 
-<!-- ![Hero Image](./heroImage.jpg) -->
 
 Consider potential ideas that align with your passions, skills, and interests. A side hustle can open new possibilities for more significant income and fulfillment.
 

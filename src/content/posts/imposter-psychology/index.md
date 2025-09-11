@@ -8,7 +8,6 @@ category: "Guides"
 lang: ""
 ---
 
-<!-- ![Hero Image](./heroImage.jpg) -->
 
 I previously wrote a well-received article about Imposter Syndrome. I thought of expanding this topic into a series, so this article focuses on its psychology.
 

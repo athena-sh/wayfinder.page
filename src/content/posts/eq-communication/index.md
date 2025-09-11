@@ -11,7 +11,6 @@ tags:
 published: 2024-07-31
 ---
 
-<!-- ![Hero Image](./heroImage.jpg) -->
 #image: "./heroImage.jpg"
 
 You know that feeling when you're trying to express yourself and your brain decides to take an impromptu vacation?

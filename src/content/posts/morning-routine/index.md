@@ -9,7 +9,6 @@ tags: ["Wellness", "Productivity"]
 #image: "./heroImage.jpg"
 ---
 
-<!-- ![Hero Image](./heroImage.jpg) -->
 
 ## Introduction
 

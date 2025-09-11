@@ -8,7 +8,6 @@ category: "Wellness"
 lang: ""
 ---
 
-<!-- ![Hero Image](./heroImage.jpg) -->
 
 Look, I get it. Parenting is hard. It's like trying to navigate a maze blindfolded while carrying a screaming, wiggling sack of potatoes.
 

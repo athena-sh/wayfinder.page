@@ -8,7 +8,6 @@ category: "Wellness"
 lang: ""
 ---
 
-<!-- ![Hero Image](./heroImage.jpg) -->
 
 Look, I'm not some child psychology expert or a perfect parent. I'm just a regular mom trying to figure out this whole parenting thing, much like you. But I've stumbled upon some strategies that have actually worked in developing emotional intelligence in my kids, and I thought, "Why not share this stuff?" So here we go, my utterly non-expert guide to raising emotionally intelligent children (or at least trying to).
 

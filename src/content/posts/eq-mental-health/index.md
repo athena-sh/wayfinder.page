@@ -8,7 +8,6 @@ category: "Wellness"
 lang: ""
 ---
 
-<!-- ![Hero Image](./heroImage.jpg) -->
 
 Picture this: You're having one of those days where everything seems to be going wrong. Your boss is breathing down your neck, your partner is giving you the silent treatment, and you're pretty sure your houseplant just died out of spite. You're stressed, overwhelmed, and one small nudge away from a full-blown meltdown.
 

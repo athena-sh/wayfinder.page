@@ -8,7 +8,6 @@ category: "Business"
 lang: ""
 ---
 
-<!-- ![Hero Image](./heroImage.jpg) -->
 
 Are you a freelancer struggling to find clients? You're not alone. In today's digital world, social media is a goldmine for freelancers. But how do you tap into it? Let's face it: marketing yourself can feel awkward. Like trying to dance at a wedding when you've got two left feet. But don't worry - I've got your back. I've been there, done that, and made all the mistakes so you don't have to. Ready to turn those social media platforms into your personal marketing playground? Buckle up, fellow freelancer. We're about to dive into 7 strategies that'll help you market your services like a pro. No fancy jargon, no fluff - just practical tips you can start using today.
 

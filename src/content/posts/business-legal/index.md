@@ -9,7 +9,6 @@ tags:
 published: 2024-10-18
 ---
 
-<!-- ![Hero Image](./heroImage.jpg) -->
 #image: "./heroImage.jpg"
 
 Starting an online business is exciting, but it comes with legal responsibilities. Many entrepreneurs overlook crucial legal aspects, putting their ventures at risk.

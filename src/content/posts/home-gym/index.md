@@ -8,7 +8,6 @@ category: "Wellness"
 lang: ""
 ---
 
-<!-- ![Hero Image](./heroImage.jpg) -->
 
 Look, I get it. You're scrolling through Instagram, seeing all these fancy home gyms with equipment that costs more than your monthly rent, and you're thinking, "Yeah, that's never gonna happen."
 

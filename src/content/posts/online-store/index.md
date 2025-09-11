@@ -9,7 +9,6 @@ lang: ""
 tags: ["Monetization", "Branding"]
 ---
 
-<!-- ![Hero Image](./heroImage.jpg) -->
 
 _(Without Losing Your Mind)_
 

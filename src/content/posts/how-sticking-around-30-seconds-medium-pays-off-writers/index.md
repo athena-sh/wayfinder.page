@@ -12,7 +12,6 @@ category: "Guides"
 lang: ""
 ---
 
-<!-- ![Hero Image](./heroImage.jpg) -->
 
 _Series: Wayfinder's Medium Monetization Tips_
 

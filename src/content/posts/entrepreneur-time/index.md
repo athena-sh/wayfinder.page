@@ -8,7 +8,6 @@ category: "Business"
 lang: ""
 ---
 
-<!-- ![Hero Image](./heroImage.jpg) -->
 
 Are you an online entrepreneur struggling to juggle multiple tasks and deadlines?
 

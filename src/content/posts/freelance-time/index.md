@@ -8,7 +8,6 @@ category: "Business"
 lang: ""
 ---
 
-<!-- ![Hero Image](./heroImage.jpg) -->
 
 
 Hey there, fellow freelance warriors! Let's chat about the elephant in the room – time management. You know, that thing we're all supposed to be experts at, but secretly struggle with while binge-watching Netflix instead of meeting deadlines. Don't worry, I'm right there with you.

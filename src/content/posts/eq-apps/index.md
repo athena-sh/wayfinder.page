@@ -9,7 +9,6 @@ tags: ["Wellness", "AI"]
 #image: "./heroImage.jpg"
 ---
 
-<!-- ![Hero Image](./heroImage.jpg) -->
 
 I'm no emotions expert. Most days, I'm just trying to figure out why I'm suddenly crying over a dog food commercial or raging at my printer for having the audacity to run out of ink.
 

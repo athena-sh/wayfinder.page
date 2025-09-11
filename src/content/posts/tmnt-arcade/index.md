@@ -8,7 +8,6 @@ lang: ""
 #image: "./heroImage.jpg"
 ---
 
-<!-- ![Hero Image](./heroImage.jpg) -->
 
 The holidays, ah! A moment of happiness, coziness, and … throwing down some severe smack-down with the Nintendo Switch Teenage Mutant Ninja Turtles!
 

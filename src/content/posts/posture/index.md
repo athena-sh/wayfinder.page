@@ -8,7 +8,6 @@ category: "Wellness"
 lang: ""
 ---
 
-<!-- ![Hero Image](./heroImage.jpg) -->
 
 Hey there, fellow slouchers and desk jockeys! Let's talk about something we all know we should care about but often ignore: our posture. Now, before you roll your eyes (careful, that neck twist might hurt later), hear me out.
 

@@ -10,7 +10,6 @@ category: "Wellness"
 lang: ""
 ---
 
-<!-- ![Hero Image](./heroImage.jpg) -->
 
 _Explore how to effectively use your expiring FSA funds on Amazon (updated on 1-6-2025)_
 

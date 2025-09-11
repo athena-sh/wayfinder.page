@@ -8,7 +8,6 @@ category: "Business"
 lang: ""
 ---
 
-<!-- ![Hero Image](./heroImage.jpg) -->
 
 Freelancing can be a rollercoaster ride. One month you're swimming in projects, the next you're scraping by. Sound familiar? You're not alone. Many freelancers face this feast-or-famine cycle. But there's a way out. Enter income diversification. It's not just a fancy term - it's a lifeline for your freelance career.
 

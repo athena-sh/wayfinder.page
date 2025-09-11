@@ -8,7 +8,6 @@ category: "Business"
 lang: ""
 ---
 
-<!-- ![Hero Image](./heroImage.jpg) -->
 
 Are you a digital entrepreneur struggling to keep your finances in order? You're not alone. Many online business owners excel at creating content or products but stumble when it comes to managing money. The good news? Financial management doesn't have to be complicated. This guide will walk you through 7 simple steps to take control of your business finances. Let's dive in and set your digital venture up for long-term success.
 

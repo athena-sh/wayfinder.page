@@ -8,7 +8,6 @@ category: "Guides"
 lang: ""
 ---
 
-<!-- ![Hero Image](./heroImage.jpg) -->
 
 Join Elfred as he discovers the secrets of the Magical Shelf and uncovers a world of adventure beyond his wildest dreams. You won't want to miss this captivating story!
 

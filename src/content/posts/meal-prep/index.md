@@ -8,7 +8,6 @@ category: "Wellness"
 lang: ""
 ---
 
-<!-- ![Hero Image](./heroImage.jpg) -->
 
 Look, I'm not some meal prep wizard or nutrition guru. I'm just a regular person trying to eat something other than cereal for dinner while juggling a schedule that makes my head spin. But I've stumbled upon some strategies that have actually worked for me, and I thought, "Why not share this stuff?" So here we go, my utterly non-expert guide to meal prep for the chronically busy.
 

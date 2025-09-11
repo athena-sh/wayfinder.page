@@ -10,7 +10,6 @@ tags:
 published: 2024-09-18
 ---
 
-<!-- ![Hero Image](./heroImage.jpg) -->
 #image: "./heroImage.jpg"
 
 Let's face it: client communication can make or break your freelance career. It's not just about the work you produce. How you interact with clients can determine whether they sing your praises or ghost you faster than a bad Tinder date. But don't worry, fellow freelancers. We've got your back. In this guide, we'll walk you through 7 battle-tested strategies to level up your client communication game. No fluff, no jargon – just practical tips you can start using today.

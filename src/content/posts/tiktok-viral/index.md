@@ -11,7 +11,6 @@ category: "Guides"
 lang: ""
 ---
 
-<!-- ![Hero Image](./heroImage.jpg) -->
 
 Hey there, TikTok dreamers! So, you want to go viral, huh? Join the club. I'm not some TikTok guru with millions of followers (I wish), but I've spent an embarrassing amount of time on the app and picked up a few tricks along the way. Let's dive into the world of 15-second fame, shall we?
 

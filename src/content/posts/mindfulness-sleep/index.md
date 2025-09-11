@@ -8,7 +8,6 @@ lang: ""
 #image: "./heroImage.jpg"
 ---
 
-<!-- ![Hero Image](./heroImage.jpg) -->
 
 I know, I know, I bet you're tired. Not just "I stayed up too late binge-watching Netflix" tired, but that deep, soul-crushing exhaustion that comes from weeks, months, or even years of poor sleep.
 

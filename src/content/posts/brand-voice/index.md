@@ -8,7 +8,6 @@ category: "Guides"
 lang: ""
 ---
 
-<!-- ![Hero Image](./heroImage.jpg) -->
 
 Hey there, fellow content creator! Feeling lost in the sea of sameness? Trust me, I've been there. One day you're scrolling through your feed, and suddenly it hits you: everything looks the same. It's like walking into a party where everyone's wearing the same outfit. Awkward, right?
 
