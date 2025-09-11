@@ -3,6 +3,8 @@ title: "Winning with MEDDICC: Elevating Your High-Value Sales Strategy (Without 
 published: 2025-05-10
 description: "Explore vital sales performers' tactics using MEDDICC. Learn more about the art of negotiation, persuasion, and strategic selling to redefine success."
 #image: "https://res.cloudinary.com/ddicetqs5/image/upload/c_fill,w_1200,h_675,f_auto/v1746924054/wayfinder-images/meddic-framework-1200x675_br17vd"
+image: money-bill-trend-up.svg
+showImageInline: false
 tags: ["MEDDICC", "Sales"]
 category: "Guides"
 draft: false

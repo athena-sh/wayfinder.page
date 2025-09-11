@@ -9,7 +9,7 @@ import { getSortedPosts } from "@utils/content-utils";
 import { getDir, getPostUrlBySlug } from "@utils/url-utils";
 import { Icon } from "astro-icon/components";
 import { licenseConfig } from "src/config";
-import ImageWrapper from "../../components/misc/ImageWrapper.astro";
+import HeroImage from "../../components/misc/HeroImage.astro";
 import PostMetadata from "../../components/PostMeta.astro";
 import { profileConfig, siteConfig } from "../../config";
 import { formatDateToYYYYMMDD } from "../../utils/date-utils";
@@ -98,7 +98,14 @@ const jsonLd = {
             <!-- show cover image inline if enabled -->
 
             {entry.data.image && entry.data.showImageInline &&
-                <ImageWrapper id="post-cover" src={entry.data.image} basePath={path.join("content/posts/", getDir(entry.id))} class="mb-8 rounded-xl banner-container onload-animation"/>
+                <div id="post-cover" class="mb-8 rounded-xl banner-container onload-animation overflow-hidden">
+                    <HeroImage 
+                        src={entry.data.image} 
+                        basePath={path.join("content/posts/", getDir(entry.id))} 
+                        alt="Cover Image of the Post"
+                        class="w-full h-full object-cover"
+                    />
+                </div>
             }
 
 
