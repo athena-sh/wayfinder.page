@@ -16,7 +16,9 @@ On September 9, 2025, Apple held their highly anticipated iPhone 17 launch event
 
 So what went so spectacularly wrong that Wall Street basically said "thanks, but no thanks" to Apple's latest creation? Buckle up, because this is a masterclass in how even tech giants can stumble when innovation takes a backseat to incremental updates.
 
-::linechart{title="Apple Stock Price Trend: September 9-12, 2025" data="Sep 9|233.83,Sep 10|232.85,Sep 11|229.85,Sep 12|233.97"}
+::linechart{title="Apple Stock Price Trend: September 8-10, 2025" data="Sep 8|237.88,Sep 9|234.35,Sep 10|226.79"}
+
+_source: https://finance.yahoo.com/quote/AAPL/history/_
 
 ## What Actually Happened
 
