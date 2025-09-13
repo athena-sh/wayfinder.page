@@ -33,3 +33,6 @@ yarn.lock
 # Claude Code files
 CLAUDE.md
 .claude/
+
+# guidance folder
+guidance/
