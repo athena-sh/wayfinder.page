@@ -5,7 +5,7 @@ description: "Apple's iPhone 17 launch triggered a massive $112 billion stock de
 image: "apple.svg"
 showImageInline: false
 tags: [Apple, Stocks, iPhone]
-category: "Business"
+category: "News"
 draft: false
 lang: ""
 ---
