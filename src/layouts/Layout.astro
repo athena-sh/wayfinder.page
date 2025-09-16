@@ -19,6 +19,12 @@ import { defaultFavicons } from "../constants/icon";
 import type { Favicon } from "../types/config";
 import { pathsEqual, url } from "../utils/url-utils";
 import { resolveOgImagePath, getFallbackOgImage } from "../utils/image-utils";
+import prismDancerImage from "../assets/images/prism-dancer.jpg";
+import appleIcon from "../assets/icons/apple.svg";
+import rocketIcon from "../assets/icons/rocket.svg";
+import moneyIcon from "../assets/icons/money-bill-trend-up.svg";
+import scaleIcon from "../assets/icons/scale-unbalanced.svg";
+import newspaperIcon from "../assets/icons/newspaper.svg";
 import "katex/dist/katex.css";
 
 interface Props {
@@ -78,10 +84,29 @@ const bannerOffset =
 const siteUrl = Astro.site?.toString() || 'http://localhost:4321';
 let ogImage = '';
 
+// Map of icon names to imported assets (these are ImageMetadata objects with .src property)
+const iconMap: Record<string, any> = {
+	'apple.svg': appleIcon,
+	'rocket.svg': rocketIcon,
+	'money-bill-trend-up.svg': moneyIcon,
+	'scale-unbalanced.svg': scaleIcon,
+	'newspaper.svg': newspaperIcon,
+};
+
 if (image) {
-	ogImage = resolveOgImagePath(image, postSlug, siteUrl);
+	// Check if it's a known icon
+	if (iconMap[image]) {
+		// Extract the src from the imported asset and make it absolute
+		const assetSrc = iconMap[image].src || iconMap[image];
+		ogImage = assetSrc.startsWith('http') ? assetSrc : new URL(assetSrc, siteUrl).toString();
+	} else {
+		// Use the original resolution logic for other images
+		ogImage = resolveOgImagePath(image, postSlug, siteUrl);
+	}
 } else {
-	ogImage = getFallbackOgImage(siteUrl);
+	// Extract the src from the imported asset and make it absolute
+	const assetSrc = prismDancerImage.src || prismDancerImage;
+	ogImage = assetSrc.startsWith('http') ? assetSrc : new URL(assetSrc, siteUrl).toString();
 }
 ---
 

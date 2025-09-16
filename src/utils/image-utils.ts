@@ -28,8 +28,9 @@ export function resolveOgImagePath(imageSrc: string, postSlug?: string, siteUrl?
     return `${baseUrl}${imageSrc.slice(1)}`; // fallback
   } else if (imageSrc.endsWith('.svg') && !imageSrc.startsWith('/')) {
     // SVG icon from theme icons: "apple.svg"
-    // Try to reference from assets/icons first
-    return `${baseUrl}/src/assets/icons/${imageSrc}`;
+    // For production, SVGs in assets/icons need to be imported to get proper URLs
+    // For now, try to find them in the built _astro directory or use fallback
+    return getFallbackOgImage(siteUrl);
   } else if (imageSrc.startsWith('/')) {
     // Absolute path from public: "/image.jpg"
     return `${baseUrl}${imageSrc}`;
