@@ -81,12 +81,13 @@ export function getFallbackOgImage(siteUrl?: string): string {
 
   // Check for common fallback images in order of preference
   const fallbackImages = [
+    '/src/assets/images/prism-dancer.jpg', // Primary homepage OG image
     '/og-default.jpg',
     '/og-default.png',
-    '/favicon/favicon-light-192.png', // Use existing favicon as fallback
+    '/favicon/favicon-light-192.png', // Use existing favicon as backup fallback
     '/favicon/favicon-light.svg'
   ];
 
-  // Return the first available fallback (in production, you might want to check existence)
-  return `${baseUrl}${fallbackImages[2]}`; // Use the 192px favicon as a reasonable OG image
+  // Return the first available fallback - using prism-dancer.jpg for homepage
+  return `${baseUrl}${fallbackImages[0]}`;
 }
