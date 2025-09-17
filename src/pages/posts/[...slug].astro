@@ -10,6 +10,7 @@ import { getDir, getPostUrlBySlug } from "@utils/url-utils";
 import { Icon } from "astro-icon/components";
 import { licenseConfig } from "src/config";
 import HeroImage from "../../components/misc/HeroImage.astro";
+import HeroPostImage from "../../components/misc/HeroPostImage.astro";
 import PostMetadata from "../../components/PostMeta.astro";
 import Comments from "../../components/Comments.astro";
 import { profileConfig, siteConfig } from "../../config";
@@ -46,7 +47,7 @@ const jsonLd = {
 	// TODO include cover image here
 };
 ---
-<MainGridLayout banner={entry.data.image} title={entry.data.title} description={entry.data.description} lang={entry.data.lang} setOGTypeArticle={true} headings={headings} image={entry.data.image} postSlug={entry.slug}>
+<MainGridLayout banner={entry.data.image} title={entry.data.title} description={entry.data.description} lang={entry.data.lang} setOGTypeArticle={true} headings={headings} image={entry.data.image} hero={entry.data.hero} postSlug={entry.slug}>
     <script is:inline slot="head" type="application/ld+json" set:html={JSON.stringify(jsonLd)}></script>
     <div class="flex w-full rounded-[var(--radius-large)] overflow-hidden relative mb-4">
         <div id="post-container" class:list={["card-base z-10 px-6 md:px-9 pt-6 pb-4 relative w-full ",
@@ -96,14 +97,13 @@ const jsonLd = {
                 {!entry.data.image && <div class="border-[var(--line-divider)] border-dashed border-b-[1px] mb-5"></div>}
             </div>
 
-            <!-- show cover image inline if enabled -->
+            <!-- show hero image if provided -->
 
-            {entry.data.image && entry.data.showImageInline &&
+            {entry.data.hero &&
                 <div id="post-cover" class="mb-8 rounded-xl banner-container onload-animation overflow-hidden">
-                    <HeroImage 
-                        src={entry.data.image} 
-                        basePath={path.join("content/posts/", getDir(entry.id))} 
-                        alt="Cover Image of the Post"
+                    <HeroPostImage
+                        src={entry.data.hero}
+                        alt="Hero Image of the Post"
                         class="w-full h-full object-cover"
                     />
                 </div>

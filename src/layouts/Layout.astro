@@ -33,11 +33,12 @@ interface Props {
 	description?: string;
 	lang?: string;
 	setOGTypeArticle?: boolean;
-	image?: string;
+	image?: string; // SVG icons for frontend/listing
+	hero?: string; // Hero image for social sharing
 	postSlug?: string;
 }
 
-let { title, banner, description, lang, setOGTypeArticle, image, postSlug } = Astro.props;
+let { title, banner, description, lang, setOGTypeArticle, image, hero, postSlug } = Astro.props;
 
 // apply a class to the body element to decide the height of the banner, only used for initial page load
 // Swup can update the body for each page visit, but it's after the page transition, causing a delay for banner height change
@@ -93,8 +94,11 @@ const iconMap: Record<string, any> = {
 	'newspaper.svg': newspaperIcon,
 };
 
-if (image) {
-	// Check if it's a known icon
+if (hero) {
+	// Priority 1: Use hero image for social sharing (better for OG/Twitter cards)
+	ogImage = hero.startsWith('http') ? hero : new URL(hero, siteUrl).toString();
+} else if (image) {
+	// Priority 2: Check if it's a known icon (but these don't work well for social)
 	if (iconMap[image]) {
 		// Extract the src from the imported asset and make it absolute
 		const assetSrc = iconMap[image].src || iconMap[image];
@@ -104,7 +108,7 @@ if (image) {
 		ogImage = resolveOgImagePath(image, postSlug, siteUrl);
 	}
 } else {
-	// Extract the src from the imported asset and make it absolute
+	// Priority 3: Fallback to default image
 	const assetSrc = prismDancerImage.src || prismDancerImage;
 	ogImage = assetSrc.startsWith('http') ? assetSrc : new URL(assetSrc, siteUrl).toString();
 }
