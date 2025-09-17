@@ -2,7 +2,7 @@
 title: "AI Just Boosted Worker Productivity by 4X — Here's How It Could Transform Your Career"
 published: 2025-09-17
 description: "UCLA engineers created a mind-reading AI system that makes workers 4X faster, while new data shows AI-exposed industries are seeing 27% productivity growth. This isn't science fiction — it's happening right now."
-image: "rocket.svg"
+image: "brain.svg"
 hero: "/hero-ai-productivity.jpg"
 tags: [AI, Productivity, Technology, Workplace]
 category: "News"
