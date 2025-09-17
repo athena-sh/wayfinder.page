@@ -57,7 +57,11 @@ if (isSvg) {
 }
 
 // Build the full image path for non-inline SVGs and regular images
-const imagePath = basePath ? `/${basePath}/${src}`.replace(/\/+/g, '/') : src;
+let imagePath = src;
+if (basePath && !src.startsWith('/') && !src.startsWith('http')) {
+  // Only apply basePath for relative paths (not absolute paths or URLs)
+  imagePath = `/${basePath}/${src}`.replace(/\/+/g, '/');
+}
 ---
 
 {svgContent ? (
