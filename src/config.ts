@@ -31,11 +31,11 @@ export const siteConfig: SiteConfig = {
 	},
 	favicon: [
 		{
-			src: "/favicon/favicon-light.svg",
+			src: "/favicon/favicon-light-192.png",
 			theme: "light",
 		},
 		{
-			src: "/favicon/favicon-dark.svg",
+			src: "/favicon/favicon-dark-192.png",
 			theme: "dark",
 		},
 	],
