@@ -104,6 +104,29 @@ if (basePath && !src.startsWith('/') && !src.startsWith('http')) {
     filter: none;
   }
 
+  /* Style for regular images (JPG, PNG, etc.) - only in hero containers */
+  :global(.card-base) img:not(.hero-svg),
+  img:not(.hero-svg) {
+    width: 70%;
+    height: 70%;
+    object-fit: contain;
+    border-radius: 8px;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+  }
+
+  /* Reset for inline images in posts */
+  :global(#post-cover) img:not(.hero-svg) {
+    position: static;
+    width: 100%;
+    height: auto;
+    transform: none;
+    top: auto;
+    left: auto;
+  }
+
   /* Ensure the SVG uses the theme color */
   .hero-svg-wrapper svg {
     fill: currentColor;
