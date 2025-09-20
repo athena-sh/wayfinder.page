@@ -48,14 +48,17 @@ const isHomePage = pathsEqual(Astro.url.pathname, url("/"));
 // defines global css variables
 // why doing this in Layout instead of GlobalStyles: https://github.com/withastro/astro/issues/6728#issuecomment-1502203757
 const configHue = siteConfig.themeColor.hue;
-if (!banner || typeof banner !== "string" || banner.trim() === "") {
+// Only set default banner if banner prop is undefined/null, not if it's explicitly empty string
+if (banner === undefined || banner === null) {
 	banner = siteConfig.banner.src;
 }
 
 // TODO don't use post cover as banner for now
-banner = siteConfig.banner.src;
+// banner = siteConfig.banner.src; // Commented out to allow per-page banner control
 
-const enableBanner = siteConfig.banner.enable;
+// Only enable banner CSS classes if banner is actually being displayed
+// undefined/null means use default banner, empty string means no banner
+const enableBanner = siteConfig.banner.enable && (banner === undefined || banner === null || banner.trim() !== "");
 
 let pageTitle: string;
 if (title) {
