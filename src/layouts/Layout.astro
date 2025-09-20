@@ -468,10 +468,14 @@ const setup = () => {
 		initCustomScrollbar();
 		// Update banner enabled status after content replacement
 		bannerEnabled = !!document.getElementById('banner-wrapper');
+		console.log('content:replace - bannerEnabled:', bannerEnabled, 'URL:', window.location.pathname);
 
-		// Update body class to match new banner state
+		// Double-check body class matches expected state
 		const bodyElement = document.querySelector('body');
-		if (bannerEnabled) {
+		const expectedBannerState = pathsEqual(window.location.pathname, url('/'));
+		console.log('Expected banner state:', expectedBannerState, 'Actual DOM banner:', bannerEnabled);
+
+		if (expectedBannerState) {
 			bodyElement!.classList.add('enable-banner');
 		} else {
 			bodyElement!.classList.remove('enable-banner');
@@ -480,10 +484,19 @@ const setup = () => {
 	window.swup.hooks.on('visit:start', (visit: {to: {url: string}}) => {
 		// change banner height immediately when a link is clicked
 		const bodyElement = document.querySelector('body')
-		if (pathsEqual(visit.to.url, url('/'))) {
+		const isGoingToHome = pathsEqual(visit.to.url, url('/'));
+		console.log('visit:start - Going to:', visit.to.url, 'isHome:', isGoingToHome);
+
+		if (isGoingToHome) {
 			bodyElement!.classList.add('lg:is-home');
+			// Home page should have banner
+			bodyElement!.classList.add('enable-banner');
+			console.log('visit:start - Added enable-banner class');
 		} else {
 			bodyElement!.classList.remove('lg:is-home');
+			// Non-home pages (posts) should not have banner
+			bodyElement!.classList.remove('enable-banner');
+			console.log('visit:start - Removed enable-banner class');
 		}
 
 		// increase the page height during page transition to prevent the scrolling animation from jumping
