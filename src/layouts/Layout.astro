@@ -468,6 +468,14 @@ const setup = () => {
 		initCustomScrollbar();
 		// Update banner enabled status after content replacement
 		bannerEnabled = !!document.getElementById('banner-wrapper');
+
+		// Update body class to match new banner state
+		const bodyElement = document.querySelector('body');
+		if (bannerEnabled) {
+			bodyElement!.classList.add('enable-banner');
+		} else {
+			bodyElement!.classList.remove('enable-banner');
+		}
 	})
 	window.swup.hooks.on('visit:start', (visit: {to: {url: string}}) => {
 		// change banner height immediately when a link is clicked
