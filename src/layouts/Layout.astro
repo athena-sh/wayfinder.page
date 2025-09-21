@@ -51,17 +51,10 @@ const isHomePage = pathsEqual(Astro.url.pathname, url("/"));
 // defines global css variables
 // why doing this in Layout instead of GlobalStyles: https://github.com/withastro/astro/issues/6728#issuecomment-1502203757
 const configHue = siteConfig.themeColor.hue;
-// Only set default banner if banner prop is undefined/null, not if it's explicitly empty string
-if (banner === undefined || banner === null) {
-	banner = siteConfig.banner.src;
-}
+// Use default banner behavior
+banner = siteConfig.banner.src;
 
-// TODO don't use post cover as banner for now
-// banner = siteConfig.banner.src; // Commented out to allow per-page banner control
-
-// Only enable banner CSS classes if banner is actually being displayed
-// undefined/null means use default banner, empty string means no banner
-const enableBanner = siteConfig.banner.enable && (banner === undefined || banner === null || banner.trim() !== "");
+const enableBanner = siteConfig.banner.enable;
 
 let pageTitle: string;
 if (title) {
@@ -315,8 +308,7 @@ function disableAnimation() {
 }
 */
 
-// Check banner enabled status dynamically (updated on each page transition)
-let bannerEnabled = !!document.getElementById('banner-wrapper')
+const bannerEnabled = !!document.getElementById('banner-wrapper')
 
 function setClickOutsideToClose(panel: string, ignores: string[]) {
 	document.addEventListener("click", event => {
@@ -464,25 +456,14 @@ const setup = () => {
 			navbar.classList.add('navbar-hidden')
 		}
 	})
-	window.swup.hooks.on('content:replace', () => {
-		initCustomScrollbar();
-		// Update banner enabled status after content replacement for other JS functions
-		bannerEnabled = !!document.getElementById('banner-wrapper');
-		// Note: Don't update CSS classes here - visit:start already handled it correctly
-	})
+	window.swup.hooks.on('content:replace', initCustomScrollbar)
 	window.swup.hooks.on('visit:start', (visit: {to: {url: string}}) => {
 		// change banner height immediately when a link is clicked
 		const bodyElement = document.querySelector('body')
-		const isGoingToHome = pathsEqual(visit.to.url, url('/'));
-
-		if (isGoingToHome) {
+		if (pathsEqual(visit.to.url, url('/'))) {
 			bodyElement!.classList.add('lg:is-home');
-			// Home page should have banner
-			bodyElement!.classList.add('enable-banner');
 		} else {
 			bodyElement!.classList.remove('lg:is-home');
-			// Non-home pages (posts) should not have banner
-			bodyElement!.classList.remove('enable-banner');
 		}
 
 		// increase the page height during page transition to prevent the scrolling animation from jumping

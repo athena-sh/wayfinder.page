@@ -2,7 +2,7 @@
 title: "Why I Ditch My iPhone and Verizon for Google Pixel on Google Fi"
 published: 2025-03-03
 description: "Discover why I switched from my iPhone and Verizon to a Google Pixel on Google Fi, sharing experiences, features, and candid insights."
-#image: "./heroImage.webp"
+image: signal.svg
 tags: ["Technology", "AI"]
 category: "Guides"
 draft: false
@@ -18,7 +18,6 @@ lang: ""
 You know that feeling when your phone bill comes in, and you do a double-take like, "Wait … I didn't agree to donate a kidney for this service"? Yeah, that was me. Between skyrocketing costs and the creeping realization that my so-called "premium" phone wasn't actually doing anything my friend's Pixel couldn't, I figured it was time to shake things up.
 
 Google had been lurking in the background like a quiet genius — great camera, clean software, and actual AI-powered features that didn't require a PhD to use. Plus, the idea of trying Google Fi (because I apparently enjoy experimenting with my mobile coverage) felt like a fresh start.
-
 
 ### A Brief Overview of My Previous Phone Experience
 
