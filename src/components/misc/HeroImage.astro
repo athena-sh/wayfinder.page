@@ -15,6 +15,9 @@ const { src, alt, class: className, basePath } = Astro.props;
 // Check if it's an SVG
 const isSvg = src?.endsWith('.svg');
 
+// Determine if we're likely in a mobile context based on the container
+const isMobileContext = className?.includes('w-full h-full');
+
 // Try to load SVG content if it's an SVG file
 let svgContent = null;
 if (isSvg) {
@@ -43,6 +46,16 @@ if (isSvg) {
           .replace(/stroke="#[0-9A-Fa-f]{6}"/gi, 'stroke="currentColor"')
           .replace(/stroke="#[0-9A-Fa-f]{3}"/gi, 'stroke="currentColor"');
         
+        // Fix brain.svg viewBox for better mobile display
+        if (src.includes('brain')) {
+          // Add a data attribute to identify this needs mobile adjustment
+          svgContent = svgContent.replace(/<svg/, '<svg data-mobile-adjust="true"');
+          // Adjust the viewBox to crop out the empty space for a better mobile view
+          // Original: viewBox="-320 -320 1280 1280"
+          // Adjusted: focuses on the actual brain content
+          svgContent = svgContent.replace(/viewBox="[^"]*"/, 'viewBox="-320 -480 1280 1280"');
+        }
+        
         console.log(`Loaded SVG from: ${svgPath}`);
         break;
       }
@@ -65,9 +78,19 @@ if (basePath && !src.startsWith('/') && !src.startsWith('http')) {
 ---
 
 {svgContent ? (
-  <div class={`hero-svg-wrapper ${className || ''}`} aria-label={alt}>
-    <Fragment set:html={svgContent} />
-  </div>
+  <>
+    {/* Desktop version */}
+    <div class={`hero-svg-wrapper desktop-only ${className || ''}`} aria-label={alt}>
+      <Fragment set:html={svgContent} />
+    </div>
+    
+    {/* Mobile version with adjusted positioning */}
+    <div class={`hero-svg-wrapper mobile-only ${className || ''}`} aria-label={alt}>
+      <div class="mobile-svg-container">
+        <Fragment set:html={svgContent} />
+      </div>
+    </div>
+  </>
 ) : isSvg ? (
   <!-- Fallback: if we couldn't load the SVG content, display it as an image -->
   <div class={`hero-svg-wrapper ${className || ''}`}>
@@ -87,12 +110,50 @@ if (basePath && !src.startsWith('/') && !src.startsWith('http')) {
     align-items: center;
     justify-content: center;
     overflow: hidden;
+    position: relative;
+  }
+
+  /* Desktop-only styles */
+  .desktop-only {
+    display: flex;
+  }
+  
+  .mobile-only {
+    display: none;
   }
 
   .hero-svg-wrapper svg {
-    width: 80%;
-    height: 80%;
+    width: 60%;
+    height: auto;
     flex-shrink: 0;
+    max-height: none;
+  }
+
+  /* Mobile-specific version */
+  @media (max-width: 768px) {
+    .desktop-only {
+      display: none;
+    }
+    
+    .mobile-only {
+      display: flex;
+      align-items: flex-start;
+      padding-top: 0;
+    }
+    
+    .mobile-svg-container {
+      width: 100%;
+      height: 150%;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      transform: translateY(-25%);
+    }
+    
+    .mobile-svg-container svg {
+      width: 60%;
+      height: auto;
+    }
   }
 
   .hero-svg {
@@ -106,13 +167,25 @@ if (basePath && !src.startsWith('/') && !src.startsWith('http')) {
   :global(.card-base) img:not(.hero-svg),
   img:not(.hero-svg) {
     width: 70%;
-    height: 70%;
+    height: auto;
+    max-width: 100%;
+    max-height: 70%;
     object-fit: contain;
     border-radius: 12px;
     position: absolute;
     top: 50%;
     left: 50%;
     transform: translate(-50%, -50%);
+  }
+
+  /* Mobile-specific adjustments for regular images */
+  @media (max-width: 768px) {
+    :global(.card-base) img:not(.hero-svg) {
+      width: auto;
+      height: auto;
+      max-width: 70%;
+      max-height: 70%;
+    }
   }
 
   /* Reset for inline images in posts */
