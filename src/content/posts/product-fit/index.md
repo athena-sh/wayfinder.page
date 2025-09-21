@@ -4,7 +4,8 @@ description: "Master Lean Startup for business launch: key concepts from Ries' b
 published: 2025-09-06
 draft: false
 tags: [AI, Monetization]
-image: "rocket.svg"
+image: rocket.svg
+hero: https://res.cloudinary.com/ddicetqs5/image/upload/f_auto,fl_force_strip,q_auto:best/v1758495969/wayfinder-images/product-fit_gykwp0
 showImageInline: false
 category: "Business"
 lang: ""
