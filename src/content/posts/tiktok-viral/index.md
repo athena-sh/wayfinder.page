@@ -1,6 +1,8 @@
 ---
 title: "How to Go Viral on TikTok: Insider Tips from a Wannabe Influencer"
 description: "Uncover practical strategies for creating viral TikTok content. Learn to nail trends, create engaging hooks, and build your audience from a fellow TikTok enthusiast."
+image: tiktok.svg
+hero: "https://res.cloudinary.com/ddicetqs5/image/upload/f_auto,fl_force_strip,q_auto:best/v1758430810/wayfinder-images/heroImage_luy2z2"
 published: 2024-08-05
 draft: false
 tags:
@@ -11,9 +13,7 @@ category: "Guides"
 lang: ""
 ---
 
-
 Hey there, TikTok dreamers! So, you want to go viral, huh? Join the club. I'm not some TikTok guru with millions of followers (I wish), but I've spent an embarrassing amount of time on the app and picked up a few tricks along the way. Let's dive into the world of 15-second fame, shall we?
-
 
 ## 1. Know Your Audience (AKA Figure Out What the Kids Are Into These Days)
 
