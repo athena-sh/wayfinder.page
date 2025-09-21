@@ -3,6 +3,7 @@ title: "Elon Musk Sells X to xAI: What It Means for You (And Why It's Kinda Wild
 published: 2025-03-28
 description: "Elon Musk sold X to xAI for $33B. Discover what's next for users and tech."
 #image: "https://res.cloudinary.com/ddicetqs5/image/upload/c_fill,w_1200,h_675,f_auto/v1746932689/wayfinder-images/elon-musk-sells-x-to-xai_s2tuta"
+image: twitter.svg
 tags: ["AI", "X"]
 category: "News"
 draft: false
@@ -85,8 +86,8 @@ To illustrate the financial and strategic aspects, here's a table comparing key 
 
 | Aspect          | Before Acquisition              | After Acquisition                      |
 | --------------- | ------------------------------- | -------------------------------------- |
-| X Valuation     | \$44 billion (2022 purchase)   | \$33 billion (equity, \$45B with debt) |
-| xAI Valuation   | ~\$40 billion (Dec 2024)       | \$80 billion (combined with X)         |
+| X Valuation     | \$44 billion (2022 purchase)    | \$33 billion (equity, \$45B with debt) |
+| xAI Valuation   | ~\$40 billion (Dec 2024)        | \$80 billion (combined with X)         |
 | Debt Included   | Not specified in recent reports | \$12 billion for X                     |
 | Strategic Focus | Social media platform           | AI and social media integration        |
 
@@ -103,17 +104,10 @@ We'd love to hear your thoughts on this development. Do you think this will lead
 ---
 
 [^1]: [Elon Musk says he sold X to his AI company - CNN Business](https://www.cnn.com/2025/03/28/business/elon-musk-sells-x-to-xai/index.html)
-
 [^2]: [Elon Musk says xAI has acquired X in deal that values social media site at 33 billion - CNBC](https://www.cnbc.com/2025/03/28/elon-musk-says-xai-has-acquired-x-in-deal-that-values-social-media-site-at-33-billion.html)
-
 [^3]: [Musk's xAI buys Musk's X social media platform for 33 billion - Reuters](https://www.reuters.com/markets/deals/musks-xai-buys-social-media-platform-x-45-billion-2025-03-28/)
-
 [^4]: [Elon Musk says xAI acquired X - TechCrunch](https://techcrunch.com/2025/03/28/elon-musk-says-xai-acquired-x/)
-
 [^5]: [Elon Musk says his AI business xAI has acquired X - Axios](https://www.axios.com/2025/03/28/musk-x-xai)
-
 [^6]: [Elon Musk's xAI Acquires X, Because of Course - WIRED](https://www.wired.com/story/xai-x-acquisition-deal/)
-
 [^7]: [Elon Musk Says He Has Sold X to His A.I. Start-Up xAI - The New York Times](https://www.nytimes.com/2025/03/28/technology/musk-x-xai.html)
-
 [^8]: [Musk Says That His xAI Startup Has Acquired X for 33 Billion - Bloomberg](https://www.bloomberg.com/news/articles/2025-02-19/musk-s-x-is-in-talks-to-raise-money-at-a-44-billion-valuation?sref=FXoxhseM)
