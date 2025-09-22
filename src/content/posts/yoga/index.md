@@ -1,17 +1,16 @@
 ---
 title: "Bend, Don't Break: A Regular Person's Guide to Yoga for Flexibility and Stress Relief"
 description: "Explore a beginner's guide to yoga for flexibility and stress relief. Learn simple poses and breathing techniques to improve your well-being."
+image: person-walking.svg
+hero: https://res.cloudinary.com/ddicetqs5/image/upload/f_auto,fl_force_strip,q_auto:best/v1758505305/wayfinder-images/sawbokshlzadloawpee7
 draft: false
 published: 2024-08-25
 category: "Wellness"
 lang: ""
-tags: ["Wellness", "Meditation"]
-#image: "./heroImage.jpg"
+tags: ["Wellness", "Meditation", "Yoga"]
 ---
 
-
 Ever feel like your body's as flexible as a steel beam? Or like your stress levels are through the roof? Yeah, me too. That's why I decided to give yoga a shot. Spoiler alert: I'm no guru, but I've picked up a few things that might help you too.
-
 
 ## The Yoga Struggle is Real
 
@@ -62,7 +61,7 @@ There you have it. You've just done your first yoga sequence. How do you feel? E
 
 ## Beginner-Friendly Poses for Flexibility
 
-![Leonardo AI | Athena Character Reference](https://res-4.cloudinary.com/ddicetqs5/image/upload/f_auto,fl_force_strip,q_auto:best/v1/wayfinder-ghost-blog/beginners-guide-yoga-flexibility-stress-relief-inline-image)
+![Athena](https://res.cloudinary.com/ddicetqs5/image/upload/f_auto,fl_force_strip,q_auto:best/v1758506430/wayfinder-images/zsv490ewkqwxbckokqo3)
 
 Now that we're warmed up, let's try some poses specifically for flexibility. Remember, the goal isn't to look like a human pretzel. It's to feel good and maybe reach a little further than you could yesterday.
 
