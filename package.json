@@ -13,6 +13,7 @@
 		"new-post": "node scripts/new-post.js",
 		"upload-image": "node scripts/cloudinary-upload.js",
 		"flatten-posts": "node scripts/flatten-posts.js",
+		"remove-hero-images": "node scripts/remove-hero-images.js",
 		"format": "biome format --write ./src",
 		"lint": "biome check --write ./src",
 		"preinstall": "npx only-allow pnpm"
