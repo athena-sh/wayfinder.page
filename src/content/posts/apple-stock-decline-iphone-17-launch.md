@@ -3,6 +3,7 @@ title: "Apple Lost $112 Billion in Two Days — Here's What Went Wrong at the iP
 published: 2025-09-12
 description: "Apple's iPhone 17 launch triggered a massive $112 billion stock decline. Discover the five key reasons investors fled and what this means for Apple's future innovation strategy."
 image: "apple.svg"
+hero: "https://res.cloudinary.com/ddicetqs5/image/upload/f_auto,fl_force_strip,q_auto:best/v1758775530/wayfinder-images/dploywy2jpr38pgjlz8y"
 tags: [Apple, Stocks, iPhone]
 category: "News"
 draft: false
