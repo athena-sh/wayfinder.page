@@ -87,7 +87,7 @@ The goal? A reader should be able to skim your post in 30 seconds and understand
 
 ## Structure Variations by Content Type
 
-Different blog post types require structural adaptations. Here's how to modify the framework:
+Different blog post types require structural adaptations. Here's how to modify the framework (you can also explore more about [developing your unique brand voice](/posts/brand-voice) to complement your structure):
 
 ### How-to Posts
 - **Tools/Materials section** upfront
@@ -125,7 +125,7 @@ Here's where most bloggers get it wrong: they write for themselves, not their re
 - **Active voice** instead of passive
 - **Concrete examples** over abstract concepts
 
-[HubSpot's research](https://blog.hubspot.com/marketing/anatomy-perfect-blog-post) confirms that posts with clear, scannable structure get significantly more engagement [^5].
+[HubSpot's research](https://blog.hubspot.com/marketing/anatomy-perfect-blog-post) confirms that posts with clear, scannable structure get significantly more engagement [^5]. This aligns perfectly with [effective content marketing strategies](/posts/content-marketing) that focus on reader experience first.
 
 ## The Technical Architecture That Supports Great Structure
 
