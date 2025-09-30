@@ -2,7 +2,7 @@
 title: "13 Best Marketing Automation Tools Guide for Success"
 description: "Discover the top 13 marketing automation tools in our comprehensive guide. Learn how to streamline your campaigns and boost ROI with expert insights and comparisons."
 image: chart-simple.svg
-hero: https://res.cloudinary.com/ddicetqs5/image/upload/f_auto,fl_force_strip,q_auto:best/v1759001164/wayfinder-images/dgagetykmqzvyvv4ihjk
+hero: https://res.cloudinary.com/ddicetqs5/image/upload/w_1200,h_675,c_fill,f_auto,fl_force_strip,q_auto:best/v1759001164/wayfinder-images/dgagetykmqzvyvv4ihjk
 draft: false
 published: 2024-09-24
 category: Business

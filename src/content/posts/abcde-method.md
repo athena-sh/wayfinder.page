@@ -2,7 +2,7 @@
 title: "Master Task Prioritization: The ABCDE Method Explained"
 description: "Discover how to boost productivity with the ABCDE method task prioritization technique. Learn to focus on what matters and crush your to-do list like a pro!"
 image: list-check.svg
-hero: https://res.cloudinary.com/ddicetqs5/image/upload/f_auto,fl_force_strip,q_auto:best/v1758513955/wayfinder-images/aokm6p0g9i9aevumwpyy
+hero: https://res.cloudinary.com/ddicetqs5/image/upload/w_1200,h_675,c_fill,f_auto,fl_force_strip,q_auto:best/v1758513955/wayfinder-images/aokm6p0g9i9aevumwpyy
 published: 2025-09-21
 draft: false
 tags: ["Productivity", "Efficiency"]

@@ -2,7 +2,7 @@
 title: "Overcome Procrastination: 5 Proven Strategies for Success"
 description: "Discover 5 powerful techniques for overcoming procrastination and achieving your goals. Learn how to boost productivity and finally conquer your to-do list!"
 image: list-check.svg
-hero: https://res.cloudinary.com/ddicetqs5/image/upload/f_auto,fl_force_strip,q_auto:best/v1759013810/wayfinder-images/beat-procrastination_eivxn8
+hero: https://res.cloudinary.com/ddicetqs5/image/upload/w_1200,h_675,c_fill,f_auto,fl_force_strip,q_auto:best/v1759013810/wayfinder-images/beat-procrastination_eivxn8
 published: 2024-10-20
 draft: false
 tags: [Productivity, Psychology]
