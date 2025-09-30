@@ -9,6 +9,9 @@ tags: ["Productivity", "Efficiency"]
 category: "Productivity"
 ---
 
+:::note
+This article has been refreshed with the latest productivity research, including new data on optimal work-break ratios and enhanced recommendations for setting up your Pomodoro workspace. Updated September 2025.
+:::
 
 > "Time is what we want most, but what we use worst." — William Penn
 
