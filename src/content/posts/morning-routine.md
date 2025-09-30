@@ -12,7 +12,7 @@ tags: ["Wellness", "Productivity"]
 
 ## Introduction
 
-Ever feel like mornings are the actual worst? 🙋‍♀️ Same. But here's the kicker: apparently, having a morning routine can work wonders for your mental and physical health. Who knew?
+Ever feel like mornings are the actual worst? 🙋♀️ Same. But here's the kicker: apparently, having a morning routine can work wonders for your mental and physical health. Who knew?
 
 I know, I know. The thought of voluntarily waking up early makes you want to throw your alarm clock out the window. Trust me, I've been there. But stick with me for a sec.
 

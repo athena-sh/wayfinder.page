@@ -13,7 +13,7 @@ lang: ""
 
 ## Intro: This Is Why You Might Create An Online Course
 
-🧑 ‍🎓 With the job market in flux, as discussed in our analysis of "[Silicon Valley's Shakeup: The Real Impact of Tech Layoffs](https://wayfinder.page/blog/silicon-valleys-shakeup-real-impact-tech-layoffs)," many seek new income sources. This guide is perfect for beginners eager to share their knowledge online.
+🧑 🎓 With the job market in flux, as discussed in our analysis of "[Silicon Valley's Shakeup: The Real Impact of Tech Layoffs](https://wayfinder.page/blog/silicon-valleys-shakeup-real-impact-tech-layoffs)," many seek new income sources. This guide is perfect for beginners eager to share their knowledge online.
 
 
 ### Reasons for Content Creators and Social Influencers to Create Online Courses

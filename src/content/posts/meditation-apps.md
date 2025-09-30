@@ -1,6 +1,6 @@
 ---
 title: 5 Meditation Apps That Won't Put You to Sleep (But Might Help You Sleep Better)
-description: My favorite 5 best meditation apps for your daily practice, from the humorous Headspace to the soothing Calm. Find the perfect fit for your personality and lifestyle. 🧘‍♀️📱
+description: My favorite 5 best meditation apps for your daily practice, from the humorous Headspace to the soothing Calm. Find the perfect fit for your personality and lifestyle. 🧘♀️📱
 draft: false
 tags: ["Meditation"]
 published: 2024-08-04
@@ -12,7 +12,7 @@ lang: ""
 
 You've heard about the benefits of meditation – reduced stress, improved focus, better sleep, yada yada yada. But when it comes to actually sitting down and doing it?
 
-🧘‍♀️ That's where things get tricky.
+🧘♀️ That's where things get tricky.
 
 
 Enter: meditation apps.

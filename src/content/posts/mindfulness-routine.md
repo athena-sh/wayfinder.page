@@ -1,7 +1,7 @@
 ---
 title: The No-BS Guide to Creating a Mindfulness Routine You'll Actually Stick To
 published: 2024-08-04
-description: How to create a mindfulness routine you'll actually stick to with these down-to-earth tips and tricks – no zen master status required! 🧘‍♀️
+description: How to create a mindfulness routine you'll actually stick to with these down-to-earth tips and tricks – no zen master status required! 🧘♀️
 #image: "./heroImage.jpg"
 tags: ["Meditation", "Mindfulness"]
 category: "Wellness"
@@ -51,4 +51,4 @@ Doing the same thing every day can get boring fast. So, don't be afraid to mix u
 - **Get outside**: Take your practice outdoors and soak up some vitamin D while you're at it.
 - **Buddy up**: Grab a friend or join a meditation group for some accountability and social support.
 
-🔆 **The bottom line**: Creating a mindfulness routine that sticks is all about finding what works for YOU. It might take some trial and error, but trust me, it's worth it. And if all else fails, just remember: even the most enlightened gurus started somewhere. You got this. 🧘‍♀️
+🔆 **The bottom line**: Creating a mindfulness routine that sticks is all about finding what works for YOU. It might take some trial and error, but trust me, it's worth it. And if all else fails, just remember: even the most enlightened gurus started somewhere. You got this. 🧘♀️

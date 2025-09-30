@@ -1,13 +1,11 @@
 ---
 title: "Why Focusing on Science Behind Business Excellence is Key"
 description: "Get the proven steps that took 11 companies from average to industry leaders. Follow Jim Collins's framework for sustained excellence."
+image: scale-unbalanced.svg
 published: 2024-07-25
 draft: false
-tags:
-  - Career Development
-  - Business Strategy
-category: "Business"
-lang: ""
+tags: [Career Development, Business Strategy]
+category: Business
 ---
 
 _Revised on: 10-25-24 (original version published on: 11-28-23)_
@@ -49,6 +47,8 @@ The research hit even harder: out of 1,435 companies studied, only 11 made the l
 Looking at our "successful" metrics with fresh eyes, I realized we weren't just writing our company's story - we were choosing its ending. Would we be content with our good-enough narrative, or were we ready to aim for greatness?
 
 The answer to that question would reshape everything about how we operated, starting with our fundamental assumptions about success.
+
+If you're committed to transforming your business from good to great, [smash that subscribe button at the top](https://wayfinder.page/subscribe) to get more business excellence strategies and leadership insights delivered to your inbox!
 
 ## Beyond the Numbers: Inside Collins's Groundbreaking Research
 
@@ -703,6 +703,10 @@ Ready to dive deeper? Grab your copy of Good to Great and unlock the complete fr
 Excellence isn't born from a single decision but from thousands of small choices made consistently over time. The distance between good and great is shorter than you think — but only if you're willing to take the first step.
 
 Your journey to greatness begins now. What will you choose?
+
+:::tip
+Ready to Build Your Great Company? Don't settle for good when greatness is within reach! [Smash that subscribe button at the top](https://wayfinder.page/subscribe) to stay in the know each time a new business excellence and leadership article is published. Get proven strategies, expert insights, and transformation frameworks delivered straight to your inbox!
+:::
 
 ## FAQs
 

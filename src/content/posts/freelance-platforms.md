@@ -13,7 +13,7 @@ published: 2024-09-26
 
 Freelancing has become a popular career choice for many professionals seeking flexibility and independence. But when it comes to finding work, freelancers often face a crucial decision: should they use freelance platforms or pursue direct clients?
 
-👩 ‍🏭 This choice can significantly impact your income, work-life balance, and overall career trajectory.
+👩 🏭 This choice can significantly impact your income, work-life balance, and overall career trajectory.
 
 Both options have their merits and drawbacks, and what works best often depends on your individual circumstances and goals. In this guide, we'll explore the key differences between freelance platforms and direct clients.
 

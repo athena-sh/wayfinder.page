@@ -11,7 +11,7 @@ lang: ""
 
 Hey there, fellow traveler on the path to inner peace! If you're anything like me, you've probably heard the buzz about mindfulness and thought, "Sounds great, but how do I actually do it?"
 
-🧘‍♂️ Well, you're in luck. I'm no zen master, but I've stumbled my way through enough meditation cushions and breathing exercises to share some genuinely helpful tips.
+🧘♂️ Well, you're in luck. I'm no zen master, but I've stumbled my way through enough meditation cushions and breathing exercises to share some genuinely helpful tips.
 
 So, let's dive into some mindfulness exercises for beginners that won't make you want to pull your hair out.
 

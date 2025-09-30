@@ -12,7 +12,7 @@ published: 2024-08-08
 
 #image: "./heroImage.jpg"
 
-Ever feel like your mind is a tangled mess of thoughts, emotions, and self-doubt? 🙋‍♀️ Same. Enter: **Mindfulness**-**Based** **Cognitive** **Therapy** (MBCT). It's like therapy and meditation had a baby, and that baby is here to help you sort out your mental clutter.
+Ever feel like your mind is a tangled mess of thoughts, emotions, and self-doubt? 🙋♀️ Same. Enter: **Mindfulness**-**Based** **Cognitive** **Therapy** (MBCT). It's like therapy and meditation had a baby, and that baby is here to help you sort out your mental clutter.
 
 
 ## What the Heck is MBCT? 🤔
@@ -26,7 +26,7 @@ MBCT is a type of therapy that combines the best of both worlds: the self-awaren
 
 Okay, so you show up to an MBCT session. Now what?
 
-### Step 1: Meditate 🧘‍♀️
+### Step 1: Meditate 🧘♀️
 
 Your therapist will guide you through mindfulness meditation exercises. This could involve focusing on your breath, body sensations, or even just the sounds around you. The goal is to train your brain to be more present and aware. Sounds simple, right? Ha! Prepare for your mind to wander. A lot.
 
@@ -37,7 +37,7 @@ After meditation, it's time to chat with your therapist about what's going on in
 - **Negative Thought:** "I'm a total failure."
 - **Reframed Thought:** "I'm human, and humans make mistakes. I can learn from this and do better next time."
 
-### Step 3: Practice, Practice, Practice 🏋 ️‍ ♀️
+### Step 3: Practice, Practice, Practice 🏋 ️ ♀️
 
 MBCT isn't a one-and-done kind of deal. You'll need to practice your new mindfulness and cognitive skills outside of therapy sessions. This might include daily meditation, thought journaling, or just taking a few deep breaths when you feel stressed. It's like going to the gym for your brain. 🧠 💪
 
@@ -50,7 +50,7 @@ Now, I'm no scientist, but apparently, there's some pretty cool research backing
 - Improve emotional regulation and self-awareness
 - Enhance overall well-being and quality of life Basically, MBCT is like a magic potion for your mental health. 🪄 ✨
 
-## Is MBCT Right for You? 🤷 ‍♀ ️
+## Is MBCT Right for You? 🤷 ♀ ️
 
 If you struggle with recurring depression, anxiety, or just feel like your mind is constantly running on a hamster wheel, MBCT might be worth a try. But let's be real: therapy is a highly personal journey. What works for one person might not work for another. And that's okay! The important thing is to find a therapist and approach that resonates with you.
 
@@ -64,7 +64,7 @@ So.. if you're ready to give your brain a little TLC, consider giving MBCT a whi
 
 Who knows?
 
-You might just discover a whole new level of mental clarity and peace. 🧘‍♀️💆 ‍♀ ️
+You might just discover a whole new level of mental clarity and peace. 🧘♀️💆 ♀ ️
 
 But don't just take my word for it. I'm no expert – just a fellow human trying to navigate this wild ride called life. 🎢 🌎
 

@@ -55,7 +55,7 @@ Only have a minute? No problem. Meryl Arnett packs a punch with 60-second episod
 
 Kelly Smith makes mindfulness accessible with short, sweet episodes that cover everything from gratitude to goal-setting. Perfect for busy people who want to squeeze in some mindfulness between meetings.
 
-## 8. "Meditation Minis" by Chel Hamilton 🧘‍♀️
+## 8. "Meditation Minis" by Chel Hamilton 🧘♀️
 
 Chel Hamilton's soothing voice guides you through mini meditations designed to calm your mind and body. With episodes ranging from 5 to 15 minutes, this podcast is perfect for a quick mindfulness fix.
 
@@ -63,13 +63,13 @@ Chel Hamilton's soothing voice guides you through mini meditations designed to c
 
 New to mindfulness? Cory Muscara's got you covered. He breaks down the basics of mindfulness in a way that's easy to understand and apply to your daily life.
 
-## 10. "The Mindfulness Podcast" by Darren Cockburn 🧘‍♂️
+## 10. "The Mindfulness Podcast" by Darren Cockburn 🧘♂️
 
 Darren Cockburn explores the intersection of mindfulness, spirituality, and personal growth. With a mix of guided meditations and thought-provoking interviews, this podcast will deepen your mindfulness practice.
 
 ## 🔆 **In Conclusion** 🔆
 
-Whether you're a mindfulness newbie or a seasoned pro, these podcasts will help you take your practice to the next level. So pop in those earbuds, find a comfy spot, and get ready to get your mindfulness on. Happy meditating, folks! 🧘‍♀️✌ ️
+Whether you're a mindfulness newbie or a seasoned pro, these podcasts will help you take your practice to the next level. So pop in those earbuds, find a comfy spot, and get ready to get your mindfulness on. Happy meditating, folks! 🧘♀️✌ ️
 
 > P.S. If you end up enlightened after listening to these podcasts, please let me know. I'm still working on that whole "inner peace" thing.
 

@@ -35,7 +35,7 @@ This is where you look in the emotional mirror and say, "Yikes." It's about:
 - Understanding your strengths and weaknesses
 - Admitting that maybe, just maybe, you're not always right
 
-💁‍♀️ Pro tip: Journaling helps. Even if it's just writing "Today sucked" over and over.
+💁♀️ Pro tip: Journaling helps. Even if it's just writing "Today sucked" over and over.
 
 ### 2. Self-management: Taming Your Inner Toddler
 

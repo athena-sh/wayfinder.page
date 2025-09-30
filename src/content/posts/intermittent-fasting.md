@@ -11,7 +11,7 @@ lang: ""
 
 Ever catch yourself staring at the fridge at midnight, wondering if that leftover pizza is calling your name (because it totally IS)?
 
-🙆 ‍♀ ️ Yeah, me too.
+🙆 ♀ ️ Yeah, me too.
 
 But what if I told you that sometimes _not_ eating could be the key to better health?
 

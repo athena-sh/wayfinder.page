@@ -13,7 +13,7 @@ lang: ""
 
 We all know that meditation is good for reducing stress and improving mental well-being. But did you know that it can also have a profound impact on your cardiovascular health?
 
-🧘‍♀️❤ ️ Recent studies have shown that regular meditation practice can significantly lower blood pressure, reduce the risk of heart disease, and even improve outcomes for those who have already experienced a cardiac event.
+🧘♀️❤ ️ Recent studies have shown that regular meditation practice can significantly lower blood pressure, reduce the risk of heart disease, and even improve outcomes for those who have already experienced a cardiac event.
 
 Pretty mind-blowing, right?
 

@@ -1,6 +1,6 @@
 ---
 title: "A Skeptic's Guide to Choosing the Perfect Type of Meditation"
-description: "From mindfulness to mantras, discover the different types of meditation perfect for skeptical beginners. Find your zen, even if you're allergic to incense. 🧘‍♀️"
+description: "From mindfulness to mantras, discover the different types of meditation perfect for skeptical beginners. Find your zen, even if you're allergic to incense. 🧘♀️"
 draft: false
 published: 2024-08-05
 category: "Wellness"

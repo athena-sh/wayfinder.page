@@ -23,7 +23,7 @@ In this guide, we'll break down the components of a well-rounded fitness plan th
 
 Ready to embark on this not-so-treacherous journey to fitness? Let's dive in!
 
-## 1. Cardio (Without Dying of Boredom) 🏃 ‍♀ ️
+## 1. Cardio (Without Dying of Boredom) 🏃 ♀ ️
 
 Let's face it, the thought of endless treadmill sessions is about as exciting as watching paint dry. But cardio doesn't have to be a snoozefest. The key to not hating cardio? Mix it up!
 
@@ -43,7 +43,7 @@ Aim for 2-3 strength sessions a week, targeting different muscle groups each tim
 
 And ladies, don't shy away from weights. You won't bulk up unless you're really trying to. Promise.
 
-## 3. Flexibility & Recovery (Because Sometimes You Just Need a Nap) 🧘‍♀️
+## 3. Flexibility & Recovery (Because Sometimes You Just Need a Nap) 🧘♀️
 
 Flexibility work is like the veggie side dish of your fitness meal - not the most exciting, but oh-so-important. It helps prevent injuries and makes everyday activities easier.
 

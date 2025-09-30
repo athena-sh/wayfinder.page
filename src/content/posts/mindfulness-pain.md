@@ -1,6 +1,6 @@
 ---
 title: "Mindfulness for Pain Management: How to Kick Pain's Butt with Your Brain 🧠"
-description: Discover how mindfulness techniques can help manage pain, backed by research. Learn practical tips to incorporate mindfulness into your daily life. 🧘‍♀️
+description: Discover how mindfulness techniques can help manage pain, backed by research. Learn practical tips to incorporate mindfulness into your daily life. 🧘♀️
 published: 2024-07-12
 draft: false
 tags: ["Mindfulness", "Mental Health"]
@@ -13,7 +13,7 @@ _Pain sucks_. There's no way around it. Whether it's chronic pain from a conditi
 
 What if I told you that there's a way to manage pain without relying solely on medication?
 
-🧘‍♀️ Enter: \***\*mindfulness\*\***.
+🧘♀️ Enter: \***\*mindfulness\*\***.
 
 
 ## What is Mindfulness?
@@ -30,7 +30,7 @@ Studies have shown that mindfulness can help reduce the perception of pain. It w
 
 This can amplify the pain and make it feel worse than it actually is. Mindfulness helps break that cycle.
 
-Focus on the present moment and observe your thoughts without judgment, you can reduce the emotional impact of pain. It's like having a superhero in your brain, fighting off the pain villains. 🦸 ‍♀ ️
+Focus on the present moment and observe your thoughts without judgment, you can reduce the emotional impact of pain. It's like having a superhero in your brain, fighting off the pain villains. 🦸 ♀ ️
 
 ## Mindfulness Techniques for Pain Management
 

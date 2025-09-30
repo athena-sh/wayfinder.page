@@ -108,4 +108,4 @@ So go forth, embrace your emotions (but maybe not in the middle of a board meeti
 
 🔆 **The takeaway**: Emotional intelligence might just be the secret sauce in leadership success. It's not about being a robot or a pushover – it's about understanding and managing emotions (yours and others') to create better outcomes.
 
-🏊 ‍♀ ️ So dive in, get messy, and watch your leadership skills soar. Or at least, watch them become slightly less cringe-worthy. Baby steps, people. Baby steps.
+🏊 ♀ ️ So dive in, get messy, and watch your leadership skills soar. Or at least, watch them become slightly less cringe-worthy. Baby steps, people. Baby steps.

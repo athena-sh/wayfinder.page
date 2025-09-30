@@ -1,12 +1,11 @@
 ---
 title: "Lock It Down: 7 Must-Do Cybersecurity Steps for Your Digital Business in 2024"
+description: "Learn 7 crucial ways to shield your digital business from cyber threats in 2024. From risk assessment to incident response, we've got you covered. No tech degree required!"
+image: scale-unbalanced.svg
 published: 2024-10-13
-description: Learn 7 crucial ways to shield your digital business from cyber threats in 2024. From risk assessment to incident response, we've got you covered. No tech degree required!
-#image: "./heroImage.jpg"
-tags: ["Cybersecurity", "Digital Business"]
-category: "Technology"
 draft: false
-lang: ""
+tags: [Cybersecurity, Digital Business]
+category: Technology
 ---
 
 
@@ -28,6 +27,8 @@ We'll cover:
 - Keeping your data safer than your grandma's secret recipe
 
 So grab a coffee, put on your cyber-superhero cape, and let's turn your business from an easy target into a digital fortress!
+
+Before we dive into these cybersecurity essentials, if you're serious about protecting your digital business, [smash that subscribe button at the top](https://wayfinder.page/subscribe) to get more cybersecurity and business protection insights delivered to your inbox!
 
 ## Assess Your Current Security Posture
 
@@ -318,6 +319,10 @@ Here's a quick recap of our 7 steps:
 So keep practicing these steps, and you'll be a cybersecurity kung fu master in no time!
 
 Now go forth and conquer the digital world, you magnificent, security-savvy beast!
+
+:::tip
+Stay Secure and Protected! Don't leave your business vulnerable to cyber threats! [Smash that subscribe button at the top](https://wayfinder.page/subscribe) to stay in the know each time a new cybersecurity and business protection article is published. Get security tips, threat updates, and protection strategies delivered straight to your inbox!
+:::
 
 ---
 

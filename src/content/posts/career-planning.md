@@ -12,7 +12,7 @@ lang: ""
 
 ## Introduction
 
-Ever feel like you're just winging it in your career? Join the club. 🙋‍♂️
+Ever feel like you're just winging it in your career? Join the club. 🙋♂️
 
 We've all had those moments where we wonder if we're on the right track or if we'll ever "make it." But here's a little secret: even the most successful people often feel that way. The difference? They've got a game plan.
 

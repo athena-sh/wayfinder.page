@@ -35,7 +35,7 @@ Here's the lowdown:
 
 Pro tip: At the start of each week, take 15 minutes to categorize your tasks. You'll be amazed at how much clearer your priorities become.
 
-## Multitasking is a Myth 🙅 ‍♀ ️ (Do One Thing at a Time, Yo)
+## Multitasking is a Myth 🙅 ♀ ️ (Do One Thing at a Time, Yo)
 
 Alright, multitaskers, I'm about to burst your bubble. That superhuman ability you think you have? It's actually slowing you down.
 

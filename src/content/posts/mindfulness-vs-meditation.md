@@ -1,6 +1,6 @@
 ---
 title: "Mindfulness vs. Meditation: Clearing the Confusion Once and For All"
-description: Mindfulness and meditation are often used interchangeably, but they're not quite the same. Discover the key differences and how to practice both. 🧘‍♀️
+description: Mindfulness and meditation are often used interchangeably, but they're not quite the same. Discover the key differences and how to practice both. 🧘♀️
 published: 2024-06-17
 draft: false
 tags: ["Mindfulness", "Mental Health"]

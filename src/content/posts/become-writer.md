@@ -1,13 +1,12 @@
 ---
-title: This Is How YOU Become A Freelance Writer in 2024
-description: Do you like writing enough to help others? Freelance writing beginners, starting freelance writing, 2024 freelance trends.
+title: "This Is How YOU Become A Freelance Writer in 2024"
+description: "Do you like writing enough to help others? Freelance writing beginners, starting freelance writing, 2024 freelance trends."
+image: newspaper.svg
 published: 2024-07-09
 draft: false
-tags: ["Freelancing", "Business"]
-category: "Business"
-lang: ""
+tags: [Freelancing, Business]
+category: Business
 ---
-
 
 _Do you like writing enough to help others?_
 
@@ -38,6 +37,8 @@ While experience may be lacking in the initial stages of your freelance writing 
 
 Create work samples in various niches to showcase your unrealized talent and expertise to potential clients.
 
+For more insights on building your writing career and staying updated on freelancing trends, [smash that subscribe button at the top](https://wayfinder.page/subscribe) to get fresh writing tips delivered to your inbox!
+
 ### Make meaningful bonds
 
 Networking is an influential tool that can open doors to numerous opportunities in the freelance writing industry.
@@ -61,3 +62,7 @@ Convert challenges into opportunities for growth and stick with it!
 Beginning without experience may seem impossible. However, you can reserve a niche in this dynamic industry with optimism and a commitment to continuous improvement.
 
 > Each word you write is a step forward on your path toward becoming an accomplished freelance writer.
+
+:::tip
+Ready to Level Up Your Writing Career? Take your freelance writing journey to the next level! [Smash that subscribe button at the top](https://wayfinder.page/subscribe) to stay in the know each time a new writing and freelancing article is published. Get insider tips, industry insights, and actionable strategies delivered straight to your inbox!
+:::

@@ -1,6 +1,6 @@
 ---
 title: "Mindful Parenting: How to Raise Emotionally Intelligent Kids (Without Losing Your Mind)"
-description: Steal these mindful parenting techniques to raise emotionally intelligent children. Learn to be present, validate emotions, model healthy behaviors, and encourage mindfulness. 🧘‍♀️👨 ‍👧
+description: Steal these mindful parenting techniques to raise emotionally intelligent children. Learn to be present, validate emotions, model healthy behaviors, and encourage mindfulness. 🧘♀️👨 👧
 published: 2024-04-02
 draft: false
 tags: ["Emotional Intelligence", "Psychology"]

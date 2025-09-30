@@ -1,6 +1,6 @@
 ---
 title: 7 Mindfulness Hacks to Supercharge Your Focus and Productivity
-description: Struggling to focus at work? These 7 mindfulness techniques can help tame mental chaos and boost productivity – no lotus position required! 🧘‍♀️💼
+description: Struggling to focus at work? These 7 mindfulness techniques can help tame mental chaos and boost productivity – no lotus position required! 🧘♀️💼
 published: 2024-08-06
 draft: false
 tags: ["Mindfulness", "Focus", "Workplace Productivity"]
@@ -22,7 +22,7 @@ First up, let's talk about breathing. I know, I know, you've been doing it your 
 - Breathe out for 4 counts
 - Repeat until you feel like a human again
 
-## 2. Meditation: It's Not Just for Hippies 🧘‍♀️
+## 2. Meditation: It's Not Just for Hippies 🧘♀️
 
 Meditation is like a gym for your brain. It helps you strengthen your focus muscles and kick distracting thoughts to the curb. And no, you don't have to sit in lotus position for hours. Even a few minutes can work wonders. Here's how to get started:
 
@@ -32,7 +32,7 @@ Meditation is like a gym for your brain. It helps you strengthen your focus musc
 4. When your mind wanders (and it will), gently bring it back to your breath
 5. Repeat daily for best results
 
-## 3. Monotasking: The Anti-Multitasking 🙅 ‍♀ ️
+## 3. Monotasking: The Anti-Multitasking 🙅 ♀ ️
 
 Multitasking is a myth. Your brain can only focus on one thing at a time. When you try to do multiple things at once, you just end up doing them all poorly. The solution? Monotasking. Here's how it works:
 
@@ -42,7 +42,7 @@ Multitasking is a myth. Your brain can only focus on one thing at a time. When y
 - Take a 5-minute break
 - Repeat
 
-## 4. Mindful Stretching: Because Your Body Matters Too 🤸 ‍♀ ️
+## 4. Mindful Stretching: Because Your Body Matters Too 🤸 ♀ ️
 
 Your brain isn't the only thing that needs a mindfulness break. Your body does too. Sitting all day can turn you into a human pretzel, and that's not good for anyone. Try incorporating some mindful stretches into your day:
 
@@ -62,7 +62,7 @@ When you're feeling stuck or frustrated, gratitude can be a game-changer. It hel
 
 ## 6. Mindful Eating: Because Food Shouldn't be Multitasked Either 🍴
 
-How many times have you scarfed down lunch while staring at your computer screen? 🙋‍♀️ We're all guilty of it. But eating mindlessly can leave you feeling unsatisfied and sluggish. Try this instead:
+How many times have you scarfed down lunch while staring at your computer screen? 🙋♀️ We're all guilty of it. But eating mindlessly can leave you feeling unsatisfied and sluggish. Try this instead:
 
 - Step away from your desk
 - Take a few deep breaths before you start eating

@@ -137,7 +137,7 @@ Measure end results, not output. For example, self-reported satisfaction scores 
 
 Carefully choose metrics that connect leading indicators to longer-term outcomes. Be wary of short term proxies that fall apart over time. Prioritize problem and solution fit over scale.
 
-🧑 ‍🎓 Regularly review and refine your metrics based on what you learn.
+🧑 🎓 Regularly review and refine your metrics based on what you learn.
 
 Be prepared to pivot if the current metrics are not driving favorable outcomes
 

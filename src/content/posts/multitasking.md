@@ -16,7 +16,7 @@ Hey there, productivity enthusiast! 👋 Ever caught yourself bragging about you
 Turns out, our brains aren't wired to be the circus performers we think they are. In fact, all that task-switching could be costing us more than we realize.
 
 
-So, buckle up, buttercup! We're about to take a wild ride through the tangled web of multitasking and its sneaky impact on our productivity. We'll bust some myths, crunch some numbers, and maybe even convince you to embrace your inner unitasker. 🦸 ‍♀ ️
+So, buckle up, buttercup! We're about to take a wild ride through the tangled web of multitasking and its sneaky impact on our productivity. We'll bust some myths, crunch some numbers, and maybe even convince you to embrace your inner unitasker. 🦸 ♀ ️
 
 Ready to dive in? Let's go!
 
@@ -28,7 +28,7 @@ In reality, what we call "multitasking" is actually just rapid task-switching. O
 
 This constant mental juggling act can have a serious impact on our productivity. Studies have shown that attempting to multitask can reduce productivity by up to 40%. That's right – your efforts to do more might actually be helping you accomplish less.
 
-## Switching Costs (AKA Why Juggling Tasks is Making You Drop the Ball) 🤹 ‍♀ ️
+## Switching Costs (AKA Why Juggling Tasks is Making You Drop the Ball) 🤹 ♀ ️
 
 Ever feel like you're spinning your wheels when you switch between tasks? That's not just your imagination – it's what psychologists call "switching costs."
 
@@ -46,7 +46,7 @@ On the flip side, there's "deep work" – the kind of focused, high-quality outp
 
 But here's the kicker: deep work requires, well, depth. And depth is something you just can't achieve when you're multitasking. So by trying to do everything at once, you might be robbing yourself of the opportunity to do anything truly exceptional.
 
-## Strategies for Single-Tasking (Embracing Your Inner Unitasker) 🧘‍♀️
+## Strategies for Single-Tasking (Embracing Your Inner Unitasker) 🧘♀️
 
 Alright, I hear you. "But how am I supposed to get everything done if I don't multitask?" Fear not, my productivity-seeking friend. Here are some strategies to help you embrace the power of single-tasking:
 

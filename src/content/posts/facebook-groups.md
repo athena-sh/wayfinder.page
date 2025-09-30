@@ -12,7 +12,7 @@ lang: ""
 
 Are you looking to harness the power of social media for your brand? Facebook Groups offer a unique opportunity to build a thriving community around your products or services.
 
-🏃 ‍♀ ️ But how do you get started?
+🏃 ♀ ️ But how do you get started?
 
 And more importantly, how do you keep your community engaged and growing?
 

@@ -1,6 +1,6 @@
 ---
-title: The Mind-Blowing Science of How Meditation Rewires Your Brain 🧠 🧘‍ ♀️
-description: How the mind-blowing science behind how meditation rewires your brain, from neuroplasticity to shrinking the amygdala. 🧠 🧘‍ ♀️
+title: The Mind-Blowing Science of How Meditation Rewires Your Brain 🧠 🧘 ♀️
+description: How the mind-blowing science behind how meditation rewires your brain, from neuroplasticity to shrinking the amygdala. 🧠 🧘 ♀️
 published: 2024-03-31
 draft: false
 tags: ["Mindfulness", "Mental Health"]
@@ -50,7 +50,7 @@ Ready to start rewiring your brain? Here's your game plan:
 
 > 🤔 Start small, with just a few minutes a day. As you get more comfortable, you can gradually increase your time. Remember, consistency is key!
 
-## 🧘‍♀️ The Bottom Line 🧠
+## 🧘♀️ The Bottom Line 🧠
 
 Meditation isn't just a woo-woo wellness trend. It's a scientifically-validated way to change your brain for the better. By strengthening key areas like the prefrontal cortex and the hippocampus, while quieting the amygdala, regular meditation can lead to a host of benefits, from reduced stress and anxiety to enhanced creativity and insight.
 

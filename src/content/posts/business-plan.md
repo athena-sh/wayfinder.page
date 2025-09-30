@@ -1,12 +1,11 @@
 ---
-title: 7 Steps to Create a Digital Business Plan in 2024 (Beginner's Guide)
+title: "7 Steps to Create a Digital Business Plan in 2024 (Beginner's Guide)"
+description: "Learn how to create a comprehensive digital business plan in 7 easy steps. This beginner's guide will help you launch your online venture successfully in 2024."
+image: scale-unbalanced.svg
 published: 2024-10-07
-description: Learn how to create a comprehensive digital business plan in 7 easy steps. This beginner's guide will help you launch your online venture successfully in 2024.
-#image: "./heroImage.jpg"
-tags: ["Technology", "AI"]
-category: "Business"
 draft: false
-lang: ""
+tags: [Technology, AI]
+category: Business
 ---
 
 Are you ready to take your business idea online? Creating a digital business plan is crucial for success in today's digital landscape. But where do you start? Don't worry, we've got you covered.
@@ -14,6 +13,8 @@ Are you ready to take your business idea online? Creating a digital business pla
 This step-by-step guide will walk you through the process of creating a solid digital business plan. No fancy jargon or complicated theories here - just practical advice you can actually use.
 
 Let's dive in and turn your digital dreams into reality.
+
+Before we start building your business plan, if you're serious about launching your digital venture, [smash that subscribe button at the top](https://wayfinder.page/subscribe) to get more business strategy and planning insights delivered to your inbox!
 
 ## Step 1: Define Your Digital Business Concept
 
@@ -321,3 +322,7 @@ Now, let's give a greatest hits tour of your business plan. For each main sectio
 ![Athena](https://res.cloudinary.com/ddicetqs5/image/upload/f_auto/v1728181457/wayfinder-ghost-blog/inline-recW1c7CTfQcTk2OR)
 
 Congratulations! You've now got a roadmap for creating your digital business plan. Remember, this plan is a living document. As your business grows and evolves, so should your plan. Don't be afraid to revisit and revise it regularly. Ready to turn your digital business plan into reality? Start with Step 1 and take it one step at a time. Your online success story begins now!
+
+:::tip
+Ready to Launch Your Digital Empire? Don't let your business plan collect digital dust! [Smash that subscribe button at the top](https://wayfinder.page/subscribe) to stay in the know each time a new business planning and strategy article is published. Get planning templates, strategic insights, and growth tactics delivered straight to your inbox!
+:::

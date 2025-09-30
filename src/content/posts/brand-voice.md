@@ -1,11 +1,11 @@
 ---
 title: "Finding Your Voice: A Messy Guide to Developing Your Unique Content Brand"
-description: Craft your unique content voice and cut through the digital noise. No-nonsense advice and practical tips for content creators who mean business.
+description: "Craft your unique content voice and cut through the digital noise. No-nonsense advice and practical tips for content creators who mean business."
+image: newspaper.svg
 published: 2024-03-11
 draft: false
-tags: ["Content"]
-category: "Guides"
-lang: ""
+tags: [Content]
+category: Guides
 ---
 
 
@@ -21,6 +21,8 @@ Before we dive in, let's get one thing straight: your content voice isn't about 
 As the great Maya Angelou once said,
 
 > "People will forget what you said, people will forget what you did, but people will never forget how you made them feel." That's what your content voice is all about – making your audience feel something.
+
+Speaking of making people feel something, if you want more insights on content creation and branding, [smash that subscribe button at the top](https://wayfinder.page/subscribe) to get fresh content strategies delivered to your inbox!
 
 ## The "Aha!" Moment (Or When I Realized I Sounded Like Everyone Else)
 
@@ -91,3 +93,7 @@ Whatever you do, just be you. Because in a world full of copycats, the original 
 Now go forth and create content that's as unique as your fingerprint (and hopefully less incriminating). You've got this!
 
 P.S. If you're still feeling stuck, remember: even Shakespeare probably had writer's block. And he didn't even have to deal with Twitter's character limit. You're already winning.
+
+:::tip
+Ready to Develop Your Unique Voice? Don't let your content blend into the crowd! [Smash that subscribe button at the top](https://wayfinder.page/subscribe) to stay in the know each time a new content creation and branding article is published. Get voice development tips, brand strategies, and creative insights delivered straight to your inbox!
+:::

@@ -80,4 +80,4 @@ So, which technique takes the productivity crown? 👑 Here's the thing - there'
 
 The Pomodoro Technique might be your jam if you love structure and clear-cut work periods. On the flip side, the 52/17 Method could be your ticket to productivity bliss if you prefer longer focus sessions with substantial breaks.
 
-Why not give both a spin? Experiment for a week with each method and see which one makes you feel like a productivity superhero. 🦸 ‍♀ ️🦸 ‍♂ ️ Remember, the best technique is the one that works for you. So go forth, try them out, and conquer your to-do list like never before!
+Why not give both a spin? Experiment for a week with each method and see which one makes you feel like a productivity superhero. 🦸 ♀ ️🦸 ♂ ️ Remember, the best technique is the one that works for you. So go forth, try them out, and conquer your to-do list like never before!

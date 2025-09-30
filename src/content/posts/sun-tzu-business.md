@@ -114,7 +114,7 @@ It involves sending out your "spies," or research teams and data analysts, to co
 
 Consider it as having a map that is hidden and leads to treasures. You are "spying" when you make predictions in addition to observing the present. It's about staying one step ahead of the competition and having knowledge that allows you to adjust your tactics when necessary.
 
-Tzu's advice on using spies is essentially a reminder that in business, knowledge is profit rather than just power. Are you prepared to use the power of insights to dominate the market and let loose your inner corporate spy? 🔵 ️‍ ♂️ 📊🐀
+Tzu's advice on using spies is essentially a reminder that in business, knowledge is profit rather than just power. Are you prepared to use the power of insights to dominate the market and let loose your inner corporate spy? 🔵 ️ ♂️ 📊🐀
 
 ## Final Thoughts
 

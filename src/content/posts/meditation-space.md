@@ -1,7 +1,7 @@
 ---
 title: Creating Your Perfect Meditation Oasis at Home (Without Spending a Fortune)
 published: 2024-08-09
-description: Creating a meditation space at home is easier than you think. Follow these simple steps to transform any corner into your personal Zen zone. 🧘‍♀️🏠
+description: Creating a meditation space at home is easier than you think. Follow these simple steps to transform any corner into your personal Zen zone. 🧘♀️🏠
 #image: "./heroImage.jpg"
 tags: ["Meditation"]
 category: "Wellness"

@@ -1,13 +1,11 @@
 ---
-title: 10 Emotional Intelligence Books That Won't Make You Cringe (Much)
-description: Struggling with EQ? Check out these emotional intelligence books that might just save you from your next awkward encounter. No judgement, just real talk.
-draft: false
+title: "10 Emotional Intelligence Books That Won't Make You Cringe (Much)"
+description: "Struggling with EQ? Check out these emotional intelligence books that might just save you from your next awkward encounter. No judgement, just real talk."
+image: book-open.svg
 published: 2024-08-01
-category: "Wellness"
-lang: ""
-tags:
-  - Psychology
-#image: "./heroImage.jpg"
+draft: false
+tags: [Psychology]
+category: Wellness
 ---
 
 
@@ -24,6 +22,8 @@ Before we dive into the book list, let's get real about what emotional intellige
 4. Using this knowledge to navigate relationships and life in general
 
 Sounds simple, right? Ha! If only. But these books might help you figure it out. Maybe.
+
+Before we dive in, if you're serious about personal development and want more psychology and wellness insights, [smash that subscribe button at the top](https://wayfinder.page/subscribe) to get fresh content delivered to your inbox!
 
 👥 I'm an Amazon affiliate — commissions are earned for qualifying sales.
 
@@ -156,3 +156,7 @@ Remember, emotional intelligence isn't about being perfect. It's about being sli
 So pick up one of these books, grab a cozy blanket, and settle in for some emotional education. Just maybe keep some tissues handy. You know, for when you inevitably spill your drink, not for crying or anything. (Okay, maybe for crying too. Emotions are messy, deal with it.)
 
 Now, if you'll excuse me, I need to go practice my "empathetic listening" skills by eavesdropping on my neighbors' arguments. For science, of course.
+
+:::tip
+Want More Psychology & Wellness Insights? Don't let your emotional intelligence journey end here! [Smash that subscribe button at the top](https://wayfinder.page/subscribe) to stay in the know each time a new psychology and wellness article is published. Get book recommendations, mental health tips, and personal development strategies delivered straight to your inbox!
+:::

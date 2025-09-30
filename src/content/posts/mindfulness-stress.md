@@ -1,6 +1,6 @@
 ---
 title: The Mind-Blowing Benefits of Mindfulness Meditation for Stress Relief
-description: Discover the science-backed benefits of mindfulness meditation for reducing stress, improving focus, and enhancing emotional well-being. 🧘‍♀️🧠 💪
+description: Discover the science-backed benefits of mindfulness meditation for reducing stress, improving focus, and enhancing emotional well-being. 🧘♀️🧠 💪
 published: 2024-09-25
 draft: false
 tags: ["Mindfulness", "Mental Health"]

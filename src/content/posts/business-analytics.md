@@ -1,12 +1,11 @@
 ---
 title: "7 Data Analytics Hacks for Small Online Businesses in 2024"
 description: "Discover 7 practical data analytics strategies to boost your small online business's performance and profitability in 2024."
+image: scale-unbalanced.svg
 published: 2024-10-12
 draft: false
-tags:
-  - Optimization
-category: "Business"
-lang: ""
+tags: [Optimization]
+category: Business
 ---
 
 
@@ -19,6 +18,8 @@ Breathe. It's not as scary as it sounds.
 Data analytics doesn't have to be a complex beast that eats up all your time and sanity.
 
 In fact, with the right approach, it can be your secret weapon for growth and success in the cutthroat world of online business.
+
+Before we dive into these analytics hacks, if you're serious about growing your online business, [smash that subscribe button at the top](https://wayfinder.page/subscribe) to get more business strategies and data insights delivered to your inbox!
 
 
 ## Understand Your Customer Journey
@@ -137,3 +138,7 @@ By focusing on these key areas, you can gain valuable insights without drowning 
 Remember, the goal is to work smarter, not harder.
 
 Start small, be consistent, and watch as your data-driven decisions lead to real growth and success in your online venture.
+
+:::tip
+Want More Business Analytics Insights? Take your small business to the next level! [Smash that subscribe button at the top](https://wayfinder.page/subscribe) to stay in the know each time a new business analytics and optimization article is published. Get data strategies, performance tips, and growth hacks delivered straight to your inbox!
+:::

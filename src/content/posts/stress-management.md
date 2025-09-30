@@ -140,7 +140,7 @@ What stress management techniques have worked for you? Have you tried any of the
 
 Don't forget, we're all in this stress boat together. So let's grab our metaphorical oars (and maybe some actual stress balls) and navigate these choppy waters of life. You've got this. We've got this.
 
-🧘‍♀️\***\*Now breathe!\*\***
+🧘♀️\***\*Now breathe!\*\***
 
 ---
 

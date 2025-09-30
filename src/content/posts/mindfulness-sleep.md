@@ -11,7 +11,7 @@ lang: ""
 
 I know, I know, I bet you're tired. Not just "I stayed up too late binge-watching Netflix" tired, but that deep, soul-crushing exhaustion that comes from weeks, months, or even years of poor sleep.
 
-🧘‍♀️ And now you're supposed to try "mindfulness?"
+🧘♀️ And now you're supposed to try "mindfulness?"
 
 Isn't that just hippy-dippy nonsense? Well, as a former skeptic myself, I'm here to tell you that mindfulness can actually work wonders for your sleep. I know, I know, I didn't believe it either. But hear me out.
 

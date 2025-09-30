@@ -11,7 +11,7 @@ lang: ""
 
 Are you a solopreneur struggling to manage your time and tasks effectively?
 
-👨‍👩‍👧‍👦 You're not alone.
+👨👩👧👦 You're not alone.
 
 In today's fast-paced business world, having the right productivity tools can make or break your success. As a one-person show, you need to wear multiple hats and juggle numerous responsibilities.
 
