@@ -2,6 +2,7 @@
 title: "This Is How YOU Become A Freelance Writer in 2024"
 description: "Do you like writing enough to help others? Freelance writing beginners, starting freelance writing, 2024 freelance trends."
 image: newspaper.svg
+hero: https://res.cloudinary.com/ddicetqs5/image/upload/c_lfill,w_1200,h_675,h_675,f_auto,fl_force_strip,q_auto:best/v1759330906/wayfinder-images/lw1q7w8ovgcml93nw193
 published: 2024-07-09
 draft: false
 tags: [Freelancing, Business]
