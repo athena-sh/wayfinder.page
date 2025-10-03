@@ -2,6 +2,7 @@
 title: "10 Emotional Intelligence Books That Won't Make You Cringe (Much)"
 description: "Struggling with EQ? Check out these emotional intelligence books that might just save you from your next awkward encounter. No judgement, just real talk."
 image: book-open.svg
+hero: https://cdn.openart.ai/uploads/image_ALWrZhPz_1759454970804_raw.jpg
 published: 2024-08-01
 draft: false
 tags: [Psychology]
