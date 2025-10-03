@@ -137,21 +137,21 @@ So, what are you waiting for? (See what I did there?) Your future self is cheeri
 
 ## FAQ: Beat Procrastination
 
-#### How long does it take to overcome procrastination habits?
+### Q: How long does it take to overcome procrastination habits?
 
-Most productivity experts suggest it takes 21-66 days to form or break a habit, depending on its complexity. Start with one technique and practice consistently for at least 3 weeks to see lasting change.
+A: Most productivity experts suggest it takes 21-66 days to form or break a habit, depending on its complexity. Start with one technique and practice consistently for at least 3 weeks to see lasting change.
 
-#### What if none of these techniques work for me?
+### Q: What if none of these techniques work for me?
 
-Different strategies work for different people. If these don't resonate, consider underlying issues like perfectionism, fear of failure, or ADHD. Sometimes professional support from a therapist or coach can provide personalized strategies. You might also find our guide on [time management apps](/posts/best-time-management-apps-boost-efficiency) helpful for additional productivity tools.
+A: Different strategies work for different people. If these don't resonate, consider underlying issues like perfectionism, fear of failure, or ADHD. Sometimes professional support from a therapist or coach can provide personalized strategies. You might also find our guide on [time management apps](/posts/best-time-management-apps-boost-efficiency) helpful for additional productivity tools.
 
-#### Can procrastination ever be beneficial?
+### Q: Can procrastination ever be beneficial?
 
-Some research suggests that moderate procrastination can lead to increased creativity and better decision-making, as it allows time for ideas to percolate. However, chronic procrastination is typically counterproductive.
+A: Some research suggests that moderate procrastination can lead to increased creativity and better decision-making, as it allows time for ideas to percolate. However, chronic procrastination is typically counterproductive.
 
-#### How do I deal with procrastination when I'm feeling overwhelmed?
+### Q: How do I deal with procrastination when I'm feeling overwhelmed?
 
-Start with the smallest possible action. Break your task into micro-steps and commit to just 2 minutes of work. Often, starting is the hardest part, and momentum builds naturally.
+A: Start with the smallest possible action. Break your task into micro-steps and commit to just 2 minutes of work. Often, starting is the hardest part, and momentum builds naturally.
 
 ---
 

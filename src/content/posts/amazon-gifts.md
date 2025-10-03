@@ -91,29 +91,29 @@ I hope you have a wonderful holiday season.
 
 ## FAQ: Amazon Gift Cards
 
-#### Can Amazon Gift Cards expire?
+### Q: Can Amazon Gift Cards expire?
 
-No, Amazon Gift Cards do not expire, so you can rest easy knowing your last-minute gift will always be valuable. Federal law requires gift cards to remain valid for at least five years, and Amazon exceeds this standard with no expiration date.[^2]
+A: No, Amazon Gift Cards do not expire, so you can rest easy knowing your last-minute gift will always be valuable. Federal law requires gift cards to remain valid for at least five years, and Amazon exceeds this standard with no expiration date.[^2]
 
-#### What makes Amazon Gift Cards so convenient?
+### Q: What makes Amazon Gift Cards so convenient?
 
-Amazon holds the crown for the fifth year in a row (75% of votes!) as the most preferred gift card, with 52% of consumers choosing gift cards specifically because of their convenience.[^3]
+A: Amazon holds the crown for the fifth year in a row (75% of votes!) as the most preferred gift card, with 52% of consumers choosing gift cards specifically because of their convenience.[^3]
 
-#### Are there any fees associated with Amazon Gift Cards?
+### Q: Are there any fees associated with Amazon Gift Cards?
 
-Nope! No fees, no hidden charges. The amount you choose is the amount they get.
+A: Nope! No fees, no hidden charges. The amount you choose is the amount they get.
 
-#### Can the recipient exchange the Amazon Gift Card for cash?
+### Q: Can the recipient exchange the Amazon Gift Card for cash?
 
-Amazon Gift Cards cannot be exchanged for cash, but with Amazon's vast selection, cash might just seem boring in comparison.
+A: Amazon Gift Cards cannot be exchanged for cash, but with Amazon's vast selection, cash might just seem boring in comparison.
 
-#### Is it possible to customize the amount on the gift card?
+### Q: Is it possible to customize the amount on the gift card?
 
-Absolutely! You can tailor the gift card amount to suit your budget, making it as generous or as modest as you like.
+A: Absolutely! You can tailor the gift card amount to suit your budget, making it as generous or as modest as you like.
 
-#### Can I send the gift card directly to the recipient's email?
+### Q: Can I send the gift card directly to the recipient's email?
 
-Yes, you can send it directly to their email with a personalized message, making it a hassle-free gifting experience.
+A: Yes, you can send it directly to their email with a personalized message, making it a hassle-free gifting experience.
 
 ---
 

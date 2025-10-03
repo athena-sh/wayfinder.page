@@ -328,13 +328,13 @@ Stay Secure and Protected! Don't leave your business vulnerable to cyber threats
 
 ## FAQs
 
-#### 1. **"I'm just a small business. Do I really need all these cybersecurity measures?"**
+### Q: I'm just a small business. Do I really need all these cybersecurity measures?
 
-Absolutely! In fact, small businesses are often the tastiest snacks for cyber baddies. They know you might not have Fort Knox-level security, making you an easier target. It's like leaving a pie on the windowsill – sooner or later, someone's gonna try to grab it. Better safe than sorry, right?
+A: Absolutely! In fact, small businesses are often the tastiest snacks for cyber baddies. They know you might not have Fort Knox-level security, making you an easier target. It's like leaving a pie on the windowsill – sooner or later, someone's gonna try to grab it. Better safe than sorry, right?
 
-#### 2. **"This all sounds expensive. How can I afford to implement these security steps?"**
+### Q: This all sounds expensive. How can I afford to implement these security steps?
 
-Good news: beefing up your cybersecurity doesn't have to cost an arm and a leg. Start small:
+A: Good news: beefing up your cybersecurity doesn't have to cost an arm and a leg. Start small:
 
 - Use free or low-cost antivirus software
 - Train your team yourself using online resources
@@ -342,13 +342,13 @@ Good news: beefing up your cybersecurity doesn't have to cost an arm and a leg. 
 
 Remember, the cost of prevention is usually way less than the cost of cleaning up after a cyber attack. It's like buying a $10 umbrella versus paying for a new smartphone because yours got soaked in the rain.
 
-#### 3. **"What's the deal with multi-factor authentication? Is it really that important?"**
+### Q: What's the deal with multi-factor authentication? Is it really that important?
 
-You bet your bottom dollar it is! Think of it like this: if your password is the lock on your front door, multi-factor authentication is the security guard, the moat, and the drawbridge all rolled into one. It's that extra layer that makes hackers go, "Ugh, too much work. Next!"
+A: You bet your bottom dollar it is! Think of it like this: if your password is the lock on your front door, multi-factor authentication is the security guard, the moat, and the drawbridge all rolled into one. It's that extra layer that makes hackers go, "Ugh, too much work. Next!"
 
-#### 4. **"I'm not tech-savvy. How can I possibly manage all this cybersecurity stuff?"**
+### Q: I'm not tech-savvy. How can I possibly manage all this cybersecurity stuff?
 
-Deep breaths, friend. You don't need to be a tech wizard to protect your business. Start with the basics:
+A: Deep breaths, friend. You don't need to be a tech wizard to protect your business. Start with the basics:
 
 1. Use strong passwords
 2. Keep your software updated
@@ -356,9 +356,9 @@ Deep breaths, friend. You don't need to be a tech wizard to protect your busines
 
 As you get more comfortable, you can tackle the more complex stuff. And remember, there's no shame in asking for help. Plenty of IT professionals out there would be happy to give you a hand.
 
-#### 5. **"What should I do if I think I've already been hacked?"**
+### Q: What should I do if I think I've already been hacked?
 
-First things first: don't panic! Here's a quick action plan:
+A: First things first: don't panic! Here's a quick action plan:
 
 1. Change your passwords immediately
 2. Run a full system scan with your antivirus software

@@ -133,21 +133,21 @@ Now go forth and prioritize like a pro. Your future, less-frazzled self will tha
 
 ## FAQ: ABCDE Method
 
-#### How long does it take to see results with the ABCDE method?
+### Q: How long does it take to see results with the ABCDE method?
 
-Most people notice improved focus and reduced stress within the first week. Significant productivity gains typically appear after 2-3 weeks of consistent use.
+A: Most people notice improved focus and reduced stress within the first week. Significant productivity gains typically appear after 2-3 weeks of consistent use.
 
-#### What if I have too many A tasks?
+### Q: What if I have too many A tasks?
 
-If you have more than 3-5 A tasks, you're likely misclassifying some B tasks as A tasks. Be ruthless - true A tasks have serious consequences if not completed.
+A: If you have more than 3-5 A tasks, you're likely misclassifying some B tasks as A tasks. Be ruthless - true A tasks have serious consequences if not completed.
 
-#### Can I use ABCDE for personal tasks too?
+### Q: Can I use ABCDE for personal tasks too?
 
-Absolutely! The ABCDE method works for both professional and personal productivity. Many people find it even more effective for personal goal achievement.
+A: Absolutely! The ABCDE method works for both professional and personal productivity. Many people find it even more effective for personal goal achievement.
 
-#### What's the biggest mistake people make with ABCDE?
+### Q: What's the biggest mistake people make with ABCDE?
 
-The most common mistake is putting everything in the A category. Remember: if everything is urgent, nothing is urgent. Be selective with your A tasks.
+A: The most common mistake is putting everything in the A category. Remember: if everything is urgent, nothing is urgent. Be selective with your A tasks.
 
 ---
 
