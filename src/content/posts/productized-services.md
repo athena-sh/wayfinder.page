@@ -1,6 +1,6 @@
 ---
 title: 7 Simple Steps to Create and Sell Productized Services in 2024
-published: 2024-09-26
+published: 2025-10-03
 description: Learn how to create and sell productized services with our step-by-step guide. Transform your skills into scalable offerings and boost your business growth.
 image: product-hunt.svg
 hero: https://res.cloudinary.com/ddicetqs5/image/upload/w_1200,h_675,c_fill,f_auto,fl_force_strip,q_auto:best/v1759503453/wayfinder-images/wttaongtkp6d6j5vroai
