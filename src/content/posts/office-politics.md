@@ -24,7 +24,9 @@ First things first: you need to get a handle on the cast of characters in your w
 
 Start by observing. Who's always chatting up the boss? Who's the office gossip? Who's the silent workhorse? Knowing these roles helps you navigate office politics like a pro.
 
-Pro tip: Don't judge a book by its cover. That quiet guy in accounting? He might be the CEO's golf buddy. The chatty intern? Could be the next rising star.
+:::tip[Fuwari Tip]
+Don't judge a book by its cover. That quiet guy in accounting? He might be the CEO's golf buddy. The chatty intern? Could be the next rising star.
+:::
 
 ## Play Nice (Even When You Want to Scream)
 

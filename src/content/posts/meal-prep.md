@@ -53,7 +53,9 @@ Here's what I usually batch cook:
 - Grains: Brown rice, quinoa, or pasta (because carbs are life)
 - Roasted veggies: Whatever's in season or on sale (I'm not picky, I'm budget-conscious)
 
-Pro tip: Invest in a good set of baking sheets. They're like the Swiss Army knife of meal prep – versatile, reliable, and they make you feel like you know what you're doing.
+:::tip[Fuwari Tip]
+Invest in a good set of baking sheets. They're like the Swiss Army knife of meal prep – versatile, reliable, and they make you feel like you know what you're doing.
+:::
 
 ## 3. The Great Container Debate (or How I Learned to Stop Worrying and Love Plastic)
 
@@ -75,7 +77,9 @@ Here are some freezer-friendly meals I swear by:
 - Soup (for when you're feeling fancy but lazy)
 - Burrito filling (just add a tortilla and you're good to go)
 
-Pro tip: Freeze soups and sauces in silicone muffin trays. Once they're solid, pop them out and store in a freezer bag. Now you have perfectly portioned servings that thaw quickly. It's like meal prep inception.
+:::tip[Fuwari Tip]
+Freeze soups and sauces in silicone muffin trays. Once they're solid, pop them out and store in a freezer bag. Now you have perfectly portioned servings that thaw quickly. It's like meal prep inception.
+:::
 
 ## 5. The Salad Jar Revolution (or How I Trick Myself into Eating Vegetables)
 
@@ -102,7 +106,9 @@ Here are some snack ideas that have saved me from many hangry meltdowns:
 - Hard-boiled eggs (nature's perfect portable protein)
 - Trail mix (just try not to eat all the M&Ms in one go)
 
-Pro tip: Portion out your snacks at the beginning of the week. It's like having your own personal vending machine, minus the unsettling preservatives.
+:::tip[Fuwari Tip]
+Portion out your snacks at the beginning of the week. It's like having your own personal vending machine, minus the unsettling preservatives.
+:::
 
 ## 7. The Leftover Makeover (or How to Avoid Food Boredom)
 

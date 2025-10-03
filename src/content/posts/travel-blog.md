@@ -43,7 +43,10 @@ Let's break down the key challenges:
 1. **Balancing Content Creation with Monetization**
 
 - You became a travel blogger to share adventures, not to become a full-time marketer. But guess what? You're now both.
-- Pro tip: Set aside dedicated time for both content creation and business development. Your future self will thank you.
+
+    :::tip[Fuwari Tip]
+    Set aside dedicated time for both content creation and business development. Your future self will thank you.
+    :::
 
 1. **Standing Out in a Saturated Market**
 

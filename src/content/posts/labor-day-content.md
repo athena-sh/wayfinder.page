@@ -41,7 +41,9 @@ Here's my utterly non-expert guide to content planning:
 - **Theme Days:** Like "Motivation Monday" or "Facepalm Friday." It gives your audience something to look forward to, and it saves you from the dreaded "what should I post today?" panic.
 - **Batch Creation:** I set aside one day to create a bunch of content. It's like meal prepping, but for social media. And yes, I do wear sweatpants and blast 90s pop music while doing it.
 
-Pro tip: Leave some room for spontaneity. You know, for those moments when you have a brilliant idea at 2 AM and absolutely must share it with the world.
+:::tip[Fuwari Tip]
+Leave some room for spontaneity. You know, for those moments when you have a brilliant idea at 2 AM and absolutely must share it with the world.
+:::
 
 ## 3. Mix It Up (Because Variety is the Spice of Social Media Life)
 
@@ -79,7 +81,9 @@ Turns out, posting when your audience is actually awake and scrolling is kind of
 - **Experiment:** Try posting at different times and see what works. It's like being a mad scientist, but with less chance of accidental world domination.
 - **Time Zones:** If you have a global audience, remember that not everyone lives in your time zone. Unless you can bend space and time, in which case, we should talk.
 
-Pro tip: Just because you're posting at optimal times doesn't mean you have to be awake for it. Scheduling tools are your friend. Use them, and reclaim your sleep schedule.
+:::tip[Fuwari Tip]
+Just because you're posting at optimal times doesn't mean you have to be awake for it. Scheduling tools are your friend. Use them, and reclaim your sleep schedule.
+:::
 
 ## 6. Engage Like Your Social Life Depends on It (Because It Kind of Does)
 

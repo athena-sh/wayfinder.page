@@ -38,7 +38,9 @@ Now, let's talk text overlays. They're like the cherry on top of your visual sun
 
 Color is your secret weapon. Use your brand colors consistently across your pins to create a cohesive look. It's like leaving breadcrumbs for your audience – they'll start recognizing your content instantly.
 
-Pro tip: Create multiple pin designs for the same content. Different strokes for different folks, right? What appeals to one pinner might not catch another's eye. By creating variety, you're casting a wider net.
+:::tip[Fuwari Tip]
+Create multiple pin designs for the same content. Different strokes for different folks, right? What appeals to one pinner might not catch another's eye. By creating variety, you're casting a wider net.
+:::
 
 ## Develop a Consistent Pinning Strategy
 
@@ -70,7 +72,9 @@ There are four types of Rich Pins: article, product, recipe, and app. Choose the
 
 Setting up Rich Pins might sound techy, but it's easier than assembling IKEA furniture. You'll need to add some metadata to your website and apply for Rich Pins through Pinterest. Once approved, all your pins will automatically get that extra oomph.
 
-Pro tip: Keep your website metadata up-to-date. Rich Pins pull this info automatically, so if your website says your product costs $10 when it actually costs $15, you're in for some awkward customer conversations.
+:::tip[Fuwari Tip]
+Keep your website metadata up-to-date. Rich Pins pull this info automatically, so if your website says your product costs $10 when it actually costs $15, you're in for some awkward customer conversations.
+:::
 
 ## Engage with Your Pinterest Community
 

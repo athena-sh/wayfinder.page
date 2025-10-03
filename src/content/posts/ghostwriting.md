@@ -118,7 +118,11 @@ Try these:
 - **Schedule interviews with clients or subject matter experts.** This is where you learn all the little details only they can provide.
 - **Use credible sources.** A Wikipedia citation is a red flag. Always reference tried and true articles, books, or studies.
 
-If you're ghostwriting a self-help book, the last thing you want is to sound clueless. (Pro tip: Google and YouTube can be like your best study buddies!)
+If you're ghostwriting a self-help book, the last thing you want is to sound clueless.
+
+:::tip[Fuwari Tip]
+Google and YouTube can be like your best study buddies.
+:::
 
 ### Creating an Outline and Planning Your Writing Process
 

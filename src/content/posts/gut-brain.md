@@ -20,7 +20,11 @@ Hang tight, folks – we're about to embark on a journey through your insides!
 
 ## The Gut: More Than Just a Pretty Face (Wait, What?)
 
-Okay, let's get real for a second. When was the last time you gave your gut a second thought? If you're anything like me, it was probably the last time you ate something questionable from that sketchy food truck down the street. (Pro tip: If the truck's slogan is "Eat at your own risk," maybe... don't?)
+Okay, let's get real for a second. When was the last time you gave your gut a second thought? If you're anything like me, it was probably the last time you ate something questionable from that sketchy food truck down the street.
+
+:::tip[Fuwari Tip]
+If the truck's slogan is "Eat at your own risk," maybe... don't.
+:::
 
 But here's the kicker: your gut is actually working overtime, 24/7, to keep you healthy. It's like that overachieving coworker who makes the rest of us look bad, except in this case, we actually want it to succeed.
 

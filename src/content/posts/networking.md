@@ -34,7 +34,9 @@ If small talk makes you want to crawl into a hole, you're not alone. But with a 
 
 Before the event, arm yourself with a few go-to questions that go beyond "So, how about this weather?" Think: "What's the coolest project you're working on right now?" or "Any good Netflix recommendations?" Boom. Instant conversation starter that doesn't make you want to die inside.
 
-Pro tip: Keep up with current events (minus the doom-scrolling). It'll give you something to talk about besides your growing houseplant collection.
+:::tip[Fuwari Tip]
+Keep up with current events (minus the doom-scrolling). It'll give you something to talk about besides your growing houseplant collection.
+:::
 
 ## 3. Quality Over Quantity (Because You Can Only Handle So Much Socializing)
 

@@ -28,7 +28,9 @@ Start by asking yourself some tough questions:
 - Which projects make you want to hide under your desk?
 - When do you feel most in your element at work?
 
-Pro tip: Keep a "brag file" of your accomplishments. It's not being cocky; it's gathering evidence of your awesomeness. Next time you're questioning your strengths, boom – proof right there.
+:::tip[Fuwari Tip]
+Keep a "brag file" of your accomplishments. It's not being cocky; it's gathering evidence of your awesomeness. Next time you're questioning your strengths, boom – proof right there.
+:::
 
 On the flip side, don't shy away from your weaknesses. They're not your dirty little secrets; they're just areas for improvement. Embrace them like that weird cousin at family reunions – acknowledge their existence and figure out how to deal with them.
 

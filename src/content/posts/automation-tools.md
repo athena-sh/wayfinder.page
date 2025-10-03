@@ -2,7 +2,7 @@
 title: "13 Best Marketing Automation Tools Guide for Success"
 description: "Discover the top 13 marketing automation tools in our comprehensive guide. Learn how to streamline your campaigns and boost ROI with expert insights and comparisons."
 image: chart-simple.svg
-hero: https://res.cloudinary.com/ddicetqs5/image/upload/w_1200,h_675,c_fill,f_auto,fl_force_strip,q_auto:best/v1759001164/wayfinder-images/dgagetykmqzvyvv4ihjk
+hero: https://res.cloudinary.com/ddicetqs5/image/upload/c_fill,f_auto,fl_force_strip,q_auto:best/v1759001164/wayfinder-images/dgagetykmqzvyvv4ihjk
 draft: false
 published: 2024-09-24
 category: Business
@@ -29,7 +29,11 @@ The benefits? Oh boy, where do we start:
 2. Improved efficiency: Marketing automation can save businesses up to 12.2% of their marketing overhead costs.[^2]
 3. Better lead nurturing: Companies that excel at lead nurturing generate 50% more sales-ready leads at 33% lower cost.[^3]
 4. Personalization at scale: Because treating everyone like "Dear Valued Customer" is so 1999.
-5. Data-driven decisions: No more guessing games. With automation, you'll have more data than you know what to do with. (Pro tip: Learn to love spreadsheets.)
+5. Data-driven decisions: No more guessing games. With automation, you'll have more data than you know what to do with.
+
+:::tip[Fuwari Tip]
+Learn to love spreadsheets.
+:::
 
 Now, when you're shopping for a marketing automation tool, keep your eyes peeled for these key features:
 

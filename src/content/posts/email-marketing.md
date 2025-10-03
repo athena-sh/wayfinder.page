@@ -62,7 +62,9 @@ Here are some ways to slice and dice your list:
 
 For instance, if you're an online retailer, you might segment your list based on past purchases. Someone who's bought men's shoes shouldn't be getting emails about the latest in women's accessories.
 
-Pro tip: Start simple with one or two segments, and build from there. You don't need to create a million different segments right off the bat.
+:::tip[Fuwari Tip]
+Start simple with one or two segments, and build from there. You don't need to create a million different segments right off the bat.
+:::
 
 ## Craft Compelling Subject Lines
 
@@ -210,7 +212,9 @@ Here's why responsive templates are your new best friend:
 
 Most email marketing platforms offer a selection of responsive templates. But if you're feeling fancy, you can also create your own or hire a designer to whip one up for you.
 
-Pro tip: Keep your design simple and clean. Fancy multi-column layouts might look great on desktop, but they can be a nightmare on mobile.
+:::tip[Fuwari Tip]
+Keep your design simple and clean. Fancy multi-column layouts might look great on desktop, but they can be a nightmare on mobile.
+:::
 
 ### Keep content concise and scannable
 
@@ -243,7 +247,9 @@ Here's your pre-flight checklist:
 
 Remember, it's better to catch any issues before you send rather than after. Your subscribers won't give you a second chance if your email looks like a jumbled mess on their phone.
 
-Pro tip: Create a testing group within your team or friends. Send them your email and ask for feedback on how it looks on their devices. More eyes mean fewer surprises.
+:::tip[Fuwari Tip]
+Create a testing group within your team or friends. Send them your email and ask for feedback on how it looks on their devices. More eyes mean fewer surprises.
+:::
 
 ## Conclusion
 

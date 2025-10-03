@@ -1,7 +1,7 @@
 ---
 title: "The Last Minute Lifesaver: Why Amazon Gift Cards are Your Holiday Hero"
 description: "Just a few days till Christmas, and you could be faced with the unpleasant task of doing your shopping at the last minute."
-hero: https://res.cloudinary.com/ddicetqs5/image/upload/w_1200,h_675,c_fill,f_auto,fl_force_strip,q_auto:best/v1758599572/wayfinder-images/imxqd68cvxjlb9yhhwhr
+hero: https://res.cloudinary.com/ddicetqs5/image/upload/c_fill,f_auto,fl_force_strip,q_auto:best/v1758599572/wayfinder-images/imxqd68cvxjlb9yhhwhr
 image: gift.svg
 published: 2024-04-24
 draft: false

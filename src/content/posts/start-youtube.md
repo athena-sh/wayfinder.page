@@ -23,7 +23,11 @@ First things first, you gotta figure out what you're all about. And I mean _real
 
 - **Soul-Searching**: I spent way too much time staring at the ceiling, wondering what I'm passionate about. Turns out, it's complaining about bad movies. Who knew?
 - **Market Research**: I watched a ton of YouTube videos. For science, of course. Not because I was procrastinating or anything.
-- **Asking Friends**: I annoyed everyone I know by constantly asking, "What do you think I'm good at?" Pro tip: Buy them coffee first.
+- **Asking Friends**: I annoyed everyone I know by constantly asking, "What do you think I'm good at?"
+
+    :::tip[Fuwari Tip]
+    Buy them coffee first.
+    :::
 
 ## 2. Gear Up (Without Breaking the Bank)
 

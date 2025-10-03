@@ -28,7 +28,10 @@ You know how you forget you're breathing until someone mentions it? Well, congra
 
 - **How to do it:** Sit comfortably (no need for a fancy meditation pose) and focus on your breath. Feel the air moving in and out. When your mind wanders (and it will), gently bring your attention back to your breath.
 - **Duration:** Start with 1-2 minutes. You're not running a mindfulness marathon here.
-- **Pro tip:** If focusing on your breath makes you anxious, try counting your breaths instead. It gives your mind something to do.
+
+:::tip[Fuwari Tip]
+If focusing on your breath makes you anxious, try counting your breaths instead. It gives your mind something to do.
+:::
 
 ## 2. The "What's That Smell?" Sensory Awareness
 
@@ -36,7 +39,10 @@ This one's great for when you're feeling overwhelmed or stuck in your head.
 
 - **How to do it:** Take a moment to notice five things you can see, four things you can touch, three things you can hear, two things you can smell, and one thing you can taste.
 - **Duration:** However long it takes you to go through the senses.
-- **Pro tip:** Try this when you're in a new environment. It's a great way to ground yourself.
+
+:::tip[Fuwari Tip]
+Try this when you're in a new environment. It's a great way to ground yourself.
+:::
 
 ## 3. The "Eating Like You've Never Eaten Before" Exercise
 
@@ -44,7 +50,10 @@ Ever inhaled a meal without even tasting it? This exercise is the antidote to mi
 
 - **How to do it:** Choose a small piece of food (a raisin works well). Examine it closely. Feel its texture. Smell it. Slowly put it in your mouth and really focus on the taste and sensation as you chew and swallow.
 - **Duration:** As long as it takes to eat the food item mindfully.
-- **Pro tip:** Try this with your favorite comfort food. You might discover new flavors you've never noticed before.
+
+:::tip[Fuwari Tip]
+Try this with your favorite comfort food. You might discover new flavors you've never noticed before.
+:::
 
 ## 4. The "Body Scan" (No MRI Required)
 
@@ -52,7 +61,10 @@ This is a great way to release tension you didn't even know you were holding.
 
 - **How to do it:** Lie down comfortably. Starting from your toes, focus your attention on each part of your body, moving upwards. Notice any sensations without trying to change them.
 - **Duration:** 5-10 minutes, or longer if you're feeling ambitious.
-- **Pro tip:** If you find yourself falling asleep, that's okay! Your body might need the rest.
+
+:::tip[Fuwari Tip]
+If you find yourself falling asleep, that's okay! Your body might need the rest.
+:::
 
 ## 5. The "Three-Minute Breathing Space"
 
@@ -63,7 +75,10 @@ Perfect for when you're short on time but need a quick reset.
 - Minute 2: Focus solely on your breath.
 - Minute 3: Expand your awareness to your whole body.
 - **Duration:** Three minutes (surprise, surprise).
-- **Pro tip:** Set a gentle alarm so you don't have to keep checking the time.
+
+:::tip[Fuwari Tip]
+Set a gentle alarm so you don't have to keep checking the time.
+:::
 
 ## 6. The "Mindful Walking" (AKA How to Make Your Neighbors Think You're Weird)
 
@@ -71,7 +86,10 @@ Who says mindfulness has to be stationary?
 
 - **How to do it:** Walk slowly, focusing on the sensation of each step. Feel your foot lifting, moving, and touching the ground.
 - **Duration:** Start with 5 minutes and work your way up.
-- **Pro tip:** Try this barefoot on grass or sand for an extra sensory experience.
+
+:::tip[Fuwari Tip]
+Try this barefoot on grass or sand for an extra sensory experience.
+:::
 
 ## 7. The "Leaves on a Stream" Thought Observation
 
@@ -79,7 +97,10 @@ This one's great for those of us with minds that just won't shut up.
 
 - **How to do it:** Imagine you're sitting by a stream. Each thought that comes into your mind, place it on a leaf and watch it float away.
 - **Duration:** 5-10 minutes.
-- **Pro tip:** If you're not into the whole nature scene, imagine your thoughts as cars passing by instead.
+
+:::tip[Fuwari Tip]
+If you're not into the whole nature scene, imagine your thoughts as cars passing by instead.
+:::
 
 ## 8. The "Mindful Listening" Exercise
 
@@ -87,7 +108,10 @@ Ever been accused of not listening? This one's for you.
 
 - **How to do it:** Close your eyes and focus on the sounds around you. Try to identify each sound without labeling it as "good" or "bad."
 - **Duration:** 3-5 minutes.
-- **Pro tip:** This is a great one to try in different environments – at home, in nature, or even in a busy cafe.
+
+:::tip[Fuwari Tip]
+This is a great one to try in different environments – at home, in nature, or even in a busy cafe.
+:::
 
 ## 9. The "Gratitude Moment"
 
@@ -95,7 +119,10 @@ Because sometimes we all need a reminder of the good stuff.
 
 - **How to do it:** Take a moment to think of three things you're grateful for. Really focus on the feeling of gratitude.
 - **Duration:** As long as it takes to feel genuinely grateful.
-- **Pro tip:** Try this right before bed. It's a great way to end the day on a positive note.
+
+:::tip[Fuwari Tip]
+Try this right before bed. It's a great way to end the day on a positive note.
+:::
 
 ## 10. The "Name That Emotion" Game
 
@@ -103,7 +130,10 @@ For when you're feeling all the feels but can't quite put your finger on why.
 
 - **How to do it:** Take a moment to check in with yourself. What emotion are you feeling right now? Where do you feel it in your body?
 - **Duration:** 1-2 minutes.
-- **Pro tip:** Keep a list of emotion words handy if you struggle to identify what you're feeling.
+
+:::tip[Fuwari Tip]
+Keep a list of emotion words handy if you struggle to identify what you're feeling.
+:::
 
 ## The Takeaway
 

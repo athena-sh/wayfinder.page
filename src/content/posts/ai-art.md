@@ -2,7 +2,7 @@
 title: "Fun with Generative AI Art"
 published: 2024-01-10
 description: "DALL-E vs. Midjourney showdown: Which AI creates better fantasy book covers? Compare results from the same prompts."
-hero:  https://res.cloudinary.com/ddicetqs5/image/upload/w_1200,h_675,c_fill,f_auto,fl_force_strip,q_auto:best/v1758592605/wayfinder-images/wornxkn4tnzs2fipheei
+hero:  https://res.cloudinary.com/ddicetqs5/image/upload/c_fill,f_auto,fl_force_strip,q_auto:best/v1758592605/wayfinder-images/wornxkn4tnzs2fipheei
 image: paintbrush.svg
 tags: [AI, Art, Technology]
 category: Technology

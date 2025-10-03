@@ -47,7 +47,9 @@ In today's digital age, if you're not online, do you even exist? Here's how to e
 - **LinkedIn profile**: Yes, it's boring, but it's where the clients are. Just try to make your profile less snooze-worthy than the others.
 - **Social media**: Pick one or two platforms and rock them. I chose Twitter, where I alternate between sharing writing tips and complaining about my caffeine addiction.
 
-Pro tip: Resist the urge to spend hours perfecting your online presence. You're a writer, not a web designer. Your time is better spent actually writing.
+:::tip[Fuwari Tip]
+Resist the urge to spend hours perfecting your online presence. You're a writer, not a web designer. Your time is better spent actually writing.
+:::
 
 ## 4. Find Clients (Or How I Learned to Stop Worrying and Love Cold Pitching)
 
@@ -71,7 +73,9 @@ Pricing your services is an art form. Set your rates too low, and you'll be eati
 - **Consider your experience**: If you're just starting out, you might need to charge less initially. But don't sell yourself short!
 - **Value-based pricing**: As you gain experience, price based on the value you provide, not just your time.
 
-Pro tip: Don't be afraid to raise your rates as you gain experience. I started out charging peanuts, but now I charge... slightly larger peanuts. Progress!
+:::tip[Fuwari Tip]
+Don't be afraid to raise your rates as you gain experience. I started out charging peanuts, but now I charge... slightly larger peanuts. Progress!
+:::
 
 ## 6. Master the Art of Time Management (Or How I Learned to Stop Procrastinating and Love Deadlines)
 

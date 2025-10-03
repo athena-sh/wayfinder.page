@@ -31,7 +31,9 @@ Try this: Pick three different cardio activities you don't completely despise. M
 
 Start with 20-30 minutes, 2-3 times a week. Can't do 20 minutes? Start with 5. Remember, you're not training for the Olympics (unless you are, in which case, why are you reading this?).
 
-Pro tip: Find a cardio buddy. Misery loves company, and you're less likely to bail when someone else is counting on you.
+:::tip[Fuwari Tip]
+Find a cardio buddy. Misery loves company, and you're less likely to bail when someone else is counting on you.
+:::
 
 ## 2. Strength Training (No, You Won't Get Too Bulky) 🏋 ️
 

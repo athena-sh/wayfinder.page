@@ -53,7 +53,9 @@ My chaotic approach:
 2. Color-code different types of tasks (e.g., client work, admin, personal time).
 3. Schedule everything, including breaks and "buffer time" for unexpected tasks.
 
-Pro tip: Don't forget to schedule in some "stare blankly at the wall" time. We all need it.
+:::tip[Fuwari Tip]
+Don't forget to schedule in some "stare blankly at the wall" time. We all need it.
+:::
 
 ## 4. The Two-Minute Rule (For When Your To-Do List Looks Like a Novel)
 
@@ -88,7 +90,9 @@ Here's how I use it (with varying degrees of success):
 3. Place your tasks in the appropriate quadrants.
 4. Focus on the Urgent & Important quadrant first, then move to Important but Not Urgent.
 
-Pro tip: Be honest with yourself. Not everything can be urgent and important, no matter how much your anxiety tries to convince you otherwise.
+:::tip[Fuwari Tip]
+Be honest with yourself. Not everything can be urgent and important, no matter how much your anxiety tries to convince you otherwise.
+:::
 
 ## 7. The "No" Technique (Because You're Not a Superhero)
 

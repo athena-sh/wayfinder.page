@@ -2,7 +2,7 @@
 title: "You, Too, Can Earn an Extra $1200/mo by Leveraging Affiliate Marketing"
 description: "Simple strategies to earn $1200/month with affiliate marketing. Target niche products and leverage cost-effective ads."
 image: money-bill-trend-up.svg
-hero: https://res.cloudinary.com/ddicetqs5/image/upload/w_1200,h_675,c_fill,f_auto,fl_force_strip,q_auto:best/v1758547048/wayfinder-images/q3ijrrzgodjnccdewnjx
+hero: https://res.cloudinary.com/ddicetqs5/image/upload/c_fill,f_auto,fl_force_strip,q_auto:best/v1758547048/wayfinder-images/q3ijrrzgodjnccdewnjx
 published: 2024-02-19
 draft: false
 tags: [Affiliate Marketing, Online Income, Side Hustle]

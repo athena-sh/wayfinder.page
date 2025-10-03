@@ -101,7 +101,9 @@ Here are some ways to gather this intel:
 3. Analytics: If you already have a website or social media presence, dive into those analytics to see what content resonates.
 4. Interviews: Reach out to potential customers for quick chat. Bribe them with coffee if you have to.
 
-Pro tip: Create buyer personas based on your research. Give them names, backstories, and favorite ice cream flavors. It'll help you keep your target audience in mind as you move forward.
+:::tip[Fuwari Tip]
+Create buyer personas based on your research. Give them names, backstories, and favorite ice cream flavors. It'll help you keep your target audience in mind as you move forward.
+:::
 
 ## Step 3: Develop Your Digital Marketing Strategy
 
@@ -118,7 +120,9 @@ There are more marketing channels out there than flavors of Ben & Jerry's ice cr
 5. Pay-per-click advertising (PPC): For when you need results faster than your aunt Karen spreading gossip
 6. Influencer marketing: If you can't beat 'em, pay 'em to promote you
 
-Pro tip: Don't try to be everywhere at once. Start with 2-3 channels and do them well before expanding.
+:::tip[Fuwari Tip]
+Don't try to be everywhere at once. Start with 2-3 channels and do them well before expanding.
+:::
 
 ### Create a content marketing plan
 
@@ -142,7 +146,9 @@ Here are some examples of SMART (Specific, Measurable, Achievable, Relevant, Tim
 - Achieve a 5% conversion rate on our landing page by the end of the year
 - Generate 100 qualified leads per month through content marketing
 
-Pro tip: Don't just set it and forget it. Review your goals regularly and adjust as needed. The digital landscape changes faster than fashion trends in the 90s.
+:::tip[Fuwari Tip]
+Don't just set it and forget it. Review your goals regularly and adjust as needed. The digital landscape changes faster than fashion trends in the 90s.
+:::
 
 ## Step 4: Plan Your Technology Infrastructure
 
@@ -159,7 +165,9 @@ Running a digital business without the right tools is like trying to build IKEA 
 5. Project management: Trello, Asana, ClickUp (because Post-it notes stuck to your forehead isn't a sustainable system)
 6. Analytics: Google Analytics, Hotjar, Mixpanel
 
-Pro tip: Look for tools that integrate with each other. The last thing you need is to spend half your day copying and pasting data between different platforms.
+:::tip[Fuwari Tip]
+Look for tools that integrate with each other. The last thing you need is to spend half your day copying and pasting data between different platforms.
+:::
 
 ### Decide on hosting and domain requirements
 
@@ -179,7 +187,9 @@ Domain:
 - Avoid hyphens and numbers (unless they're part of your brand name)
 - Check social media availability for your chosen name
 
-Pro tip: Don't get too caught up in finding the "perfect" domain. A good product with a mediocre domain beats a mediocre product with a great domain any day.
+:::tip[Fuwari Tip]
+Don't get too caught up in finding the "perfect" domain. A good product with a mediocre domain beats a mediocre product with a great domain any day.
+:::
 
 ### Consider cybersecurity measures
 
@@ -211,7 +221,9 @@ First things first, let's figure out how much cash you need to get this show on 
 5. Equipment (computer, camera, microphone, etc.)
 6. Virtual office or coworking space fees
 
-Pro tip: Add a buffer of 20-30% to your estimates. Because if there's one thing you can count on in business, it's unexpected expenses popping up like whack-a-moles.
+:::tip[Fuwari Tip]
+Add a buffer of 20-30% to your estimates. Because if there's one thing you can count on in business, it's unexpected expenses popping up like whack-a-moles.
+:::
 
 ### Project online revenue streams
 
@@ -245,7 +257,9 @@ $5,000 / ($100 - $25) = 66.67 units
 
 This means you need to sell 67 units per month to break even.
 
-Pro tip: Your break-even point isn't set in stone. Look for ways to lower your costs or increase your prices to reach profitability faster.
+:::tip[Fuwari Tip]
+Your break-even point isn't set in stone. Look for ways to lower your costs or increase your prices to reach profitability faster.
+:::
 
 ## Step 6: Outline Your Operations and Management
 
@@ -262,7 +276,9 @@ First up, let's figure out who's going to do what. Even if it's just you wearing
 5. Customer Service Rep: The voice of your brand, dealing with customer queries and complaints.
 6. Finance Wizard: Keeps track of the money coming in and going out. (Hopefully more of the former than the latter.)
 
-Pro tip: Create job descriptions for each role, even if you're filling them all yourself right now. It'll help you stay organized and make it easier to delegate or hire in the future.
+:::tip[Fuwari Tip]
+Create job descriptions for each role, even if you're filling them all yourself right now. It'll help you stay organized and make it easier to delegate or hire in the future.
+:::
 
 ### Plan for remote work and collaboration
 
@@ -288,7 +304,9 @@ Here are some tips for stellar customer service:
 4. Develop a system for tracking and resolving issues: A simple spreadsheet works for small businesses, but you might need a proper helpdesk system as you grow.
 5. Train your team (or yourself) on how to handle difficult situations: Because not every customer will be a ray of sunshine.
 
-Pro tip: Go above and beyond when you can. A personalized thank you note or a small freebie can turn a satisfied customer into a raving fan.
+:::tip[Fuwari Tip]
+Go above and beyond when you can. A personalized thank you note or a small freebie can turn a satisfied customer into a raving fan.
+:::
 
 Remember, in the digital world, word spreads fast. One bad review can haunt you like that embarrassing yearbook photo from high school. But one incredible customer experience can turn into a viral success story. So always aim for the latter.
 

@@ -89,7 +89,9 @@ This is a biggie, folks. Do you want the commitment of a full-time employee or t
 - Employees: More stability, but also more paperwork and benefits to handle
 - Contractors: Flexibility and potentially lower costs, but less control and potential turnover
 
-Pro tip: If you're not sure you're ready for the full employee experience, start with contractors. It's like dating before marriage, but for business.
+:::tip[Fuwari Tip]
+If you're not sure you're ready for the full employee experience, start with contractors. It's like dating before marriage, but for business.
+:::
 
 1. **Choose recruitment channels**
 
@@ -161,7 +163,9 @@ Think of this as your new hire survival guide. Include:
 - Introduction to tools and processes (because every business has its own brand of chaos)
 - Team introductions (even if the team is just you and your cat)
 
-Pro tip: Send some of this before their first day. It'll make them feel prepared and show you've got your act together (even if you don't).
+:::tip[Fuwari Tip]
+Send some of this before their first day. It'll make them feel prepared and show you've got your act together (even if you don't).
+:::
 
 1. **Set clear expectations and goals**
 

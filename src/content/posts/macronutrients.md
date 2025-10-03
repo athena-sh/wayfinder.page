@@ -47,7 +47,9 @@ Good sources of protein include:
 - Legumes
 - Nuts and seeds
 
-Pro tip: Mix it up! Your taste buds (and your digestive system) will thank you.
+:::tip[Fuwari Tip]
+Mix it up! Your taste buds (and your digestive system) will thank you.
+:::
 
 ## Carbohydrates: The Misunderstood Macronutrient
 

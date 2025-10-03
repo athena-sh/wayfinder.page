@@ -137,7 +137,9 @@ Here's a basic rundown:
 - Collect the correct amount of sales tax
 - File sales tax returns and remit the tax collected
 
-Pro tip: Consider using e-commerce platforms or tax software that can automate much of this process. Your sanity will thank you.
+:::tip[Fuwari Tip]
+Consider using e-commerce platforms or tax software that can automate much of this process. Your sanity will thank you.
+:::
 
 Lastly, keep accurate financial records. It's not just about appeasing the tax gods; it's about understanding your business's financial health. Plus, if you ever get audited, you'll be glad you have everything organized.
 
@@ -241,7 +243,9 @@ For contractors, you'll want to use a different type of agreement. Key elements 
 - Ownership of work product
 - Termination clause
 
-Pro tip: Have an attorney review your contracts. It's cheaper than dealing with legal issues down the road.
+:::tip[Fuwari Tip]
+Have an attorney review your contracts. It's cheaper than dealing with legal issues down the road.
+:::
 
 ## Industry-Specific Regulations: Because One Size Doesn't Fit All
 
@@ -267,7 +271,9 @@ Remember, these aren't just fancy pieces of paper. They can give you a competiti
 
 Lastly, and this is important, stay updated on changing laws and compliance requirements. The legal landscape is always shifting, like a giant, boring game of Tetris. Set up Google Alerts, subscribe to industry newsletters, or hire a compliance officer if needed.
 
-Pro tip: Consider joining industry associations. They often provide updates on regulations and can be a valuable resource for staying compliant.
+:::tip[Fuwari Tip]
+Consider joining industry associations. They often provide updates on regulations and can be a valuable resource for staying compliant.
+:::
 
 Remember, complying with industry-specific regulations isn't just about avoiding fines or legal issues. It's about being a responsible business owner and building trust with your customers. Plus, it gives you bragging rights at boring business parties.
 

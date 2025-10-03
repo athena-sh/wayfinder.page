@@ -26,7 +26,11 @@ Well, buckle up, buttercup, because we're about to dive into the world of emotio
 Okay, so emotional intelligence. It's not about being a mind reader or turning into some sort of emotional Jedi. It's more like... not being a total jerk? Here's the breakdown:
 
 1. **Self-awareness**: Knowing your own emotions. (Spoiler alert: It's not always "hungry" or "tired.")
-2. **Self-regulation**: Managing those emotions. (Pro tip: Screaming into a pillow is sometimes necessary.)
+2. **Self-regulation**: Managing those emotions.
+
+    :::tip[Fuwari Tip]
+    Screaming into a pillow is sometimes necessary.
+    :::
 3. **Motivation**: Using emotions to achieve goals. (Like using your crush on the barista to motivate you to shower regularly.)
 4. **Empathy**: Understanding others' emotions. (It's like emotional detective work, minus the cool hat.)
 5. **Social skills**: Managing relationships. (AKA not putting your foot in your mouth... as often.)

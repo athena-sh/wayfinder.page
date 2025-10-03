@@ -15,9 +15,6 @@ const { src, alt, class: className, basePath } = Astro.props;
 // Check if it's an SVG
 const isSvg = src?.endsWith('.svg');
 
-// Determine if we're likely in a mobile context based on the container
-const isMobileContext = className?.includes('w-full h-full');
-
 // Try to load SVG content if it's an SVG file
 let svgContent = null;
 if (isSvg) {
@@ -32,7 +29,7 @@ if (isSvg) {
       path.join(process.cwd(), 'public', src),
       // Check in content directory
       path.join(process.cwd(), 'src/content/posts', src),
-    ].filter(Boolean);
+    ].filter((value): value is string => typeof value === 'string');
 
     for (const svgPath of possiblePaths) {
       if (fs.existsSync(svgPath)) {

@@ -2,7 +2,7 @@
 title: "Elon Musk Sells X to xAI: What It Means for You (And Why It's Kinda Wild)"
 published: 2025-03-28
 description: "Elon Musk sold X to xAI for $33B. Discover what's next for users and tech."
-#image: "https://res.cloudinary.com/ddicetqs5/image/upload/c_fill,w_1200,h_675,f_auto/v1746932689/wayfinder-images/elon-musk-sells-x-to-xai_s2tuta"
+#image: "https://res.cloudinary.com/ddicetqs5/image/upload/c_fill,f_auto/v1746932689/wayfinder-images/elon-musk-sells-x-to-xai_s2tuta"
 image: twitter.svg
 tags: ["AI", "X"]
 category: "News"

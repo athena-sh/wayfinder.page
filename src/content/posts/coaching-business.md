@@ -60,7 +60,11 @@ Let's face it, becoming the Beyoncé of online coaching isn't just about having 
 2. **Build Your Brand**:  
    Create a personality-packed online presence. Think less 'corporate robot' and more 'that quirky friend everyone loves'. Your brand should be as unique as your fingerprint, but way more interesting. Use social media to showcase your personality – share your wins, your fails, and that time you accidentally wore your shirt inside out all day.
 3. **Master the Tech**:  
-   Choose user-friendly platforms and practice until you can host a video call in your sleep (pants optional, but recommended). Remember, even Beyoncé had to learn how to use a mic. Start with platforms like Zoom or Google Meet, and gradually work your way up to fancier tools. Pro tip: Always test your tech before a session, unless you want to become a meme about "that coach who turned herself into a potato filter".
+   Choose user-friendly platforms and practice until you can host a video call in your sleep (pants optional, but recommended). Remember, even Beyoncé had to learn how to use a mic. Start with platforms like Zoom or Google Meet, and gradually work your way up to fancier tools.
+
+   :::tip[Fuwari Tip]
+   Always test your tech before a session, unless you want to become a meme about "that coach who turned herself into a potato filter".
+   :::
 4. **Create Killer Content**:  
    Share valuable tips and insights for free. It's like leaving a trail of knowledge breadcrumbs leading straight to your paid services. Blog posts, podcasts, social media tips – sprinkle that wisdom everywhere. Just make sure it's actually useful and not just "drink water and believe in yourself" repeated 50 times.
 5. **Network Like a Boss**:  

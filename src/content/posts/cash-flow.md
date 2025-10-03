@@ -52,7 +52,9 @@ Just like you wouldn't skip your annual health check-up (right?), don't neglect 
 
 Set aside a specific time each week to review your expenses. It might not be the most exciting part of your week, but it's crucial for maintaining financial health.
 
-**Pro tip:** Make it a ritual. Pour yourself a cup of coffee, put on some music, and dive into those numbers. Before you know it, you might even start looking forward to it!
+:::tip[Fuwari Tip]
+Make it a ritual. Pour yourself a cup of coffee, put on some music, and dive into those numbers. Before you know it, you might even start looking forward to it!
+:::
 
 - **Identify and cut unnecessary costs**
 
@@ -283,7 +285,9 @@ This might seem like a lot, but having this buffer can be the difference between
 
 Make saving a habit by automatically setting aside a portion of your revenue each month. Even 5% can add up over time.
 
-**Pro tip:** Keep your emergency fund in a high-yield savings account. It won't make you rich, but it will earn more interest than a regular checking account.
+:::tip[Fuwari Tip]
+Keep your emergency fund in a high-yield savings account. It won't make you rich, but it will earn more interest than a regular checking account.
+:::
 
 ### Invest Excess Cash Wisely
 

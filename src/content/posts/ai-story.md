@@ -4,7 +4,7 @@ description: "ChatGPT writes a complete fantasy story about Pandora's Box. See h
 draft: false
 published: 2024-01-10
 image: book-open.svg
-hero: https://res.cloudinary.com/ddicetqs5/image/upload/w_1200,h_675,c_fill,f_auto,fl_force_strip,q_auto:best/v1758607542/wayfinder-images/m6jznuojzayydarocdnl
+hero: https://res.cloudinary.com/ddicetqs5/image/upload/c_fill,f_auto,fl_force_strip,q_auto:best/v1758607542/wayfinder-images/m6jznuojzayydarocdnl
 tags: [AI, Writing, Technology]
 category: Technology
 ---

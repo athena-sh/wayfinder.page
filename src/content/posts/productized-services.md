@@ -3,7 +3,7 @@ title: 7 Simple Steps to Create and Sell Productized Services
 published: 2025-10-03
 description: Learn how to create and sell productized services with our step-by-step guide. Transform your skills into scalable offerings and boost your business growth.
 image: product-hunt.svg
-hero: https://res.cloudinary.com/ddicetqs5/image/upload/w_1200,h_675,c_fill,f_auto,fl_force_strip,q_auto:best/v1759503453/wayfinder-images/wttaongtkp6d6j5vroai
+hero: https://res.cloudinary.com/ddicetqs5/image/upload/f_auto,fl_force_strip,q_auto:best/v1759503453/wayfinder-images/wttaongtkp6d6j5vroai
 tags: ["AI", "Freelance"]
 category: "Business"
 draft: false
@@ -47,14 +47,18 @@ These folks took mundane services and turned them into irresistible, easy-to-buy
 
 ## Step 1: Identify Your Niche and Target Audience
 
-![OpenArt AI | Athena Character Reference | Happy Halloween!](https://res.cloudinary.com/ddicetqs5/image/upload/w_1200,h_675,c_fill,f_auto,fl_force_strip,q_auto:best/v1759503611/wayfinder-images/uask4udwwnugljy44aav)
+![OpenArt AI | Athena Character Reference | Happy Halloween!](https://res.cloudinary.com/ddicetqs5/image/upload/c_fill,f_auto,fl_force_strip,q_auto:best/v1759503611/wayfinder-images/uask4udwwnugljy44aav)
 
 Alright, time to get real. You can't be everything to everyone, unless you're bacon. And last I checked, you're not bacon (if you are, we need to talk).
 
 Finding your niche is like dating – you've got to kiss a few frogs before you find your prince(ss). Here's how to pucker up:
 
 1. **Assess your skills and expertise**: What are you good at? Like, really good at? The kind of good where people say, "Wow, you make that look easy!" That's your sweet spot.
-2. **Research market demand**: Is there actually a need for what you're offering? Or are you trying to sell ice to Eskimos? (Pro tip: Don't do that. They have plenty of ice.)
+2. **Research market demand**: Is there actually a need for what you're offering? Or are you trying to sell ice to Eskimos?
+
+    :::tip[Fuwari Tip]
+    Don't do that. They have plenty of ice.
+    :::
 3. **Define your ideal client profile**: Who's your dream customer? The one who makes you think, "I'd do this for free!" (But don't tell them that.)
 
 Let's break it down:
@@ -119,13 +123,15 @@ Here's where you get to flex your creative muscles. Consider offering:
 - Premium package: The bells and whistles
 - VIP package: The "I want it all" option
 
-Pro tip: Give your packages catchy names. "The Bare Bones," "The Whole Enchilada," and "The Kitchen Sink" are way more fun than Bronze, Silver, and Gold.
+:::tip[Fuwari Tip]
+Give your packages catchy names. "The Bare Bones," "The Whole Enchilada," and "The Kitchen Sink" are way more fun than Bronze, Silver, and Gold.
+:::
 
 Remember, the key is to make your offering so clear and compelling that potential clients think, "I'd be crazy not to buy this!" (But in a good way, not in a infomercial at 3 AM way.)
 
 ## Step 3: Develop Systems and Workflows
 
-![OpenArt AI | Athena Character Reference | Happy Halloween!](https://res.cloudinary.com/ddicetqs5/image/upload/w_1200,h_675,c_fill,f_auto,fl_force_strip,q_auto:best/v1759503745/wayfinder-images/jljz7cuep7ru5tze25hg)
+![OpenArt AI | Athena Character Reference | Happy Halloween!](https://res.cloudinary.com/ddicetqs5/image/upload/c_fill,f_auto,fl_force_strip,q_auto:best/v1759503745/wayfinder-images/jljz7cuep7ru5tze25hg)
 
 Alright, it's time to put on your process nerd hat (don't worry, it's invisible). We're diving into the world of systems and workflows – the unsexy but oh-so-necessary backbone of your productized service.
 
@@ -171,7 +177,9 @@ Choose a tool that doesn't make you want to pull your hair out. Some popular opt
 - [Asana](https://asana.com/) for list lovers
 - [ClickUp](https://clickup.com/) for those who want it all (it's the new [Monday](https://monday.com/))
 
-Pro tip: Whatever tool you choose, commit to it. A half-used project management system is about as useful as a chocolate teapot.
+:::tip[Fuwari Tip]
+Whatever tool you choose, commit to it. A half-used project management system is about as useful as a chocolate teapot.
+:::
 
 Remember, the goal here is to create systems that work for you, not the other way around. If your workflows feel like they're sucking the life out of you, it's time to revisit and revise.
 
@@ -223,13 +231,15 @@ Don't try to be everywhere. Pick 2-3 platforms and rock them:
 - Twitter for quick updates and industry news
 - Facebook for... well, arguing with your aunt about politics (just kidding, use it wisely)
 
-Pro tip: Consistency is key. Don't start a blog or social media account if you're going to abandon it faster than a New Year's resolution.
+:::tip[Fuwari Tip]
+Consistency is key. Don't start a blog or social media account if you're going to abandon it faster than a New Year's resolution.
+:::
 
 Remember, your online presence is often the first impression potential clients have of your business. Make it count. And for the love of all things holy, proofread everything. Nothing says "unprofessional" quite like a typo in your "About Us" page.
 
 ## Step 5: Implement Effective Marketing Strategies
 
-![OpenArt AI | Athena Character Reference | Happy Halloween!](https://res.cloudinary.com/ddicetqs5/image/upload/w_1200,h_675,c_fill,f_auto,fl_force_strip,q_auto:best/v1759503790/wayfinder-images/sfe3ritv4ejto8tzudld)
+![OpenArt AI | Athena Character Reference | Happy Halloween!](https://res.cloudinary.com/ddicetqs5/image/upload/c_fill,f_auto,fl_force_strip,q_auto:best/v1759503790/wayfinder-images/sfe3ritv4ejto8tzudld)
 
 Alright, you've got a killer productized service and a snazzy online presence. Now it's time to shout it from the digital rooftops. But instead of actually shouting (please don't), we're going to use some clever marketing strategies.
 
@@ -292,7 +302,9 @@ Ad platforms to consider:
 - Facebook/Instagram for B2C services
 - LinkedIn for B2B services
 
-Pro tip: Don't put all your eggs in one marketing basket. Diversify your strategies, test what works, and be prepared to pivot faster than a basketball player.
+:::tip[Fuwari Tip]
+Don't put all your eggs in one marketing basket. Diversify your strategies, test what works, and be prepared to pivot faster than a basketball player.
+:::
 
 Remember, good marketing is about providing value, not just talking about how great you are. Show, don't tell. And if all else fails, you can always resort to skywriting. (Just kidding, please don't do that.)
 
@@ -358,13 +370,15 @@ Self-service ideas:
 - Document upload area
 - Progress tracking system
 
-Pro tip: Test your onboarding process on friends or family. If they can navigate it without calling you in tears, you're on the right track.
+:::tip[Fuwari Tip]
+Test your onboarding process on friends or family. If they can navigate it without calling you in tears, you're on the right track.
+:::
 
 Remember, the goal is to make the process so smooth that clients barely notice it's happening. You want them to focus on the value you're providing, not the hoops they have to jump through to get it.
 
 ## Step 7: Scale and Optimize Your Operations
 
-![OpenArt AI | Athena Character Reference | Happy Halloween!](https://res.cloudinary.com/ddicetqs5/image/upload/w_1200,h_675,c_fill,f_auto,fl_force_strip,q_auto:best/v1759503821/wayfinder-images/asjfxxp2iht2mpiaojki)
+![OpenArt AI | Athena Character Reference | Happy Halloween!](https://res.cloudinary.com/ddicetqs5/image/upload/c_fill,f_auto,fl_force_strip,q_auto:best/v1759503821/wayfinder-images/asjfxxp2iht2mpiaojki)
 
 You've made it to the final step! Now it's time to think bigger. Scaling isn't just about getting more clients – it's about delivering more value without burning yourself out faster than a cheap candle.
 
@@ -426,11 +440,13 @@ Two heads are better than one (unless you're fighting over the last slice of piz
 - Bundle services for better value
 - Cross-promotion on social media and email lists
 
-Pro tip: Don't scale too fast. Growing at 200% sounds great until you realize you can't deliver quality at that pace. Slow and steady wins the race (and keeps your sanity intact).
+:::tip[Fuwari Tip]
+Don't scale too fast. Growing at 200% sounds great until you realize you can't deliver quality at that pace. Slow and steady wins the race (and keeps your sanity intact).
+:::
 
 ## Your Next Move
 
-![OpenArt AI | Athena Character Reference](https://res.cloudinary.com/ddicetqs5/image/upload/w_1200,h_675,c_fill,f_auto,fl_force_strip,q_auto:best/v1759503882/wayfinder-images/yiaqqhlm6b5dobekpwnn)
+![OpenArt AI | Athena Character Reference](https://res.cloudinary.com/ddicetqs5/image/upload/c_fill,f_auto,fl_force_strip,q_auto:best/v1759503882/wayfinder-images/yiaqqhlm6b5dobekpwnn)
 
 Look, I'm not going to lie and say creating a productized service is easy. It takes work, iteration, and probably a few facepalm moments along the way. But here's the thing – it's totally worth it.
 

@@ -72,7 +72,9 @@ Now, here's where the magic happens. Once you're in, you can enable various mone
 - Super Chat and Super Stickers: For live stream superstars
 - Merch shelf: For when your fans want to wear your face on a t-shirt
 
-Pro tip: Don't just enable everything and call it a day. Think strategically about which features align with your content and audience. Quality over quantity, folks.
+:::tip[Fuwari Tip]
+Don't just enable everything and call it a day. Think strategically about which features align with your content and audience. Quality over quantity, folks.
+:::
 
 ## 2. Optimize Ad Revenue
 

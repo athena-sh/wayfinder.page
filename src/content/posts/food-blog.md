@@ -104,7 +104,11 @@ Now for the main course — the content! This is what gets people coming back fo
 - **Practice your cooking chops**  
   You don't need to be a Michelin-star chef, but make sure your recipes are tested. The last thing you want is someone following your recipe for triple-chocolate brownies and ending up with a rock-hard mess. Make your instructions clear and detailed — think of it as guiding a newbie in the kitchen.
 - **Photography is half the battle**  
-  People eat with their eyes first, right? Great photography doesn't require a ton of expensive equipment. Start with natural lighting and your phone camera and watch a few YouTube tutorials to get started. Pro tip: Invest a little in props and styling — think nice cutting boards, cute napkins, or those trendy Mason jar drinks.
+  People eat with their eyes first, right? Great photography doesn't require a ton of expensive equipment. Start with natural lighting and your phone camera and watch a few YouTube tutorials to get started.
+
+  :::tip[Fuwari Tip]
+  Invest a little in props and styling — think nice cutting boards, cute napkins, or those trendy Mason jar drinks.
+  :::
 - **Share more than just recipes**
 
 Engage your audience by sharing personal stories, kitchen hacks, or how-to tips related to your recipes. People love to feel like they're hanging out with a friend. And if you've burned your share of batches in the oven too, don't be afraid to admit it! It creates a sense of community.

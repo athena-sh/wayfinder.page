@@ -44,7 +44,9 @@ Your mission, should you choose to accept it, is to pinpoint exactly where custo
 
 Look for patterns in these exit points. Maybe your product descriptions are about as exciting as watching paint dry. Or perhaps your checkout process is longer than a CVS receipt. Whatever it is, find it and fix it!
 
-Pro tip: Set up funnel visualization in Google Analytics. It's like following a treasure map, except instead of gold, you're finding out where your customers are getting stuck. X marks the spot where you need to make improvements!
+:::tip[Fuwari Tip]
+Set up funnel visualization in Google Analytics. It's like following a treasure map, except instead of gold, you're finding out where your customers are getting stuck. X marks the spot where you need to make improvements!
+:::
 
 ## Leverage Social Media Insights
 
@@ -84,7 +86,9 @@ Enter GTmetrix, your new best friend in the fight against sluggish websites. It'
 
 GTmetrix will give you a detailed report on what's slowing down your site. Maybe it's those giant, beautiful images you insisted on using. Or perhaps it's that fancy animation that seemed like a good idea at 2 AM. Whatever it is, find it and fix it!
 
-Pro tip: Aim for a load time of under 3 seconds. Any longer, and your customers will have enough time to question their life choices and decide they don't really need that impulse purchase after all.
+:::tip[Fuwari Tip]
+Aim for a load time of under 3 seconds. Any longer, and your customers will have enough time to question their life choices and decide they don't really need that impulse purchase after all.
+:::
 
 ### Analyze User Behavior
 
@@ -108,7 +112,9 @@ Start by tracking which products are selling faster than hotcakes at a lumberjac
 
 Are these best-sellers seasonal? Maybe your ugly Christmas sweaters are a hit in December but not so much in July. (Although if you can sell Christmas sweaters in July, you're officially a marketing genius.) Look for patterns in promotional sales too. Did that 24-hour flash sale turn your slow-moving widgets into must-have items? Take notes!
 
-Pro tip: Use your e-commerce platform's analytics tools to generate reports on your top-selling products. It's like getting a report card for your inventory, except instead of grades, you're looking at dollar signs.
+:::tip[Fuwari Tip]
+Use your e-commerce platform's analytics tools to generate reports on your top-selling products. It's like getting a report card for your inventory, except instead of grades, you're looking at dollar signs.
+:::
 
 ### Analyze Customer Lifetime Value
 

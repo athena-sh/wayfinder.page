@@ -46,7 +46,9 @@ Now for the fun part – figuring out how to communicate your awesome self to th
 
 As for your voice, think about how you naturally communicate. Are you the straight-talking, no-nonsense type? Or more of a witty wordsmith? Maybe you're the empathetic listener who always knows what to say. Whatever it is, lean into it. Authenticity is key – people can smell fake from a mile away.
 
-Pro tip: Write out your brand message and a few examples of your brand voice. It'll help keep you consistent across different platforms.
+:::tip[Fuwari Tip]
+Write out your brand message and a few examples of your brand voice. It'll help keep you consistent across different platforms.
+:::
 
 ## Create a Professional Online Presence
 

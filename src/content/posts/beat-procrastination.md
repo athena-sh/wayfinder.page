@@ -2,7 +2,7 @@
 title: "Overcome Procrastination: 5 Proven Strategies for Success"
 description: "Discover 5 powerful techniques for overcoming procrastination and achieving your goals. Learn how to boost productivity and finally conquer your to-do list!"
 image: list-check.svg
-hero: https://res.cloudinary.com/ddicetqs5/image/upload/w_1200,h_675,c_fill,f_auto,fl_force_strip,q_auto:best/v1759013810/wayfinder-images/beat-procrastination_eivxn8
+hero: https://res.cloudinary.com/ddicetqs5/image/upload/c_fill,f_auto,fl_force_strip,q_auto:best/v1759013810/wayfinder-images/beat-procrastination_eivxn8
 published: 2024-10-20
 draft: false
 tags: [Productivity, Psychology]
@@ -64,7 +64,9 @@ Why is this technique effective for overcoming procrastination?
 
 Studies show that the Pomodoro Technique can increase productivity by up to 40% and reduce mental fatigue. For a deep dive into this technique, check out our comprehensive [Pomodoro Technique guide](/posts/pomodoro-technique).[^1]
 
-💁♀️ Pro tip: Use a physical timer if possible. The ticking sound can create a pavlovian response, helping you get into "work mode" more quickly.
+:::tip[Fuwari Tip]
+💁♀️ Use a physical timer if possible. The ticking sound can create a pavlovian response, helping you get into "work mode" more quickly.
+:::
 
 ## Eat the Frog: Tackling Your Most Challenging Tasks First
 
@@ -101,7 +103,9 @@ Why is this effective for overcoming procrastination?
 - Regular check-ins help you stay on track and maintain momentum.
 - Sharing your successes (and failures) makes the journey less solitary.
 
-Pro tip: Choose your accountability partner wisely. Look for someone who will be supportive but also willing to give you a loving kick in the pants when you need it.
+:::tip[Fuwari Tip]
+Choose your accountability partner wisely. Look for someone who will be supportive but also willing to give you a loving kick in the pants when you need it.
+:::
 
 Research from the American Society of Training and Development found that people are 65% more likely to complete a goal if they commit to someone else, and 95% more likely if they have regular accountability meetings.[^3]
 

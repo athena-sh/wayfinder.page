@@ -31,7 +31,9 @@ Ever wondered what your coworkers do all day? Well, your followers are just as n
 - Include fun tidbits like their favorite work snack or their go-to "focus" song.
 - End each story with a quirky work-related fun fact about that team member.
 
-**Pro tip:** Ask team members to share their favorite work-related memory or the weirdest job they've ever had. It's like show-and-tell, but for adults!
+:::tip[Fuwari Tip]
+Ask team members to share their favorite work-related memory or the weirdest job they've ever had. It's like show-and-tell, but for adults!
+:::
 
 **Example post:** "Ever wondered what our graphic designer, Sarah, does all day besides making things look pretty? Spoiler alert: it involves a lot of coffee and occasional battles with the printer. Follow our Stories today for a peek into Sarah's world! #DayInTheLife #LaborDayEdition"
 
@@ -152,7 +154,9 @@ Share relatable and funny work-related memes. But here's the kicker: create some
 - Encourage followers to caption a work-related image you provide.
 - Host a "Meme Battle" in the comments section.
 
-**Pro tip:** Don't be afraid to poke fun at yourself or your industry. Self-awareness is charming!
+:::tip[Fuwari Tip]
+Don't be afraid to poke fun at yourself or your industry. Self-awareness is charming!
+:::
 
 **Example post:** "When the coffee machine breaks down on a Monday morning... [Insert hilarious meme] Tag a coworker who's definitely not a morning person! #WorkMemesDay #MondayMood #SendCoffee"
 

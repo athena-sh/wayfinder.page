@@ -122,7 +122,9 @@ Write these goals down. Make them SMART (Specific, Measurable, Achievable, Relev
 
 Communication is key in any relationship, and your outsourcing partnership is no exception. Set up regular check-ins, whether it's daily stand-ups, weekly video calls, or monthly progress reports. And make sure everyone knows how to reach each other in case of emergencies (like when Karen from accounting accidentally deletes the entire customer database).
 
-Pro tip: Agree on communication tools upfront. Whether it's Slack, Microsoft Teams, or good old-fashioned carrier pigeons, make sure everyone's on the same page (or app).
+:::tip[Fuwari Tip]
+Agree on communication tools upfront. Whether it's Slack, Microsoft Teams, or good old-fashioned carrier pigeons, make sure everyone's on the same page (or app).
+:::
 
 ### Developing Comprehensive Onboarding Processes
 
@@ -184,7 +186,9 @@ These tools allow for real-time collaboration, version control, and easy access 
 
 Face-to-face interaction is crucial for building relationships, even in a virtual setting. Tools like Zoom, Microsoft Teams, or Google Meet allow for face-to-face meetings without the need for expensive plane tickets.
 
-Pro tip: Always do a quick background check before joining a video call. No one needs to see your collection of embarrassing bobbleheads or that pile of laundry you've been meaning to fold for weeks.
+:::tip[Fuwari Tip]
+Always do a quick background check before joining a video call. No one needs to see your collection of embarrassing bobbleheads or that pile of laundry you've been meaning to fold for weeks.
+:::
 
 ### Automation and AI for Enhanced Efficiency
 

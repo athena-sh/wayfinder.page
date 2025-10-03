@@ -33,7 +33,9 @@ Remember when you tried to cram every cool font and clipart into your high schoo
 - Choose one or two easy-to-read fonts
 - Embrace white space (it's not just for minimalist Instagram influencers)
 
-Pro tip: When in doubt, go for a clean, uncluttered look. It's like the little black dress of design – timeless and always in style.
+:::tip[Fuwari Tip]
+When in doubt, go for a clean, uncluttered look. It's like the little black dress of design – timeless and always in style.
+:::
 
 ## 2. Color Me Impressed (But Not Overwhelmed)
 
@@ -65,7 +67,9 @@ Stock photos have come a long way since the days of "woman laughing alone with s
 - Pexels: Another great option for free stock photos and videos
 - Canva: Not just for design, they also have a vast library of stock images
 
-Pro tip: Look for images that tell a story or evoke an emotion. A picture of a laptop on a desk is boring. A picture of a laptop with a half-empty coffee cup, a cat paw, and a to-do list? Now that's relatable content!
+:::tip[Fuwari Tip]
+Look for images that tell a story or evoke an emotion. A picture of a laptop on a desk is boring. A picture of a laptop with a half-empty coffee cup, a cat paw, and a to-do list? Now that's relatable content!
+:::
 
 ## 5. Tools of the Trade: No Expensive Software Required
 

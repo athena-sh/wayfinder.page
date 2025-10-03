@@ -1,20 +1,18 @@
 ---
 title: "Confessions of a Chronic Clapper: The Weird World of Medium's 50 Claps"
-description: Dive into the quirky world of Medium's 50 claps feature and its impact on content monetization. A humorous take on digital engagement trends.
+description: "Dive into the quirky world of Medium's 50 claps feature and its impact on content monetization. A humorous take on digital engagement trends."
 published: 2024-01-21
+image: hands-clapping.svg
+hero: https://res.cloudinary.com/ddicetqs5/image/upload/c_fill,f_auto,fl_force_strip,q_auto:best/v1759516623/wayfinder-images/ww9ezowkafhxiidbvpfy
 draft: false
 tags: ["Monetization", "Business"]
 category: "Business"
 lang: ""
 ---
 
-
 _Series: Medium Monetization Tips_
 
 Look, I'm not some digital marketing guru or Medium expert. I'm just a regular writer trying to figure out this whole online content thing, much like you. But I've stumbled upon this quirky feature on Medium - the infamous 50 claps - and I thought, "Why not dive into this rabbit hole and see where it leads?" So here we go, my utterly non-expert guide to the bizarre world of Medium claps and what they mean for us poor souls trying to make it in the digital content jungle.
-
-📙 Back story below![](https://res-3.cloudinary.com/ddicetqs5/image/upload/f_auto,fl_force_strip,q_auto:best/v1/wayfinder-ghost-blog/wayfinder_owl_round_250_percent)
-
 
 ## The Clap Trap: What's the Deal with 50?
 
@@ -37,7 +35,7 @@ But here's where it gets interesting (or confusing, depending on how much coffee
 
 ## My Epic Battle: 50 Claps vs. My Poor Mouse
 
-![Leonardo AI | Athena Character Reference](https://res-1.cloudinary.com/ddicetqs5/image/upload/f_auto,fl_force_strip,q_auto:best/v1/wayfinder-ghost-blog/wayfinder-page-athena-power-of-50-claps-inline-image)
+![OpenArt AI | Athena Character Reference](https://res.cloudinary.com/ddicetqs5/image/upload/c_fill,f_auto,fl_force_strip,q_auto:best/v1759514710/wayfinder-images/qqqclbkbjfdey1aoz91s)
 
 Here's a fun story for you. My wife, bless her heart, got me this fancy Logitech MX Master 3S mouse for Christmas. It's sleek, it's smooth, it's probably smarter than me. And there I was, faced with an existential crisis: How do I show appreciation for great articles without turning my new mouse into a clickety-clackety mess?
 

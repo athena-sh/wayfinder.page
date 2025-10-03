@@ -45,7 +45,9 @@ Networking doesn't have to mean awkwardly sipping lukewarm coffee at 7 AM meetup
 - Reach out to other freelancers for virtual coffee chats
 - Participate in design challenges or hackathons
 
-Pro tip: Don't just talk about yourself. Ask questions, offer help, and genuinely engage with others. People don't forget those who make them feel good.
+:::tip[Fuwari Tip]
+Don't just talk about yourself. Ask questions, offer help, and genuinely engage with others. People don't forget those who make them feel good.
+:::
 
 ## 3. Leverage Your Existing Connections
 

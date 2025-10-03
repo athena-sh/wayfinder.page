@@ -56,7 +56,9 @@ Here's my grand sleep strategy:
 - Create a relaxing bedtime routine (scrolling through social media doesn't count)
 - Make your bedroom a sleep sanctuary (sorry, no TV in bed)
 
-Pro tip: If you're struggling to fall asleep, try counting sheep. Or in my case, count the number of times you've said, "I'll start my diet tomorrow."
+:::tip[Fuwari Tip]
+If you're struggling to fall asleep, try counting sheep. Or in my case, count the number of times you've said, "I'll start my diet tomorrow."
+:::
 
 ### 2. Hydration: Because You're Not a Cactus
 

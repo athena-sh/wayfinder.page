@@ -2,7 +2,7 @@
 title: "7 Agile Methodologies Revolutionizing Digital Entrepreneurship in 2025"
 description: "Agile methodologies power digital entrepreneurship through rapid product launches. Learn how Scrum and Kanban drive business growth in 2025."
 image: arrows-split-up-and-left.svg
-hero: https://res.cloudinary.com/ddicetqs5/image/upload/w_1200,h_675,c_fill,f_auto,fl_force_strip,q_auto:best/v1758570112/wayfinder-images/qnmphlufawhsvbqlfbww
+hero: https://res.cloudinary.com/ddicetqs5/image/upload/c_fill,f_auto,fl_force_strip,q_auto:best/v1758570112/wayfinder-images/qnmphlufawhsvbqlfbww
 published: 2024-10-23
 draft: false
 tags: [Entrepreneurship, Agile, Productivity]

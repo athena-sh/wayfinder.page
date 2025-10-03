@@ -54,7 +54,9 @@ Alright, so we've established that emotional intelligence at work is kind of a b
 
 Start by paying attention to your emotions throughout the workday. What sets you off? What makes you feel like you're on top of the world? Keep a journal if you're feeling fancy, or just make mental notes.
 
-Pro tip: If you find yourself reaching for the stress ball more often than your coffee mug, it might be time for some self-reflection.
+:::tip[Fuwari Tip]
+If you find yourself reaching for the stress ball more often than your coffee mug, it might be time for some self-reflection.
+:::
 
 ### 2. Learn to Hit the Pause Button
 
@@ -90,7 +92,9 @@ Warning: This doesn't mean you should become the office gossip. Use your powers 
 
 High stress is like kryptonite for emotional intelligence. Find healthy ways to decompress, whether it's hitting the gym, meditating, or ugly-crying in your car during lunch break (no judgment here).
 
-Pro tip: If your stress-relief method involves copious amounts of alcohol or screaming into the void, it might be time to explore some alternatives.
+:::tip[Fuwari Tip]
+If your stress-relief method involves copious amounts of alcohol or screaming into the void, it might be time to explore some alternatives.
+:::
 
 ### 8. Practice Positive Self-Talk
 

@@ -66,7 +66,9 @@ Start small: Focus on your senses. What do you see, hear, smell, taste, and feel
 
 Here's a revolutionary idea: You don't have to say yes to everything. Learning to say no is like a superpower for stress management.
 
-Pro tip: "No" is a complete sentence. You don't always need to explain yourself.
+:::tip[Fuwari Tip]
+"No" is a complete sentence. You don't always need to explain yourself.
+:::
 
 5. **Get Your Sleep On**
 

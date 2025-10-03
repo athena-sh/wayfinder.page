@@ -32,7 +32,6 @@ import "katex/dist/katex.css";
 
 interface Props {
 	title?: string;
-	banner?: string;
 	description?: string;
 	lang?: string;
 	setOGTypeArticle?: boolean;
@@ -41,7 +40,7 @@ interface Props {
 	postSlug?: string;
 }
 
-let { title, banner, description, lang, setOGTypeArticle, image, hero, postSlug } = Astro.props;
+let { title, description, lang, setOGTypeArticle, image, hero, postSlug } = Astro.props;
 
 // apply a class to the body element to decide the height of the banner, only used for initial page load
 // Swup can update the body for each page visit, but it's after the page transition, causing a delay for banner height change
@@ -51,9 +50,6 @@ const isHomePage = pathsEqual(Astro.url.pathname, url("/"));
 // defines global css variables
 // why doing this in Layout instead of GlobalStyles: https://github.com/withastro/astro/issues/6728#issuecomment-1502203757
 const configHue = siteConfig.themeColor.hue;
-// Use default banner behavior
-banner = siteConfig.banner.src;
-
 const enableBanner = siteConfig.banner.enable;
 
 let pageTitle: string;
@@ -96,6 +92,55 @@ const iconMap: Record<string, any> = {
 	'google.svg': googleIcon,
 };
 
+const CLOUDINARY_UPLOAD_SEGMENT = '/image/upload/';
+const SOCIAL_IMAGE_WIDTH = 1200;
+const SOCIAL_IMAGE_HEIGHT = 675;
+
+function buildSocialImageSource(src: string | undefined, width = SOCIAL_IMAGE_WIDTH, height = SOCIAL_IMAGE_HEIGHT) {
+	if (!src) return src;
+	if (!src.includes(CLOUDINARY_UPLOAD_SEGMENT)) return src;
+
+	const segmentIndex = src.indexOf(CLOUDINARY_UPLOAD_SEGMENT);
+	if (segmentIndex === -1) return src;
+
+	const prefix = src.slice(0, segmentIndex + CLOUDINARY_UPLOAD_SEGMENT.length);
+	const suffix = src.slice(segmentIndex + CLOUDINARY_UPLOAD_SEGMENT.length);
+	const questionIndex = suffix.indexOf('?');
+	const pathPart = questionIndex === -1 ? suffix : suffix.slice(0, questionIndex);
+	const queryPart = questionIndex === -1 ? '' : suffix.slice(questionIndex);
+	const segments = pathPart.split('/').filter(Boolean);
+
+	if (segments.length === 0) return src;
+
+	const widthToken = `w_${width}`;
+	const heightToken = `h_${height}`;
+
+	if (segments[0].startsWith('v') && /^\d+$/.test(segments[0].slice(1))) {
+		const transforms = [widthToken, heightToken, 'c_fill'];
+		segments.unshift(transforms.join(','));
+	} else {
+		const existingTransforms = segments[0].split(',').filter(Boolean);
+		const filteredTransforms = existingTransforms.filter(
+			part => !part.startsWith('w_') && !part.startsWith('h_'),
+		);
+		const hasCrop = filteredTransforms.some(part => part.startsWith('c_'));
+		const newTransforms = [widthToken, heightToken];
+		if (!hasCrop) {
+			newTransforms.push('c_fill');
+		}
+		newTransforms.push(...filteredTransforms);
+		segments[0] = newTransforms.join(',');
+	}
+
+	const rebuiltPath = segments.join('/');
+	return `${prefix}${rebuiltPath}${queryPart}`;
+}
+
+function addCacheBuster(src: string) {
+	if (!src) return src;
+	return src.includes('?') ? `${src}&v=10` : `${src}?v=10`;
+}
+
 if (hero) {
 	// Priority 1: Use hero image for social sharing (better for OG/Twitter cards)
 	ogImage = hero.startsWith('http') ? hero : new URL(hero, siteUrl).toString();
@@ -103,7 +148,7 @@ if (hero) {
 	// Priority 2: Check if it's a known icon (but these don't work well for social)
 	if (iconMap[image]) {
 		// Extract the src from the imported asset and make it absolute
-		const assetSrc = iconMap[image].src || iconMap[image];
+		const assetSrc = (iconMap[image].src || iconMap[image]) as string;
 		ogImage = assetSrc.startsWith('http') ? assetSrc : new URL(assetSrc, siteUrl).toString();
 	} else {
 		// Use the original resolution logic for other images
@@ -111,9 +156,14 @@ if (hero) {
 	}
 } else {
 	// Priority 3: Fallback to default image
-	const assetSrc = prismDancerImage.src || prismDancerImage;
+	const assetSrc = (prismDancerImage.src || prismDancerImage) as string;
 	ogImage = assetSrc.startsWith('http') ? assetSrc : new URL(assetSrc, siteUrl).toString();
 }
+
+const fallbackOgImage = getFallbackOgImage(siteUrl);
+const socialOgImage = ogImage ? buildSocialImageSource(ogImage) ?? ogImage : '';
+const resolvedOgImage = socialOgImage || ogImage || fallbackOgImage;
+const ogImageContent = addCacheBuster(resolvedOgImage);
 ---
 
 <!DOCTYPE html>
@@ -132,15 +182,15 @@ if (hero) {
 		<meta property="og:url" content={Astro.url}>
 		<meta property="og:title" content={pageTitle}>
 		<meta property="og:description" content={description || pageTitle}>
-		{setOGTypeArticle ? (
+	{setOGTypeArticle ? (
         <meta property="og:type" content="article" />
         ) : (
         <meta property="og:type" content="website" />
         )}
-		<meta property="og:image" content={ogImage ? `${ogImage}?v=10` : getFallbackOgImage(siteUrl)} />
+		<meta property="og:image" content={ogImageContent} />
 		<meta property="og:image:alt" content={description || pageTitle} />
 		<meta property="og:image:width" content="1200" />
-		<meta property="og:image:height" content="630" />
+		<meta property="og:image:height" content="675" />
 		<meta property="og:image:type" content="image/jpeg" />
 
 		<meta name="twitter:card" content="summary_large_image">
@@ -148,7 +198,7 @@ if (hero) {
 		<meta name="twitter:creator" content="@wayfinderpage">
 		<meta name="twitter:title" content={pageTitle}>
 		<meta name="twitter:description" content={description || pageTitle}>
-		<meta name="twitter:image" content={ogImage ? `${ogImage}?v=10` : getFallbackOgImage(siteUrl)} />
+		<meta name="twitter:image" content={ogImageContent} />
 		<meta name="twitter:image:alt" content={description || pageTitle} />
 
 		<meta name="viewport" content="width=device-width" />
