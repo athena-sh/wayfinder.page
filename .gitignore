@@ -39,3 +39,9 @@ guidance/
 
 # audit tracking data
 audit-tracking/
+
+# medium conversion output
+medium/
+
+# scripts folder
+scripts/
