@@ -167,9 +167,9 @@ Think of these as the instruction manual for your business. Some ideas:
 **Implementing project management tools**:  
 Choose a tool that doesn't make you want to pull your hair out. Some popular options:
 
-- Trello for visual thinkers
-- Asana for list lovers
-- ClickUp for those who want it all (it's the new Monday)
+- [Trello](https://trello.com/) for visual thinkers
+- [Asana](https://asana.com/) for list lovers
+- [ClickUp](https://clickup.com/) for those who want it all (it's the new [Monday](https://monday.com/))
 
 Pro tip: Whatever tool you choose, commit to it. A half-used project management system is about as useful as a chocolate teapot.
 
