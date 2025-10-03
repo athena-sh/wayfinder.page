@@ -2,6 +2,7 @@
 title: "From iPhone to Pixel: A 10-Year User's Journey and Transition Guide"
 description: "A casual guide for longtime iPhone users making the switch to Google Pixel. Tips, insights, and humor included!"
 image: google.svg
+hero: https://res.cloudinary.com/ddicetqs5/image/upload/w_1200,h_675,c_fill,f_auto,fl_force_strip,q_auto:best/v1759453145/wayfinder-images/qjmea3q8uj00fpqbwgz5
 published: 2025-03-02
 draft: false
 tags: ["Technology", "AI"]
