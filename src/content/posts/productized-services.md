@@ -392,7 +392,7 @@ Numbers don't lie (unlike that one ex who said they'd call):
 - Use tools like Google Analytics, Mixpanel, or even good old spreadsheets
 - Set quarterly review sessions to assess what's working and what needs to die
 
-Key metrics to watch:
+**Key metrics to watch**:
 
 - Customer acquisition cost (CAC)
 - Lifetime value (LTV)
@@ -406,7 +406,7 @@ You can't do everything forever (trust me, many have tried and failed):
 - Hire specialists for technical work you hate
 - Create detailed training materials (future you will thank present you)
 
-Team-building checklist:
+**Team-building checklist**:
 
 - Job descriptions that don't sound like robot wrote them
 - Clear expectations and deliverables
@@ -420,7 +420,7 @@ Two heads are better than one (unless you're fighting over the last slice of piz
 - Offer referral bonuses that make sense
 - Co-create content to expand your reach
 
-Partnership ideas:
+**Partnership ideas**:
 
 - Joint webinars or workshops
 - Bundle services for better value
