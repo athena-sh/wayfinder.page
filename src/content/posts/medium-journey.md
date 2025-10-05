@@ -3,7 +3,7 @@ title: "Finding Hope Through Writing: My Journey with Friends of the Medium Prog
 description: "Turning Vulnerability into Strength: Athena's inspiring Journey with Medium's new monetization program."
 draft: false
 category: "Productivity"
-lang: ""
+image: medium.svg
 tags:
   - Writing
   - Medium

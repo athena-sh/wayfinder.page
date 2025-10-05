@@ -3,7 +3,7 @@ title: "Reaching for the Stars: My Journey to 1000 Followers on Medium by the en
 description: Can it be done? I'm at 928 Followers right now.
 draft: false
 category: "Productivity"
-lang: ""
+image: medium.svg
 tags:
   - Social Media
   - Growth

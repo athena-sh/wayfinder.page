@@ -33,7 +33,7 @@ Let's start with the core principles that define the agile approach.
 
 ## Understanding Agile Methodologies
 
-![Leonardo AI | Athena Character Reference](https://res-4.cloudinary.com/ddicetqs5/image/upload/f_auto,fl_force_strip,q_auto:best/v1/wayfinder-ghost-blog/agile-methodologies-digital-entrepreneurship-methodologies)
+![Leonardo AI | Athena Character Reference](https://res.cloudinary.com/ddicetqs5/image/upload/f_auto,fl_force_strip,q_auto:best/v1759638780/wayfinder-images/n1agiyq0axqtiyjgdf67)
 
 Agile methodologies have revolutionized the way we approach project management and product development. Let's dive into two popular frameworks: Scrum and Kanban.
 

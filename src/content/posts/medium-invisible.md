@@ -2,6 +2,7 @@
 title: Do You Feel Invisible on Medium?
 description: Here's How to Get Your Medium Stories Seen and Boosted!
 published: 2024-03-15
+image: medium.svg
 draft: false
 tags: ["Content"]
 category: "Guides"

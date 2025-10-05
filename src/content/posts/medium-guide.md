@@ -2,7 +2,7 @@
 title: "Cracking the Medium Code: A Writer's Guide to Thriving in 2024"
 published: 2024-10-08
 description: Unlock Medium's potential with insider tips from a top writer. Learn to craft engaging content, leverage publications, and monetize your work effectively.
-#image: "./heroImage.jpg"
+image: medium.svg
 tags: ["Blogging", "Monetization"]
 category: "Guides"
 draft: false

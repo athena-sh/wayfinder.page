@@ -2,8 +2,8 @@
 title: "Medium Day 2024: Your Ticket to a Better Internet (No Assembly Required!)"
 description: "Medium Day 2024: Join the free online event reshaping the internet. Learn, connect, and be inspired. A better internet starts here!"
 draft: false
+image: medium.svg
 category: "News"
-lang: ""
 tags:
   - Medium
 published: 2024-08-16

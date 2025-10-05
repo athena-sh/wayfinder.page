@@ -5,7 +5,7 @@ image: list-check.svg
 hero: https://res.cloudinary.com/ddicetqs5/image/upload/c_fill,f_auto,fl_force_strip,q_auto:best/v1758513955/wayfinder-images/aokm6p0g9i9aevumwpyy
 published: 2025-09-21
 draft: false
-tags: ["Productivity", "Efficiency"]
+tags: [Productivity, Efficiency]
 category: "Productivity"
 ---
 

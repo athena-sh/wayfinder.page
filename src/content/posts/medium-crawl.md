@@ -3,6 +3,7 @@ title: "A Virtual Tavern for Creatives: Medium's Innovative Pub Crawl"
 description: None
 published: 2024-03-14
 draft: false
+image: medium.svg
 tags: ["Content"]
 category: "Guides"
 lang: ""
