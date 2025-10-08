@@ -22,7 +22,7 @@ Hang tight, folks – we're about to embark on a journey through your insides!
 
 Okay, let's get real for a second. When was the last time you gave your gut a second thought? If you're anything like me, it was probably the last time you ate something questionable from that sketchy food truck down the street.
 
-:::tip[Fuwari Tip]
+:::tip[Athena Tip]
 If the truck's slogan is "Eat at your own risk," maybe... don't.
 :::
 

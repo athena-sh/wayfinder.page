@@ -33,7 +33,7 @@ Now, here's where the magic happens. Start categorizing your tasks into these qu
 
 The goal? Focus on quadrant 1 and 2. Delegate or eliminate quadrant 3. And for the love of all that is holy, stop doing quadrant 4 tasks during work hours.
 
-:::tip[Fuwari Tip]
+:::tip[Athena Tip]
 Use a digital tool like Trello or Asana to create your matrix. It's like meal prepping for your tasks – a little upfront effort for a week of smooth sailing.
 :::
 
@@ -150,7 +150,7 @@ Plus, it taps into the psychology of deadlines. When you know you only have 25 m
 
 But here's the real magic: those 5-minute breaks are non-negotiable. They're not a sign of weakness; they're a crucial part of the process. Use them to stretch, hydrate, or do a quick dance party in your living room. (No judgment here.)
 
-:::tip[Fuwari Tip]
+:::tip[Athena Tip]
 Use a physical timer if you can. There's something about the ticking that adds a sense of urgency. Plus, it keeps you off your phone, where distractions lurk around every notification.
 :::
 

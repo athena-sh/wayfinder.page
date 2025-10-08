@@ -25,7 +25,7 @@ First things first, you gotta figure out what you're all about. And I mean _real
 - **Market Research**: I watched a ton of YouTube videos. For science, of course. Not because I was procrastinating or anything.
 - **Asking Friends**: I annoyed everyone I know by constantly asking, "What do you think I'm good at?"
 
-    :::tip[Fuwari Tip]
+    :::tip[Athena Tip]
     Buy them coffee first.
     :::
 

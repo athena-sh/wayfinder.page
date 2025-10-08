@@ -64,7 +64,7 @@ Why is this technique effective for overcoming procrastination?
 
 Studies show that the Pomodoro Technique can increase productivity by up to 40% and reduce mental fatigue. For a deep dive into this technique, check out our comprehensive [Pomodoro Technique guide](/posts/pomodoro-technique).[^1]
 
-:::tip[Fuwari Tip]
+:::tip[Athena Tip]
 💁♀️ Use a physical timer if possible. The ticking sound can create a pavlovian response, helping you get into "work mode" more quickly.
 :::
 
@@ -103,7 +103,7 @@ Why is this effective for overcoming procrastination?
 - Regular check-ins help you stay on track and maintain momentum.
 - Sharing your successes (and failures) makes the journey less solitary.
 
-:::tip[Fuwari Tip]
+:::tip[Athena Tip]
 Choose your accountability partner wisely. Look for someone who will be supportive but also willing to give you a loving kick in the pants when you need it.
 :::
 

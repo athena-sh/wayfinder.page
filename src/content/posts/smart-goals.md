@@ -56,7 +56,7 @@ Ready to join the SMART goal club? Here's your step-by-step guide to crafting go
 4. **Make it relevant**: Does this goal align with your bigger life plans? If you're planning to travel the world for the next five years, maybe buying a house isn't the most relevant goal right now.
 5. **Set a deadline**: "I'll save $5,000 for a house down payment by December 31st next year." Boom. Now you've got a SMART goal.
 
-:::tip[Fuwari Tip]
+:::tip[Athena Tip]
 Write your SMART goals down. It's like making a pinky promise with yourself, but more official.
 :::
 

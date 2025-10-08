@@ -41,7 +41,7 @@ Alright, let's get down to business. Here's how I went from sounding like a gene
    - Write down your quirks, your pet peeves, your guilty pleasures
    - Ask yourself: What makes you laugh? _What makes you rage-tweet at 2 AM_?
 
-   :::tip[Fuwari Tip]
+   :::tip[Athena Tip]
    **Be honest**. This isn't your dating profile; it's for your eyes only.
    :::
 2. **Spy on Your Audience (In a Totally Non-Creepy Way)**

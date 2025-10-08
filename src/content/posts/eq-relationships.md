@@ -28,7 +28,7 @@ Okay, so emotional intelligence. It's not about being a mind reader or turning i
 1. **Self-awareness**: Knowing your own emotions. (Spoiler alert: It's not always "hungry" or "tired.")
 2. **Self-regulation**: Managing those emotions.
 
-    :::tip[Fuwari Tip]
+    :::tip[Athena Tip]
     Screaming into a pillow is sometimes necessary.
     :::
 3. **Motivation**: Using emotions to achieve goals. (Like using your crush on the barista to motivate you to shower regularly.)

@@ -29,7 +29,7 @@ You know how you forget you're breathing until someone mentions it? Well, congra
 - **How to do it:** Sit comfortably (no need for a fancy meditation pose) and focus on your breath. Feel the air moving in and out. When your mind wanders (and it will), gently bring your attention back to your breath.
 - **Duration:** Start with 1-2 minutes. You're not running a mindfulness marathon here.
 
-:::tip[Fuwari Tip]
+:::tip[Athena Tip]
 If focusing on your breath makes you anxious, try counting your breaths instead. It gives your mind something to do.
 :::
 
@@ -40,7 +40,7 @@ This one's great for when you're feeling overwhelmed or stuck in your head.
 - **How to do it:** Take a moment to notice five things you can see, four things you can touch, three things you can hear, two things you can smell, and one thing you can taste.
 - **Duration:** However long it takes you to go through the senses.
 
-:::tip[Fuwari Tip]
+:::tip[Athena Tip]
 Try this when you're in a new environment. It's a great way to ground yourself.
 :::
 
@@ -51,7 +51,7 @@ Ever inhaled a meal without even tasting it? This exercise is the antidote to mi
 - **How to do it:** Choose a small piece of food (a raisin works well). Examine it closely. Feel its texture. Smell it. Slowly put it in your mouth and really focus on the taste and sensation as you chew and swallow.
 - **Duration:** As long as it takes to eat the food item mindfully.
 
-:::tip[Fuwari Tip]
+:::tip[Athena Tip]
 Try this with your favorite comfort food. You might discover new flavors you've never noticed before.
 :::
 
@@ -62,7 +62,7 @@ This is a great way to release tension you didn't even know you were holding.
 - **How to do it:** Lie down comfortably. Starting from your toes, focus your attention on each part of your body, moving upwards. Notice any sensations without trying to change them.
 - **Duration:** 5-10 minutes, or longer if you're feeling ambitious.
 
-:::tip[Fuwari Tip]
+:::tip[Athena Tip]
 If you find yourself falling asleep, that's okay! Your body might need the rest.
 :::
 
@@ -76,7 +76,7 @@ Perfect for when you're short on time but need a quick reset.
 - Minute 3: Expand your awareness to your whole body.
 - **Duration:** Three minutes (surprise, surprise).
 
-:::tip[Fuwari Tip]
+:::tip[Athena Tip]
 Set a gentle alarm so you don't have to keep checking the time.
 :::
 
@@ -87,7 +87,7 @@ Who says mindfulness has to be stationary?
 - **How to do it:** Walk slowly, focusing on the sensation of each step. Feel your foot lifting, moving, and touching the ground.
 - **Duration:** Start with 5 minutes and work your way up.
 
-:::tip[Fuwari Tip]
+:::tip[Athena Tip]
 Try this barefoot on grass or sand for an extra sensory experience.
 :::
 
@@ -98,7 +98,7 @@ This one's great for those of us with minds that just won't shut up.
 - **How to do it:** Imagine you're sitting by a stream. Each thought that comes into your mind, place it on a leaf and watch it float away.
 - **Duration:** 5-10 minutes.
 
-:::tip[Fuwari Tip]
+:::tip[Athena Tip]
 If you're not into the whole nature scene, imagine your thoughts as cars passing by instead.
 :::
 
@@ -109,7 +109,7 @@ Ever been accused of not listening? This one's for you.
 - **How to do it:** Close your eyes and focus on the sounds around you. Try to identify each sound without labeling it as "good" or "bad."
 - **Duration:** 3-5 minutes.
 
-:::tip[Fuwari Tip]
+:::tip[Athena Tip]
 This is a great one to try in different environments – at home, in nature, or even in a busy cafe.
 :::
 
@@ -120,7 +120,7 @@ Because sometimes we all need a reminder of the good stuff.
 - **How to do it:** Take a moment to think of three things you're grateful for. Really focus on the feeling of gratitude.
 - **Duration:** As long as it takes to feel genuinely grateful.
 
-:::tip[Fuwari Tip]
+:::tip[Athena Tip]
 Try this right before bed. It's a great way to end the day on a positive note.
 :::
 
@@ -131,7 +131,7 @@ For when you're feeling all the feels but can't quite put your finger on why.
 - **How to do it:** Take a moment to check in with yourself. What emotion are you feeling right now? Where do you feel it in your body?
 - **Duration:** 1-2 minutes.
 
-:::tip[Fuwari Tip]
+:::tip[Athena Tip]
 Keep a list of emotion words handy if you struggle to identify what you're feeling.
 :::
 

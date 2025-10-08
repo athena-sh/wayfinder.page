@@ -26,7 +26,7 @@ First things first, look around your workplace. That seasoned pro who always see
 
 If your workplace is a mentorship desert, it's time to branch out. Industry events, conferences, and even LinkedIn can be goldmines for finding career mentor benefits. Just remember, approaching a potential mentor is like asking someone to dance – confidence is key, but nobody likes a show-off.
 
-:::tip[Fuwari Tip]
+:::tip[Athena Tip]
 When reaching out, focus on shared interests or experiences. It's a lot more effective than leading with, "Hey, wanna mentor me?"
 :::
 

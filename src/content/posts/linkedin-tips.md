@@ -55,7 +55,7 @@ Here's how to optimize your LinkedIn profile summary without losing your mind:
 3. Show some personality. This isn't a robot convention. Let your uniqueness peek through.
 4. End with a call to action. What do you want profile visitors to do? Connect? Check out your portfolio? Order a pizza?
 
-:::tip[Fuwari Tip]
+:::tip[Athena Tip]
 Write your summary in the first person. "John is a dedicated professional" sounds like you're writing your own obituary.
 :::
 
@@ -83,7 +83,7 @@ To optimize your LinkedIn profile skills section:
 3. Get endorsed. Encourage colleagues to endorse your skills. It's like getting gold stars, but for grown-ups.
 4. Return the favor. Endorse others for their skills. LinkedIn karma is a real thing.
 
-:::tip[Fuwari Tip]
+:::tip[Athena Tip]
 Don't list "napping" or "procrastination" as skills, no matter how tempting it might be. Save those for your résumé. (Just kidding, don't do that either.)
 :::
 

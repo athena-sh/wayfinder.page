@@ -29,7 +29,7 @@ By establishing a set of regular activities, you're essentially putting your mor
 
 One of the key benefits of a morning routine is that it helps reduce decision fatigue. That's right, it's a real thing. Every decision we make throughout the day depletes our mental energy. By automating your morning tasks, you're saving that brainpower for more important stuff – like deciding which Netflix show to binge later.
 
-:::tip[Fuwari Tip]
+:::tip[Athena Tip]
 Lay out your clothes the night before. Future you will thank past you for not having to contemplate the intricacies of fashion at 6 AM.
 :::
 

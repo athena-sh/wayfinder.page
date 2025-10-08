@@ -46,7 +46,7 @@ Common 2-minute tasks include:
 
 Take a day to really pay attention to these little tasks as they pop up. You'll likely find that many of your "I'll do it later" items fall squarely in the 2-minute category.
 
-:::tip[Fuwari Tip]
+:::tip[Athena Tip]
 Keep a tally. It's both enlightening and slightly terrifying.
 :::
 

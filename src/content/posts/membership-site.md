@@ -210,7 +210,7 @@ Developing a community forum or discussion area is crucial. Here are some tips:
 4. Highlight active members or particularly helpful posts. Everyone likes a bit of recognition.
 5. Get involved yourself. Don't be that absent landlord who only shows up when the rent is due.
 
-:::tip[Fuwari Tip]
+:::tip[Athena Tip]
 Consider implementing a gamification system. Award points or badges for participation, completing courses, or reaching sustainability goals. Just don't go overboard – we're aiming for motivation, not addiction.
 :::
 
@@ -251,7 +251,7 @@ Social media promotion is next on our list. And no, posting "Buy my stuff!" ever
 4. Engage with your followers. Respond to comments, ask questions, run polls.
 5. Consider paid advertising, but start small and test different approaches.
 
-:::tip[Fuwari Tip]
+:::tip[Athena Tip]
 User-generated content is gold. Encourage members to share their sustainability wins and feature them on your social media. It's like free advertising, but better because it's authentic.
 :::
 

@@ -47,7 +47,7 @@ Good sources of protein include:
 - Legumes
 - Nuts and seeds
 
-:::tip[Fuwari Tip]
+:::tip[Athena Tip]
 Mix it up! Your taste buds (and your digestive system) will thank you.
 :::
 

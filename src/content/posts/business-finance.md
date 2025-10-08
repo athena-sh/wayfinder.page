@@ -82,7 +82,7 @@ Now for the fun part (and by fun, I mean potentially terrifying): listing out al
 - Office supplies (yes, that fancy ergonomic chair counts)
 - Professional development (courses, books, conferences)
 
-:::tip[Fuwari Tip]
+:::tip[Athena Tip]
 Go through your bank statements for the last few months. You might be surprised (or horrified) by what you find.
 :::
 
@@ -210,7 +210,7 @@ Remember those quarterly estimated taxes we mentioned? Here's the deal:
 - You can pay online through the IRS website (welcome to the future!)
 - Underpaying can result in penalties, so it's better to overestimate than underestimate
 
-:::tip[Fuwari Tip]
+:::tip[Athena Tip]
 Set reminders in your calendar for these dates. Future you will be very grateful.
 :::
 

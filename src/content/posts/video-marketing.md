@@ -38,7 +38,7 @@ Here's how to sweet-talk those algorithms:
 2. Use relevant tags and descriptions: Think of tags and descriptions as your video's resume. You want to use keywords that accurately represent your content and that your audience is likely to search for. But don't go overboard – keyword stuffing is so 2010.
 3. Encourage early engagement: The first 24-48 hours after posting are crucial. Algorithms often use this initial period to gauge a video's potential. So rally your troops! Ask your audience to like, comment, and share as soon as the video drops. It's not begging if you're providing value, right?
 
-:::tip[Fuwari Tip]
+:::tip[Athena Tip]
 Don't try to game the system. Algorithms are getting smarter, and they can smell desperation from a mile away. Focus on creating genuinely good content, and the algorithm will eventually catch on.
 :::
 
@@ -80,7 +80,7 @@ Here's how to nail the perfect length:
 
 Remember, the goal isn't to make your video as short as possible, but as engaging as possible. If you can keep your audience hooked for 20 minutes, great! If you're struggling to fill 2 minutes without fluff, it's time to cut back.
 
-:::tip[Fuwari Tip]
+:::tip[Athena Tip]
 Always leave them wanting more. End your video on a high note, and they'll be eagerly awaiting your next upload.
 :::
 
@@ -112,7 +112,7 @@ Here's how to craft CTAs that actually work:
 
 Remember, your CTA should feel like a natural next step, not a hard sell. If you've provided value throughout your video, your audience should be eager to take action.
 
-:::tip[Fuwari Tip]
+:::tip[Athena Tip]
 Create a sense of urgency or scarcity with your CTAs. "Download now - only available for the next 24 hours!" can be a powerful motivator.
 :::
 

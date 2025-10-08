@@ -31,7 +31,7 @@ The benefits? Oh boy, where do we start:
 4. Personalization at scale: Because treating everyone like "Dear Valued Customer" is so 1999.
 5. Data-driven decisions: No more guessing games. With automation, you'll have more data than you know what to do with.
 
-:::tip[Fuwari Tip]
+:::tip[Athena Tip]
 Learn to love spreadsheets.
 :::
 

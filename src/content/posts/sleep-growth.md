@@ -54,7 +54,7 @@ During sleep, especially in the REM stage, your brain is busy processing and con
 
 It's like your own personal Marie Kondo, sorting through the day's experiences and deciding what to keep and what to toss.
 
-:::tip[Fuwari Tip]
+:::tip[Athena Tip]
 Before bed, spend a few minutes reflecting on what you've learned that day. It's like giving your brain a cheat sheet for its nightly filing session.
 :::
 

@@ -62,7 +62,7 @@ Let's face it, becoming the Beyoncé of online coaching isn't just about having 
 3. **Master the Tech**:  
    Choose user-friendly platforms and practice until you can host a video call in your sleep (pants optional, but recommended). Remember, even Beyoncé had to learn how to use a mic. Start with platforms like Zoom or Google Meet, and gradually work your way up to fancier tools.
 
-   :::tip[Fuwari Tip]
+   :::tip[Athena Tip]
    Always test your tech before a session, unless you want to become a meme about "that coach who turned herself into a potato filter".
    :::
 4. **Create Killer Content**:  

@@ -28,7 +28,7 @@ Start by asking yourself some tough questions:
 - Which projects make you want to hide under your desk?
 - When do you feel most in your element at work?
 
-:::tip[Fuwari Tip]
+:::tip[Athena Tip]
 Keep a "brag file" of your accomplishments. It's not being cocky; it's gathering evidence of your awesomeness. Next time you're questioning your strengths, boom – proof right there.
 :::
 

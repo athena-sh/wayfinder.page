@@ -120,7 +120,7 @@ Try these:
 
 If you're ghostwriting a self-help book, the last thing you want is to sound clueless.
 
-:::tip[Fuwari Tip]
+:::tip[Athena Tip]
 Google and YouTube can be like your best study buddies.
 :::
 

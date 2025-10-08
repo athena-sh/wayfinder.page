@@ -30,7 +30,7 @@ First things first, stalk that company website like it's your ex's Instagram. Wh
 
 Next, channel your inner Sherlock and investigate their social media. Are they posting about sustainability initiatives? Mentioning those in your interview might just make you the office hero before you even start.
 
-:::tip[Fuwari Tip]
+:::tip[Athena Tip]
 Set up Google Alerts for the company. It's like having a personal news service, minus the fancy suits and earpieces.
 :::
 

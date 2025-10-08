@@ -46,7 +46,7 @@ Now that you know who you're talking to, it's time to put together your pitch. T
 - **Be Specific**: Don't just say you'll "increase their social media presence." Tell them exactly how you'll do it.
 - **Keep It Short**: Imagine you're pitching to someone with the attention span of a goldfish. Because let's be honest, you probably are.
 
-:::tip[Fuwari Tip]
+:::tip[Athena Tip]
 Read your pitch out loud. If you start to bore yourself, imagine how the client will feel.
 :::
 

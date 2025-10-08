@@ -49,7 +49,7 @@ Think of this as stalking, but for business. Where do your dream clients hang ou
 
 This isn't about being creepy; it's about being smart. If you know where your potential clients are and what they're interested in, you can tailor your content and posting schedule accordingly.
 
-:::tip[Fuwari Tip]
+:::tip[Athena Tip]
 Use social media listening tools. It's like having super hearing, but for the internet.
 :::
 

@@ -53,7 +53,7 @@ My chaotic approach:
 2. Color-code different types of tasks (e.g., client work, admin, personal time).
 3. Schedule everything, including breaks and "buffer time" for unexpected tasks.
 
-:::tip[Fuwari Tip]
+:::tip[Athena Tip]
 Don't forget to schedule in some "stare blankly at the wall" time. We all need it.
 :::
 
@@ -90,7 +90,7 @@ Here's how I use it (with varying degrees of success):
 3. Place your tasks in the appropriate quadrants.
 4. Focus on the Urgent & Important quadrant first, then move to Important but Not Urgent.
 
-:::tip[Fuwari Tip]
+:::tip[Athena Tip]
 Be honest with yourself. Not everything can be urgent and important, no matter how much your anxiety tries to convince you otherwise.
 :::
 

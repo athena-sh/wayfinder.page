@@ -46,7 +46,7 @@ Key features:
 - Use cards for individual tasks or ideas
 - Drag and drop cards between lists as you progress
 
-:::tip[Fuwari Tip]
+:::tip[Athena Tip]
 Trello is perfect for visual thinkers or those who like to see their entire workflow at a glance. It's also great for brainstorming sessions when you need to dump all your ideas in one place and sort them out later.
 :::
 
@@ -93,7 +93,7 @@ Key features:
 - Whitelist essential apps
 - Track your focus history and patterns
 
-:::tip[Fuwari Tip]
+:::tip[Athena Tip]
 Forest is perfect for those who need a little extra motivation to stay focused. Plus, you get to feel good about helping the environment while you work.
 :::
 
@@ -138,7 +138,7 @@ Key features:
 - Breakout rooms for small group discussions
 - Recording and transcription options
 
-:::tip[Fuwari Tip]
+:::tip[Athena Tip]
 Invest in good lighting and a decent microphone. Looking and sounding professional on Zoom calls can make a big difference in how clients perceive you.
 :::
 
@@ -183,7 +183,7 @@ Key features:
 - Easy sharing and permission settings
 - Powerful search functionality
 
-:::tip[Fuwari Tip]
+:::tip[Athena Tip]
 Take advantage of Google Drive's collaboration features. It's perfect for working on documents with clients or contractors in real-time.
 :::
 
@@ -215,7 +215,7 @@ Key features:
 - Choose from pre-made applets or create your own
 - Automate social media posts, backups, and more
 
-:::tip[Fuwari Tip]
+:::tip[Athena Tip]
 IFTTT is great for personal automations too. Use it to sync your work calendar with your smart home devices, automatically save attachments from emails, or post your Instagram photos to Twitter.
 :::
 

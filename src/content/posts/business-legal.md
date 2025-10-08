@@ -137,7 +137,7 @@ Here's a basic rundown:
 - Collect the correct amount of sales tax
 - File sales tax returns and remit the tax collected
 
-:::tip[Fuwari Tip]
+:::tip[Athena Tip]
 Consider using e-commerce platforms or tax software that can automate much of this process. Your sanity will thank you.
 :::
 
@@ -243,7 +243,7 @@ For contractors, you'll want to use a different type of agreement. Key elements 
 - Ownership of work product
 - Termination clause
 
-:::tip[Fuwari Tip]
+:::tip[Athena Tip]
 Have an attorney review your contracts. It's cheaper than dealing with legal issues down the road.
 :::
 
@@ -271,7 +271,7 @@ Remember, these aren't just fancy pieces of paper. They can give you a competiti
 
 Lastly, and this is important, stay updated on changing laws and compliance requirements. The legal landscape is always shifting, like a giant, boring game of Tetris. Set up Google Alerts, subscribe to industry newsletters, or hire a compliance officer if needed.
 
-:::tip[Fuwari Tip]
+:::tip[Athena Tip]
 Consider joining industry associations. They often provide updates on regulations and can be a valuable resource for staying compliant.
 :::
 

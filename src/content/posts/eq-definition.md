@@ -35,7 +35,7 @@ This is where you look in the emotional mirror and say, "Yikes." It's about:
 - Understanding your strengths and weaknesses
 - Admitting that maybe, just maybe, you're not always right
 
-:::tip[Fuwari Tip]
+:::tip[Athena Tip]
 💁♀️ Journaling helps. Even if it's just writing "Today sucked" over and over.
 :::
 

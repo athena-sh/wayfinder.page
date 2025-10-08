@@ -33,7 +33,7 @@ Here's the lowdown:
 - Urgent but not important? Delegate it.
 - Neither urgent nor important? Drop it like it's hot.
 
-:::tip[Fuwari Tip]
+:::tip[Athena Tip]
 At the start of each week, take 15 minutes to categorize your tasks. You'll be amazed at how much clearer your priorities become.
 :::
 

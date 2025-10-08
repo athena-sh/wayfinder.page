@@ -94,7 +94,7 @@ Your pitch should include:
 
 Remember, you're not just selling your company; you're selling the idea of a partnership. Show them how working together can create something greater than the sum of its parts.
 
-:::tip[Fuwari Tip]
+:::tip[Athena Tip]
 Use visuals in your pitch. A well-designed infographic or a simple flowchart can make your ideas more digestible and memorable.
 :::
 

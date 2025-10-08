@@ -36,7 +36,7 @@ Avoid asking during high-stress periods or when the company's facing financial t
 
 Instead, look for positive moments. Did you just nail a big project? Is it performance review season? These are prime opportunities to bring up the topic of a raise.
 
-:::tip[Fuwari Tip]
+:::tip[Athena Tip]
 Schedule a meeting specifically for this discussion. Don't ambush your boss in the elevator or while they're trying to microwave last night's leftover fish.
 :::
 

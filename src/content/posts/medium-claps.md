@@ -81,7 +81,7 @@ Got thoughts? Opinions? A secret technique for clapping 50 times without getting
 
 👏 P.S. If you made it this far, congratulations! You've officially engaged with this content for more than 30 seconds. Your prize is... well, nothing tangible. But you have my eternal gratitude and possibly a slightly better understanding of Medium claps. Or not. I'm not a mind reader.
 
-:::tip[Fuwari Tip]
+:::tip[Athena Tip]
 Want the next experiment in your inbox? [Smash that subscribe button](https://wayfinder.page/subscribe) so you hear about it before the algorithm does.
 :::
 

@@ -25,7 +25,7 @@ What makes you tick? What makes you want to throw your alarm clock out the windo
 
 Maybe you've always dreamed of being a professional dog walker, or perhaps you've got a secret passion for underwater basket weaving. No judgment here. The point is to figure out what lights your fire.
 
-:::tip[Fuwari Tip]
+:::tip[Athena Tip]
 Write it down. Not on your phone, not on your computer. Grab an actual pen and paper like it's 1999. There's something about physically writing that makes your brain go, "Oh, we're serious about this career change thing."
 :::
 

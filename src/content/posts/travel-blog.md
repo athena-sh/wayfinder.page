@@ -44,7 +44,7 @@ Let's break down the key challenges:
 
 - You became a travel blogger to share adventures, not to become a full-time marketer. But guess what? You're now both.
 
-    :::tip[Fuwari Tip]
+    :::tip[Athena Tip]
     Set aside dedicated time for both content creation and business development. Your future self will thank you.
     :::
 

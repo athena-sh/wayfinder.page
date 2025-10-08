@@ -31,7 +31,7 @@ Ever wondered what your coworkers do all day? Well, your followers are just as n
 - Include fun tidbits like their favorite work snack or their go-to "focus" song.
 - End each story with a quirky work-related fun fact about that team member.
 
-:::tip[Fuwari Tip]
+:::tip[Athena Tip]
 Ask team members to share their favorite work-related memory or the weirdest job they've ever had. It's like show-and-tell, but for adults!
 :::
 
@@ -154,7 +154,7 @@ Share relatable and funny work-related memes. But here's the kicker: create some
 - Encourage followers to caption a work-related image you provide.
 - Host a "Meme Battle" in the comments section.
 
-:::tip[Fuwari Tip]
+:::tip[Athena Tip]
 Don't be afraid to poke fun at yourself or your industry. Self-awareness is charming!
 :::
 

@@ -117,7 +117,7 @@ This isn't like selling on eBay. You can't just list your digital business and w
    - Individual investors
    - Search funds (yes, that's a real thing)
 
-:::tip[Fuwari Tip]
+:::tip[Athena Tip]
 The best buyers often come through your network. Start dropping hints in industry conversations. But be subtle – you don't want to spook your team or customers.
 :::
 

@@ -31,7 +31,7 @@ Once you have that number, divide it by the number of billable hours you plan to
 
 Now that you have a baseline, it's time to see what others in your field are charging. This doesn't mean you should price-match like it's Black Friday at Walmart. Instead, use this information to gauge where you fit in the market. Are you a newbie still learning the ropes, or a seasoned pro with a portfolio that makes clients swoon?
 
-:::tip[Fuwari Tip]
+:::tip[Athena Tip]
 Don't just look at freelance job boards. Check out professional associations, industry reports, and even ask fellow freelancers (if you're brave enough). Just remember, your worth isn't determined by what others charge – it's a starting point, not a straitjacket.
 :::
 

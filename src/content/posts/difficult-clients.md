@@ -37,7 +37,7 @@ I once spent an entire week working on a project, only to find out I'd completel
 
 Verbal agreements are great and all, but they're about as reliable as my memory after a night out. Which is to say, not very. So whenever possible, get things in writing. It doesn't have to be a formal contract (though sometimes it should be). Even a follow-up email summarizing what you discussed can be a lifesaver.
 
-:::tip[Fuwari Tip]
+:::tip[Athena Tip]
 If you're feeling awkward about asking for written confirmation, frame it as you being thorough. Something like, "Just want to make sure I've got everything right. Mind if I send you a quick summary of what we discussed?" Works like a charm.
 :::
 

@@ -106,7 +106,7 @@ Now for the main course — the content! This is what gets people coming back fo
 - **Photography is half the battle**  
   People eat with their eyes first, right? Great photography doesn't require a ton of expensive equipment. Start with natural lighting and your phone camera and watch a few YouTube tutorials to get started.
 
-  :::tip[Fuwari Tip]
+  :::tip[Athena Tip]
   Invest a little in props and styling — think nice cutting boards, cute napkins, or those trendy Mason jar drinks.
   :::
 - **Share more than just recipes**

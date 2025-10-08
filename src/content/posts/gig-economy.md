@@ -24,7 +24,7 @@ Let's face it, the freelance world is a jungle. To stand out, you need to find y
 
 Think about what you're good at and what you love doing. Maybe you're a wordsmith who can turn boring copy into pure gold. Or perhaps you're a coding wizard who can make websites sing. Whatever it is, own it!
 
-:::tip[Fuwari Tip]
+:::tip[Athena Tip]
 Don't be afraid to get specific. "Social media manager" is fine, but "Instagram growth hacker for eco-friendly startups" is downright sexy. The more focused you are, the easier it'll be to market yourself and find your dream clients.
 :::
 

@@ -77,7 +77,7 @@ But here's the catch - the reward should fit the task. Finishing a quick email d
 
 The key is to make the reward something you genuinely look forward to. If you're not excited about it, it won't motivate you.
 
-:::tip[Fuwari Tip]
+:::tip[Athena Tip]
 Mix up your rewards to keep things interesting. Your brain loves novelty almost as much as it loves rewards.
 :::
 
