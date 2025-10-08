@@ -56,7 +56,7 @@ Finding your niche is like dating – you've got to kiss a few frogs before you 
 1. **Assess your skills and expertise**: What are you good at? Like, really good at? The kind of good where people say, "Wow, you make that look easy!" That's your sweet spot.
 2. **Research market demand**: Is there actually a need for what you're offering? Or are you trying to sell ice to Eskimos?
 
-    :::tip[Fuwari Tip]
+    :::tip[Athena Tip]
     Don't do that. They have plenty of ice.
     :::
 3. **Define your ideal client profile**: Who's your dream customer? The one who makes you think, "I'd do this for free!" (But don't tell them that.)
@@ -123,7 +123,7 @@ Here's where you get to flex your creative muscles. Consider offering:
 - Premium package: The bells and whistles
 - VIP package: The "I want it all" option
 
-:::tip[Fuwari Tip]
+:::tip[Athena Tip]
 Give your packages catchy names. "The Bare Bones," "The Whole Enchilada," and "The Kitchen Sink" are way more fun than Bronze, Silver, and Gold.
 :::
 
@@ -177,7 +177,7 @@ Choose a tool that doesn't make you want to pull your hair out. Some popular opt
 - [Asana](https://asana.com/) for list lovers
 - [ClickUp](https://clickup.com/) for those who want it all (it's the new [Monday](https://monday.com/))
 
-:::tip[Fuwari Tip]
+:::tip[Athena Tip]
 Whatever tool you choose, commit to it. A half-used project management system is about as useful as a chocolate teapot.
 :::
 
@@ -231,7 +231,7 @@ Don't try to be everywhere. Pick 2-3 platforms and rock them:
 - Twitter for quick updates and industry news
 - Facebook for... well, arguing with your aunt about politics (just kidding, use it wisely)
 
-:::tip[Fuwari Tip]
+:::tip[Athena Tip]
 Consistency is key. Don't start a blog or social media account if you're going to abandon it faster than a New Year's resolution.
 :::
 
@@ -302,7 +302,7 @@ Ad platforms to consider:
 - Facebook/Instagram for B2C services
 - LinkedIn for B2B services
 
-:::tip[Fuwari Tip]
+:::tip[Athena Tip]
 Don't put all your eggs in one marketing basket. Diversify your strategies, test what works, and be prepared to pivot faster than a basketball player.
 :::
 
@@ -370,7 +370,7 @@ Self-service ideas:
 - Document upload area
 - Progress tracking system
 
-:::tip[Fuwari Tip]
+:::tip[Athena Tip]
 Test your onboarding process on friends or family. If they can navigate it without calling you in tears, you're on the right track.
 :::
 
@@ -440,7 +440,7 @@ Two heads are better than one (unless you're fighting over the last slice of piz
 - Bundle services for better value
 - Cross-promotion on social media and email lists
 
-:::tip[Fuwari Tip]
+:::tip[Athena Tip]
 Don't scale too fast. Growing at 200% sounds great until you realize you can't deliver quality at that pace. Slow and steady wins the race (and keeps your sanity intact).
 :::
 
