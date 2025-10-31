@@ -31,12 +31,8 @@ export const siteConfig: SiteConfig = {
 	},
 	favicon: [
 		{
-			src: "/favicon/favicon-dark-192.png",
-			theme: "light",
-		},
-		{
-			src: "/favicon/favicon-light-192.png",
-			theme: "dark",
+			src: "/favicon/favicon-universal-192.png",
+			sizes: "192x192",
 		},
 	],
 };

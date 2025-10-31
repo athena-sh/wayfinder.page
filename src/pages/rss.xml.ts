@@ -40,7 +40,7 @@ export async function GET(context: APIContext) {
 		}),
 		customData: `<language>${siteConfig.lang}</language>
     <image>
-      <url>${siteUrl}favicon/favicon-dark-192.png</url>
+      <url>${siteUrl}favicon/favicon-universal-192.png</url>
       <title>${siteConfig.title}</title>
       <link>${siteUrl}</link>
     </image>`,

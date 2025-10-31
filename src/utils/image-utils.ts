@@ -90,7 +90,7 @@ export function getFallbackOgImage(siteUrl?: string): string {
 		"/src/assets/images/prism-dancer.jpg", // Primary homepage OG image
 		"/og-default.jpg",
 		"/og-default.png",
-		"/favicon/favicon-dark-192.png", // Use existing PNG favicon as backup fallback (better compatibility than SVG)
+		"/favicon/favicon-universal-192.png", // Universal PNG favicon with purple background (better compatibility than SVG)
 	];
 
 	// Return the first available fallback - using prism-dancer.jpg for homepage
