@@ -42,3 +42,6 @@ audit-tracking/
 
 # scripts folder
 scripts/
+
+# config folder
+config/
