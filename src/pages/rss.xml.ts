@@ -18,11 +18,12 @@ function stripInvalidXmlChars(str: string): string {
 
 export async function GET(context: APIContext) {
 	const blog = await getSortedPosts();
+	const siteUrl = context.site ?? "https://fuwari.vercel.app";
 
 	return rss({
 		title: siteConfig.title,
 		description: siteConfig.subtitle || "No description",
-		site: context.site ?? "https://fuwari.vercel.app",
+		site: siteUrl,
 		items: blog.map((post) => {
 			const content =
 				typeof post.body === "string" ? post.body : String(post.body || "");
@@ -37,6 +38,11 @@ export async function GET(context: APIContext) {
 				}),
 			};
 		}),
-		customData: `<language>${siteConfig.lang}</language>`,
+		customData: `<language>${siteConfig.lang}</language>
+    <image>
+      <url>${siteUrl}favicon/favicon-dark-192.png</url>
+      <title>${siteConfig.title}</title>
+      <link>${siteUrl}</link>
+    </image>`,
 	});
 }

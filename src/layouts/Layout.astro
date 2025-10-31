@@ -203,6 +203,8 @@ const ogImageContent = addCacheBuster(resolvedOgImage);
 
 		<meta name="viewport" content="width=device-width" />
 		<meta name="generator" content={Astro.generator} />
+		<!-- Standard favicon for maximum compatibility (RSS readers, older browsers) -->
+		<link rel="icon" href={url('/favicon.ico')} sizes="32x32" />
 		{favicons.map(favicon => (
 			<link rel="icon"
 				  href={favicon.src.startsWith('/') ? url(favicon.src) : favicon.src}
