@@ -205,6 +205,7 @@ const ogImageContent = addCacheBuster(resolvedOgImage);
 		<meta name="generator" content={Astro.generator} />
 		<!-- Standard favicon for maximum compatibility (RSS readers, older browsers) -->
 		<link rel="icon" href={url('/favicon.ico')} sizes="32x32" />
+		<link rel="apple-touch-icon" href={url('/apple-touch-icon.png')} />
 		{favicons.map(favicon => (
 			<link rel="icon"
 				  href={favicon.src.startsWith('/') ? url(favicon.src) : favicon.src}
