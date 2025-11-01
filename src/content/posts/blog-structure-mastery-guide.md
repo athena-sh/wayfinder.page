@@ -3,7 +3,8 @@ title: "The Blog Structure Mastery Guide: From 85% Bounce Rates to Engaged Reade
 description: "Transform your blog posts from scattered thoughts to engagement magnets. Learn the exact structure that keeps readers hooked and reduces bounce rates."
 image: blog.svg
 published: 2025-09-24
-hero: "https://res.cloudinary.com/ddicetqs5/image/upload/f_auto,fl_force_strip,q_auto:best/v1758722064/wayfinder-images/lww2cpo4d4i7ctv6xjjd"
+#hero: "https://res.cloudinary.com/ddicetqs5/image/upload/f_auto,fl_force_strip,q_auto:best/v1758722064/wayfinder-images/lww2cpo4d4i7ctv6xjjd"
+hero: "https://res.cloudinary.com/ddicetqs5/image/upload/v1758722064/wayfinder-images/lww2cpo4d4i7ctv6xjjd"
 tags: [Content Strategy, Blog Writing, User Experience]
 category: Productivity
 draft: false
