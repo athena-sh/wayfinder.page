@@ -40,9 +40,11 @@ export async function GET(context: APIContext) {
 		}),
 		customData: `<language>${siteConfig.lang}</language>
     <image>
-      <url>${siteUrl}favicon.ico</url>
+      <url>${siteUrl}favicon/favicon-universal-128.png</url>
       <title>${siteConfig.title}</title>
       <link>${siteUrl}</link>
+      <width>128</width>
+      <height>128</height>
     </image>`,
 	});
 }
