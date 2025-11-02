@@ -16,6 +16,19 @@ function stripInvalidXmlChars(str: string): string {
 	);
 }
 
+function convertCalloutsToBlockquotes(content: string): string {
+	// Convert :::note, :::tip, :::warning, etc. to blockquotes
+	return content.replace(
+		/:::(\w+)\s*([\s\S]*?):::/g,
+		(_, type, innerContent) =>
+			`> **${type.toUpperCase()}**\n>\n${innerContent
+				.trim()
+				.split("\n")
+				.map((line: string) => `> ${line}`)
+				.join("\n")}`,
+	);
+}
+
 export async function GET(context: APIContext) {
 	const blog = await getSortedPosts();
 	const siteUrl = context.site ?? "https://fuwari.vercel.app";
@@ -27,7 +40,9 @@ export async function GET(context: APIContext) {
 		items: blog.map((post) => {
 			const content =
 				typeof post.body === "string" ? post.body : String(post.body || "");
-			const cleanedContent = stripInvalidXmlChars(content);
+			// Convert callouts to blockquotes before processing
+			const contentWithBlockquotes = convertCalloutsToBlockquotes(content);
+			const cleanedContent = stripInvalidXmlChars(contentWithBlockquotes);
 
 			// Build description with hero image like Medium does
 			let descriptionHtml = "";
