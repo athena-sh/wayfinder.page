@@ -15,7 +15,7 @@ draft: false
 
 Your AI agent just saved you 10 minutes drafting an email. Then you spent 20 minutes fixing it, 15 more explaining why it was wrong, and another 30 in a meeting about "AI governance." Congrats—you automated yourself into overtime.
 
-Let's be honest: half of what we call **"AI productivity"** is just a really expensive magic trick. The deck says **revolution**; the backlog says **rework**. I've shipped enough "innovations" to know the difference between value and vibes—and lately we've been buying vibes by the gallon.
+Let's be honest: half of what we call **"AI productivity"** is just a really expensive magic trick. The deck says **revolution**; the backlog says **rework**. I've shipped enough "innovations" to know the difference between value and vibes—and lately we've been buying vibes by the gallon. (Yes, I know—this is the opposite take from [our AI productivity breakthrough post](/posts/ai-productivity-breakthrough/). That's the point.)
 
 Here's what nobody's saying in the all-hands: the cost to generate is cheap, but the cost to correct is eating your lunch. And if you're not measuring both, you're not doing productivity—you're doing theater.
 
@@ -50,7 +50,7 @@ AI makes **first drafts** almost free. But **final drafts**—the ones you can s
 - What's the **edit distance** from AI draft → human-safe?  
 - How often do you **trash it** and start over?
 
-If those numbers embarrass you, you're funding theater, not productivity.
+If those numbers embarrass you, you're funding theater, not productivity. Want to track this properly? Our [time management strategies](/posts/time-management/) can help you measure what's actually working.
 
 ## Why Teams Are Cooling on "Magic"
 
@@ -72,7 +72,7 @@ Use it like a **junior analyst** who's fast, eager, and confidently wrong someti
 - **Boilerplate & scaffolding** (emails, docs, unit-test shells, SQL drafts with validation).  
 - **Enrichment** (extract well-structured fields from well-structured inputs—then *you* verify).
 
-Everything else? Treat with suspicion until the numbers say otherwise.
+Everything else? Treat with suspicion until the numbers say otherwise. For practical examples of AI tasks that actually work, check out our guide on [using ChatGPT for everyday productivity](/posts/chatgpt-tasks/).
 
 ## The "Adulting" Scorecard (Before You Ship)
 
