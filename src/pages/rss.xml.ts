@@ -43,6 +43,17 @@ function convertInlineChartsToTables(content: string): string {
 	);
 }
 
+function formatFootnotes(content: string): string {
+	// Add header and format footnotes with line breaks
+	const withBreaks = content.replace(
+		/(\[\^\d+\]:.*?)(?=\n\[\^\d+\]:|$)/gs,
+		(match) => `${match}\n\n`,
+	);
+
+	// Add "Footnotes" header before the first footnote
+	return withBreaks.replace(/(\[\^\d+\]:)/, "\n\n## Footnotes\n\n$1");
+}
+
 export async function GET(context: APIContext) {
 	const blog = await getSortedPosts();
 	const siteUrl = context.site ?? "https://fuwari.vercel.app";
@@ -59,7 +70,8 @@ export async function GET(context: APIContext) {
 			const contentWithTables = convertInlineChartsToTables(
 				contentWithBlockquotes,
 			);
-			const cleanedContent = stripInvalidXmlChars(contentWithTables);
+			const contentWithFootnotes = formatFootnotes(contentWithTables);
+			const cleanedContent = stripInvalidXmlChars(contentWithFootnotes);
 
 			// Build description with hero image like Medium does
 			let descriptionHtml = "";
