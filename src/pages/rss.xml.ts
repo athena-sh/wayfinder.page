@@ -29,6 +29,20 @@ function convertCalloutsToBlockquotes(content: string): string {
 	);
 }
 
+function convertInlineChartsToTables(content: string): string {
+	// Convert ::linechart{title="..." data="..."} to markdown tables
+	return content.replace(
+		/::linechart\{title="([^"]+)"\s+data="([^"]+)"\}/g,
+		(_, title, data) => {
+			const dataPoints = data.split(",").map((point: string) => {
+				const [label, value] = point.split("|");
+				return `| ${label.trim()} | $${value.trim()} |`;
+			});
+			return `\n**${title}**\n\n| Date | Price |\n|------|-------|\n${dataPoints.join("\n")}\n`;
+		},
+	);
+}
+
 export async function GET(context: APIContext) {
 	const blog = await getSortedPosts();
 	const siteUrl = context.site ?? "https://fuwari.vercel.app";
@@ -40,9 +54,12 @@ export async function GET(context: APIContext) {
 		items: blog.map((post) => {
 			const content =
 				typeof post.body === "string" ? post.body : String(post.body || "");
-			// Convert callouts to blockquotes before processing
+			// Convert callouts to blockquotes and charts to tables before processing
 			const contentWithBlockquotes = convertCalloutsToBlockquotes(content);
-			const cleanedContent = stripInvalidXmlChars(contentWithBlockquotes);
+			const contentWithTables = convertInlineChartsToTables(
+				contentWithBlockquotes,
+			);
+			const cleanedContent = stripInvalidXmlChars(contentWithTables);
 
 			// Build description with hero image like Medium does
 			let descriptionHtml = "";
