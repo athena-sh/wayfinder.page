@@ -9,8 +9,6 @@ category: Opinion
 draft: false
 ---
 
-![](https://res.cloudinary.com/ddicetqs5/image/upload/v1762106791/wayfinder-images/qsl6mhddbuaywmkuewnd.jpeg)
-
 _Generated using ChatGPT 5_
 
 :::note
