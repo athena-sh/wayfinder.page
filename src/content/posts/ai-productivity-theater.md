@@ -9,7 +9,7 @@ category: Opinion
 draft: false
 ---
 
-_Generated using ChatGPT 5_
+_Hero image generated using ChatGPT 5_
 
 :::note
 
