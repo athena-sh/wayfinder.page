@@ -2,12 +2,15 @@
 title: 10 Ridiculously Simple Mindfulness Exercises for Stressed-Out Beginners
 description: Discover 10 simple mindfulness exercises for beginners to reduce stress and increase present-moment awareness in your daily life.
 published: 2024-09-23
+image: person-walking.svg
+hero: https://res.cloudinary.com/ddicetqs5/image/upload/c_fill,f_auto,fl_force_strip,q_auto:best/v1762116433/wayfinder-images/w8v1upvhbp4qqrd4gsrv
 draft: false
 tags: ["Mindfulness", "Mental Health"]
 category: "Wellness"
 lang: ""
 ---
 
+_Athena Character @ openart.ai_
 
 Hey there, fellow traveler on the path to inner peace! If you're anything like me, you've probably heard the buzz about mindfulness and thought, "Sounds great, but how do I actually do it?"
 
@@ -136,6 +139,8 @@ Keep a list of emotion words handy if you struggle to identify what you're feeli
 :::
 
 ## The Takeaway
+
+![Athena Character @ openart.ai](https://res.cloudinary.com/ddicetqs5/image/upload/c_fill,f_auto,fl_force_strip,q_auto:best/v1762116454/wayfinder-images/fwiwfnh1tb7tqnfpcmal)
 
 Here's the thing about mindfulness exercises for beginners: they're not about being perfect. They're about showing up and trying. Some days, your mind will be like a hyperactive squirrel on caffeine. Other days, you might find moments of genuine calm. Both are okay.
 
