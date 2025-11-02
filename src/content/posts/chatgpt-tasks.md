@@ -2,12 +2,14 @@
 title: "ChatGPT in Daily Life: A Practical Guide to AI Applications"
 published: 2024-01-10
 description: Discover practical ways to use ChatGPT in your daily life, from writing and coding to fitness planning and travel. Learn how this AI tool can help streamline your tasks.
-#image: "./heroImage.jpg"
+image: robot.svg
+hero: https://res.cloudinary.com/ddicetqs5/image/upload/f_auto,fl_force_strip,q_auto:best/v1762112845/wayfinder-images/zskga8wxx9ky4mcttofm
 tags: ["AI", "Productivity"]
 category: "Technology"
 draft: false
-lang: ""
 ---
+
+_Hero image from Unsplash_
 
 ## Introduction: The ChatGPT Phenomenon
 
