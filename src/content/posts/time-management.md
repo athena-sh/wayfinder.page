@@ -3,13 +3,14 @@ title: "5 Time Management Hacks for Career Success"
 description: "Boost your career with these killer time management strategies. Learn to prioritize, defeat procrastination, and set boundaries for ultimate success."
 published: 2024-08-13
 draft: false
+image: clock.svg
+hero: https://res.cloudinary.com/ddicetqs5/image/upload/c_fill,f_auto,fl_force_strip,q_auto:best/v1762117363/wayfinder-images/jyxe6avlekjhy5ctfzqx
 tags:
   - Time Management
   - Career Development
-category: "Productivity"
-lang: ""
 ---
 
+_Athena Character @ openart.ai_
 
 ## Introduction
 
