@@ -28,10 +28,20 @@ export async function GET(context: APIContext) {
 			const content =
 				typeof post.body === "string" ? post.body : String(post.body || "");
 			const cleanedContent = stripInvalidXmlChars(content);
+
+			// Build description with hero image like Medium does
+			let descriptionHtml = "";
+			if (post.data.hero) {
+				descriptionHtml += `<p><a href="${url(`/posts/${post.slug}/`)}"><img src="${post.data.hero}" alt="${post.data.title}" /></a></p>`;
+			}
+			if (post.data.description) {
+				descriptionHtml += `<p>${post.data.description}</p>`;
+			}
+
 			return {
 				title: post.data.title,
 				pubDate: post.data.published,
-				description: post.data.description || "",
+				description: descriptionHtml || post.data.description || "",
 				link: url(`/posts/${post.slug}/`),
 				content: sanitizeHtml(parser.render(cleanedContent), {
 					allowedTags: sanitizeHtml.defaults.allowedTags.concat(["img"]),
