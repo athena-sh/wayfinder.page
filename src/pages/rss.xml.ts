@@ -38,6 +38,12 @@ export async function GET(context: APIContext) {
 				descriptionHtml += `<p>${post.data.description}</p>`;
 			}
 
+			// Add enclosure tag for RSS readers that use it for images
+			let enclosureTag = "";
+			if (post.data.hero) {
+				enclosureTag = `<enclosure url="${post.data.hero}" type="image/jpeg" />`;
+			}
+
 			return {
 				title: post.data.title,
 				pubDate: post.data.published,
@@ -46,6 +52,7 @@ export async function GET(context: APIContext) {
 				content: sanitizeHtml(parser.render(cleanedContent), {
 					allowedTags: sanitizeHtml.defaults.allowedTags.concat(["img"]),
 				}),
+				customData: enclosureTag,
 			};
 		}),
 		customData: `<language>${siteConfig.lang}</language>
