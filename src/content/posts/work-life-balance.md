@@ -2,9 +2,8 @@
 title: "Work-Life Balance: Career Success Without Burnout"
 published: 2025-05-19
 description: "Discover effective strategies for achieving work-life balance and career success without burning out. Learn to set boundaries, boost productivity, and prioritize self-care."
-#image: "https://res.cloudinary.com/ddicetqs5/image/upload/f_auto/t_wm2px_outline/v1747670527/wayfinder-images/work-life-balance-career-success-strategies-heroImage_yppneh"
-image: "./scale-unbalanced.svg"
-showImageInline: false
+image: scale-unbalanced.svg
+hero: "https://res.cloudinary.com/ddicetqs5/image/upload/f_auto/t_wm2px_outline/v1747670527/wayfinder-images/work-life-balance-career-success-strategies-heroImage_yppneh"
 tags: ["Meditation", "Productivity"]
 category: "Guides"
 draft: false

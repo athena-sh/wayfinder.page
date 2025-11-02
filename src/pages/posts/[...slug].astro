@@ -98,17 +98,16 @@ const jsonLd = {
             </div>
 
             <!-- show hero image if provided -->
-
             {entry.data.hero &&
-                <div id="post-cover" class="mb-8 rounded-xl banner-container onload-animation overflow-hidden">
-                    <HeroPostImage
-                        src={entry.data.hero}
-                        alt="Hero Image of the Post"
-                        class="w-full h-full object-cover"
+                <figure class="mb-8 rounded-xl overflow-hidden">
+                    <img 
+                        src={entry.data.hero} 
+                        alt={`Hero image for ${entry.data.title}`}
+                        class="w-full h-auto object-cover"
+                        loading="eager"
                     />
-                </div>
+                </figure>
             }
-
 
             <Markdown class="mb-6 markdown-content onload-animation">
                 <Content />

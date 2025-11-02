@@ -82,6 +82,12 @@ export async function GET(context: APIContext) {
 				descriptionHtml += `<p>${post.data.description}</p>`;
 			}
 
+			// Prepend hero image to content for RSS readers
+			let fullContent = parser.render(cleanedContent);
+			if (post.data.hero) {
+				fullContent = `<p><img src="${post.data.hero}" alt="" /></p>\n${fullContent}`;
+			}
+
 			// Add enclosure tag for RSS readers that use it for images
 			let enclosureTag = "";
 			if (post.data.hero) {
@@ -93,7 +99,7 @@ export async function GET(context: APIContext) {
 				pubDate: post.data.published,
 				description: descriptionHtml || post.data.description || "",
 				link: url(`/posts/${post.slug}/`),
-				content: sanitizeHtml(parser.render(cleanedContent), {
+				content: sanitizeHtml(fullContent, {
 					allowedTags: sanitizeHtml.defaults.allowedTags.concat(["img"]),
 				}),
 				customData: enclosureTag,

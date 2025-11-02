@@ -3,14 +3,18 @@ title: "The AI Productivity 'Revolution' Is Mostly Theater"
 published: 2025-11-02
 description: "AI drafts fast and costs you in cleanup. Constrain it, measure verification time, and keep a kill switch handy—or you're shipping rework, not value."
 image: robot.svg
-hero: https://res.cloudinary.com/ddicetqs5/image/upload/f_auto,fl_force_strip,q_auto:best/v1762062411/wayfinder-images/hq3qiv04az9veafozpwg
+#hero: "https://res.cloudinary.com/ddicetqs5/image/upload/v1762106791/wayfinder-images/qsl6mhddbuaywmkuewnd.jpeg"
 tags: [AI, Productivity, Software Engineering, Data, Leadership]
 category: Opinion
 draft: false
 ---
 
+![](https://res.cloudinary.com/ddicetqs5/image/upload/v1762106791/wayfinder-images/qsl6mhddbuaywmkuewnd.jpeg)
+
 :::note
+
 **Kicker:** _Reality check:_ Demos sizzle. Rework hurts.
+
 :::
 
 Your AI agent just saved you 10 minutes drafting an email. Then you spent 20 minutes fixing it, 15 more explaining why it was wrong, and another 30 in a meeting about "AI governance." Congrats—you automated yourself into overtime.
