@@ -1,5 +1,5 @@
 ---
-title: 7 Simple Financial Management Steps for Digital Entrepreneurs (2024)
+title: 7 Simple Financial Management Steps for Digital Entrepreneurs
 description: Stop winging your business finances. This no-BS guide covers budgeting, cash flow, and taxes—the stuff that keeps digital entrepreneurs up at night (and sometimes broke).
 image: money-bill.svg
 hero: https://res.cloudinary.com/ddicetqs5/image/upload/c_fill,f_auto,fl_force_strip,q_auto:best/v1762180042/wayfinder-images/bgnblbhrypr0zsbhfzzw
@@ -14,6 +14,8 @@ _Athena Character @ openart.ai_
 Look, I'm going to level with you: I used to think "financial management" was just fancy talk for "check your bank balance and hope for the best." Spoiler alert—that's not a strategy, that's a recipe for a panic attack at 2 AM when you realize you forgot about quarterly taxes.
 
 Here's the thing: 82% of small businesses fail because of poor cash flow management[^1], and 22% of small business owners can't even pay their basic bills on time[^2]. That's not because they're bad at what they do—it's because nobody teaches you this stuff when you're busy building your digital empire from your kitchen table.
+
+And get this: 42% of small business owners admit they had limited or no financial literacy before starting their businesses[^5]. We're all just winging it and hoping for the best.
 
 Whether you're running [productized services](/posts/productized-services) or building [affiliate income streams](/posts/affiliate-income), solid financial management is what separates the businesses that thrive from the ones that barely survive.
 
@@ -220,6 +222,7 @@ First things first, let's talk about what taxes you might need to pay as a digit
 4. **Sales Tax**: If you sell physical products or certain digital goods, you might need to collect and remit sales tax. The rules vary by state, so check your local laws.
 
 [^4]: [Self-Employment Tax Guide 2025](https://www.taxfyle.com/blog/2025-self-employment-tax-guide-rates-calculations-tips)
+[^5]: [42% of Small Business Owners Had Limited Financial Literacy Before Starting](https://quickbooks.intuit.com/r/small-business-data/financial-literacy-statistics/)
 
 ### The Magic Number: How Much to Set Aside
 
@@ -340,6 +343,10 @@ Will you mess up? Absolutely. Will you forget to track expenses or miss a quarte
 
 So pick one thing from this list and do it this week. Just one. Your future self (and your accountant) will thank you.
 
+:::tip
+Want More Financial Success Tips? Take your business finances to the next level! [Smash that subscribe button at the top](https://wayfinder.page/subscribe) to stay in the know each time a new business finance and entrepreneurship article is published. Get money management strategies, financial tools, and growth insights delivered straight to your inbox!
+:::
+
 ## FAQs About Business Finance for Digital Entrepreneurs
 
 **Q: How much should I actually be setting aside for taxes?**
@@ -365,7 +372,3 @@ A: Both, honestly. Use software (QuickBooks, FreshBooks, Wave) for day-to-day tr
 **Q: What if I can't afford to set aside 25-30% for taxes right now?**
 
 A: Start with whatever you can—even 10% is better than nothing. Then gradually increase it as your cash flow improves. The key is building the habit. And seriously, talk to a tax pro about estimated quarterly payments so you don't get hit with underpayment penalties.
-
-:::tip
-Want More Financial Success Tips? Take your business finances to the next level! [Smash that subscribe button at the top](https://wayfinder.page/subscribe) to stay in the know each time a new business finance and entrepreneurship article is published. Get money management strategies, financial tools, and growth insights delivered straight to your inbox!
-:::
