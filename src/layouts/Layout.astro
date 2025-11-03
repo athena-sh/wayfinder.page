@@ -4,6 +4,7 @@ import "@fontsource/roboto/500.css";
 import "@fontsource/roboto/700.css";
 
 import ConfigCarrier from "@components/ConfigCarrier.astro";
+import CanonicalLink from "@components/CanonicalLink.astro";
 import { profileConfig, siteConfig } from "@/config";
 import {
 	AUTO_MODE,
@@ -176,6 +177,7 @@ const ogImageContent = addCacheBuster(resolvedOgImage);
 
 		<meta charset="UTF-8" />
 		<meta name="description" content={description || pageTitle}>
+		<CanonicalLink />
 		<meta name="author" content={profileConfig.name}>
 
 		<meta property="og:site_name" content={siteConfig.title}>

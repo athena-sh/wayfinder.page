@@ -1,0 +1,12 @@
+---
+// Usage: <CanonicalLink href={optionalOverride}/>
+// If no href is passed, it computes an absolute canonical from the current path.
+const { href } = Astro.props;
+const computed = new URL(
+  Astro.url.pathname,
+  (Astro.site ?? Astro.url.origin)
+).toString();
+const canonical = (href ?? computed);
+---
+
+<link rel="canonical" href={canonical} />
