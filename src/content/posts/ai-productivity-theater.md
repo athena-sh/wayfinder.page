@@ -13,7 +13,7 @@ _Athena Character @ openart.ai_
 
 :::note
 
-**_Reality check:_ Demos sizzle. Rework hurts.
+**_Reality check:_** Demos sizzle. Rework hurts.
 
 :::
 
