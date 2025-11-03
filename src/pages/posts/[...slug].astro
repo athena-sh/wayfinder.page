@@ -99,7 +99,7 @@ const jsonLd = {
 
             <!-- show hero image if provided -->
             {entry.data.hero &&
-                <figure class="mb-8 rounded-xl overflow-hidden">
+                <figure id="post-cover" class="mb-8 rounded-xl overflow-hidden">
                     <img 
                         src={entry.data.hero} 
                         alt={`Hero image for ${entry.data.title}`}
