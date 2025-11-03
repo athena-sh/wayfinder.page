@@ -9,7 +9,7 @@ category: Opinion
 draft: false
 ---
 
-_Hero image generated using ChatGPT 5_
+_Athena Character @ openart.ai_
 
 :::note
 
