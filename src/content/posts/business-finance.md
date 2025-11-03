@@ -2,7 +2,7 @@
 title: 7 Simple Financial Management Steps for Digital Entrepreneurs (2024)
 description: Stop winging your business finances. This no-BS guide covers budgeting, cash flow, and taxes—the stuff that keeps digital entrepreneurs up at night (and sometimes broke).
 image: money-bill.svg
-hero: https://res.cloudinary.com/ddicetqs5/image/upload/c_fill,f_auto,fl_force_strip,q_auto:best/v1762138414/wayfinder-images/r1pqbwedbtxehg5eplin.jpg
+hero: https://res.cloudinary.com/ddicetqs5/image/upload/c_fill,f_auto,fl_force_strip,q_auto:best/v1762180042/wayfinder-images/bgnblbhrypr0zsbhfzzw
 published: 2024-07-22
 draft: false
 tags: [Entrepreneurship, Business]
