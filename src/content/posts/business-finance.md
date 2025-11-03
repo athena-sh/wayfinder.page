@@ -224,6 +224,12 @@ First things first, let's talk about what taxes you might need to pay as a digit
 
 So, how much should you be setting aside for taxes? The general rule of thumb is 25-30% of your income. But remember, this is just a guideline. Your actual tax rate will depend on your income level, deductions, and whether Mercury is in retrograde. (Okay, maybe not that last one.)
 
+Here's what your tax savings should look like based on different income levels:
+
+::bar{title="Recommended Tax Savings by Income Level" data="$50K|15000|#3b82f6,$75K|22500|#8b5cf6,$100K|30000|#ec4899,$150K|45000|#f59e0b" xlabel="Annual Income"}
+
+_Note: These are general guidelines. Your actual tax obligation may vary based on deductions and business structure._
+
 Here's a simple way to calculate it:
 
 1. Take your expected annual income

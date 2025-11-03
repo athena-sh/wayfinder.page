@@ -144,6 +144,32 @@ I'm packaging a **1-page Cost-to-Correct checklist** and a **sandbox template** 
 **Take away this**: AI generates fast, but value ships slow. Constrain the work, measure the drag, and keep your kill switch within arm's reach.
 :::
 
+## FAQs About AI Productivity
+
+**Q: Are you saying AI tools are completely useless?**
+
+A: No. I'm saying they're useful for specific, constrained tasks—not the magic productivity revolution everyone's selling. AI is great for tone-polishing, boilerplate, and first drafts. It's terrible at judgment calls, policy decisions, and anything where being wrong has consequences. Use it like a junior analyst, not a VP.
+
+**Q: How do I calculate if AI is actually saving me time?**
+
+A: Track the full cycle: (AI draft time + verify time + fix time + rework time) vs. (human-from-scratch time). If the AI path takes longer or produces worse results, kill it. Most teams only measure the draft time and wonder why they're drowning in rework.
+
+**Q: What's a "kill switch" and why do I need one?**
+
+A: A kill switch is your pre-agreed criteria for shutting down an AI task. Examples: "If precision drops below 85%," "If verification time exceeds 2x draft time," or "If we get more than 3 escalations per week." You need it because AI projects tend to limp along burning resources long after they should've been killed.
+
+**Q: My boss wants us to use AI for everything. What do I do?**
+
+A: Show them the numbers. Run a proper A/B test on one task: AI-assisted vs. human control. Track time-to-complete, error rates, and rework. If AI wins, great—expand carefully. If it doesn't, you have data to push back. Leadership loves "innovation" until they see the cost-to-correct bill.
+
+**Q: What AI tasks actually work well today?**
+
+A: The boring ones. Email tone-polishing, meeting summaries, boilerplate code generation (with review), data enrichment from structured inputs, and content rewrites. Basically anything where the cost of being wrong is low and verification is fast. Avoid anything involving money, compliance, or irreversible actions.
+
+**Q: How often should I re-test AI performance?**
+
+A: Weekly for production tasks, monthly for pilots. Models change, your data changes, and what worked last month might be garbage today. If you're not continuously measuring, you're flying blind. Set calendar reminders and actually do it.
+
 [^1]: [Experienced devs were ~19% slower with early-2025 AI tools (Cursor/Claude/Copilot) — METR randomized trial](https://metr.org/blog/2025-07-10-early-2025-ai-experienced-os-dev-study/)
 [^2]: [AI Adoption Jumps to 84% Among Researchers as Expectations Undergo Significant Reality Check — Wiley ExplanAItions 2025](https://newsroom.wiley.com/press-releases/press-release-details/2025/AI-Adoption-Jumps-to-84-Among-Researchers-as-Expectations-Undergo-Significant-Reality-Check/default.aspx)
 [^3]: [Gartner Predicts Over 40% of Agentic AI Projects Will Be Canceled by End of 2027](https://www.gartner.com/en/newsroom/press-releases/2025-06-25-gartner-predicts-over-40-percent-of-agentic-ai-projects-will-be-canceled-by-end-of-2027) | [Reuters coverage](https://www.reuters.com/business/over-40-agentic-ai-projects-will-be-scrapped-by-2027-gartner-says-2025-06-25/)
