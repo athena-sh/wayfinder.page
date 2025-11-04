@@ -84,7 +84,7 @@ The AWS Well-Architected Framework literally has an entire pillar on reliability
 
 ## The Cost of "Good Enough" Architecture
 
-_(Math time, but I promise it's painful math)_
+_(Math time, but I promise it's not painful math)_
 
 Let's do some napkin math on the October 2025 outages:
 
@@ -135,7 +135,7 @@ Here's your actual action plan:
 
 **Short-term (Do This Yesterday):**
 - Audit what's actually running in us-east-1
-- Move non-critical workloads to us-east-2, us-west-2, or literally anywhere else
+- Move critical workloads to us-east-2, us-west-2, or literally anywhere else
 - Set up proper monitoring and alerting for regional health
 - Have a documented failover plan (and test it)
 
