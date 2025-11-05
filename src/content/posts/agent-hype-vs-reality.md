@@ -51,6 +51,8 @@ Superface tested AI agents on CRM tasks and found that even with the best tools,
 
 The most dangerous failure mode? Agents that don't know when to stop. They'll keep trying to solve a problem they're not equipped to handle, making it worse with each iteration. A human knows when to escalate. An agent? It just keeps digging.
 
+As one developer put it: "If your 'autonomous AI tool' breaks the moment you walk away, congrats: you've built a toddler with an API key." Most tools can't recover from bad input, don't know when they're stuck, and fail silently or spam retries until someone intervenes. [^5]
+
 ## The Numbers Are Worse Than You Think
 
 _(And yes, I brought receipts)_
@@ -361,3 +363,4 @@ A: Start with read-only access and draft generation only. No irreversible action
 [^2]: [The AI Agent Reality Gap: Why 75% of Agentic AI Tasks Fail in 2025 — Superface](https://superface.ai/blog/agent-reality-gap)
 [^3]: [Gartner Predicts Over 40% of Agentic AI Projects Will Be Canceled by End of 2027](https://www.gartner.com/en/newsroom/press-releases/2025-06-25-gartner-predicts-over-40-percent-of-agentic-ai-projects-will-be-canceled-by-end-of-2027)
 [^4]: [Inside the AI agent failure era: What CX leaders must know — ASAPP](https://www.asapp.com/blog/inside-the-ai-agent-failure-era-what-cx-leaders-must-know)
+[^5]: [Why "Autonomous" AI Tools Still Need a Babysitter — DEV Community](https://dev.to/codecapo/why-autonomous-ai-tools-still-need-a-babysitter-26bo)
