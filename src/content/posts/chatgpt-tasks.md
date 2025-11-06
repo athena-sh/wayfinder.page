@@ -264,6 +264,11 @@ Based on research and user reports, avoid ChatGPT for:
 
 _(The difference between useful and useless output)_
 
+![Athena Character @ openart.ai | Read for FREE @ wayfinder.page
+](https://res.cloudinary.com/ddicetqs5/image/upload/c_fill,f_auto,fl_force_strip,q_auto:best/v1762453013/wayfinder-images/z1j17endh4tw8t3fbjtp)
+
+_Athena Character @ openart.ai_
+
 **The Framework:**
 
 1. **Context:** What's the situation?
@@ -419,6 +424,9 @@ _(What's coming and how to stay ahead)_
 ## Your Action Plan
 
 _(Start here, measure results, iterate)_
+
+![Athena Character @ openart.ai | Read for FREE @ wayfinder.page
+](https://res.cloudinary.com/ddicetqs5/image/upload/c_fill,f_auto,fl_force_strip,q_auto:best/v1762451944/wayfinder-images/h8ekqfclybznmea2iuqw)
 
 **Week 1: Experiment**
 - Pick 2-3 tasks from the "excels" categories
