@@ -1,5 +1,5 @@
 ---
-title: "The Complete Guide to Using ChatGPT Effectively (What Actually Works in 2025)"
+title: "The Complete Guide to Using ChatGPT Effectively (What Actually Works)"
 published: 2025-11-06
 description: "MIT research shows 40% time savings on specific tasks—but only if you know where ChatGPT excels and where it fails. Here's your data-backed guide to getting real value from AI."
 image: chatgpt.svg
@@ -50,6 +50,8 @@ By default, OpenAI uses your conversations to train their models. That means any
 :::
 
 ![ChatGPT Data Privacy Settings](https://res.cloudinary.com/ddicetqs5/image/upload/c_fill,f_auto,fl_force_strip,q_auto:best/v1762451264/wayfinder-images/xugobphgjsgau27tzpem)
+
+_Screenshot taken by the author_
 
 **How to protect yourself:**
 
