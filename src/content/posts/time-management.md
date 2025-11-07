@@ -6,6 +6,7 @@ draft: false
 image: clock.svg
 hero: https://res.cloudinary.com/ddicetqs5/image/upload/c_fill,f_auto,fl_force_strip,q_auto:best/v1762117379/wayfinder-images/msc1tnkxztndg3jg9hsi
 tags: [Time Management, Career Development]
+category: "Guides"
 ---
 
 _Athena Character @ openart.ai_
