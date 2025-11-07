@@ -139,6 +139,10 @@ Want more productivity breakthroughs like these? [Subscribe for proven strategie
 
 So, what are you waiting for? (See what I did there?) Your future self is cheering you on. Take that first step now, and set yourself on the path to becoming the productive powerhouse you were meant to be. Remember, the best time to plant a tree was 20 years ago. The second best time is now. You've got this!
 
+:::tip
+Stop Procrastinating, Start Achieving: Ready to transform your productivity? [Smash that subscribe button at the top](https://wayfinder.page/subscribe) to stay in the know each time a new goal-crushing strategy is published. Your future self will thank you!
+:::
+
 ## FAQ: Beat Procrastination
 
 ### Q: How long does it take to overcome procrastination habits?
@@ -156,12 +160,6 @@ A: Some research suggests that moderate procrastination can lead to increased cr
 ### Q: How do I deal with procrastination when I'm feeling overwhelmed?
 
 A: Start with the smallest possible action. Break your task into micro-steps and commit to just 2 minutes of work. Often, starting is the hardest part, and momentum builds naturally.
-
----
-
-:::tip
-Stop Procrastinating, Start Achieving: Ready to transform your productivity? [Smash that subscribe button at the top](https://wayfinder.page/subscribe) to stay in the know each time a new goal-crushing strategy is published. Your future self will thank you!
-:::
 
 [^1]: [Pomodoro Technique: Skyrocket Productivity in 25-Minute Bursts](/posts/pomodoro-technique)
 [^2]: [The Psychology of Procrastination - Verywell Mind](https://www.verywellmind.com/the-psychology-of-procrastination-2795944)
