@@ -1,6 +1,8 @@
 ---
 title: "Snooze Your Way to Success: The Sleep-Personal Growth Link You've Been Dreaming Of"
 description: "Sleep: Your secret weapon for personal growth. This is how quality rest unlocks potential and boosts success. Time to level up by lying down!"
+image: bed.svg
+hero: https://res.cloudinary.com/ddicetqs5/image/upload/c_fill,f_auto,fl_force_strip,q_auto:best/v1763050569/wayfinder-images/g06paqtjewk6ugxa9oty
 published: 2024-02-12
 draft: false
 tags: ["Business", "Strategy"]
