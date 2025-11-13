@@ -55,8 +55,10 @@ Finding your niche is like dating – you've got to kiss a few frogs before you 
 1. **Assess your skills and expertise**: What are you good at? Like, really good at? The kind of good where people say, "Wow, you make that look easy!" That's your sweet spot.
 2. **Research market demand**: Is there actually a need for what you're offering? Or are you trying to sell ice to Eskimos?
 
-    > [!CAUTION]
-    > Don't do that. They have plenty of ice.
+   :::caution 
+   Don't do that. They have plenty of ice. 
+   :::
+
 3. **Define your ideal client profile**: Who's your dream customer? The one who makes you think, "I'd do this for free!" (But don't tell them that.)
 
 Let's break it down:
