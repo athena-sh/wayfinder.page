@@ -10,9 +10,8 @@ draft: false
 lang: ""
 ---
 
-:::note
-**Article originally published September 26, 2024. Updated October 3, 2025** to reflect current market landscape, expanded with comprehensive scaling guidance (Step 7), optimized FAQ structure for search visibility, and refreshed with authoritative citations from Harvard Business Review and industry case studies.
-:::
+> [!NOTE]
+> **Article originally published September 26, 2024. Updated October 3rd & 13th, 2025** to reflect current market landscape, expanded with comprehensive scaling guidance (Step 7), optimized FAQ structure for search visibility, and refreshed with authoritative citations from Harvard Business Review and industry case studies.
 
 Are you tired of trading time for money? Productized services could be your ticket to scalable income. But what exactly are productized services, and how can you create and sell them effectively? In this guide, we'll break down the process into simple, actionable steps. You'll learn how to package your expertise into a streamlined offering that clients can't resist. Let's dive in and transform your service-based business into a productized powerhouse.
 
@@ -56,9 +55,8 @@ Finding your niche is like dating – you've got to kiss a few frogs before you 
 1. **Assess your skills and expertise**: What are you good at? Like, really good at? The kind of good where people say, "Wow, you make that look easy!" That's your sweet spot.
 2. **Research market demand**: Is there actually a need for what you're offering? Or are you trying to sell ice to Eskimos?
 
-    :::tip[Athena Tip]
-    Don't do that. They have plenty of ice.
-    :::
+    > [!CAUTION]
+    > Don't do that. They have plenty of ice.
 3. **Define your ideal client profile**: Who's your dream customer? The one who makes you think, "I'd do this for free!" (But don't tell them that.)
 
 Let's break it down:
@@ -119,13 +117,14 @@ Be specific. Instead of saying "We'll design your website," break it down:
 **Setting fixed pricing and packaging**:  
 Here's where you get to flex your creative muscles. Consider offering:
 
-- Basic package: The essentials
-- Premium package: The bells and whistles
-- VIP package: The "I want it all" option
+| Package | What's Included | Best For |
+|---------|----------------|----------|
+| **Basic** ("The Bare Bones") | The essentials | Budget-conscious clients testing the waters |
+| **Premium** ("The Whole Enchilada") | The bells and whistles | Clients who want comprehensive solutions |
+| **VIP** ("The Kitchen Sink") | The "I want it all" option | Clients who value premium service & speed |
 
-:::tip[Athena Tip]
-Give your packages catchy names. "The Bare Bones," "The Whole Enchilada," and "The Kitchen Sink" are way more fun than Bronze, Silver, and Gold.
-:::
+> [!TIP]
+> **Athena Tip:** Give your packages catchy names. "The Bare Bones," "The Whole Enchilada," and "The Kitchen Sink" are way more fun than Bronze, Silver, and Gold.
 
 Remember, the key is to make your offering so clear and compelling that potential clients think, "I'd be crazy not to buy this!" (But in a good way, not in a infomercial at 3 AM way.)
 
@@ -156,9 +155,9 @@ Here's how to turn your business into a lean, mean, productized machine:
 Let's break it down further:
 
 **Automating repetitive tasks**:  
-Look for tasks that make you think, "Ugh, not this again." These are prime candidates for automation. Tools like Zapier, IFTTT, or even good ol' Excel can be your new best friends. For example:
+Look for tasks that make you think, "Ugh, not this again." These are prime candidates for automation. Tools like [Zapier](https://zapier.com/), [IFTTT](https://ifttt.com/), [Make](https://www.make.com/en/register?pc=makeityours), or even good ol' [Excel](https://www.microsoft.com/en-us/microsoft-365/excel) / [Google Sheets](https://workspace.google.com/products/sheets/) can be your new best friends. For example:
 
-- Automatically add new clients to your CRM
+- Automatically add new clients to your Customer Relationship Management (CRM) system
 - Send welcome emails when someone buys your service
 - Generate invoices based on project completion
 
@@ -177,9 +176,8 @@ Choose a tool that doesn't make you want to pull your hair out. Some popular opt
 - [Asana](https://asana.com/) for list lovers
 - [ClickUp](https://clickup.com/) for those who want it all (it's the new [Monday](https://monday.com/))
 
-:::tip[Athena Tip]
-Whatever tool you choose, commit to it. A half-used project management system is about as useful as a chocolate teapot.
-:::
+> [!IMPORTANT]
+> **Athena Tip:** Whatever tool you choose, commit to it. A half-used project management system is about as useful as a chocolate teapot.
 
 Remember, the goal here is to create systems that work for you, not the other way around. If your workflows feel like they're sucking the life out of you, it's time to revisit and revise.
 
@@ -231,9 +229,8 @@ Don't try to be everywhere. Pick 2-3 platforms and rock them:
 - Twitter for quick updates and industry news
 - Facebook for... well, arguing with your aunt about politics (just kidding, use it wisely)
 
-:::tip[Athena Tip]
-Consistency is key. Don't start a blog or social media account if you're going to abandon it faster than a New Year's resolution.
-:::
+> [!WARNING]
+> **Athena Tip:** Consistency is key. Don't start a blog or social media account if you're going to abandon it faster than a New Year's resolution.
 
 Remember, your online presence is often the first impression potential clients have of your business. Make it count. And for the love of all things holy, proofread everything. Nothing says "unprofessional" quite like a typo in your "About Us" page.
 
@@ -302,9 +299,8 @@ Ad platforms to consider:
 - Facebook/Instagram for B2C services
 - LinkedIn for B2B services
 
-:::tip[Athena Tip]
-Don't put all your eggs in one marketing basket. Diversify your strategies, test what works, and be prepared to pivot faster than a basketball player.
-:::
+> [!TIP]
+> **Athena Tip:** Don't put all your eggs in one marketing basket. Diversify your strategies, test what works, and be prepared to pivot faster than a basketball player.
 
 Remember, good marketing is about providing value, not just talking about how great you are. Show, don't tell. And if all else fails, you can always resort to skywriting. (Just kidding, please don't do that.)
 
@@ -339,8 +335,35 @@ Think of your sales funnel as a well-oiled machine:
 - Set up automated email sequences for follow-ups
 - Create proposal templates to speed up the quoting process
 
-Example funnel:  
-Lead magnet → Email nurture sequence → Discovery call → Proposal → Onboarding
+**Example Sales Funnel:**
+
+```
+┌─────────────────┐
+│  Lead Magnet    │  ← Attract with value
+│  (Free Guide)   │
+└────────┬────────┘
+         │
+         ▼
+┌─────────────────┐
+│ Email Nurture   │  ← Build trust & educate
+│   Sequence      │
+└────────┬────────┘
+         │
+         ▼
+┌─────────────────┐
+│ Discovery Call  │  ← Qualify & connect
+└────────┬────────┘
+         │
+         ▼
+┌─────────────────┐
+│   Proposal      │  ← Present solution
+└────────┬────────┘
+         │
+         ▼
+┌─────────────────┐
+│   Onboarding    │  ← Deliver value
+└─────────────────┘
+```
 
 **Developing clear onboarding processes**:  
 Make your new clients feel like VIPs:
@@ -370,9 +393,8 @@ Self-service ideas:
 - Document upload area
 - Progress tracking system
 
-:::tip[Athena Tip]
-Test your onboarding process on friends or family. If they can navigate it without calling you in tears, you're on the right track.
-:::
+> [!TIP]
+> **Athena Tip:** Test your onboarding process on friends or family. If they can navigate it without calling you in tears, you're on the right track.
 
 Remember, the goal is to make the process so smooth that clients barely notice it's happening. You want them to focus on the value you're providing, not the hoops they have to jump through to get it.
 
@@ -440,9 +462,8 @@ Two heads are better than one (unless you're fighting over the last slice of piz
 - Bundle services for better value
 - Cross-promotion on social media and email lists
 
-:::tip[Athena Tip]
-Don't scale too fast. Growing at 200% sounds great until you realize you can't deliver quality at that pace. Slow and steady wins the race (and keeps your sanity intact).
-:::
+> [!CAUTION]
+> **Athena Tip:** Don't scale too fast. Growing at 200% sounds great until you realize you can't deliver quality at that pace. Slow and steady wins the race (and keeps your sanity intact).
 
 ## Your Next Move
 
@@ -475,9 +496,8 @@ A: Realistically? 2-3 months to nail down your offering, create systems, and lau
 #### Q: What if my industry is too custom for productized services?
 A: I call BS on that (lovingly, of course). Almost any service can be productized to some degree. Break down your process, find the repeatable parts, and package those. Even brain surgeons have standardized procedures (thank goodness).
 
-:::tip
-Want to stay sharp on business strategies and practical tips like these? [Head over and subscribe](https://wayfinder.page/subscribe) – new articles drop regularly, and I promise to keep the corporate jargon to a minimum.
-:::
+> [!TIP]
+> Want to stay sharp on business strategies and practical tips like these? [Head over and subscribe](https://wayfinder.page/subscribe) – new articles drop regularly, and I promise to keep the corporate jargon to a minimum.
 
 [^1]: [Productized Service Business Models: Revenue & Churn Benchmarks - WinSavvy](https://www.winsavvy.com/productized-service-business-models-revenue-churn-benchmarks/)
 [^2]: [A Quick Guide to Value-Based Pricing - Harvard Business Review](https://hbr.org/2016/08/a-quick-guide-to-value-based-pricing)
