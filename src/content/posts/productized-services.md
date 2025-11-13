@@ -181,7 +181,7 @@ Choose a tool that doesn't make you want to pull your hair out. Some popular opt
 > [!IMPORTANT]
 > **Athena Tip:** Whatever tool you choose, commit to it. A half-used project management system is about as useful as a chocolate teapot.
 
-Remember, the goal here is to create systems that work for you, not the other way around. If your workflows feel like they're sucking the life out of you, it's time to revisit and revise.
+Remember, the goal here is to create systems that work for you, not the other way around. If your workflows feel like they're sucking the life out of you, it's time to revisit and revise. And speaking of not sucking the life out of yourself - don't forget that [quality sleep is essential for peak performance](/posts/sleep-growth/) and making smart business decisions.
 
 And hey, if all else fails, there's always the trusty whiteboard-and-sticky-note method. Sometimes, old school is the best school.
 
