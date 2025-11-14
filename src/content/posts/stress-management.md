@@ -171,7 +171,9 @@ You don't need to hike the Appalachian Trail to get these benefits. Even 20 minu
 
 If you're really stuck in an urban environment with limited green space, even looking at images of nature or having plants in your workspace can provide some stress-reducing benefits. It's not as effective as the real thing, but it's better than nothing.
 
-Pro tip: Combine this with technique #2 (exercise) by taking walks in nature. You're basically stress-management multitasking.
+:::tip
+Pro tip: Combine this with technique #2 (exercise) by taking walks in nature. You're basically stress-management multitasking - getting endorphins from movement AND cortisol reduction from nature exposure. Double win.
+:::
 
 ### 10. Practice Gratitude (Without Being Cheesy)
 
