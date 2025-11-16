@@ -2,7 +2,7 @@
 title: "7 Productivity Habits That Actually Work (Backed by Research)"
 description: "Research shows top performers don't work harder—they work differently. Here are 7 habits that deliver measurable results, not motivational fluff."
 draft: false
-tags: ["Productivity", "Personal Growth"]
+tags: ["Habits", "Personal Growth"]
 published: 2024-08-09
 image: robot.svg
 hero: https://res.cloudinary.com/ddicetqs5/image/upload/c_fill,f_auto,fl_force_strip,q_auto:best/v1763183856/wayfinder-images/hshudg01qatlo1o5cl1x
