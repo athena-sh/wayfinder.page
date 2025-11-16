@@ -226,7 +226,7 @@ This is where you get to show off (humbly, of course):
 **Leveraging social media platforms**:  
 Don't try to be everywhere. Pick 2-3 platforms and rock them:
 
-- [LinkedIn](linkedin.com) for B2B services
+- LinkedIn for B2B services 
 - [Instagram](https://www.instagram.com/) for visual businesses
 - [Twitter/X](https://x.com) for quick updates and industry news
 - [Facebook](https://www.facebook.com/) for... well, arguing with your aunt about politics (just kidding, use it wisely)
