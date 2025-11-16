@@ -227,9 +227,9 @@ This is where you get to show off (humbly, of course):
 Don't try to be everywhere. Pick 2-3 platforms and rock them:
 
 - LinkedIn for B2B services 
-- [Instagram](https://www.instagram.com/) for visual businesses
-- [Twitter/X](https://x.com) for quick updates and industry news
-- [Facebook](https://www.facebook.com/) for... well, arguing with your aunt about politics (just kidding, use it wisely)
+- Instagram for visual businesses
+- Twitter/X for quick updates and industry news
+- Facebook for... well, arguing with your aunt about politics (just kidding, use it wisely)
 
 > [!WARNING]
 > **Athena Tip:** Consistency is key. Don't start a blog or social media account if you're going to abandon it faster than a New Year's resolution.
