@@ -40,8 +40,9 @@ guidance/
 # audit tracking data
 audit-tracking/
 
-# scripts folder
-scripts/
+# scripts folder (ignore all except audit-fix-citations.js for GitHub Actions)
+scripts/*
+!scripts/audit-fix-citations.js
 
 # config folder
 config/
