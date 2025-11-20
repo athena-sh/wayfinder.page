@@ -119,6 +119,6 @@ A: While stock declines after iPhone launches aren't unprecedented, the \$112 bi
 
 [^1]: [Gulf News: Investors unhappy with Apple's iPhone 17 incremental updates](https://gulfnews.com/business/markets/why-are-buyers-investors-unhappy-with-apples-iphone-17-launch-1.500265733)
 [^2]: [CNN: Everything Apple announced at its September 2025 event](https://www.cnn.com/2025/09/09/tech/new-apple-devices-announcement-event)
-[^3]: [Reuters: Apple stock falls after iPhone 17 event disappoints investors](https://www.reuters.com/technology/apple-stock-falls-after-iphone-17-event-disappoints-2025-09-10/)
-[^4]: [Bloomberg: Apple's AI delays spark investor concerns over innovation](https://www.bloomberg.com/news/articles/2025-09-10/apple-ai-delays-innovation-concerns)
+[^3]: [Ryxel: Apple Stock Slides as iPhone 17 Fails to Impress Wall Street](https://ryxel.ai/news/stocks/2025/9/11/apple-stock-slides-after-iphone-17-launch-disappoints)
+[^4]: [CNN: Apple is having a rough 2025 so far. But it's not all doom and gloom](https://edition.cnn.com/2025/03/19/tech/apple-iphone-siri-delay)
 [^5]: [WCCFtech: Wall Street analysts react to iPhone 17 pricing strategy](https://wccftech.com/apple-stock-falls-after-iphone-17-event-heres-what-wall-street-analysts-are-saying/)
