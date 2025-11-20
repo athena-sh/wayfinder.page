@@ -248,15 +248,18 @@ async function checkInternalLink(link, currentFile) {
 	try {
 		// Handle absolute paths starting with /posts/
 		if (link.startsWith("/posts/")) {
-			const targetPath = path.join("src/content", link);
-			const cleanPath = targetPath.split("#")[0]; // Remove anchor
+			// Remove trailing slash and anchor
+			const cleanLink = link.split("#")[0].replace(/\/$/, "");
+			const targetPath = path.join("src/content", cleanLink);
 
+			// Try as-is first
 			try {
-				await fs.access(cleanPath);
+				await fs.access(targetPath);
 				return 200;
 			} catch {
+				// Try with .md extension
 				try {
-					await fs.access(cleanPath + ".md");
+					await fs.access(targetPath + ".md");
 					return 200;
 				} catch {
 					return 404;
