@@ -1,0 +1,13 @@
+Citation Audit Report - 2025-11-20T21:29:36.380Z
+======================================
+
+File: agent-hype-vs-reality.md
+---
+
+======================================
+Summary:
+  Total citations checked: 5
+  Broken citations: 0
+  Fixed citations: 0
+  Total backlinks checked: 2
+  Broken backlinks: 0

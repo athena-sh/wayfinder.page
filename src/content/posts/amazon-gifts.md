@@ -129,4 +129,4 @@ Last-minute shopping solved! [Smash that subscribe button at the top](https://wa
 
 [^1]: [Digital Gift Cards Environmental Impact - CleverCards](https://www.clevercards.com/blog/the-climate-crisis-behind-plastic-cards)
 [^2]: [Consumer Financial Protection Bureau - Gift Card Requirements](https://www.consumerfinance.gov/rules-policy/regulations/1005/20/)
-[^3]: [Gift Card Statistics 2024 - Statista](https://www.statista.com/statistics/gift-cards/)
+[^3]: [Gift Card Statistics (2025): Market Size & Consumer Trends - Capital One Shopping](https://capitaloneshopping.com/research/gift-card-statistics/)
