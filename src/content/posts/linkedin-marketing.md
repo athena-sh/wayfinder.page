@@ -130,7 +130,7 @@ Remember, the goal is to build relationships, not just collect business cards. S
 
 ## Conclusion
 
-![Athena](https://res.cloudinary.com/ddicetqs5/image/upload/f_auto/v1727208220/wayfinder-ghost-blog/inline-recRDknQjMdIkGtga)
+![Athena](https://res.cloudinary.com/ddicetqs5/image/upload/c_fill,f_auto,fl_force_strip,q_auto:best/v1763930099/wayfinder-images/gp0wsjnv2xowzuducztj)
 
 Implementing these LinkedIn marketing strategies can significantly boost your B2B presence and lead generation efforts. Remember, consistency is key. Don't expect overnight results, but stay committed to your LinkedIn marketing plan. As you apply these tactics, keep track of what works best for your specific audience and industry.
 

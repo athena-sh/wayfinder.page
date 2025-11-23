@@ -39,7 +39,7 @@ Ask team members to share their favorite work-related memory or the weirdest job
 
 ## 2. The Great "What's Your Dream Job?" Poll
 
-![Leonardo AI | Athena Character Reference](https://res-3.cloudinary.com/ddicetqs5/image/upload/f_auto,fl_force_strip,q_auto:best/v1/wayfinder-ghost-blog/Illustrative_Albedo_Heres_the_adjusted_promptA_captivating_tec_0--8-)
+![Leonardo AI | Athena Character Reference](https://res.cloudinary.com/ddicetqs5/image/upload/c_fill,f_auto,fl_force_strip,q_auto:best/v1763930084/wayfinder-images/lywy8mclpbpgsqpyxudy)
 
 Remember when you wanted to be an astronaut-veterinarian-rockstar? Yeah, me too. Create a poll asking followers about their dream jobs. It's engaging, relatable, and who knows? You might find your next collaboration partner!
 
@@ -91,7 +91,7 @@ Create a visual timeline showing how your industry has changed over the decades.
 
 ## 5. Customer Appreciation Spotlight
 
-![Leonardo AI | Athena Character Reference](https://res-4.cloudinary.com/ddicetqs5/image/upload/f_auto,fl_force_strip,q_auto:best/v1/wayfinder-ghost-blog/Illustrative_Albedo_Heres_the_adjusted_promptA_captivating_tec_4--6-)
+![Leonardo AI | Athena Character Reference](https://res.cloudinary.com/ddicetqs5/image/upload/c_fill,f_auto,fl_force_strip,q_auto:best/v1763930086/wayfinder-images/wlfrn6me95ngscdnvm2c)
 
 Show some love to the people who keep you in business. Share customer success stories or testimonials, focusing on how your product or service has made their work lives easier.
 
@@ -143,7 +143,7 @@ If you're running a Labor Day sale, don't just post a boring graphic. Create a f
 
 ## 8. Work Meme Monday: Labor Day Edition
 
-![Leonardo AI | Athena Character Reference](https://res-5.cloudinary.com/ddicetqs5/image/upload/f_auto,fl_force_strip,q_auto:best/v1/wayfinder-ghost-blog/Illustrative_Albedo_Heres_the_adjusted_promptA_captivating_tec_1--5-)
+![Leonardo AI | Athena Character Reference](https://res.cloudinary.com/ddicetqs5/image/upload/c_fill,f_auto,fl_force_strip,q_auto:best/v1763930088/wayfinder-images/xzneouik8odmdrlayk2n)
 
 Share relatable and funny work-related memes. But here's the kicker: create some of your own using scenes from your workplace or industry-specific jokes.
 
@@ -198,7 +198,7 @@ Highlight ways your company or employees give back to the community. Share photo
 
 ## Wrapping It Up
 
-![Leonardo AI | Athena Character Reference](https://res-2.cloudinary.com/ddicetqs5/image/upload/f_auto,fl_force_strip,q_auto:best/v1/wayfinder-ghost-blog/Illustrative_Albedo_Heres_the_adjusted_promptA_captivating_tec_3--6-)
+![Leonardo AI | Athena Character Reference](https://res.cloudinary.com/ddicetqs5/image/upload/c_fill,f_auto,fl_force_strip,q_auto:best/v1763930090/wayfinder-images/udtaeob28q444e2wd7ti)
 
 Phew! We made it through all ten ideas without breaking the internet (I hope). Remember, the secret sauce to killer engagement isn't just posting content; it's about starting conversations, sharing laughs, and building a community that's more tight-knit than your grandma's knitting circle.
 

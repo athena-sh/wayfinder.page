@@ -64,7 +64,7 @@ Interactive elements like polls or viewer challenges keep your audience on their
 
 ## When Things Go Wrong (And They Will)
 
-![Leonardo AI | Athena Character Reference](https://res-4.cloudinary.com/ddicetqs5/image/upload/f_auto,fl_force_strip,q_auto:best/v1/wayfinder-ghost-blog/Illustrative_Albedo_Heres_the_adjusted_promptA_captivating_tec_2--8-)
+![Leonardo AI | Athena Character Reference](https://res.cloudinary.com/ddicetqs5/image/upload/c_fill,f_auto,fl_force_strip,q_auto:best/v1763930101/wayfinder-images/aygvcvwc0l1bmbsiyq47)
 
 Remember that time I accidentally left my mic muted for 15 minutes and wondered why the chat was going crazy? Yeah, good times. Here's the deal: things will go wrong. Your internet might cut out, you might spill coffee on your keyboard, or you might forget how to form coherent sentences (it happens to the best of us).
 

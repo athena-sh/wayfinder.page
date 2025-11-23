@@ -42,7 +42,7 @@ By the end, you ’ ll have the details you need to decide if trading in your iP
 
 ## Overview
 
-![image for Overview](https://res.cloudinary.com/ddicetqs5/image/upload/f_auto/v1740955452/wayfinder-ghost-blog/201-iphone-to-pixel-transition-guide-2-536259)
+![image for Overview](https://res.cloudinary.com/ddicetqs5/image/upload/c_fill,f_auto,fl_force_strip,q_auto:best/v1763930066/wayfinder-images/uu6vpplsqvx2mkfecm0s)
 
 _(The iPhone-to-Pixel Journey Begins!)_
 
@@ -80,7 +80,7 @@ Sure, I knew switching to the Pixel would mean a learning curve, but if it meant
 
 ## Feature Comparison
 
-![image for Feature Comparison](https://res.cloudinary.com/ddicetqs5/image/upload/f_auto/v1740955415/wayfinder-ghost-blog/201-iphone-to-pixel-transition-guide-4-923476)
+![image for Feature Comparison](https://res.cloudinary.com/ddicetqs5/image/upload/c_fill,f_auto,fl_force_strip,q_auto:best/v1763930068/wayfinder-images/scrsmpowafecwmcjmaww)
 
 _(The Battle of Specs and Surprises)_
 
@@ -130,7 +130,7 @@ Both phones have their strengths, and neither is an outright winner. It all come
 
 ## Performance Analysis
 
-![image for Performance Analysis](https://res.cloudinary.com/ddicetqs5/image/upload/f_auto/v1740955411/wayfinder-ghost-blog/201-iphone-to-pixel-transition-guide-2-252642)
+![image for Performance Analysis](https://res.cloudinary.com/ddicetqs5/image/upload/c_fill,f_auto,fl_force_strip,q_auto:best/v1763930069/wayfinder-images/buwmhhossthzg6aml2u4)
 
 _(Which One Actually Keeps Up?)_
 
@@ -165,7 +165,7 @@ Ultimately, both phones handle performance well, but if you want long-term consi
 
 ## Use Cases
 
-![image for Use Cases](https://res.cloudinary.com/ddicetqs5/image/upload/f_auto/v1740953803/wayfinder-ghost-blog/201-iphone-to-google-pixel-transition-guide-1-873755)
+![image for Use Cases](https://res.cloudinary.com/ddicetqs5/image/upload/c_fill,f_auto,fl_force_strip,q_auto:best/v1763930071/wayfinder-images/rdqez2fj6dyh23viyglc)
 
 _(Real-World Scenarios Where the Pixel Shines)_
 
@@ -197,7 +197,7 @@ At the end of the day, transitioning to a Pixel comes with a learning curve, but
 
 ## Recommendation
 
-![image for Recommendation](https://res.cloudinary.com/ddicetqs5/image/upload/f_auto/v1740953843/wayfinder-ghost-blog/201-iphone-to-google-pixel-transition-guide-1-214653.jpg)
+![image for Recommendation](https://res.cloudinary.com/ddicetqs5/image/upload/c_fill,f_auto,fl_force_strip,q_auto:best/v1763930072/wayfinder-images/xzzkijs4qzhpjizvxj4g)
 
 _(Making the Switch Without Regrets)_
 

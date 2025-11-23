@@ -35,7 +35,7 @@ Here's how I fumbled my way through this step:
 
 ## 2. Solve a Problem (Preferably Not One You Created)
 
-![Leonardo AI | Athena Character Reference](https://res-5.cloudinary.com/ddicetqs5/image/upload/f_auto,fl_force_strip,q_auto:best/v1/wayfinder-ghost-blog/Illustrative_Albedo_A_captivating_techsavvy_woman_Athena_exudi_3--10-)
+![Leonardo AI | Athena Character Reference](https://res.cloudinary.com/ddicetqs5/image/upload/c_fill,f_auto,fl_force_strip,q_auto:best/v1763930093/wayfinder-images/k4qkbz62xynvhdeamdrq)
 
 Once you know who your audience is, figure out what's keeping them up at night. What's their biggest headache? What makes them want to pull their hair out?
 
@@ -71,7 +71,7 @@ Try different formats, topics, and designs. Keep track of what works and what do
 
 ## 7. Promote Like Your Life Depends On It (Because Your Email List Does)
 
-![Leonardo AI | Athena Character Reference](https://res-1.cloudinary.com/ddicetqs5/image/upload/f_auto,fl_force_strip,q_auto:best/v1/wayfinder-ghost-blog/Illustrative_Albedo_A_stunningly_alluring_and_strong_technolog_7--8-)
+![Leonardo AI | Athena Character Reference](https://res.cloudinary.com/ddicetqs5/image/upload/c_fill,f_auto,fl_force_strip,q_auto:best/v1763930095/wayfinder-images/m3d75lrpyicrsilp42zh)
 
 You can create the world's most amazing lead magnet, but if no one knows about it, it's about as useful as a chocolate teapot.
 

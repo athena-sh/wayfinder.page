@@ -107,7 +107,7 @@ This self-awareness is crucial for breaking the cycle of self-doubt and building
 
 ## Strategies for Overcoming Imposter Syndrome
 
-![Leonardo.Ai | Prompt: "A young techie lady with a vibrant personality, sporting trendy glasses, light blue (hex color #5F92C3) highlights in her hair and accompanied by a small single playful cartoon owl familiar, sits confidently on a log playing chess against a backdrop of mountains and rivers."](https://res-3.cloudinary.com/ddicetqs5/image/upload/f_auto,fl_force_strip,q_auto:best/v1/wayfinder-ghost-blog/Young-techie-lady-7)
+![Leonardo.Ai | Prompt: "A young techie lady with a vibrant personality, sporting trendy glasses, light blue (hex color #5F92C3) highlights in her hair and accompanied by a small single playful cartoon owl familiar, sits confidently on a log playing chess against a backdrop of mountains and rivers."](https://res.cloudinary.com/ddicetqs5/image/upload/c_fill,f_auto,fl_force_strip,q_auto:best/v1763930047/wayfinder-images/kmfr7nx1ej363dnwefpb)
 
 ### Acknowledge Your Feelings
 
@@ -151,7 +151,7 @@ Effectively combating imposter syndrome and building lasting confidence requires
 
 ## Real-Life Stories
 
-![Leonardo.Ai | Prompt: Michelle Obama, the former First Lady of the United States, has openly discussed her struggles with imposter syndrome. Despite her achievements, she often felt unworthy of her success and worried about not meeting expectations. In her memoir "Becoming," she reveals how she overcame these feelings by focusing on her values, seeking support from loved ones, and embracing her unique voice. Michelle's story highlights the power of self-acceptance and perseverance in overcoming self-doubt](https://res-1.cloudinary.com/ddicetqs5/image/upload/f_auto,fl_force_strip,q_auto:best/v1/wayfinder-ghost-blog/Default_Michelle_Obama_the_former_First_Lady_of_the_United_Sta_3)
+![Leonardo.Ai | Prompt: Michelle Obama, the former First Lady of the United States, has openly discussed her struggles with imposter syndrome. Despite her achievements, she often felt unworthy of her success and worried about not meeting expectations. In her memoir "Becoming," she reveals how she overcame these feelings by focusing on her values, seeking support from loved ones, and embracing her unique voice. Michelle's story highlights the power of self-acceptance and perseverance in overcoming self-doubt](https://res.cloudinary.com/ddicetqs5/image/upload/c_fill,f_auto,fl_force_strip,q_auto:best/v1763930049/wayfinder-images/rtxzdzyc6mfl6lbztysm)
 
 ### Success Stories
 
@@ -189,7 +189,7 @@ These real-life examples illustrate that imposter syndrome affects people from a
 
 ## Conclusion
 
-![Leonardo.Ai | Prompt: A young techie lady with a vibrant personality, sporting trendy glasses, light blue (hex color #5F92C3) highlights in her hair and accompanied by a small single playful cartoon owl familiar, stands confidently against a backdrop of mountains and rivers.](https://res-4.cloudinary.com/ddicetqs5/image/upload/f_auto,fl_force_strip,q_auto:best/v1/wayfinder-ghost-blog/GS_CCyVW0AAU4T6)
+![Leonardo.Ai | Prompt: A young techie lady with a vibrant personality, sporting trendy glasses, light blue (hex color #5F92C3) highlights in her hair and accompanied by a small single playful cartoon owl familiar, stands confidently against a backdrop of mountains and rivers.](https://res.cloudinary.com/ddicetqs5/image/upload/c_fill,f_auto,fl_force_strip,q_auto:best/v1763930051/wayfinder-images/nup28ypflsezga8o4yh0)
 
 Throughout this article, we explored imposter syndrome's origins, signs, and impacts, identified triggers through self-reflection and pattern recognition, and provided strategies for overcoming these feelings.
 
@@ -243,6 +243,6 @@ Support can be found through mentorship, supportive communities, online forums l
 
 ## Compliance, Guidelines, and Acknowledgements
 
-![Leonardo.Ai | An owl counting.](https://res-5.cloudinary.com/ddicetqs5/image/upload/f_auto,fl_force_strip,q_auto:best/v1/wayfinder-ghost-blog/0_uGgtPirpHbchvnrc)
+![Leonardo.Ai | An owl counting.](https://res.cloudinary.com/ddicetqs5/image/upload/c_fill,f_auto,fl_force_strip,q_auto:best/v1763930052/wayfinder-images/m7xsy19hjcmeuikjcxcn)
 
 - **\*Affiliate Disclosure:** As a participant in the Amazon Affiliate Program, I earn from qualifying purchases made through links provided in this content. This means if you click on a link and make a qualifying purchase, I may receive a commission at no additional cost to you. Thank you for supporting my work and allowing me to bring you valuable insights!\*

@@ -18,7 +18,7 @@ Well, grab a seat (and maybe a glass of water), because we're about to dive into
 
 ## The Great Water Debate
 
-![Leonardo AI | Athena Character Reference](https://res-2.cloudinary.com/ddicetqs5/image/upload/f_auto,fl_force_strip,q_auto:best/v1/wayfinder-ghost-blog/Illustrative_Albedo_A_captivating_techsavvy_woman_Athena_exudi_0--1-)
+![Leonardo AI | Athena Character Reference](https://res.cloudinary.com/ddicetqs5/image/upload/c_fill,f_auto,fl_force_strip,q_auto:best/v1763930033/wayfinder-images/xfdbji4rokg9idugr6w5)
 
 Let's start with a question: How much water do you _actually_ need to drink? If you're like me, you've probably heard the whole "eight glasses a day" thing more times than you've actually managed to drink eight glasses in a day. But here's the kicker - that advice isn't based on any real science. Shocking, I know.
 
@@ -38,7 +38,7 @@ Sound familiar? Yeah, I thought so. The thing is, when it comes to hydration, mo
 
 ## The Science of Sipping
 
-![Leonardo AI | Athena Character Reference](https://res-5.cloudinary.com/ddicetqs5/image/upload/f_auto,fl_force_strip,q_auto:best/v1/wayfinder-ghost-blog/Illustrative_Albedo_A_captivating_techsavvy_woman_Athena_exudi_3--4-)
+![Leonardo AI | Athena Character Reference](https://res.cloudinary.com/ddicetqs5/image/upload/c_fill,f_auto,fl_force_strip,q_auto:best/v1763930035/wayfinder-images/ecpg0uilbpfltfkxkjta)
 
 Now, I'm no scientist (shocking, I know), but I've done my fair share of research on this topic. Here's what I've learned:
 
@@ -65,7 +65,7 @@ But before you start measuring out exactly 11.5 cups, remember this: these numbe
 
 ## Listen to Your Body (It's Smarter Than You Think)
 
-![Leonardo AI | Athena Character Reference](https://res-3.cloudinary.com/ddicetqs5/image/upload/f_auto,fl_force_strip,q_auto:best/v1/wayfinder-ghost-blog/Illustrative_Albedo_A_captivating_techsavvy_woman_Athena_exudi_2--5-)
+![Leonardo AI | Athena Character Reference](https://res.cloudinary.com/ddicetqs5/image/upload/c_fill,f_auto,fl_force_strip,q_auto:best/v1763930037/wayfinder-images/ryrdmpr28zhmjzas9alo)
 
 Here's the real tea (or water, in this case): The best way to gauge your hydration is to listen to your body. Novel concept, right? Here are some signs your body might be trying to tell you something:
 
@@ -86,7 +86,7 @@ Alright, so now that we've covered the basics, let's talk strategy. How do you a
 
 ## The Myths, The Legends, The Hydration Tall Tales
 
-![Leonardo AI | Athena Character Reference](https://res-5.cloudinary.com/ddicetqs5/image/upload/f_auto,fl_force_strip,q_auto:best/v1/wayfinder-ghost-blog/Illustrative_Albedo_A_captivating_techsavvy_wom-3)
+![Leonardo AI | Athena Character Reference](https://res.cloudinary.com/ddicetqs5/image/upload/c_fill,f_auto,fl_force_strip,q_auto:best/v1763930039/wayfinder-images/uits2pfq60g4jb0bg6jr)
 
 Now, let's bust some hydration myths, shall we? Because if there's one thing the internet loves more than cat videos, it's spreading misinformation about health.
 
@@ -126,7 +126,7 @@ Now, before you swear off water forever, know that this is pretty rare and usual
 
 ## The Bottom Line: Keep It Simple, Stay Hydrated
 
-![Leonardo AI | Athena Character Reference](https://res-4.cloudinary.com/ddicetqs5/image/upload/f_auto,fl_force_strip,q_auto:best/v1/wayfinder-ghost-blog/Illustrative_Albedo_A_captivating_techsavvy_wom-4)
+![Leonardo AI | Athena Character Reference](https://res.cloudinary.com/ddicetqs5/image/upload/c_fill,f_auto,fl_force_strip,q_auto:best/v1763930042/wayfinder-images/th75rojsryxiyifrorpq)
 
 After all this talk about hydration, here's what it really comes down to:
 

@@ -16,7 +16,7 @@ Hey there, internet enthusiasts and knowledge seekers! Guess what? It's Medium D
 
 ## What's the Big Deal About Medium Day?
 
-![Official Medium Branding Logo](https://res-1.cloudinary.com/ddicetqs5/image/upload/f_auto,fl_force_strip,q_auto:best/v1/wayfinder-ghost-blog/download-2)
+![Official Medium Branding Logo](https://res.cloudinary.com/ddicetqs5/image/upload/c_fill,f_auto,fl_force_strip,q_auto:best/v1763930135/wayfinder-images/ghrdtsikhncrxwfuxdrz)
 
 Remember when the internet was supposed to be this magical place where knowledge flowed freely, and we all became wiser, kinder, and probably developed superpowers? Okay, maybe not that last part, but you get the idea. Somewhere along the way, things got a bit... messy.
 
@@ -109,7 +109,7 @@ Here's what we promise you'll get out of Medium Day:
 
 ## Join Us in Making a Better Internet
 
-![Leonardo AI | Athena Character Reference](https://res-2.cloudinary.com/ddicetqs5/image/upload/f_auto,fl_force_strip,q_auto:best/v1/wayfinder-ghost-blog/Illustrative_Albedo_Inspiring_flirtatious_sexy_techlady_standi_5--1-)
+![Leonardo AI | Athena Character Reference](https://res.cloudinary.com/ddicetqs5/image/upload/c_fill,f_auto,fl_force_strip,q_auto:best/v1763930137/wayfinder-images/phuw9ddcy4cdbzwboawu)
 
 So, are you ready to be part of something bigger? Ready to help shape an internet that informs, inspires, and brings people together? Then join us for Medium Day 2024!
 

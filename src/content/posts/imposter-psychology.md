@@ -69,7 +69,7 @@ See the pattern? Your brain is playing favorites and not in your favor.
 
 **The meta-game of thinking**
 
-![A young techie lady with a vibrant personality, sporting trendy glasses, light blue (hex color #5F92C3) highlights in her hair and accompanied by a small single playful cartoon owl familiar, sits confidently on a log playing chess against a backdrop of mountains and rivers.](https://res-1.cloudinary.com/ddicetqs5/image/upload/f_auto,fl_force_strip,q_auto:best/v1/wayfinder-ghost-blog/default_a_young_techie_lady_with_a_vibrant_personality_sportin_2_daac33da-c44b-4ef2-b9d9-3f0721ae886a)
+![A young techie lady with a vibrant personality, sporting trendy glasses, light blue (hex color #5F92C3) highlights in her hair and accompanied by a small single playful cartoon owl familiar, sits confidently on a log playing chess against a backdrop of mountains and rivers.](https://res.cloudinary.com/ddicetqs5/image/upload/c_fill,f_auto,fl_force_strip,q_auto:best/v1763930044/wayfinder-images/qzc08mjkag5uzlkmbpgt)
 
 Now, here's where it gets wild. We don't just think; we think about our thinking. It's called metacognition, like your brain's way of looking in a mirror.
 
@@ -117,7 +117,7 @@ The cool thing about brains? They can change. It's called _neuroplasticity_ and 
 
 ## Psychological Theories: The Big Picture
 
-![A young techie lady with a vibrant personality, sporting trendy glasses, light blue (hex color #5F92C3) highlights in her hair and accompanied by a small single playful cartoon owl familiar, sits confidently on a log playing chess against a backdrop of mountains and rivers.](https://res-3.cloudinary.com/ddicetqs5/image/upload/f_auto,fl_force_strip,q_auto:best/v1/wayfinder-ghost-blog/default_a_young_techie_lady_with_a_vibrant_personality_sportin_4_0ed9a139-dd02-4cd7-ba21-6a7e5ca2c6a0)
+![A young techie lady with a vibrant personality, sporting trendy glasses, light blue (hex color #5F92C3) highlights in her hair and accompanied by a small single playful cartoon owl familiar, sits confidently on a log playing chess against a backdrop of mountains and rivers.](https://res.cloudinary.com/ddicetqs5/image/upload/c_fill,f_auto,fl_force_strip,q_auto:best/v1763930045/wayfinder-images/xeyhtfqkq2x2mijdczgq)
 
 **Social Identity Theory: Finding Your Tribe**
 

@@ -17,7 +17,7 @@ _(Originally posted on March 28, 2024)_
 
 :::
 
-![Hero Image](https://res.cloudinary.com/ddicetqs5/image/upload/f_auto/v1746923759/wayfinder-images/meddicc-framework-1448_702_eaktib)
+![Hero Image](https://res.cloudinary.com/ddicetqs5/image/upload/c_fill,f_auto,fl_force_strip,q_auto:best/v1746923759/wayfinder-images/meddicc-framework-1448_702_eaktib)
 
 _Decoupling the Tricks of Elite Sales Success: A helpful Deep Dive into MEDDIC_
 
@@ -45,7 +45,7 @@ Now that I've hopefully convinced you this is worth your time, let's break down 
 
 ## M is for Metrics: Show Me The Money!
 
-![Metrics](https://res.cloudinary.com/ddicetqs5/image/upload/f_auto/v1746927067/wayfinder-images/meddicc-framework-infographic-001_mup05x)
+![Metrics](https://res.cloudinary.com/ddicetqs5/image/upload/c_fill,f_auto,fl_force_strip,q_auto:best/v1746927067/wayfinder-images/meddicc-framework-infographic-001_mup05x)
 
 Metrics aren't just numbers to make your PowerPoint slides look impressive. They're the undeniable proof that your solution isn't just nice to have — it's a must-have.
 
@@ -62,7 +62,7 @@ Remember, the goal isn't to drown them in numbers — it's to translate your sol
 
 ## E is for Economic Buyer: Finding the Person With The Power (and the Purse)
 
-![Economic Buyer](https://res.cloudinary.com/ddicetqs5/image/upload/f_auto/v1746924889/wayfinder-images/meddicc-framework-infographic-002_lhotog)
+![Economic Buyer](https://res.cloudinary.com/ddicetqs5/image/upload/c_fill,f_auto,fl_force_strip,q_auto:best/v1746924889/wayfinder-images/meddicc-framework-infographic-002_lhotog)
 
 Let's face it: in any organization, some people can say "yes," but many more can only say "no." The Economic Buyer is that rare unicorn who can actually approve the check.
 
@@ -80,7 +80,7 @@ Once you've found them, tailor your approach accordingly. Economic Buyers don't 
 
 ## D is for Decision Criteria: Getting Inside Their Heads
 
-![Decision Criteria](https://res.cloudinary.com/ddicetqs5/image/upload/f_auto/v1746924890/wayfinder-images/meddicc-framework-infographic-003_ko2pbj)
+![Decision Criteria](https://res.cloudinary.com/ddicetqs5/image/upload/c_fill,f_auto,fl_force_strip,q_auto:best/v1746924890/wayfinder-images/meddicc-framework-infographic-003_ko2pbj)
 
 Every organization has a unique set of criteria they use to evaluate solutions, whether they realize it or not. Some are formal (officially documented requirements), while others are informal (the CEO's personal preferences that no one talks about but everyone knows about).
 
@@ -95,7 +95,7 @@ Once you understand their criteria, you can position your solution to align perf
 
 ## D is for Decision Process: Mapping the Corporate Labyrinth
 
-![Decision Process](https://res.cloudinary.com/ddicetqs5/image/upload/f_auto/v1746924891/wayfinder-images/meddicc-framework-infographic-004_xvrr2f)
+![Decision Process](https://res.cloudinary.com/ddicetqs5/image/upload/c_fill,f_auto,fl_force_strip,q_auto:best/v1746924891/wayfinder-images/meddicc-framework-infographic-004_xvrr2f)
 
 The decision process in large organizations can be more complex than the plot of a Christopher Nolan movie. Understanding this process is crucial if you want to avoid nasty surprises like:
 
@@ -115,7 +115,7 @@ The more complex the organization, the more important this step becomes. Skip it
 
 ## I is for Implicate the Pain: Becoming a Pain Detective
 
-![Implicate the Pain](https://res.cloudinary.com/ddicetqs5/image/upload/f_auto/v1746927452/wayfinder-images/meddicc-framework-infographic-005_ox7kaz)
+![Implicate the Pain](https://res.cloudinary.com/ddicetqs5/image/upload/c_fill,f_auto,fl_force_strip,q_auto:best/v1746927452/wayfinder-images/meddicc-framework-infographic-005_ox7kaz)
 
 People don't buy solutions; they buy relief from pain. Your job is to uncover pain points so excruciating that maintaining the status quo becomes more painful than changing.
 
@@ -132,7 +132,7 @@ When you identify a prospect's pain points accurately, you're not just selling a
 
 ## C is for Champion: Finding Your Inside Ally
 
-![Champion](https://res.cloudinary.com/ddicetqs5/image/upload/f_auto/v1746924892/wayfinder-images/meddicc-framework-infographic-006_s96c2b)
+![Champion](https://res.cloudinary.com/ddicetqs5/image/upload/c_fill,f_auto,fl_force_strip,q_auto:best/v1746924892/wayfinder-images/meddicc-framework-infographic-006_s96c2b)
 
 Every successful complex sale has a Champion — someone inside the prospect's organization who believes in your solution and is willing to advocate for it when you're not in the room. Think of them as your sales proxy, fighting battles on your behalf between meetings.
 
@@ -150,7 +150,7 @@ For example, if your analytics tool will save a marketing manager hours of manua
 
 ## C is for Competition: Knowing Your Battlefield
 
-![Competition](https://res.cloudinary.com/ddicetqs5/image/upload/f_auto/v1746924893/wayfinder-images/meddicc-framework-infographic-007_lnraiu)
+![Competition](https://res.cloudinary.com/ddicetqs5/image/upload/c_fill,f_auto,fl_force_strip,q_auto:best/v1746924893/wayfinder-images/meddicc-framework-infographic-007_lnraiu)
 
 In today's market, your competition isn't just other vendors — it's also the status quo and the decision to do nothing at all. Understanding the competitive landscape helps you position your solution effectively and address objections before they arise.
 
@@ -166,7 +166,7 @@ Remember that different stakeholders may favor different competitors based on th
 
 ## Putting It All Together: MEDDICC in Action
 
-![Putting It All Together: MEDDICC in Action](https://res.cloudinary.com/ddicetqs5/image/upload/f_auto/v1746924894/wayfinder-images/meddicc-framework-infographic-008_h40hki)
+![Putting It All Together: MEDDICC in Action](https://res.cloudinary.com/ddicetqs5/image/upload/c_fill,f_auto,fl_force_strip,q_auto:best/v1746924894/wayfinder-images/meddicc-framework-infographic-008_h40hki)
 
 MEDDICC isn't a linear process — it's a framework that helps you gather critical information throughout the sales cycle. As you learn more about each component, you'll refine your strategy and increase your chances of winning.
 
@@ -200,7 +200,7 @@ If you're thinking, "This sounds great, but I need more," here are some resource
 
 ## The Bottom Line: MEDDICC or Mediocrity
 
-![Rendition of MEDDIC Logo](https://res.cloudinary.com/ddicetqs5/image/upload/f_auto/v1746927806/wayfinder-images/meddicc_wx5hwg)
+![Rendition of MEDDIC Logo](https://res.cloudinary.com/ddicetqs5/image/upload/c_fill,f_auto,fl_force_strip,q_auto:best/v1746927806/wayfinder-images/meddicc_wx5hwg)
 
 The reality is that sales is getting more complex, not less. Buying committees are growing, decision processes are becoming more rigorous, and competition is fiercer than ever. In this environment, hope is not a strategy.
 

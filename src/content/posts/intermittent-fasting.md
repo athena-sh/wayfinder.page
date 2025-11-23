@@ -40,7 +40,7 @@ Now, before you start panicking about never enjoying brunch again, remember – 
 
 ## The Science-y Bit (Don't Worry, I'll Keep It Simple)
 
-![Leonardo AI | Athena Character Reference](https://res-3.cloudinary.com/ddicetqs5/image/upload/f_auto,fl_force_strip,q_auto:best/v1/wayfinder-ghost-blog/wayfinder-page-science)
+![Leonardo AI | Athena Character Reference](https://res.cloudinary.com/ddicetqs5/image/upload/c_fill,f_auto,fl_force_strip,q_auto:best/v1763930059/wayfinder-images/bjfimzwdyefx40tdos7r)
 
 So, what's actually happening in your body when you fast? Let's break it down:
 
@@ -66,7 +66,7 @@ What works for one person might not work for another. And let's be real – some
 
 ## The Good, The Bad, and The Hangry
 
-![Leonardo AI | Athena Character Reference](https://res-1.cloudinary.com/ddicetqs5/image/upload/f_auto,fl_force_strip,q_auto:best/v1/wayfinder-ghost-blog/wayfinder-page-athena-hungry)
+![Leonardo AI | Athena Character Reference](https://res.cloudinary.com/ddicetqs5/image/upload/c_fill,f_auto,fl_force_strip,q_auto:best/v1763930061/wayfinder-images/ewacktbcz3t7wmxv3uhb)
 
 Let's talk about the potential benefits and risks of intermittent fasting. Because as much as I'd like to tell you it's all sunshine and rainbows, that wouldn't be very honest of me, would it?
 
@@ -86,7 +86,7 @@ Let's talk about the potential benefits and risks of intermittent fasting. Becau
 
 ## My Fasting Fiasco: A Cautionary Tale
 
-![Leonardo AI | Athena Character Reference](https://res-5.cloudinary.com/ddicetqs5/image/upload/f_auto,fl_force_strip,q_auto:best/v1/wayfinder-ghost-blog/wayfinder-page-my-fasting)
+![Leonardo AI | Athena Character Reference](https://res.cloudinary.com/ddicetqs5/image/upload/c_fill,f_auto,fl_force_strip,q_auto:best/v1763930063/wayfinder-images/ixrk6ztbrjhqejwsr6bq)
 
 Remember that coding marathon I mentioned earlier? Well, emboldened by my accidental fast, I decided to try a more structured approach. I chose the 16/8 method, figuring it would be easy to skip breakfast (I'm not a morning person anyway) and have my first meal at noon.
 
@@ -126,7 +126,7 @@ If you've decided to give intermittent fasting a shot, here are some tips to hel
 
 ## The Last Bite
 
-![Leonardo AI | Athena Character Reference](https://res-3.cloudinary.com/ddicetqs5/image/upload/f_auto,fl_force_strip,q_auto:best/v1/wayfinder-ghost-blog/wayfinder-page-last-bite)
+![Leonardo AI | Athena Character Reference](https://res.cloudinary.com/ddicetqs5/image/upload/c_fill,f_auto,fl_force_strip,q_auto:best/v1763930065/wayfinder-images/r6iljhqprh0tbsofrdmk)
 
 As we wrap up this culinary journey through the land of not eating (ironic, isn't it?), let's take a moment to reflect. Intermittent fasting, like any dietary approach, isn't a miracle cure. It's not going to turn you into a superhero or solve all your problems. But for some people, it can be a useful tool for improving health, managing weight, and maybe even gaining a new perspective on their relationship with food.
 

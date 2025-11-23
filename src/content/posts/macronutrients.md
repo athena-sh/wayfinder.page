@@ -53,7 +53,7 @@ Mix it up! Your taste buds (and your digestive system) will thank you.
 
 ## Carbohydrates: The Misunderstood Macronutrient
 
-![Leonardo AI | Athena Character Reference](https://res-3.cloudinary.com/ddicetqs5/image/upload/f_auto,fl_force_strip,q_auto:best/v1/wayfinder-ghost-blog/understanding-macronutrients-proteins-carbs)
+![Leonardo AI | Athena Character Reference](https://res.cloudinary.com/ddicetqs5/image/upload/c_fill,f_auto,fl_force_strip,q_auto:best/v1763930103/wayfinder-images/iecfsgaumazdujjewhvx)
 
 Carbs have gotten a bad rap lately. They're like that friend everyone loves to hate but secretly can't live without. Here's the thing: carbs are your body's preferred source of energy. They fuel your brain, your muscles, and pretty much every cell in your body.
 
@@ -105,7 +105,7 @@ As the famous nutritionist Adelle Davis once said, "Eat breakfast like a king, l
 
 ## My Personal Macronutrient Journey
 
-![Leonardo AI | Athena Character Reference](https://res-4.cloudinary.com/ddicetqs5/image/upload/f_auto,fl_force_strip,q_auto:best/v1/wayfinder-ghost-blog/understanding-macronutrients-proteins-carbs-1)
+![Leonardo AI | Athena Character Reference](https://res.cloudinary.com/ddicetqs5/image/upload/c_fill,f_auto,fl_force_strip,q_auto:best/v1763930105/wayfinder-images/fdjibo1uzmfjd5zemfnm)
 
 Remember when I said I tried every diet under the sun? Well, after my protein shake phase and my ill-fated attempt to banish carbs, I finally decided to take a more balanced approach.
 

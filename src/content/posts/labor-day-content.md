@@ -29,11 +29,11 @@ Remember, your audience isn't just a bunch of numbers. They're real people with 
 
 ## 2. Content Planning (Or: How I Pretend to Have My Sh\*t Together)
 
-![Athena's Content Strategy Table](https://res-4.cloudinary.com/ddicetqs5/image/upload/f_auto,fl_force_strip,q_auto:best/v1/wayfinder-ghost-blog/content-strategy)
+![Athena's Content Strategy Table](https://res.cloudinary.com/ddicetqs5/image/upload/c_fill,f_auto,fl_force_strip,q_auto:best/v1763930074/wayfinder-images/ypgzmzgja5wt794pzt0o)
 
 Okay, let's talk content planning. Now, I know what you're thinking: "Planning? That's for responsible adults!" But hear me out. Having a content plan is like having a map on a road trip. Sure, you can wing it, but you might end up lost in the middle of nowhere with no snacks.
 
-![Athena's Content Calendar - October 2024 (so far / work in progress)](https://res-3.cloudinary.com/ddicetqs5/image/upload/f_auto,fl_force_strip,q_auto:best/v1/wayfinder-ghost-blog/content-calendar-oct)
+![Athena's Content Calendar - October 2024 (so far / work in progress)](https://res.cloudinary.com/ddicetqs5/image/upload/c_fill,f_auto,fl_force_strip,q_auto:best/v1763930077/wayfinder-images/hxfch5xmenhhb0tywhsw)
 
 Here's my utterly non-expert guide to content planning:
 
@@ -98,7 +98,7 @@ Remember, social media is a two-way street. If you're just broadcasting and not 
 
 ## 7. Embrace the Power of Storytelling (Or: How I Learned to Stop Being Boring)
 
-![Leonardo AI | Athena Character Reference](https://res-3.cloudinary.com/ddicetqs5/image/upload/f_auto,fl_force_strip,q_auto:best/v1/wayfinder-ghost-blog/Illustrative_Albedo_Heres_the_adjusted_promptA_captivating_tec_5--4-)
+![Leonardo AI | Athena Character Reference](https://res.cloudinary.com/ddicetqs5/image/upload/c_fill,f_auto,fl_force_strip,q_auto:best/v1763930080/wayfinder-images/sqvvrk6jayevgjvmx0ed)
 
 Humans are hardwired for stories. It's why we binge-watch Netflix shows and stay up way too late reading "just one more chapter." Use that to your advantage!
 
@@ -143,7 +143,7 @@ Remember, social media is about building relationships. And just like in real li
 
 ## The Labor Day Takeaway
 
-![Leonardo AI | Athena Character Reference](https://res-1.cloudinary.com/ddicetqs5/image/upload/f_auto,fl_force_strip,q_auto:best/v1/wayfinder-ghost-blog/Illustrative_Albedo_Heres_the_adjusted_promptA_captivating_tec_2--6-)
+![Leonardo AI | Athena Character Reference](https://res.cloudinary.com/ddicetqs5/image/upload/c_fill,f_auto,fl_force_strip,q_auto:best/v1763930082/wayfinder-images/zxtvk2sgmj6b6uaeccqx)
 
 As we celebrate Labor Day and the achievements of workers, let's remember that building a strong social media presence is work too. It takes time, effort, and a whole lot of trial and error. But with these strategies, you're well on your way to becoming a social media maven.
 

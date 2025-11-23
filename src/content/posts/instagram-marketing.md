@@ -98,7 +98,7 @@ Here's the secret to successful influencer partnerships: authenticity. You can't
 
 ### Track ROI of Influencer Campaigns
 
-![Leonardo AI | Athena Character ReferenceLeonardo AI | Athena Character Reference](https://res-2.cloudinary.com/ddicetqs5/image/upload/f_auto,fl_force_strip,q_auto:best/v1/wayfinder-ghost-blog/athena_halloween_5ECle894)
+![Leonardo AI | Athena Character ReferenceLeonardo AI | Athena Character Reference](https://res.cloudinary.com/ddicetqs5/image/upload/c_fill,f_auto,fl_force_strip,q_auto:best/v1763930055/wayfinder-images/zon2amqnwrpow5atqqp5)
 
 Look, I get it. Influencer marketing can feel like throwing money into a black hole. But it doesn't have to be that way. Here's how to make sure you're getting your money's worth:
 
@@ -232,6 +232,6 @@ Remember, Instagram isn't just a platform for selling products. It's a platform 
 
 ## Conclusion
 
-![Leonardo AI | Athena Character Reference](https://res-5.cloudinary.com/ddicetqs5/image/upload/f_auto,fl_force_strip,q_auto:best/v1/wayfinder-ghost-blog/athena_halloween_4JBV9EtP)
+![Leonardo AI | Athena Character Reference](https://res.cloudinary.com/ddicetqs5/image/upload/c_fill,f_auto,fl_force_strip,q_auto:best/v1763930057/wayfinder-images/wdcn4oscf35thly83k5c)
 
 Implementing these Instagram marketing strategies can significantly boost your sales performance. Remember, consistency is key. Regularly analyze your results and adjust your approach as needed. Don't be afraid to experiment and find what works best for your unique audience. Start applying these strategies today and watch your Instagram sales soar in 2024 and beyond.

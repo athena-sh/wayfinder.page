@@ -26,7 +26,7 @@ You can clap up to 50 times for a single article.[^2]
 - Maybe they have a secret obsession with the 50 states.
 - Or maybe they just threw a dart at a number board.
 
-![Cited:Loretta_M,thanks! Note: The mouse buttoncan be held downfor "turbo mode"vs. pressed for each clap.](https://res-3.cloudinary.com/ddicetqs5/image/upload/f_auto,fl_force_strip,q_auto:best/v1/wayfinder-ghost-blog/clapping)
+![Cited:Loretta_M,thanks! Note: The mouse buttoncan be held downfor "turbo mode"vs. pressed for each clap.](https://res.cloudinary.com/ddicetqs5/image/upload/c_fill,f_auto,fl_force_strip,q_auto:best/v1763930131/wayfinder-images/md3sayi6njjc1hhs8f3y)
 
 But here's where it gets interesting (or confusing, depending on how much coffee you've had):
 
@@ -113,7 +113,7 @@ Clapping up to 50 times for a post is a great way to show your support. Although
 
 ## Compliance, Guidelines, and Acknowledgements
 
-![Leonardo.Ai | An owl counting.](https://res-5.cloudinary.com/ddicetqs5/image/upload/f_auto,fl_force_strip,q_auto:best/v1/wayfinder-ghost-blog/0_uGgtPirpHbchvnrc)
+![Leonardo.Ai | An owl counting.](https://res.cloudinary.com/ddicetqs5/image/upload/c_fill,f_auto,fl_force_strip,q_auto:best/v1763930134/wayfinder-images/yo7lb8e6yrmqdasvdhnn)
 
 - **\*Affiliate Disclosure:** As a participant in the Amazon Affiliate Program, I earn from qualifying purchases made through links provided in this content. This means if you click on a link and make a qualifying purchase, I may receive a commission at no additional cost to you. Thank you for supporting my work and allowing me to bring you valuable insights!\*
 

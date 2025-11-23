@@ -121,7 +121,7 @@ Find relevant chats in your niche (there's one for everything, trust me), mark t
 
 ## 5. Engage Authentically with Your Audience
 
-![Leonardo AI | Athena Character Reference](https://res-2.cloudinary.com/ddicetqs5/image/upload/f_auto,fl_force_strip,q_auto:best/v1/wayfinder-ghost-blog/66eb8e31bc941a0001f28745)
+![Leonardo AI | Athena Character Reference](https://res.cloudinary.com/ddicetqs5/image/upload/c_fill,f_auto,fl_force_strip,q_auto:best/v1763930107/wayfinder-images/gdehhf64dpwdasyanett)
 
 Engagement isn't just a buzzword to throw around at marketing meetings (along with "synergy" and "thinking outside the box"). It's about building real connections with real people. Novel concept, I know.
 

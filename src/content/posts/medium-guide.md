@@ -33,7 +33,7 @@ First things first, you need to find your niche and voice. And no, I don't mean 
 
 ## Crafting Content That Doesn't Suck
 
-![Leonardo AI | Athena Character Reference](https://res-1.cloudinary.com/ddicetqs5/image/upload/f_auto,fl_force_strip,q_auto:best/v1/wayfinder-ghost-blog/finding-your-voice-without-sounding-like-a-robot)
+![Leonardo AI | Athena Character Reference](https://res.cloudinary.com/ddicetqs5/image/upload/c_fill,f_auto,fl_force_strip,q_auto:best/v1763930142/wayfinder-images/s9rgefdfu76ol2bk4epd)
 
 Now that you've found your voice, it's time to use it without making people want to mute you.
 
@@ -43,7 +43,7 @@ Now that you've found your voice, it's time to use it without making people want
 
 ## The Almighty Algorithm: Pleasing Our Robot Overlords
 
-![Leonardo AI | Athena Character Reference](https://res-4.cloudinary.com/ddicetqs5/image/upload/f_auto,fl_force_strip,q_auto:best/v1/wayfinder-ghost-blog/the-almighty-algorithm-pleasing-our-robot-overlords)
+![Leonardo AI | Athena Character Reference](https://res.cloudinary.com/ddicetqs5/image/upload/c_fill,f_auto,fl_force_strip,q_auto:best/v1763930144/wayfinder-images/rcab6kv0xbectc0yutvh)
 
 Medium's algorithm is like that popular kid in high school – mysterious, powerful, and potentially life-ruining. Here's how to get on its good side:
 
@@ -79,7 +79,7 @@ Medium isn't just a platform; it's a community. And like any community, it's mor
 
 ## Promote Like Your Writing Career Depends on It (Because It Does)
 
-![Leonardo AI | Athena Character Reference](https://res-3.cloudinary.com/ddicetqs5/image/upload/f_auto,fl_force_strip,q_auto:best/v1/wayfinder-ghost-blog/promote-like-your-writing-career-depends-on-it-because-it-does)
+![Leonardo AI | Athena Character Reference](https://res.cloudinary.com/ddicetqs5/image/upload/c_fill,f_auto,fl_force_strip,q_auto:best/v1763930146/wayfinder-images/gvxth7rszttcorq3osh5)
 
 Writing is only half the battle. The other half is shameless self-promotion (but, you know, in a classy way).
 
@@ -107,7 +107,7 @@ For more monetization tips, check out my article on how sticking around for 30 s
 
 ## The Grand Finale: You've Got This (Maybe)
 
-![Leonardo AI | Athena Character Reference](https://res-3.cloudinary.com/ddicetqs5/image/upload/f_auto,fl_force_strip,q_auto:best/v1/wayfinder-ghost-blog/the-grand-finale-youve-got-this-maybe)
+![Leonardo AI | Athena Character Reference](https://res.cloudinary.com/ddicetqs5/image/upload/c_fill,f_auto,fl_force_strip,q_auto:best/v1763930148/wayfinder-images/fmwkt5yyyn44hdcvz1gk)
 
 Look, success on Medium _isn't guaranteed_. But neither is failure. It's like Schrödinger's writing career – you're both successful and unsuccessful until you open that stats page.
 

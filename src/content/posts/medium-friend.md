@@ -3,7 +3,7 @@ title: Why I Became a Friend of Medium
 description: "The 'Friend of Medium' program stands as a pivotal factor in enhancing the quality of content on Medium."
 published: 2024-06-12
 image: medium.svg
-hero: https://res.cloudinary.com/ddicetqs5/image/upload/f_auto,fl_force_strip,q_auto:best/v1759637196/wayfinder-images/fovnc2zhb6ym7llpqtxs
+hero: https://res.cloudinary.com/ddicetqs5/image/upload/c_fill,f_auto,fl_force_strip,q_auto:best/v1759637196/wayfinder-images/fovnc2zhb6ym7llpqtxs
 draft: false
 tags: [Content,Medium]
 category: "Guides"
@@ -47,7 +47,7 @@ When combined, these elements fortify and connect the Medium ecosystem, offering
 
 ## My Individual Journey to Medium Friend Status
 
-![OpenArt AI | Athena Character Reference](https://res.cloudinary.com/ddicetqs5/image/upload/f_auto,fl_force_strip,q_auto:best/v1759638780/wayfinder-images/n1agiyq0axqtiyjgdf67)
+![OpenArt AI | Athena Character Reference](https://res.cloudinary.com/ddicetqs5/image/upload/c_fill,f_auto,fl_force_strip,q_auto:best/v1759638780/wayfinder-images/n1agiyq0axqtiyjgdf67)
 
 At first, I wasn't sure about the "Friend of Medium" program. I realized its true worth when the subscription cost was increased.
 
@@ -85,7 +85,7 @@ In a landscape where quality often competes with quantity, this model prioritize
 
 ### Comparing Analytically with Standard Membership
 
-![OpenArt AI | Athena Character Reference](https://res.cloudinary.com/ddicetqs5/image/upload/f_auto,fl_force_strip,q_auto:best/v1759641249/wayfinder-images/uhmoz8a20p3bfkd9cogc)
+![OpenArt AI | Athena Character Reference](https://res.cloudinary.com/ddicetqs5/image/upload/c_fill,f_auto,fl_force_strip,q_auto:best/v1759641249/wayfinder-images/uhmoz8a20p3bfkd9cogc)
 
 There are some obvious advantages that the Friend of Medium membership offers over the standard membership, even with its higher subscription fee.
 
