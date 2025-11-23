@@ -2,12 +2,12 @@
 title: "Bend, Don't Break: A Regular Person's Guide to Yoga for Flexibility and Stress Relief"
 description: "Explore a beginner's guide to yoga for flexibility and stress relief. Learn simple poses and breathing techniques to improve your well-being."
 image: person-walking.svg
-hero: https://res.cloudinary.com/ddicetqs5/image/upload/c_fill,f_auto,fl_force_strip,q_auto:best/v1758505305/wayfinder-images/sawbokshlzadloawpee7
+hero: https://res.cloudinary.com/ddicetqs5/image/upload/c_fill,f_auto,fl_force_strip,q_auto:best/v1763935934/wayfinder-images/xusp6olugxh2u90vny4r
 draft: false
 published: 2024-08-25
 category: "Wellness"
 lang: ""
-tags: ["Wellness", "Meditation", "Yoga"]
+tags: ["Meditation", "Yoga"]
 ---
 
 Ever feel like your body's as flexible as a steel beam? Or like your stress levels are through the roof? Yeah, me too. That's why I decided to give yoga a shot. Spoiler alert: I'm no guru, but I've picked up a few things that might help you too.
@@ -61,7 +61,7 @@ There you have it. You've just done your first yoga sequence. How do you feel? E
 
 ## Beginner-Friendly Poses for Flexibility
 
-![Athena](https://res.cloudinary.com/ddicetqs5/image/upload/c_fill,f_auto,fl_force_strip,q_auto:best/v1758506430/wayfinder-images/zsv490ewkqwxbckokqo3)
+![Athena](https://res.cloudinary.com/ddicetqs5/image/upload/c_fill,f_auto,fl_force_strip,q_auto:best/v1763935968/wayfinder-images/zc4mncncwajdglznujih)
 
 Now that we're warmed up, let's try some poses specifically for flexibility. Remember, the goal isn't to look like a human pretzel. It's to feel good and maybe reach a little further than you could yesterday.
 
@@ -104,6 +104,8 @@ Now that we're warmed up, let's try some poses specifically for flexibility. Rem
 
 ## Stress-Busting Breathing Techniques
 
+![Athena](https://res.cloudinary.com/ddicetqs5/image/upload/c_fill,f_auto,fl_force_strip,q_auto:best/v1763936019/wayfinder-images/yknfzmw7pnoinbga3gnt)
+
 Now, let's talk about breathing. I know, I know, you've been doing it your whole life. But trust me, there's more to it than just in and out.
 
 ### 1. Equal Breathing (or "The Boring But Effective")
@@ -135,6 +137,8 @@ Now, let's talk about breathing. I know, I know, you've been doing it your whole
 **Fun Fact**: This technique is said to balance the left and right sides of your brain. Whether that's true or not, it's hard to stress about your to-do list when you're so focused on not poking yourself in the eye.
 
 ## The "Holy Cow, I Think I'm Actually Relaxing" Sequence
+
+![Athena](https://res.cloudinary.com/ddicetqs5/image/upload/c_fill,f_auto,fl_force_strip,q_auto:best/v1763936074/wayfinder-images/jd0dv8to5zeipzeuagvi)
 
 Now that we've got some basics down, let's put it all together into a simple sequence for flexibility and stress relief.
 
@@ -174,6 +178,8 @@ On those days, remember this:
 4. **It's Called Practice for a Reason**: You're practicing. Not performing. Not competing. Just practicing.
 
 ## The Grand Finale (or "You Made It!")
+
+![Athena](https://res.cloudinary.com/ddicetqs5/image/upload/c_fill,f_auto,fl_force_strip,q_auto:best/v1763936170/wayfinder-images/rtl7yqrdhpsadznzo47m)
 
 Congratulations! You've made it to the end of this guide. You're now armed with some basic knowledge about yoga for flexibility and stress relief. But remember, reading about yoga is like reading about swimming - at some point, you've got to jump in the water.
 
