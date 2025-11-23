@@ -278,6 +278,6 @@ Just remember, the best marketing strategy is to consistently deliver value. All
 
 ## Conclusion
 
-![Athena](https://res.cloudinary.com/ddicetqs5/image/upload/f_auto/v1727105523/wayfinder-ghost-blog/inline-recT7WiA8VdoX8Zi3)
+![Athena](https://res.cloudinary.com/ddicetqs5/image/upload/c_fill,f_auto,fl_force_strip,q_auto:best/v1763930937/wayfinder-images/iajtkqkahhtvvn89k4i7)
 
 Creating a successful membership site takes time, effort, and dedication. But with the right approach, it can be incredibly rewarding. Remember to focus on providing value to your members at every step. Continuously engage with your community and adapt to their needs. Your membership site's success lies in your ability to create a thriving, supportive environment for your audience. Ready to get started? Take the first step today and begin planning your successful membership site. Your future community is waiting!
