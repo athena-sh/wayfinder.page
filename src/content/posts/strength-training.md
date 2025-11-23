@@ -27,7 +27,7 @@ Fast forward a few years, and here I am, still no Arnold Schwarzenegger, but def
 
 ## The Nitty-Gritty: What Exactly Is Strength Training?
 
-![Leonardo AI | Athena Character Reference](https://res-5.cloudinary.com/ddicetqs5/image/upload/f_auto,fl_force_strip,q_auto:best/v1/wayfinder-ghost-blog/IMG_7126)
+![Leonardo AI | Athena Character Reference](https://res.cloudinary.com/ddicetqs5/image/upload/c_fill,f_auto,fl_force_strip,q_auto:best/v1763933783/wayfinder-images/nfnae2njiiulwsx2nw7p)
 
 Alright, let's break it down. Strength training, at its core, is about making your muscles work against a force. This could be weights, resistance bands, or even your own body weight. The goal? To increase your muscle strength, power, and endurance.
 
@@ -69,7 +69,7 @@ Start with 3 sets of 8-12 repetitions for each exercise, resting 60-90 seconds b
 
 ## The Routine: Putting It All Together
 
-![Leonardo AI | Athena Character Reference](https://res-4.cloudinary.com/ddicetqs5/image/upload/f_auto,fl_force_strip,q_auto:best/v1/wayfinder-ghost-blog/IMG_7127)
+![Leonardo AI | Athena Character Reference](https://res.cloudinary.com/ddicetqs5/image/upload/c_fill,f_auto,fl_force_strip,q_auto:best/v1763933784/wayfinder-images/y0qxz1kwedqjvskeg1eb)
 
 Now, let's create a simple routine you can follow. Here's a basic 3-day split that hits all major muscle groups:
 
@@ -144,7 +144,7 @@ Join online forums, follow fitness accounts on social media, or strike up a conv
 
 ## The Future: Your Strength Training Journey
 
-![Leonardo AI | Athena Character Reference](https://res-2.cloudinary.com/ddicetqs5/image/upload/f_auto,fl_force_strip,q_auto:best/v1/wayfinder-ghost-blog/IMG_7128)
+![Leonardo AI | Athena Character Reference](https://res.cloudinary.com/ddicetqs5/image/upload/c_fill,f_auto,fl_force_strip,q_auto:best/v1763933787/wayfinder-images/yscx9ecgqhsaffsyrula)
 
 As you embark on this strength training journey, remember that it's just that - a journey. There's no finish line, no point where you say, "Okay, I'm done getting stronger now." It's a lifelong process of growth, learning, and self-discovery.
 

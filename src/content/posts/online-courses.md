@@ -29,7 +29,7 @@ This guide is your crash course (pun 100% intended!) on how to turn your genius 
 
 _Prep for Success Without Overthinking It_
 
-![Leonardo AI | Athena Character Reference](https://res.cloudinary.com/ddicetqs5/image/upload/f_auto/v1731734750/wayfinder-ghost-blog/188-create-sell-online-courses-2-318370)
+![Leonardo AI | Athena Character Reference](https://res.cloudinary.com/ddicetqs5/image/upload/c_fill,f_auto,fl_force_strip,q_auto:best/v1763933145/wayfinder-images/lbexnzcjxlcekvem8ouk)
 
 Before you dive headfirst into the wild world of online courses, it's best to lay down some solid groundwork. Don't worry, this isn't one of those never-ending prep phases. We're keeping it real and practical! Let's nail the essentials with these quick and easy steps:
 
@@ -49,7 +49,7 @@ Finally, tools and platforms! Online courses don't need fancy-shmancy tech to be
 
 _Teaching on the Uncharted Frontier of Zoom_
 
-![Leonardo AI | Athena Character Reference](https://res.cloudinary.com/ddicetqs5/image/upload/f_auto/v1731734752/wayfinder-ghost-blog/188-create-sell-online-courses-3-838930)
+![Leonardo AI | Athena Character Reference](https://res.cloudinary.com/ddicetqs5/image/upload/c_fill,f_auto,fl_force_strip,q_auto:best/v1763933147/wayfinder-images/cufskpo9iqzn0ibx9bna)
 
 ### Planning Your Course Content
 
@@ -79,7 +79,7 @@ You've got killer content, now it's go-time! But first, we've got to talk funnel
 
 _Because even the best-laid plans hit a snag now and then, am I right?_
 
-![Leonardo AI | Athena Character Reference](https://res.cloudinary.com/ddicetqs5/image/upload/f_auto/v1731734754/wayfinder-ghost-blog/188-create-sell-online-courses-4-388235)
+![Leonardo AI | Athena Character Reference](https://res.cloudinary.com/ddicetqs5/image/upload/c_fill,f_auto,fl_force_strip,q_auto:best/v1763933149/wayfinder-images/d9joh6k9hg1klvzybnlo)
 
 ### Common Issues Faced by Online Course Creators
 
@@ -111,7 +111,7 @@ You put in hours of blood, sweat, and coffee, but the numbers still aren't looki
 
 _And just like that, you're almost done!_
 
-![Leonardo AI | Athena Character Reference](https://res.cloudinary.com/ddicetqs5/image/upload/f_auto/v1731734788/wayfinder-ghost-blog/188-create-sell-online-courses-1-465300)
+![Leonardo AI | Athena Character Reference](https://res.cloudinary.com/ddicetqs5/image/upload/c_fill,f_auto,fl_force_strip,q_auto:best/v1763933150/wayfinder-images/vqie4uzva8ahitzdr9y5)
 
 ### Recap of Key Points
 

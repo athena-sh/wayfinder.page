@@ -147,7 +147,7 @@ A Harvard Business Review study found that a 1% improvement in pricing can lead 
 
 ## Value-Based Pricing
 
-![Leonardo AI | Athena Character Reference](https://res-4.cloudinary.com/ddicetqs5/image/upload/f_auto,fl_force_strip,q_auto:best/v1/wayfinder-ghost-blog/athena_TDHRPbwL)
+![Leonardo AI | Athena Character Reference](https://res.cloudinary.com/ddicetqs5/image/upload/c_fill,f_auto,fl_force_strip,q_auto:best/v1763933248/wayfinder-images/mnevbaaebb5uiitfmdxh)
 
 Now we're getting to the good stuff. Value-based pricing is like being a mind reader – it's all about understanding what your customers truly value and pricing accordingly.
 
@@ -423,7 +423,7 @@ Implement these optimization strategies right away, you're not just setting pric
 
 ## Conclusion
 
-![Leonardo AI | Athena Character Reference](https://res.cloudinary.com/ddicetqs5/image/upload/v1728875816/wayfinder-ghost-blog/inline-174.jpg)
+![Leonardo AI | Athena Character Reference](https://res.cloudinary.com/ddicetqs5/image/upload/c_fill,f_auto,fl_force_strip,q_auto:best/v1763933250/wayfinder-images/vqc6mrlz93dv0z8pfbyl)
 
 Pricing your digital products and services doesn't have to be a shot in the dark. With these seven strategies, you're now equipped to make informed decisions that benefit both you and your customers.
 

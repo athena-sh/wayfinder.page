@@ -43,7 +43,7 @@ Keep in mind, editing is an art. And like all art, your first attempts will prob
 
 ## Distribution: Getting Your Voice Out There (Whether the World Likes It or Not)
 
-![Leonardo AI | Athena Character Reference](https://res-1.cloudinary.com/ddicetqs5/image/upload/f_auto,fl_force_strip,q_auto:best/v1/wayfinder-ghost-blog/podcast-production-guide-inline-1)
+![Leonardo AI | Athena Character Reference](https://res.cloudinary.com/ddicetqs5/image/upload/c_fill,f_auto,fl_force_strip,q_auto:best/v1763933241/wayfinder-images/iqj7ochrm8jduftbxbls)
 
 You've recorded, you've edited, and now it's time to unleash your podcast upon the unsuspecting masses. Here's how:
 

@@ -32,7 +32,7 @@ Before we dive into the nitty-gritty, let's address the elephant in the room: Wh
 
 ## The Science-y Bit (Don't Worry, I'll Keep It Simple)
 
-![Leonardo AI | Athena Character Reference](https://res-5.cloudinary.com/ddicetqs5/image/upload/f_auto,fl_force_strip,q_auto:best/v1/wayfinder-ghost-blog/science)
+![Leonardo AI | Athena Character Reference](https://res.cloudinary.com/ddicetqs5/image/upload/c_fill,f_auto,fl_force_strip,q_auto:best/v1763933259/wayfinder-images/adqe3y9enubpbjhb0dge)
 
 Now, I'm no scientist, but I've done enough Googling to sound somewhat knowledgeable. Here's the deal: when you exercise, you're essentially creating tiny tears in your muscle fibers. It's during recovery that these fibers repair and grow stronger.
 
@@ -134,7 +134,7 @@ Can't afford regular massages? Try self-massage with a massage gun or tennis bal
 
 ## The Recovery Routine That (Kind of) Works for Me
 
-![Leonardo AI | Athena Character Reference](https://res-5.cloudinary.com/ddicetqs5/image/upload/f_auto,fl_force_strip,q_auto:best/v1/wayfinder-ghost-blog/Illustrative_Albedo_A_captivating_techsavvy_woman_Athena_exudi_0--2-)
+![Leonardo AI | Athena Character Reference](https://res.cloudinary.com/ddicetqs5/image/upload/c_fill,f_auto,fl_force_strip,q_auto:best/v1763933261/wayfinder-images/dlby2tubruungtzj66qg)
 
 Now, I know what you're thinking: "That's a lot of information. How am I supposed to do all of that?" Well, you're not. The key is to find what works for you and stick to it.
 

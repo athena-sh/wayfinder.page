@@ -64,7 +64,7 @@ By involving your team members, you're not just gathering valuable information â
 
 ## Step 2: Gather Information
 
-![Leonardo AI | Athena Character Reference](https://res-2.cloudinary.com/ddicetqs5/image/upload/f_auto,fl_force_strip,q_auto:best/v1/wayfinder-ghost-blog/athena_E2kSBIq2)
+![Leonardo AI | Athena Character Reference](https://res.cloudinary.com/ddicetqs5/image/upload/c_fill,f_auto,fl_force_strip,q_auto:best/v1763933763/wayfinder-images/fn97bwbaw7didutmppv3)
 
 Now that you've identified your key processes and involved your team, it's time to dig deeper and gather all the necessary information to create comprehensive SOPs.
 
@@ -160,7 +160,7 @@ By creating a comprehensive outline that includes all these key elements, you're
 
 ## Step 4: Write the Procedure
 
-![Leonardo AI | Athena Character Reference](https://res-3.cloudinary.com/ddicetqs5/image/upload/f_auto,fl_force_strip,q_auto:best/v1/wayfinder-ghost-blog/athena_1TkMhQLQ)
+![Leonardo AI | Athena Character Reference](https://res.cloudinary.com/ddicetqs5/image/upload/c_fill,f_auto,fl_force_strip,q_auto:best/v1763933764/wayfinder-images/ylxvnibhxac3boxn3sc1)
 
 Now that you have a solid outline, it's time to flesh out the details and write the actual procedure. This is where your SOP starts to take shape and become a usable document.
 
@@ -270,7 +270,7 @@ By thoroughly reviewing and testing your SOP, you're not just catching potential
 
 ## Step 6: Finalize and Implement
 
-![Leonardo AI | Athena Character Reference | Happy Halloween!](https://res-2.cloudinary.com/ddicetqs5/image/upload/f_auto,fl_force_strip,q_auto:best/v1/wayfinder-ghost-blog/athena_4eK9MWO6)
+![Leonardo AI | Athena Character Reference | Happy Halloween!](https://res.cloudinary.com/ddicetqs5/image/upload/c_fill,f_auto,fl_force_strip,q_auto:best/v1763933767/wayfinder-images/mlvg2ey7beynbgtwdutq)
 
 After the rigorous review and testing phase, it's time to put the finishing touches on your SOP and roll it out to your team. This stage is crucial for ensuring that all the hard work you've put into creating the SOP translates into real-world improvements.
 
@@ -343,7 +343,7 @@ While what I outlined is thorough, make sure the SOP doesn't just remain a docum
 
 ## Conclusion
 
-![Leonardo AI | Athena Character Reference](https://res.cloudinary.com/ddicetqs5/image/upload/v1728869232/wayfinder-ghost-blog/inline-173.jpg)
+![Leonardo AI | Athena Character Reference](https://res.cloudinary.com/ddicetqs5/image/upload/c_fill,f_auto,fl_force_strip,q_auto:best/v1763933769/wayfinder-images/aayrnsgfqcz3jsw8hsba)
 
 Creating SOPs might seem like a lot of work upfront, but it's an investment that pays off in the long run.
 

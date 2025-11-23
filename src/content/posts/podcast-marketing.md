@@ -56,7 +56,7 @@ Remember, landing sponsors is a marathon, not a sprint. It might take time, but 
 
 ## Mastering Affiliate Marketing for Podcasts
 
-![Leonardo AI | Athena Character Reference](https://res-2.cloudinary.com/ddicetqs5/image/upload/f_auto,fl_force_strip,q_auto:best/v1/wayfinder-ghost-blog/podcast-production-guide-inline-image)
+![Leonardo AI | Athena Character Reference](https://res.cloudinary.com/ddicetqs5/image/upload/c_fill,f_auto,fl_force_strip,q_auto:best/v1763933222/wayfinder-images/sswhw5tkqv5hx6ag3qau)
 
 Alright, let's talk about affiliate marketing. It's like being a digital door-to-door salesperson, but without the awkward small talk and uncomfortable shoes.
 
@@ -95,7 +95,7 @@ Remember, affiliate marketing is a marathon, not a sprint. It might take some ti
 
 ## Creating Premium Content and Membership Programs
 
-![Leonardo AI | Athena Character Reference](https://res-3.cloudinary.com/ddicetqs5/image/upload/f_auto,fl_force_strip,q_auto:best/v1/wayfinder-ghost-blog/athena_halloween_4IEGkcXL)
+![Leonardo AI | Athena Character Reference](https://res.cloudinary.com/ddicetqs5/image/upload/c_fill,f_auto,fl_force_strip,q_auto:best/v1763933225/wayfinder-images/vnmmwhszjbfqjxbmbutt)
 
 Alright, let's talk about making your listeners pay for the privilege of hearing more of your dulcet tones. It's like creating a VIP section for your podcast, minus the velvet ropes and overpriced drinks.
 
@@ -134,7 +134,7 @@ Remember, creating a premium membership program isn't just about making more mon
 
 ## Leveraging Crowdfunding and Listener Support
 
-![Leonardo AI | Athena Character Reference](https://res-4.cloudinary.com/ddicetqs5/image/upload/f_auto,fl_force_strip,q_auto:best/v1/wayfinder-ghost-blog/athena_halloween_4eZvGaTc)
+![Leonardo AI | Athena Character Reference](https://res.cloudinary.com/ddicetqs5/image/upload/c_fill,f_auto,fl_force_strip,q_auto:best/v1763933227/wayfinder-images/sb8xhsgrule3vtwdlhtg)
 
 Alright, it's time to pass the hat. But instead of a physical hat, we're using the internet. It's like busking, but you don't have to worry about pigeons stealing your change.
 
@@ -200,7 +200,7 @@ Now that you've got your product ideas, it's time to bring them to life and get 
 
 ### Setting up an e-commerce solution
 
-![Leonardo AI | Athena Character Reference](https://res-1.cloudinary.com/ddicetqs5/image/upload/f_auto,fl_force_strip,q_auto:best/v1/wayfinder-ghost-blog/athena_halloween_3J1h7yO0)
+![Leonardo AI | Athena Character Reference](https://res.cloudinary.com/ddicetqs5/image/upload/c_fill,f_auto,fl_force_strip,q_auto:best/v1763933229/wayfinder-images/d5ebnm1acsm993145d80)
 
 Time to set up shop. Don't panic, it's easier than assembling IKEA furniture.
 
@@ -220,7 +220,7 @@ With these strategies in place, you're well on your way to turning your podcast 
 
 ## Conclusion
 
-![Leonardo AI | Athena Character Reference](https://res-2.cloudinary.com/ddicetqs5/image/upload/f_auto,fl_force_strip,q_auto:best/v1/wayfinder-ghost-blog/image)
+![Leonardo AI | Athena Character Reference](https://res.cloudinary.com/ddicetqs5/image/upload/c_fill,f_auto,fl_force_strip,q_auto:best/v1763933232/wayfinder-images/ehz3fpfaazgvc8ob4p52)
 
 **Congratulations!** You now have a toolkit of seven powerful strategies to monetize your podcast.
 

@@ -67,7 +67,7 @@ Remember, a strong digital presence isn't just about looking good online. It's a
 
 ## Develop a Clear Value Proposition
 
-![Leonardo AI | Athena Character Reference](https://res-4.cloudinary.com/ddicetqs5/image/upload/f_auto,fl_force_strip,q_auto:best/v1/wayfinder-ghost-blog/develop-clear-value-prop)
+![Leonardo AI | Athena Character Reference](https://res.cloudinary.com/ddicetqs5/image/upload/c_fill,f_auto,fl_force_strip,q_auto:best/v1763933187/wayfinder-images/d7nl5frjlzuosj2pcrak)
 
 ### Define Mutual Benefits
 
@@ -142,7 +142,7 @@ Remember to review these KPIs regularly and be prepared to adjust them as your p
 
 ## Leverage Each Other's Digital Assets
 
-![Leonardo AI | Athena Character Reference](https://res-5.cloudinary.com/ddicetqs5/image/upload/f_auto,fl_force_strip,q_auto:best/v1/wayfinder-ghost-blog/leverage-digital-assets)
+![Leonardo AI | Athena Character Reference](https://res.cloudinary.com/ddicetqs5/image/upload/c_fill,f_auto,fl_force_strip,q_auto:best/v1763933189/wayfinder-images/jct4na4d5fteqihgpns7)
 
 ### Cross-Promote on Social Media
 
@@ -280,7 +280,7 @@ Remember, a successful digital partnership isn't about set-it-and-forget-it. It'
 
 ## Conclusion
 
-![Leonardo AI | Athena Character Reference](https://res.cloudinary.com/ddicetqs5/image/upload/v1728960686/wayfinder-ghost-blog/inline-176.jpg)
+![Leonardo AI | Athena Character Reference](https://res.cloudinary.com/ddicetqs5/image/upload/c_fill,f_auto,fl_force_strip,q_auto:best/v1763933191/wayfinder-images/n8d1qspb2aalzcmckbew)
 
 Strategic partnerships can be a game-changer for digital growth when approached thoughtfully and executed effectively.
 

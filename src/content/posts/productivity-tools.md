@@ -65,7 +65,7 @@ Here's the deal: Todoist shines in its simplicity. It's perfect for those days w
 
 ## Time Tracking and Focus Apps: Because Time is Money (and Sanity)
 
-![Leonardo AI | Athena Character Reference | Happy Halloween!](https://res-5.cloudinary.com/ddicetqs5/image/upload/f_auto,fl_force_strip,q_auto:best/v1/wayfinder-ghost-blog/must-have-productivity-tools-solopreneurs-2024-2)
+![Leonardo AI | Athena Character Reference | Happy Halloween!](https://res.cloudinary.com/ddicetqs5/image/upload/c_fill,f_auto,fl_force_strip,q_auto:best/v1763933254/wayfinder-images/bgnwliofvfplktcc1ljw)
 
 As a solopreneur, time is your most valuable resource. These tools will help you guard it like a dragon guarding its hoard.
 
@@ -221,7 +221,7 @@ IFTTT is great for personal automations too. Use it to sync your work calendar w
 
 ## Conclusion
 
-![Leonardo AI | Athena Character Reference | Happy Halloween!](https://res-5.cloudinary.com/ddicetqs5/image/upload/f_auto,fl_force_strip,q_auto:best/v1/wayfinder-ghost-blog/must-have-productivity-tools-solopreneurs-2024-3)
+![Leonardo AI | Athena Character Reference | Happy Halloween!](https://res.cloudinary.com/ddicetqs5/image/upload/c_fill,f_auto,fl_force_strip,q_auto:best/v1763933256/wayfinder-images/e3bwaxm08vttiiaisir4)
 
 Implementing the right productivity tools can transform your solopreneur journey. When you streamline your tasks, manage your time effectively, and automate repetitive processes, you'll free up valuable hours to focus on growing your business.
 

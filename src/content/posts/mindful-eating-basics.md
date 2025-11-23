@@ -19,7 +19,7 @@ Now, before you roll your eyes and think, "Great, another trendy diet thing," le
 
 ## My Not-So-Mindful Eating Journey
 
-![Leonardo AI | Athena Character Reference](https://res-5.cloudinary.com/ddicetqs5/image/upload/f_auto,fl_force_strip,q_auto:best/v1/wayfinder-ghost-blog/Illustrative_Albedo_A_captivating_techsavvy_wom)
+![Leonardo AI | Athena Character Reference](https://res.cloudinary.com/ddicetqs5/image/upload/c_fill,f_auto,fl_force_strip,q_auto:best/v1763933061/wayfinder-images/udl5n9dijyytfvysylzx)
 
 Let me paint you a picture of my former eating habits. Picture this: a frazzled, caffeine-fueled version of me, hunched over my laptop, furiously typing away with one hand while blindly shoving forkfuls of... something... into my mouth with the other. Lunch break? More like "how-fast-can-I-inhale-this-sandwich-before-my-next-meeting" break.
 
@@ -29,7 +29,7 @@ It wasn't until I found myself staring at an empty plate, with no recollection o
 
 ## What the Heck is Mindful Eating, Anyway?
 
-![Leonardo AI | Athena Character Reference](https://res-5.cloudinary.com/ddicetqs5/image/upload/f_auto,fl_force_strip,q_auto:best/v1/wayfinder-ghost-blog/Illustrative_Albedo_In_a_mesmerizing_scene_a_ca)
+![Leonardo AI | Athena Character Reference](https://res.cloudinary.com/ddicetqs5/image/upload/c_fill,f_auto,fl_force_strip,q_auto:best/v1763933063/wayfinder-images/lvywdbi5dzlql5bd6mko)
 
 At its core, mindful eating is about paying attention. It's about being present with your food, your body, and the entire eating experience. It's not about perfection or following strict rules. It's about developing a healthier, more conscious relationship with food.
 
@@ -41,7 +41,7 @@ Replace "say" with "eat," and you've got the essence of mindful eating. Understa
 
 ## The Mindful Eating Guide for Recovering Speed-Eaters
 
-![Leonardo AI | Athena Character Reference](https://res-1.cloudinary.com/ddicetqs5/image/upload/f_auto,fl_force_strip,q_auto:best/v1/wayfinder-ghost-blog/Illustrative_Albedo_In_a_mesmerizing_scene_a_ca-1)
+![Leonardo AI | Athena Character Reference](https://res.cloudinary.com/ddicetqs5/image/upload/c_fill,f_auto,fl_force_strip,q_auto:best/v1763933066/wayfinder-images/c6zammefbfdaspmmycby)
 
 Alright, let's get down to business. How do we go from mindless munching to mindful eating? Here's a step-by-step guide that even the most distracted eater (ahem, me) can follow:
 
@@ -87,7 +87,7 @@ Some days, you'll be a mindful eating champion. Other days, you'll inhale a pizz
 
 ## The Science-y Bit (Because Who Doesn't Love a Good Fact?)
 
-![Leonardo AI | Athena Character Reference](https://res-5.cloudinary.com/ddicetqs5/image/upload/f_auto,fl_force_strip,q_auto:best/v1/wayfinder-ghost-blog/Illustrative_Albedo_Inspiring_flirtatious_sexy_techlady_standi_6--11-)
+![Leonardo AI | Athena Character Reference](https://res.cloudinary.com/ddicetqs5/image/upload/c_fill,f_auto,fl_force_strip,q_auto:best/v1763933068/wayfinder-images/zcjqowsicsy4p4u1fpyp)
 
 Now, I'm not one to throw around phrases like "studies show" or "research indicates," because let's face it, we've all seen how those can be twisted. But there is some pretty interesting data out there about mindful eating.
 
@@ -107,7 +107,7 @@ Potential Benefits of Mindful Eating (based on various studies reviewed in "Mind
 
 ## The Mindful Eating Experiment: Try It For a Week
 
-![Leonardo AI | Athena Character Reference](https://res-4.cloudinary.com/ddicetqs5/image/upload/f_auto,fl_force_strip,q_auto:best/v1/wayfinder-ghost-blog/Illustrative_Albedo_Inspiring_flirtatious_sexy_techlady_standi_2--10-)
+![Leonardo AI | Athena Character Reference](https://res.cloudinary.com/ddicetqs5/image/upload/c_fill,f_auto,fl_force_strip,q_auto:best/v1763933070/wayfinder-images/w6cyx6siblhajeyxz4sx)
 
 Now, I could sit here and preach about the virtues of mindful eating all day, but the truth is, you've got to experience it for yourself. So here's my challenge to you: try mindful eating for just one meal a day, for one week.
 
@@ -123,7 +123,7 @@ Here's a simple plan:
 
 ## The Inevitable Roadblocks (Because Life Happens)
 
-![Leonardo AI | Athena Character Reference](https://res-2.cloudinary.com/ddicetqs5/image/upload/f_auto,fl_force_strip,q_auto:best/v1/wayfinder-ghost-blog/Illustrative_Albedo_A_determined_yet_frustrated)
+![Leonardo AI | Athena Character Reference](https://res.cloudinary.com/ddicetqs5/image/upload/c_fill,f_auto,fl_force_strip,q_auto:best/v1763933073/wayfinder-images/jfwl7zfcxdmhmg0dyinw)
 
 Let's be real for a second. Mindful eating sounds great in theory, but in practice? Life has a way of throwing wrenches into our best-laid plans. Here are some common roadblocks you might encounter, and how to deal with them:
 
@@ -149,7 +149,7 @@ You ate one meal mindlessly, so why bother with the rest, right? Wrong. Every me
 
 ## The Unexpected Side Effects (The Good Kind)
 
-![Leonardo AI | Athena Character Reference](https://res-5.cloudinary.com/ddicetqs5/image/upload/f_auto,fl_force_strip,q_auto:best/v1/wayfinder-ghost-blog/Illustrative_Albedo_A_captivating_techsavvy_wom-1)
+![Leonardo AI | Athena Character Reference](https://res.cloudinary.com/ddicetqs5/image/upload/c_fill,f_auto,fl_force_strip,q_auto:best/v1763933075/wayfinder-images/e14wi9okkpmmlb7xolpj)
 
 When I first started practicing mindful eating, I expected to maybe enjoy my food a bit more and possibly stop feeling like I'd swallowed a boulder after meals. What I didn't expect were some of the other changes:
 
@@ -175,7 +175,7 @@ The mindfulness I practiced during meals started spilling over into other areas 
 
 ## The Bottom Line (Because Every Article Needs a Conclusion, Right?)
 
-![Leonardo AI | Athena Character Reference](https://res-1.cloudinary.com/ddicetqs5/image/upload/f_auto,fl_force_strip,q_auto:best/v1/wayfinder-ghost-blog/Illustrative_Albedo_A_captivating_techsavvy_wom-2)
+![Leonardo AI | Athena Character Reference](https://res.cloudinary.com/ddicetqs5/image/upload/c_fill,f_auto,fl_force_strip,q_auto:best/v1763933077/wayfinder-images/utsnyjoykcnaxxfx57ak)
 
 Look, mindful eating isn't a magic bullet. It's not going to solve all your problems or turn you into a zen master overnight. But it is a simple, accessible way to start developing a healthier relationship with food and, by extension, with yourself.
 

@@ -47,8 +47,6 @@ Launching a blog on a topic you're knowledgeable and passionate about can earn a
 
 You can use Wordpress, Ghost, or even Wix. While it might be tempting to use syndicate publishers like Medium, Substack, and the like, your SEO efforts build them up (for free) while you don't own the platform and can get dropped at a moments notice.
 
-![](https://aghost.guru/content/images/size/w256h256/format/png/2024/06/zero-white-favicon.webp)
-
 Build an audience by consistently publishing high-quality content. Monetize through display ads, affiliate links, sponsored posts, ebooks, online courses, or coaching.
 
 #### Online Tutoring

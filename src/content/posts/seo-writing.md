@@ -78,7 +78,7 @@ Here's a revolutionary idea: what if we wrote for people first and search engine
 
 ## The SEO Writing Struggle: A Personal Tale
 
-![Leonardo AI | Athena Character Reference](https://res-5.cloudinary.com/ddicetqs5/image/upload/f_auto,fl_force_strip,q_auto:best/v1/wayfinder-ghost-blog/default_inspiring_bold_confident_flirtatious_sexy_techlady_sta_4_b17935c2-233a-4e59-9ee1-4aa99c41c49c)
+![Leonardo AI | Athena Character Reference](https://res.cloudinary.com/ddicetqs5/image/upload/c_fill,f_auto,fl_force_strip,q_auto:best/v1763933310/wayfinder-images/jhab89qfk14mtvbsxxke)
 
 Let me share a little story from my own SEO writing journey. Picture this: it's 2 AM, I'm on my fifth cup of coffee, and I'm staring at a blank document titled "10 Tips for Optimizing Your Content for Search Engines (That Actually Work)." The irony is not lost on me.
 

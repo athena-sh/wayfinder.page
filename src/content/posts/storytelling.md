@@ -26,7 +26,7 @@ As the great Maya Angelou once said, "People will forget what you said, people w
 
 ## The Elements of a Great Story (No, It's Not "Once Upon a Time")
 
-![Leonardo AI | Athena Character Reference](https://res-3.cloudinary.com/ddicetqs5/image/upload/f_auto,fl_force_strip,q_auto:best/v1/wayfinder-ghost-blog/Illustrative_Albedo_Heres_the_adjusted_promptA_captivating_tec_7--5-)
+![Leonardo AI | Athena Character Reference](https://res.cloudinary.com/ddicetqs5/image/upload/c_fill,f_auto,fl_force_strip,q_auto:best/v1763933779/wayfinder-images/xlxf2xbp66e6tjskeeso)
 
 Okay, so you're sold on the idea of storytelling. But how do you actually do it? Here are the key ingredients:
 
@@ -62,7 +62,7 @@ People love feeling like they're getting exclusive access. Share the story of ho
 
 ## The Do's and Don'ts of Storytelling in Content Creation
 
-![Leonardo AI | Athena Character Reference](https://res-3.cloudinary.com/ddicetqs5/image/upload/f_auto,fl_force_strip,q_auto:best/v1/wayfinder-ghost-blog/Illustrative_Albedo_Heres_the_adjusted_promptA_captivating_tec_3--7-)
+![Leonardo AI | Athena Character Reference](https://res.cloudinary.com/ddicetqs5/image/upload/c_fill,f_auto,fl_force_strip,q_auto:best/v1763933781/wayfinder-images/ewbd3ppj3fjf7tlmrqbi)
 
 **Do:**
 

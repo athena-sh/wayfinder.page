@@ -24,7 +24,7 @@ As the great Oscar Wilde once said, "Be yourself; everyone else is already taken
 
 ## 2. Setting Goals (Or Making To-Do Lists You'll Probably Ignore)
 
-![Leonardo AI | Athena Character Reference | Happy Halloween!](https://res-1.cloudinary.com/ddicetqs5/image/upload/f_auto,fl_force_strip,q_auto:best/v1/wayfinder-ghost-blog/athena_nice)
+![Leonardo AI | Athena Character Reference | Happy Halloween!](https://res.cloudinary.com/ddicetqs5/image/upload/c_fill,f_auto,fl_force_strip,q_auto:best/v1763933282/wayfinder-images/msdstrjibhp4nijjm2pa)
 
 At Wayfinder, we're all about charting a course to your dreams. But let's be real, sometimes those dreams look more like "remember to buy milk" than "become a billionaire." Here's my super-scientific approach:
 
@@ -47,7 +47,7 @@ As Heraclitus said, "The only constant in life is change." So we might as well g
 
 ## 4. Financial Wellness (Or How to Adult Without Crying)
 
-![Leonardo AI | Athena Character Reference | Happy Halloween!](https://res-5.cloudinary.com/ddicetqs5/image/upload/f_auto,fl_force_strip,q_auto:best/v1/wayfinder-ghost-blog/athena_office)
+![Leonardo AI | Athena Character Reference | Happy Halloween!](https://res.cloudinary.com/ddicetqs5/image/upload/c_fill,f_auto,fl_force_strip,q_auto:best/v1763933285/wayfinder-images/dddk4cefnwa1mpifjril)
 
 Money makes the world go round, but it also makes most of us want to hide under the covers. At Wayfinder, we're all about demystifying finances. Here's a sneak peek into my financial wisdom:
 
@@ -73,7 +73,7 @@ As Albert Einstein said, "Creativity is intelligence having fun." So go ahead, h
 
 ## 6. Personal Development (Or Pretending to Be a Grown-Up)
 
-![Leonardo AI | Athena Character Reference | Happy Halloween!](https://res-3.cloudinary.com/ddicetqs5/image/upload/f_auto,fl_force_strip,q_auto:best/v1/wayfinder-ghost-blog/athena_named_shirt_gym1)
+![Leonardo AI | Athena Character Reference | Happy Halloween!](https://res.cloudinary.com/ddicetqs5/image/upload/c_fill,f_auto,fl_force_strip,q_auto:best/v1763933287/wayfinder-images/nttvx9n7rfbrsmc89x4f)
 
 Personal growth isn't about becoming perfect. It's about becoming slightly less of a disaster than you were yesterday. Here's my foolproof plan:
 
@@ -99,7 +99,7 @@ Remember, it's okay if your work-life balance looks more like a work-life wobble
 
 ## 8. Health and Wellness (Or Trying Not to Die)
 
-![Leonardo AI | Athena Character Reference | Happy Halloween!](https://res-2.cloudinary.com/ddicetqs5/image/upload/f_auto,fl_force_strip,q_auto:best/v1/wayfinder-ghost-blog/understanding-macronutrients-proteins-carbs-fats-featured-image-awesome1)
+![Leonardo AI | Athena Character Reference | Happy Halloween!](https://res.cloudinary.com/ddicetqs5/image/upload/c_fill,f_auto,fl_force_strip,q_auto:best/v1763933289/wayfinder-images/tuslmpbkgcoiqegfh2ax)
 
 Health is wealth, they say. But let's be honest, sometimes wealth looks a lot like a giant bowl of superman ice cream. At Wayfinder, we believe in balance. Here's my approach to wellness:
 
@@ -123,7 +123,7 @@ Remember, quality over quantity. It's better to have a few close friends than a 
 
 ## 10. Finding Joy in the Journey (Or Laughing at the Absurdity of It All)
 
-![Leonardo AI | Athena Character Reference | Happy Halloween!](https://res-3.cloudinary.com/ddicetqs5/image/upload/f_auto,fl_force_strip,q_auto:best/v1/wayfinder-ghost-blog/athena-workout)
+![Leonardo AI | Athena Character Reference | Happy Halloween!](https://res.cloudinary.com/ddicetqs5/image/upload/c_fill,f_auto,fl_force_strip,q_auto:best/v1763933291/wayfinder-images/xdrhpsan0txt3lul1wr3)
 
 Life is a wild ride, full of ups, downs, and unexpected loop-de-loops. At Wayfinder, we believe in finding joy in the journey, even when that journey involves face-planting in public. Here's how I cultivate joy:
 
@@ -136,7 +136,7 @@ As the great Dr. Seuss said, "Don't cry because it's over, smile because it happ
 
 ## A Peek Into My World
 
-![Leonardo AI | Athena Character Reference | Happy Halloween!](https://res-2.cloudinary.com/ddicetqs5/image/upload/f_auto,fl_force_strip,q_auto:best/v1/wayfinder-ghost-blog/ultimate-guide-writing-engaging-blog-posts-featured-image1)
+![Leonardo AI | Athena Character Reference | Happy Halloween!](https://res.cloudinary.com/ddicetqs5/image/upload/c_fill,f_auto,fl_force_strip,q_auto:best/v1763933293/wayfinder-images/lpkiazenjxfcmt6g62hg)
 
 Now that we've covered the "professional" stuff, let me give you a glimpse into the real me. I'm a complex tapestry of contradictions and questionable life choices:
 
@@ -157,7 +157,7 @@ Now that we've covered the "professional" stuff, let me give you a glimpse into 
 
 ## In Conclusion
 
-![Leonardo AI | Athena Character Reference | Happy Halloween!](https://res-3.cloudinary.com/ddicetqs5/image/upload/f_auto,fl_force_strip,q_auto:best/v1/wayfinder-ghost-blog/Young-techie-lady-7)
+![Leonardo AI | Athena Character Reference | Happy Halloween!](https://res.cloudinary.com/ddicetqs5/image/upload/c_fill,f_auto,fl_force_strip,q_auto:best/v1763933295/wayfinder-images/aimxl2uuushmfbx1rbwu)
 
 Personal growth isn't about becoming perfect. It's about embracing your quirks, learning from your face-plants, and finding joy in the chaos. At Wayfinder, we're not experts. We're just fellow travelers on this wacky journey called life, armed with a sense of humor and a willingness to try (and probably fail at) new things.
 

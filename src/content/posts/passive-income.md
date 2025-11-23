@@ -37,7 +37,7 @@ Remember, choosing a niche is like picking a life partner. You're going to be sp
 
 ## Select the Right Affiliate Programs (Because Not All That Glitters Is Gold)
 
-![Leonardo AI | Athena Character Reference](https://res-2.cloudinary.com/ddicetqs5/image/upload/f_auto,fl_force_strip,q_auto:best/v1/wayfinder-ghost-blog/athena_halloween_7lyIZADP)
+![Leonardo AI | Athena Character Reference](https://res.cloudinary.com/ddicetqs5/image/upload/c_fill,f_auto,fl_force_strip,q_auto:best/v1763933194/wayfinder-images/yt9yxclnmxp5twocyzsq)
 
 Okay, you've got your niche. Now it's time to find some programs to promote. But hold your horses! Don't just sign up for every program that promises you riches beyond your wildest dreams. Here's how to separate the wheat from the chaff:
 
@@ -73,7 +73,7 @@ Don't be afraid to get creative with your content formats. Try podcasts, live st
 
 ## Implement Effective Marketing Strategies (Without Being That Annoying Sales Guy)
 
-![Leonardo AI | Athena Character Reference](https://res-4.cloudinary.com/ddicetqs5/image/upload/f_auto,fl_force_strip,q_auto:best/v1/wayfinder-ghost-blog/athena_halloween_7mBJSkti)
+![Leonardo AI | Athena Character Reference](https://res.cloudinary.com/ddicetqs5/image/upload/c_fill,f_auto,fl_force_strip,q_auto:best/v1763933196/wayfinder-images/y4rvddoe8uqf4scellnm)
 
 Alright, you've got great content. Now it's time to get it in front of people. But hold up – we're not going to spam everyone's inbox or plaster the internet with ads. We're going to be smart about this. Here's how:
 
@@ -111,6 +111,6 @@ Now, stop reading and start doing. Your affiliate marketing empire isn't going t
 
 ## Conclusion
 
-![Leonardo AI | Athena Character Reference](https://res-1.cloudinary.com/ddicetqs5/image/upload/f_auto,fl_force_strip,q_auto:best/v1/wayfinder-ghost-blog/athena_halloween_7qegvb5b)
+![Leonardo AI | Athena Character Reference](https://res.cloudinary.com/ddicetqs5/image/upload/c_fill,f_auto,fl_force_strip,q_auto:best/v1763933199/wayfinder-images/z9rgzprebijk5x67gml7)
 
 Building a passive income through affiliate marketing isn't a get-rich-quick scheme. It requires dedication, strategic planning, and consistent effort. But with the right approach, it can become a reliable source of income that grows over time. Remember: success in affiliate marketing is all about providing value to your audience. Start implementing these steps today, and you'll be well on your way to creating a sustainable affiliate marketing passive income stream in 2024 and beyond. The journey of a thousand miles begins with a single step – so take that step now!

@@ -16,7 +16,7 @@ But I've stumbled upon some nutrition basics that have actually worked for me, a
 
 ## The "Duh" Moment: Why Nutrition Matters
 
-![Leonardo AI | Athena Character Reference](https://res-2.cloudinary.com/ddicetqs5/image/upload/f_auto,fl_force_strip,q_auto:best/v1/wayfinder-ghost-blog/Illustrative_Albedo_Inspiring_flirtatious_sexy_techlady_standi_0)
+![Leonardo AI | Athena Character Reference](https://res.cloudinary.com/ddicetqs5/image/upload/c_fill,f_auto,fl_force_strip,q_auto:best/v1763933130/wayfinder-images/nwra9hpwnljmoenmaxwo)
 
 Okay, let's start with the obvious: food is fuel. Mind-blowing, right? But here's the thing - most of us treat our bodies like a cheap car, filling it with whatever's convenient and hoping it doesn't break down on the highway of life.
 
@@ -28,7 +28,7 @@ Here's a quick reality check:
 
 ## The Macro Madness: Protein, Carbs, and Fats (Oh My!)
 
-![Leonardo AI | Athena Character Reference](https://res-5.cloudinary.com/ddicetqs5/image/upload/f_auto,fl_force_strip,q_auto:best/v1/wayfinder-ghost-blog/Illustrative_Albedo_Inspiring_flirtatious_sexy_-1)
+![Leonardo AI | Athena Character Reference](https://res.cloudinary.com/ddicetqs5/image/upload/c_fill,f_auto,fl_force_strip,q_auto:best/v1763933132/wayfinder-images/gm1fcu7q3ur7gmmraugf)
 
 Let's break down the big three macronutrients. Think of them as the primary colors of nutrition - mix them right, and you've got a masterpiece. Mix them wrong, and... well, let's just say it won't be hanging in the Louvre.
 
@@ -65,7 +65,7 @@ Focus on unsaturated fats like those found in avocados, nuts, seeds, and fatty f
 
 ## Micronutrients: The Supporting Cast
 
-![Leonardo AI | Athena Character Reference](https://res-2.cloudinary.com/ddicetqs5/image/upload/f_auto,fl_force_strip,q_auto:best/v1/wayfinder-ghost-blog/Illustrative_Albedo_Inspiring_flirtatious_sexy_-2)
+![Leonardo AI | Athena Character Reference](https://res.cloudinary.com/ddicetqs5/image/upload/c_fill,f_auto,fl_force_strip,q_auto:best/v1763933134/wayfinder-images/tprft2hag9chr0pglazt)
 
 While macronutrients are the stars of the show, micronutrients are the unsung heroes working behind the scenes.
 
@@ -93,7 +93,7 @@ Timing your nutrients can make a difference, especially if you're looking to opt
 
 ## Supplements: The Cherry on Top (Not the Whole Sundae)
 
-![Leonardo AI | Athena Character Reference](https://res-5.cloudinary.com/ddicetqs5/image/upload/f_auto,fl_force_strip,q_auto:best/v1/wayfinder-ghost-blog/Illustrative_Albedo_Inspiring_flirtatious_sexy_techlady_standi_0-1)
+![Leonardo AI | Athena Character Reference](https://res.cloudinary.com/ddicetqs5/image/upload/c_fill,f_auto,fl_force_strip,q_auto:best/v1763933137/wayfinder-images/xlfkqzvq1a9nyyh3mwzk)
 
 Here's where things get controversial. Supplements can be helpful, but they're not magic pills.
 
@@ -121,7 +121,7 @@ The goal isn't perfection; it's progress. Treat yourself with kindness. Unless y
 
 ## Putting It All Together: A Sample Day
 
-![Leonardo AI | Athena Character Reference](https://res-1.cloudinary.com/ddicetqs5/image/upload/f_auto,fl_force_strip,q_auto:best/v1/wayfinder-ghost-blog/Illustrative_Albedo_Inspiring_flirtatious_sexy_-3)
+![Leonardo AI | Athena Character Reference](https://res.cloudinary.com/ddicetqs5/image/upload/c_fill,f_auto,fl_force_strip,q_auto:best/v1763933140/wayfinder-images/spkkbeuxyi0sqvzsnkev)
 
 Here's what a day of solid nutrition might look like:
 
@@ -145,7 +145,7 @@ The point is, we're all human. We're all just trying our best. Some days you'll 
 
 ## The Takeaway: Eat Like You Give a Damn (Most of the Time)
 
-![Leonardo AI | Athena Character Reference](https://res-1.cloudinary.com/ddicetqs5/image/upload/f_auto,fl_force_strip,q_auto:best/v1/wayfinder-ghost-blog/default_inspiring_bold_confident_flirtatious_se)
+![Leonardo AI | Athena Character Reference](https://res.cloudinary.com/ddicetqs5/image/upload/c_fill,f_auto,fl_force_strip,q_auto:best/v1763933141/wayfinder-images/mwain5drk1yrk0riqau6)
 
 As the great philosopher Hippocrates once said, "Let food be thy medicine and medicine be thy food." Of course, he also thought diseases were caused by an imbalance of bodily fluids, so maybe take that with a grain of salt. (Salt, by the way, is a mineral. Look at you, learning!)
 

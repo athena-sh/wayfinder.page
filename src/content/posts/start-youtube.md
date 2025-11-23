@@ -31,7 +31,7 @@ First things first, you gotta figure out what you're all about. And I mean _real
 
 ## 2. Gear Up (Without Breaking the Bank)
 
-![Leonardo AI | Athena Character Reference](https://res-5.cloudinary.com/ddicetqs5/image/upload/f_auto,fl_force_strip,q_auto:best/v1/wayfinder-ghost-blog/how-start-successful-youtube-channel-gear-up)
+![Leonardo AI | Athena Character Reference](https://res.cloudinary.com/ddicetqs5/image/upload/c_fill,f_auto,fl_force_strip,q_auto:best/v1763933771/wayfinder-images/xmhwohwakbdrsfe25gsw)
 
 You don't need fancy equipment to start. Seriously. Your smartphone is probably good enough. But if you want to step it up a notch:
 
@@ -57,7 +57,7 @@ Editing is where the magic happens. It's also where you'll lose _countless hours
 
 ## 5. Optimize for SEO (Because Apparently That's a Thing)
 
-![Leonardo AI | Athena Character Reference](https://res-3.cloudinary.com/ddicetqs5/image/upload/f_auto,fl_force_strip,q_auto:best/v1/wayfinder-ghost-blog/how-start-successful-youtube-channel-seo)
+![Leonardo AI | Athena Character Reference](https://res.cloudinary.com/ddicetqs5/image/upload/c_fill,f_auto,fl_force_strip,q_auto:best/v1763933773/wayfinder-images/qhj8einx5zynuubthx8f)
 
 SEO. Three letters that will haunt your dreams. But if you want people to actually find your videos, you gotta play the game.
 
@@ -91,7 +91,7 @@ Building a community is crucial. Even if that community is just your mom and tha
 
 ## 9. Collaborate with Others (Make Friends. Or Frenemies.)
 
-![Leonardo AI | Athena Character Reference](https://res-3.cloudinary.com/ddicetqs5/image/upload/f_auto,fl_force_strip,q_auto:best/v1/wayfinder-ghost-blog/how-start-successful-youtube-channel-collaborate)
+![Leonardo AI | Athena Character Reference](https://res.cloudinary.com/ddicetqs5/image/upload/c_fill,f_auto,fl_force_strip,q_auto:best/v1763933775/wayfinder-images/gtzhayy7jl8kutpjrxew)
 
 Collaborations can help you grow your channel. They can also be a great way to make new friends. Or mortal enemies. It's a toss-up.
 
@@ -111,7 +111,7 @@ Data is important. But don't let it drive you crazy. (Too late for me, but you s
 
 ## Conclusion
 
-![Leonardo AI | Athena Character Reference](https://res-1.cloudinary.com/ddicetqs5/image/upload/f_auto,fl_force_strip,q_auto:best/v1/wayfinder-ghost-blog/how-start-successful-youtube-channel-conclusion)
+![Leonardo AI | Athena Character Reference](https://res.cloudinary.com/ddicetqs5/image/upload/c_fill,f_auto,fl_force_strip,q_auto:best/v1763933777/wayfinder-images/js2txecqjsfj5gig9e0u)
 
 Starting a YouTube channel isn't about becoming the next PewDiePie. It's about creating content you love and connecting with people who appreciate your unique brand of weirdness. And hey, if I can do it, anyone can.
 

@@ -18,7 +18,7 @@ In the same way that a gentle rain provides life to a dry region, the correct li
 
 Introducing the JONATHAN Y JYL7439A Pagoda Lantern, a shining example of timeless beauty and contemporary utility, ready to perfectly balance the two to your home.
 
-![Stock Photo](https://res-5.cloudinary.com/ddicetqs5/image/upload/f_auto,fl_force_strip,q_auto:best/v1/wayfinder-ghost-blog/light-fixture-main)
+![Stock Photo](https://res.cloudinary.com/ddicetqs5/image/upload/c_fill,f_auto,fl_force_strip,q_auto:best/v1763933177/wayfinder-images/wrsvfhpcehudyhpi5tzo)
 
 ## A Hint of Timeless Elegance
 
@@ -46,7 +46,7 @@ Including energy-efficient LED lights is a win for the planet and common sense.
 
 The lantern is beautiful and economical thanks to these bulbs, which last longer and use less energy than regular light bulbs.
 
-![Stock Photo](https://res-4.cloudinary.com/ddicetqs5/image/upload/f_auto,fl_force_strip,q_auto:best/v1/wayfinder-ghost-blog/light-fixture-room)
+![Stock Photo](https://res.cloudinary.com/ddicetqs5/image/upload/c_fill,f_auto,fl_force_strip,q_auto:best/v1763933179/wayfinder-images/auksf5tzcr21eghygmhi)
 
 ## A Universally Appealing Design
 
@@ -56,7 +56,7 @@ This pendant will be the perfect addition, thanks to its flexible chain link, wh
 
 It would look great in any space that needs more class, like the kitchen, living room, dining room, bedroom, entryway, or hallway.
 
-![Photo taken byAthena, author atWayfinder, from the kitchen.](https://res-1.cloudinary.com/ddicetqs5/image/upload/f_auto,fl_force_strip,q_auto:best/v1/wayfinder-ghost-blog/led_pendant_light)
+![Photo taken byAthena, author atWayfinder, from the kitchen.](https://res.cloudinary.com/ddicetqs5/image/upload/c_fill,f_auto,fl_force_strip,q_auto:best/v1763933181/wayfinder-images/feuonsabgi38g3zzrrom)
 
 ## The JONATHAN Y Promise to Satisfy
 
@@ -128,6 +128,6 @@ While primarily designed for home use, its classic design and quality constructi
 
 ## Compliance, Guidelines, and Acknowledgements
 
-![Leonardo.Ai | An owl counting.](https://res-5.cloudinary.com/ddicetqs5/image/upload/f_auto,fl_force_strip,q_auto:best/v1/wayfinder-ghost-blog/0_uGgtPirpHbchvnrc)
+![Leonardo.Ai | An owl counting.](https://res.cloudinary.com/ddicetqs5/image/upload/c_fill,f_auto,fl_force_strip,q_auto:best/v1763933185/wayfinder-images/lq4crakcbh530t9k08wq)
 
 - **\*Affiliate Disclosure:** As a participant in the Amazon Affiliate Program, I earn from qualifying purchases made through links provided in this content. This means if you click on a link and make a qualifying purchase, I may receive a commission at no additional cost to you. Thank you for supporting my work and allowing me to bring you valuable insights!\*

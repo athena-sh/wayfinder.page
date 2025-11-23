@@ -72,7 +72,7 @@ The bottom line? Create content that you'd actually want to read yourself. Be in
 
 ## Internal and External Linking: Building Your Web of Influence
 
-![Leonardo AI | Athena Character Reference](https://res-4.cloudinary.com/ddicetqs5/image/upload/f_auto,fl_force_strip,q_auto:best/v1/wayfinder-ghost-blog/66ecc2c7bc941a0001f288de-2)
+![Leonardo AI | Athena Character Reference](https://res.cloudinary.com/ddicetqs5/image/upload/c_fill,f_auto,fl_force_strip,q_auto:best/v1763933306/wayfinder-images/qblrrehcnxs9vkxk0ofo)
 
 Alright, let's talk about links. No, not the sausages (though those are great too). We're talking about the hyperlinks that connect the vast web of the internet. Think of them as the highways and byways of the digital world. And just like in the real world, the more well-connected you are, the more influential you become.
 
@@ -119,7 +119,7 @@ Remember, mobile optimization isn't a one-and-done deal. As new devices hit the 
 
 ## User Experience (UX) Optimization: Making Your Site a Joy to Use
 
-![Leonardo AI | Athena Character Reference](https://res-4.cloudinary.com/ddicetqs5/image/upload/f_auto,fl_force_strip,q_auto:best/v1/wayfinder-ghost-blog/66ecc2c7bc941a0001f288de-3)
+![Leonardo AI | Athena Character Reference](https://res.cloudinary.com/ddicetqs5/image/upload/c_fill,f_auto,fl_force_strip,q_auto:best/v1763933308/wayfinder-images/zzs8zzzodu8e6dkbbt7c)
 
 Let's get one thing straight - your website isn't just a digital brochure. It's an experience. And if that experience sucks, your visitors are going to bounce faster than a rubber ball on concrete.
 

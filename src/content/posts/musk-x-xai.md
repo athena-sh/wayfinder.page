@@ -14,7 +14,7 @@ lang: ""
 
 ## Key Points _(The "Hot Sheets")_
 
-![Intro Supporting Image](https://res.cloudinary.com/ddicetqs5/image/upload/f_auto,fl_force_strip,q_auto:best/v1/wayfinder-images/elon-musk-sells-x-to-xai-intro_ciytqt)
+![Intro Supporting Image](https://res.cloudinary.com/ddicetqs5/image/upload/c_fill,f_auto,fl_force_strip,q_auto:best/v1/wayfinder-images/elon-musk-sells-x-to-xai-intro_ciytqt)
 
 - It seems likely that Elon Musk sold X to his AI company, xAI, in a deal valuing X at \$33 billion, with a total of \$45 billion including \$12 billion in debt.
 - The combined entity of xAI and X is valued at \$80 billion, aiming to blend AI capabilities with social media reach.
@@ -42,7 +42,7 @@ The deal itself is pretty interesting. xAI acquired X in an all-stock transactio
 
 ## Comprehensive Analysis and Detailed Insights
 
-![Analysis Supporting Image](https://res.cloudinary.com/ddicetqs5/image/upload/f_auto,fl_force_strip,q_auto:best/v1/wayfinder-images/elon-musk-sells-x-to-xai-analysis_leqx80)
+![Analysis Supporting Image](https://res.cloudinary.com/ddicetqs5/image/upload/c_fill,f_auto,fl_force_strip,q_auto:best/v1/wayfinder-images/elon-musk-sells-x-to-xai-analysis_leqx80)
 
 This section provides a comprehensive breakdown of the recent announcement by Elon Musk regarding the sale of X to his AI company, xAI, analyzing the deal's details, background, and potential implications. The information is sourced from multiple reputable outlets and Musk's own statements, ensuring a thorough understanding for readers interested in technology and business developments.
 
@@ -95,7 +95,7 @@ This table highlights the financial restructuring and the shift toward a combine
 
 ## Wrap Up
 
-![Conclusion Supporting Image](https://res.cloudinary.com/ddicetqs5/image/upload/f_auto,fl_force_strip,q_auto:best/v1/wayfinder-images/elon-musk-sells-x-to-xai-conclusion_cgo5hc.jpg)
+![Conclusion Supporting Image](https://res.cloudinary.com/ddicetqs5/image/upload/c_fill,f_auto,fl_force_strip,q_auto:best/v1/wayfinder-images/elon-musk-sells-x-to-xai-conclusion_cgo5hc.jpg)
 
 In summary, Elon Musk's decision to have xAI acquire X for \$33 billion, with a total deal value of \$45 billion including debt, is a strategic move to merge AI and social media capabilities, valuing the combined entity at \$80 billion. This could enhance AI development using X's data, potentially benefiting users with smarter features but also raising privacy considerations. The industry may see a trend toward similar integrations, influencing future tech landscapes.
 

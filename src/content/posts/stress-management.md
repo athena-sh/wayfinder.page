@@ -3,7 +3,7 @@ title: "10 Stress-Busting Tricks for When You're About to Lose It: A Regular Per
 description: Explore real-world stress management techniques from a fellow stress-ball. Learn to cope with daily pressures and find your calm.
 published: 2024-07-26
 image: brain.svg
-hero: https://res-5.cloudinary.com/ddicetqs5/image/upload/c_fill,f_auto,fl_force_strip,q_auto:best/v1/wayfinder-ghost-blog/Illustrative_Albedo_A_captivating_techsavvy_woman_Athena_exudi_1
+hero: https://res.cloudinary.com/ddicetqs5/image/upload/c_fill,f_auto,fl_force_strip,q_auto:best/v1763933789/wayfinder-images/vco8fz5rdwsln4jz0xuv
 draft: false
 tags: [Wellness, Health]
 category: Wellness
@@ -33,7 +33,7 @@ That was me, night after night, until I decided enough was enough. I wasn't goin
 
 ## The Science Behind Stress (Without Making Your Eyes Glaze Over)
 
-![Leonardo AI | Athena Character Reference](https://res-5.cloudinary.com/ddicetqs5/image/upload/f_auto,fl_force_strip,q_auto:best/v1/wayfinder-ghost-blog/Illustrative_Albedo_A_captivating_techsavvy_woman_Athena_exudi_7--2-)
+![Leonardo AI | Athena Character Reference](https://res.cloudinary.com/ddicetqs5/image/upload/c_fill,f_auto,fl_force_strip,q_auto:best/v1763933791/wayfinder-images/ek7xkp5ikdpsl7f4rnxk)
 
 Before we dive into the techniques, let's talk science for a hot second. Stress isn't just a feeling; it's a physiological response. When we're stressed, our bodies release cortisol, the stress hormone. In small doses, it's actually helpful. It's what gave our ancestors the boost they needed to outrun that saber-toothed tiger.
 
@@ -55,7 +55,7 @@ The good news? Your body is remarkably resilient. With the right stress manageme
 
 ## 10 Stress Relief Techniques That Actually Work
 
-![Leonardo AI | Athena Character Reference](https://res-4.cloudinary.com/ddicetqs5/image/upload/f_auto,fl_force_strip,q_auto:best/v1/wayfinder-ghost-blog/Illustrative_Albedo_Heres_the_more_specific_promptA_captivatin_7--3-)
+![Leonardo AI | Athena Character Reference](https://res.cloudinary.com/ddicetqs5/image/upload/c_fill,f_auto,fl_force_strip,q_auto:best/v1763933793/wayfinder-images/nu0iwtfiszjtqdlvugcp)
 
 Alright, let's get to the good stuff. Here are proven stress management tips and techniques that have actually worked for me, a certified non-expert in the field of not losing my mind. These are practical ways to cope with stress and anxiety that don't require a trust fund or a month-long retreat:
 
@@ -191,7 +191,7 @@ You can write them down, say them out loud, or just think them. The format doesn
 
 ## The Numbers Don't Lie (But They Might Stress You Out)
 
-![Leonardo AI | Athena Character Reference](https://res-5.cloudinary.com/ddicetqs5/image/upload/f_auto,fl_force_strip,q_auto:best/v1/wayfinder-ghost-blog/Illustrative_Albedo_A_captivating_techsavvy_woman_Athena_exudi_0)
+![Leonardo AI | Athena Character Reference](https://res.cloudinary.com/ddicetqs5/image/upload/c_fill,f_auto,fl_force_strip,q_auto:best/v1763933795/wayfinder-images/akdfungisutztobxxpej)
 
 Let's take a look at some data on stress and its management. Don't worry, I'll keep it brief and relatively painless.
 
@@ -244,7 +244,7 @@ Want more evidence-based strategies for optimizing your mental health and perfor
 
 ## Your Stress Management Toolkit (Not Just Theory)
 
-![Leonardo AI | Athena Character Reference](https://res-1.cloudinary.com/ddicetqs5/image/upload/f_auto,fl_force_strip,q_auto:best/v1/wayfinder-ghost-blog/Illustrative_Albedo_A_captivating_techsavvy_woman_Athena_exudi_1--3-)
+![Leonardo AI | Athena Character Reference](https://res.cloudinary.com/ddicetqs5/image/upload/c_fill,f_auto,fl_force_strip,q_auto:best/v1763933797/wayfinder-images/gfn4hrx9ywprw2m5mfpv)
 
 > "Life moves pretty fast. If you don't stop and look around once in a while, you could miss it."
 > 

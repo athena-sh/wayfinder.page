@@ -30,7 +30,7 @@ That's when I decided to embark on this wild journey of figuring out how sleep a
 
 Now, I'm no scientist. The closest I've come to a lab coat is when I spilled bleach on my favorite hoodie.
 
-![Generated @https://infograph.venngage.com](https://res-4.cloudinary.com/ddicetqs5/image/upload/f_auto,fl_force_strip,q_auto:best/v1/wayfinder-ghost-blog/Screenshot-2024-08-17-at-5.34)
+![Generated @https://infograph.venngage.com](https://res.cloudinary.com/ddicetqs5/image/upload/c_fill,f_auto,fl_force_strip,q_auto:best/v1763933743/wayfinder-images/z6gebyipqdjij9qrq8iv)
 
 ### But here's what the actual smart people say
 

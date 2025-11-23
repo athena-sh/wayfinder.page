@@ -97,7 +97,7 @@ Ready to transform your passion into profit? Let's build your subscription box e
 
 _Prep Smarter, Not Harder_
 
-![Leonardo AI | Athena Character Reference](https://res.cloudinary.com/ddicetqs5/image/upload/f_auto/v1731986883/wayfinder-ghost-blog/192-subscription-box-business-guide-1-885838)
+![Leonardo AI | Athena Character Reference](https://res.cloudinary.com/ddicetqs5/image/upload/c_fill,f_auto,fl_force_strip,q_auto:best/v1763933800/wayfinder-images/sbkhla50p1xozzrlsnms)
 
 ### Smart Preparation Essentials
 
@@ -190,7 +190,7 @@ Remember: Thorough preparation now prevents problems later.
 
 _Step-by-Step Path to Nailing Your Subscription Box Business_
 
-![Leonardo AI | Athena Character Reference](https://res.cloudinary.com/ddicetqs5/image/upload/f_auto/v1731986885/wayfinder-ghost-blog/192-subscription-box-business-guide-2-148638)
+![Leonardo AI | Athena Character Reference](https://res.cloudinary.com/ddicetqs5/image/upload/c_fill,f_auto,fl_force_strip,q_auto:best/v1763933802/wayfinder-images/qtilaluokl4x86ikuxne)
 
 ### Choosing Your Subscription Model
 
@@ -257,7 +257,7 @@ That's it, folks! You're basically a subscription box guru now. 🙌 Get out the
 
 _When Things Don't Go as Smoothly as That TikTok Tutorial Made It Look_
 
-![Leonardo AI | Athena Character Reference](https://res.cloudinary.com/ddicetqs5/image/upload/f_auto/v1731986887/wayfinder-ghost-blog/192-subscription-box-business-guide-3-626315)
+![Leonardo AI | Athena Character Reference](https://res.cloudinary.com/ddicetqs5/image/upload/c_fill,f_auto,fl_force_strip,q_auto:best/v1763933804/wayfinder-images/oe0fy1hd6xbks88feyir)
 
 ### Common Challenges Faced by New Businesses
 
@@ -287,7 +287,7 @@ Running around like a headless chicken isn't fun (trust me, I've been there). Wh
 
 _You've Got This, Aspiring Subscription Box Star!_
 
-![Leonardo AI | Athena Character Reference](https://res.cloudinary.com/ddicetqs5/image/upload/f_auto/v1731986889/wayfinder-ghost-blog/192-subscription-box-business-guide-4-911486)
+![Leonardo AI | Athena Character Reference](https://res.cloudinary.com/ddicetqs5/image/upload/c_fill,f_auto,fl_force_strip,q_auto:best/v1763933806/wayfinder-images/gtajkuc7but6a15o659r)
 
 Time to take action.
 

@@ -247,6 +247,6 @@ Building a personal brand is a marathon, not a sprint. It's about consistent eff
 
 ## Conclusion
 
-![Athena](https://res.cloudinary.com/ddicetqs5/image/upload/f_auto/v1728147810/wayfinder-ghost-blog/inline-recxkjXJV0aSAm5sr)
+![Athena](https://res.cloudinary.com/ddicetqs5/image/upload/c_fill,f_auto,fl_force_strip,q_auto:best/v1763933143/wayfinder-images/yypr2t7amlzwp2bjvnd9)
 
 Building a personal brand online is an ongoing journey that requires dedication and consistency. By following these steps, you'll be well on your way to establishing a strong digital presence that resonates with your audience. Remember, authenticity is key. Start implementing these strategies today, and watch your personal brand flourish in the digital landscape of 2024 and beyond!

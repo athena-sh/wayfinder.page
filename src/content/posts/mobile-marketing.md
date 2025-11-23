@@ -57,7 +57,7 @@ Your competitors are already mobilizing. The question is: Are you ready to captu
 
 ## Understanding Your Smartphone Audience
 
-![Leonardo AI | Athena Character Reference](https://res-2.cloudinary.com/ddicetqs5/image/upload/f_auto,fl_force_strip,q_auto:best/v1/wayfinder-ghost-blog/7-steps-dominate-mobile-marketing-smartphone-customers-2024-understanding)
+![Leonardo AI | Athena Character Reference](https://res.cloudinary.com/ddicetqs5/image/upload/c_fill,f_auto,fl_force_strip,q_auto:best/v1763933085/wayfinder-images/kxwaashwehhzfftsqjkt)
 
 Here's a shocking statistic: The average person touches their phone 2,617 times per day.
 
@@ -112,7 +112,7 @@ The key isn't just reaching your audience – it's understanding how they live t
 
 ## Optimizing Your Website for Mobile
 
-![Leonardo AI | Athena Character Reference](https://res-5.cloudinary.com/ddicetqs5/image/upload/f_auto,fl_force_strip,q_auto:best/v1/wayfinder-ghost-blog/7-steps-dominate-mobile-marketing-smartphone-customers-2024-optimizing)
+![Leonardo AI | Athena Character Reference](https://res.cloudinary.com/ddicetqs5/image/upload/c_fill,f_auto,fl_force_strip,q_auto:best/v1763933086/wayfinder-images/qajnfasgxmm6dl9qoss5)
 
 53% of mobile users abandon pages that take more than three seconds to load.
 
@@ -192,7 +192,7 @@ Make it fast. Make it smooth. Make it obvious.
 
 ## Creating Mobile-Friendly Content
 
-![Leonardo AI | Athena Character Reference](https://res-4.cloudinary.com/ddicetqs5/image/upload/f_auto,fl_force_strip,q_auto:best/v1/wayfinder-ghost-blog/7-steps-dominate-mobile-marketing-smartphone-customers-2024-creating)
+![Leonardo AI | Athena Character Reference](https://res.cloudinary.com/ddicetqs5/image/upload/c_fill,f_auto,fl_force_strip,q_auto:best/v1763933089/wayfinder-images/kn8b5mzt1zs2mh7l2xac)
 
 Your mobile content needs to be like a speed date – quick, engaging, and memorable.
 
@@ -262,7 +262,7 @@ Your mobile content should work harder than a barista during morning rush – ev
 
 ## Leveraging Mobile Apps
 
-![Leonardo AI | Athena Character Reference | Happy Halloween!](https://res-4.cloudinary.com/ddicetqs5/image/upload/f_auto,fl_force_strip,q_auto:best/v1/wayfinder-ghost-blog/athena_halloween_6Nu278lm)
+![Leonardo AI | Athena Character Reference | Happy Halloween!](https://res.cloudinary.com/ddicetqs5/image/upload/c_fill,f_auto,fl_force_strip,q_auto:best/v1763933090/wayfinder-images/bfdqkq9nt6ozklayicoj)
 
 Did you know? Users have 80 apps installed but only use 9 daily.
 
@@ -346,7 +346,7 @@ Your app should be like a trusted personal assistant – always there when neede
 
 ## Implementing SMS Marketing
 
-![Leonardo AI | Athena Character Reference](https://res-1.cloudinary.com/ddicetqs5/image/upload/f_auto,fl_force_strip,q_auto:best/v1/wayfinder-ghost-blog/7-steps-dominate-mobile-marketing-smartphone-customers-2024-implement-marketing)
+![Leonardo AI | Athena Character Reference](https://res.cloudinary.com/ddicetqs5/image/upload/c_fill,f_auto,fl_force_strip,q_auto:best/v1763933092/wayfinder-images/vnyssbcof5cobnskuv2i)
 
 98% open rate. Let that sink in.
 
@@ -426,7 +426,7 @@ Remember: Your SMS strategy should be like a good friend – present when needed
 
 ## Harnessing Social Media for Mobile Users
 
-![Leonardo AI | Athena Character Reference](https://res-2.cloudinary.com/ddicetqs5/image/upload/f_auto,fl_force_strip,q_auto:best/v1/wayfinder-ghost-blog/7-steps-dominate-mobile-marketing-smartphone-customers-2024-implement-harnessing)
+![Leonardo AI | Athena Character Reference](https://res.cloudinary.com/ddicetqs5/image/upload/c_fill,f_auto,fl_force_strip,q_auto:best/v1763933094/wayfinder-images/jraegzogii5dfk4pzouy)
 
 **2 hours and 24 minutes** – that's how long the average person spends on social media daily.
 
@@ -499,7 +499,7 @@ The social media landscape shifts like desert sands – stay agile, stay relevan
 
 ## Measuring and Analyzing Mobile Marketing Success
 
-![Leonardo AI | Athena Character Reference](https://res-4.cloudinary.com/ddicetqs5/image/upload/f_auto,fl_force_strip,q_auto:best/v1/wayfinder-ghost-blog/7-steps-dominate-mobile-marketing-smartphone-customers-2024-implement-measuring)
+![Leonardo AI | Athena Character Reference](https://res.cloudinary.com/ddicetqs5/image/upload/c_fill,f_auto,fl_force_strip,q_auto:best/v1763933096/wayfinder-images/kbgt8yoyfhkpsbisdc3p)
 
 70% of mobile searches lead to action within an hour.
 
@@ -573,7 +573,7 @@ Turn your data into decisions – every metric should lead to meaningful action.
 
 ## Conclusion
 
-![Leonardo AI | Athena Character Reference](https://res-1.cloudinary.com/ddicetqs5/image/upload/f_auto,fl_force_strip,q_auto:best/v1/wayfinder-ghost-blog/7-steps-dominate-mobile-marketing-smartphone-customers-2024-implement-marketing-conclusion)
+![Leonardo AI | Athena Character Reference](https://res.cloudinary.com/ddicetqs5/image/upload/c_fill,f_auto,fl_force_strip,q_auto:best/v1763933098/wayfinder-images/juy3mjddwqmcprzofhqy)
 
 Mobile marketing isn't just another channel – it's where your audience lives.
 

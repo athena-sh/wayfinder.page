@@ -23,7 +23,7 @@ Dan Harris, a self-proclaimed "fidgety skeptic," shares his journey from panic a
 
 I've also listened to his Audible book while driving, and I found it fascinating.
 
-![](https://res-3.cloudinary.com/ddicetqs5/image/upload/f_auto,fl_force_strip,q_auto:best/v1/wayfinder-ghost-blog/71rjulX3L3L)
+![Image](https://res.cloudinary.com/ddicetqs5/image/upload/c_fill,f_auto,fl_force_strip,q_auto:best/v1763933081/wayfinder-images/c7viodplgjcqzd9jkmdw)
 
 #### 10% Happier
 
@@ -75,6 +75,6 @@ Whether you're a mindfulness newbie or a seasoned pro, these podcasts will help 
 
 ## Compliance, Guidelines, and Acknowledgements
 
-![Leonardo.Ai | An owl counting.](https://res-5.cloudinary.com/ddicetqs5/image/upload/f_auto,fl_force_strip,q_auto:best/v1/wayfinder-ghost-blog/0_uGgtPirpHbchvnrc)
+![Leonardo.Ai | An owl counting.](https://res.cloudinary.com/ddicetqs5/image/upload/c_fill,f_auto,fl_force_strip,q_auto:best/v1763933083/wayfinder-images/cubfbjnugncvqogomumj)
 
 - **\*Affiliate Disclosure:** As a participant in the Amazon Affiliate Program, I earn from qualifying purchases made through links provided in this content. This means if you click on a link and make a qualifying purchase, I may receive a commission at no additional cost to you. Thank you for supporting my work and allowing me to bring you valuable insights!\*

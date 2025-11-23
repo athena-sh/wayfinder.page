@@ -40,7 +40,7 @@ I've read all those "How I Built This" style success stories, you know the ones 
 
 ## What You're Really Getting Into
 
-![Leonardo AI | Athena Character Reference](https://res-2.cloudinary.com/ddicetqs5/image/upload/f_auto,fl_force_strip,q_auto:best/v1/wayfinder-ghost-blog/what-you-are-getting-into)
+![Leonardo AI | Athena Character Reference](https://res.cloudinary.com/ddicetqs5/image/upload/c_fill,f_auto,fl_force_strip,q_auto:best/v1763933297/wayfinder-images/fjm2b2y78xwjikj78crw)
 
 ### The Unfiltered Version
 
@@ -63,7 +63,7 @@ I promise to share:
 
 _(Or: "What Do You Mean, I Should've Planned This Years Ago?")_
 
-![Leonardo AI | Athena Character Reference](https://res-1.cloudinary.com/ddicetqs5/image/upload/f_auto,fl_force_strip,q_auto:best/v1/wayfinder-ghost-blog/white-board)
+![Leonardo AI | Athena Character Reference](https://res.cloudinary.com/ddicetqs5/image/upload/c_fill,f_auto,fl_force_strip,q_auto:best/v1763933299/wayfinder-images/nv1q0lzrkhecdrpadvpr)
 
 The biggest mistake most digital entrepreneurs make? Waiting until they're burned out or bored to think about selling. I did this with my first business, and wow, was that a rookie move. Here's what you should be doing right now, even if you're not planning to sell:
 
@@ -84,7 +84,7 @@ The biggest mistake most digital entrepreneurs make? Waiting until they're burne
 
 _(Without Having an Existential Crisis)_
 
-![Leonardo AI | Athena Character Reference](https://res-5.cloudinary.com/ddicetqs5/image/upload/f_auto,fl_force_strip,q_auto:best/v1/wayfinder-ghost-blog/crystal-ball)
+![Leonardo AI | Athena Character Reference](https://res.cloudinary.com/ddicetqs5/image/upload/c_fill,f_auto,fl_force_strip,q_auto:best/v1763933300/wayfinder-images/xavqtobfx1eg4xr714kw)
 
 Let's talk numbers. And no, pulling figures out of thin air doesn't count as valuation. Here's the real deal:
 
@@ -125,7 +125,7 @@ The best buyers often come through your network. Start dropping hints in industr
 
 _(Or: "Why Are They Asking Me THAT?")_
 
-![Leonardo AI | Athena Character Reference](https://res-1.cloudinary.com/ddicetqs5/image/upload/f_auto,fl_force_strip,q_auto:best/v1/wayfinder-ghost-blog/athena-dance)
+![Leonardo AI | Athena Character Reference](https://res.cloudinary.com/ddicetqs5/image/upload/c_fill,f_auto,fl_force_strip,q_auto:best/v1763933302/wayfinder-images/utw9jjydatdkvzw3nxl4)
 
 Ah, due diligence. The part where you feel like you're being audited by the FBI, IRS, and your mother-in-law simultaneously. Here's what to prepare:
 
@@ -154,7 +154,7 @@ Ah, due diligence. The part where you feel like you're being audited by the FBI,
 
 _(Without_ _Losing Your Soul\*\*)_
 
-![Leonardo AI | Athena Character Reference](https://res-3.cloudinary.com/ddicetqs5/image/upload/f_auto,fl_force_strip,q_auto:best/v1/wayfinder-ghost-blog/contract-time)
+![Leonardo AI | Athena Character Reference](https://res.cloudinary.com/ddicetqs5/image/upload/c_fill,f_auto,fl_force_strip,q_auto:best/v1763933305/wayfinder-images/oqjjdhuivl9dh1cado9l)
 
 Negotiation isn't just about price. Here's what actually matters:
 

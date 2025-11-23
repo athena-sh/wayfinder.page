@@ -259,6 +259,6 @@ Remember, scaling your business is a journey, not a destination. There will be b
 
 ## Conclusion
 
-![Leonardo AI | Athena Character Reference | Happy Halloween!](https://res-3.cloudinary.com/ddicetqs5/image/upload/f_auto,fl_force_strip,q_auto:best/v1/wayfinder-ghost-blog/AlbedoBase_XL_A_captivating_techsavvy_woman_Athena_exuding_con_6)
+![Leonardo AI | Athena Character Reference | Happy Halloween!](https://res.cloudinary.com/ddicetqs5/image/upload/c_fill,f_auto,fl_force_strip,q_auto:best/v1763933280/wayfinder-images/uwu724xyrriukhhuvd8a)
 
 Scaling your solo business through hiring is a significant step towards growth. Remember, the key is to hire strategically and create systems that support expansion. Start small, learn from each hire, and adjust your approach as needed. With the right team and processes in place, you'll be well-positioned to take your business to new heights in 2024 and beyond.

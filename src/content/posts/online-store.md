@@ -19,7 +19,7 @@ I learned this the hard way. Three years ago, I launched my first online store t
 Here's why I'm telling you this: most guides out there read like they were written by AI chatbots who've never actually run a store. They're full of vague advice like "find your niche" and "optimize for conversion" without telling you _how_ to actually do any of that stuff.
 
 
-![This guide is different!](https://res-3.cloudinary.com/ddicetqs5/image/upload/f_auto,fl_force_strip,q_auto:best/v1746500121/wayfinder-images/this-guide-is-different_di6jyd)
+![This guide is different!](https://res.cloudinary.com/ddicetqs5/image/upload/c_fill,f_auto,fl_force_strip,q_auto:best/v1763933152/wayfinder-images/khfjixhlxfqru3ra4hyu)
 
 ## This guide is different.
 
@@ -37,7 +37,7 @@ But here's the good news: if you're ready to put in the work and follow a proven
 
 ## Before You Dive In: The Reality Check
 
-![Leonardo AI | Athena Character Reference](https://res-5.cloudinary.com/ddicetqs5/image/upload/f_auto,fl_force_strip,q_auto:best/v1/wayfinder-ghost-blog/183-8-step-craft-profitable-online-store-2025-reality-check)
+![Leonardo AI | Athena Character Reference](https://res.cloudinary.com/ddicetqs5/image/upload/c_fill,f_auto,fl_force_strip,q_auto:best/v1763933154/wayfinder-images/vckxktezmfqr6b4l6wo3)
 
 Look, before you start dreaming about your Shopify empire, let's talk about what you _actually_ need to get this thing off the ground. No sugar-coating here.
 
@@ -125,7 +125,7 @@ Ready to move forward? Let's start building something real.
 
 _"If you build it, they will come... is terrible advice for e-commerce"_ - Gary Vaynerchuk
 
-![Leonardo AI | Athena Character Reference](https://res-4.cloudinary.com/ddicetqs5/image/upload/f_auto,fl_force_strip,q_auto:best/v1/wayfinder-ghost-blog/183-8-step-craft-profitable-online-store-2025-building)
+![Leonardo AI | Athena Character Reference](https://res.cloudinary.com/ddicetqs5/image/upload/c_fill,f_auto,fl_force_strip,q_auto:best/v1763933156/wayfinder-images/ipzkk2est3dvw5031lwy)
 
 ### Pick Your Battle (AKA Finding Your Niche)
 
@@ -199,7 +199,7 @@ Time to pick your tech stack? Let's tackle that next.
 
 _"Complexity is your enemy. Any fool can make something complicated. It's hard to make something simple."_ - Richard Branson
 
-![Leonardo AI | Athena Character Reference](https://res-3.cloudinary.com/ddicetqs5/image/upload/f_auto,fl_force_strip,q_auto:best/v1/wayfinder-ghost-blog/183-8-step-craft-profitable-online-store-2025-building-tech-stack)
+![Leonardo AI | Athena Character Reference](https://res.cloudinary.com/ddicetqs5/image/upload/c_fill,f_auto,fl_force_strip,q_auto:best/v1763933158/wayfinder-images/bhipnuase4x3jodcbib9)
 
 ### Choose Your Platform (Without the Analysis Paralysis)
 
@@ -278,7 +278,7 @@ Ready to load your store with products that actually sell? Let's dig into that n
 
 _"Price is what you pay. Value is what you get."_ - Warren Buffett
 
-![Leonardo AI | Athena Character Reference](https://res-1.cloudinary.com/ddicetqs5/image/upload/f_auto,fl_force_strip,q_auto:best/v1/wayfinder-ghost-blog/183-8-step-craft-profitable-online-store-2025-building-design-1)
+![Leonardo AI | Athena Character Reference](https://res.cloudinary.com/ddicetqs5/image/upload/c_fill,f_auto,fl_force_strip,q_auto:best/v1763933160/wayfinder-images/lrkldjoc5lxmc1pmjhv8)
 
 ### Products That Don't Collect Dust
 
@@ -364,7 +364,7 @@ Ready to make your store look like a million bucks? Design comes next.
 
 _"Design is not just what it looks like and feels like. Design is how it works."_ - Steve Jobs
 
-![Leonardo AI | Athena Character Reference](https://res-5.cloudinary.com/ddicetqs5/image/upload/f_auto,fl_force_strip,q_auto:best/v1/wayfinder-ghost-blog/183-8-step-craft-profitable-online-store-2025-building-design-that-doesnt-suck)
+![Leonardo AI | Athena Character Reference](https://res.cloudinary.com/ddicetqs5/image/upload/c_fill,f_auto,fl_force_strip,q_auto:best/v1763933162/wayfinder-images/wjciwu1baepwiee8dp9m)
 
 ### Brand Identity (Without the Agency Price Tag)
 
@@ -451,7 +451,7 @@ The prettiest store means nothing without solid operations. Let's tackle that ne
 
 _"Operations keeps the lights on, strategy provides a light at the end of the tunnel, but project management determines which tunnel we take."_ - Ray Krok
 
-![Leonardo AI | Athena Character Reference](https://res-1.cloudinary.com/ddicetqs5/image/upload/f_auto,fl_force_strip,q_auto:best/v1/wayfinder-ghost-blog/183-8-step-craft-profitable-online-store-2025-behind-the-scenes)
+![Leonardo AI | Athena Character Reference](https://res.cloudinary.com/ddicetqs5/image/upload/c_fill,f_auto,fl_force_strip,q_auto:best/v1763933164/wayfinder-images/knxiguklaoa7kgqyrsez)
 
 ### Inventory Control That Won't Drive You Crazy
 
@@ -550,7 +550,7 @@ Time to talk about getting eyeballs on your store? Marketing's up next.
 
 _"Half the money I spend on advertising is wasted; the trouble is I don't know which half."_ - John Wanamaker
 
-![Leonardo AI | Athena Character Reference](https://res-5.cloudinary.com/ddicetqs5/image/upload/f_auto,fl_force_strip,q_auto:best/v1/wayfinder-ghost-blog/183-8-step-craft-profitable-online-store-2025-marketing)
+![Leonardo AI | Athena Character Reference](https://res.cloudinary.com/ddicetqs5/image/upload/c_fill,f_auto,fl_force_strip,q_auto:best/v1763933165/wayfinder-images/osyycba4rblrgndpmweq)
 
 ### SEO That Actually Works
 
@@ -652,7 +652,7 @@ Ready to talk money? Let's dive into the numbers that actually matter.
 
 _"Revenue is vanity, profit is sanity, but cash is reality."_ - David Einhorn
 
-![Leonardo AI | Athena Character Reference](https://res-1.cloudinary.com/ddicetqs5/image/upload/f_auto,fl_force_strip,q_auto:best/v1/wayfinder-ghost-blog/183-8-step-craft-profitable-online-store-2025-money-stuff)
+![Leonardo AI | Athena Character Reference](https://res.cloudinary.com/ddicetqs5/image/upload/c_fill,f_auto,fl_force_strip,q_auto:best/v1763933167/wayfinder-images/msgxrwwcmo2nwzwkg3e0)
 
 ### Startup Money: The Real Numbers
 
@@ -754,7 +754,7 @@ Ready to launch this thing? Let's talk about not screwing up the big day.
 
 _"Everyone has a plan until they get punched in the marketplace."_ - Mike Tyson (modified)
 
-![Leonardo AI | Athena Character Reference](https://res-1.cloudinary.com/ddicetqs5/image/upload/f_auto,fl_force_strip,q_auto:best/v1/wayfinder-ghost-blog/183-8-step-craft-profitable-online-store-2025-launch)
+![Leonardo AI | Athena Character Reference](https://res.cloudinary.com/ddicetqs5/image/upload/c_fill,f_auto,fl_force_strip,q_auto:best/v1763933168/wayfinder-images/s1zwdz1bi7ebpxavksb5)
 
 ### Pre-Launch Sanity Check
 
@@ -862,7 +862,7 @@ Time to make this thing real? Your move.
 
 _"The difference between a successful person and others is not a lack of strength, not a lack of knowledge, but rather a lack in will."_ - Vince Lombardi
 
-![Leonardo AI | Athena Character Reference](https://res-3.cloudinary.com/ddicetqs5/image/upload/f_auto,fl_force_strip,q_auto:best/v1/wayfinder-ghost-blog/183-8-step-craft-profitable-online-store-2025-breaks)
+![Leonardo AI | Athena Character Reference](https://res.cloudinary.com/ddicetqs5/image/upload/c_fill,f_auto,fl_force_strip,q_auto:best/v1763933170/wayfinder-images/euwrzp4k2kkrbismoujj)
 
 ### Tech Headaches Fixed
 
@@ -962,7 +962,7 @@ Let's wrap this whole thing up with a reality check.
 
 _"Success is not linear, it's exponential with a whole lot of flat lines in between."_ - Naval Ravikant
 
-![Leonardo AI | Athena Character Reference](https://res-4.cloudinary.com/ddicetqs5/image/upload/f_auto,fl_force_strip,q_auto:best/v1/wayfinder-ghost-blog/183-8-step-craft-profitable-online-store-2025-truth)
+![Leonardo AI | Athena Character Reference](https://res.cloudinary.com/ddicetqs5/image/upload/c_fill,f_auto,fl_force_strip,q_auto:best/v1763933172/wayfinder-images/t26hv5wfj7ddxpehqyr2)
 
 ### Your First Year Reality Check
 
@@ -1053,7 +1053,7 @@ _"The best time to start an online store was **yesterday**. The second best time
 
 _"If you can't measure it, you can't improve it."_ - Peter Drucker
 
-![Leonardo AI | Athena Character Reference](https://res-3.cloudinary.com/ddicetqs5/image/upload/f_auto,fl_force_strip,q_auto:best/v1/wayfinder-ghost-blog/183-8-step-craft-profitable-online-store-2025-the-numbers)
+![Leonardo AI | Athena Character Reference](https://res.cloudinary.com/ddicetqs5/image/upload/c_fill,f_auto,fl_force_strip,q_auto:best/v1763933173/wayfinder-images/v9bm3ixunip30shtpn9k)
 
 ### Traffic That Converts
 

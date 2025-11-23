@@ -58,7 +58,7 @@ Let's get your work the recognition (and compensation) it deserves.
 
 _Before You Jump In, Let's Get Your Ducks (or Cameras) in a Row_
 
-![Leonardo AI | Athena Character Reference](https://res.cloudinary.com/ddicetqs5/image/upload/f_auto/v1731907254/wayfinder-ghost-blog/189-monetize-photography-skills-online-3-210208)
+![Leonardo AI | Athena Character Reference](https://res.cloudinary.com/ddicetqs5/image/upload/c_fill,f_auto,fl_force_strip,q_auto:best/v1763933117/wayfinder-images/zfm5k5d2v2knv9ymbbsy)
 
 ### Skills & Equipment Essentials
 
@@ -141,7 +141,7 @@ And lastly, understand the importance of building your **brand**. You aren't jus
 
 _From Snapshots to Sales: Let's Make Your Shots Work for You_
 
-![Leonardo AI | Athena Character Reference](https://res.cloudinary.com/ddicetqs5/image/upload/f_auto/v1731907256/wayfinder-ghost-blog/189-monetize-photography-skills-online-4-297021)
+![Leonardo AI | Athena Character Reference](https://res.cloudinary.com/ddicetqs5/image/upload/c_fill,f_auto,fl_force_strip,q_auto:best/v1763933119/wayfinder-images/pzdqpgcmgxoihe17uojt)
 
 So, you've got the photography skills and you're ready to hit that "monetize" button. Great! But where do you actually begin? Let's walk through some tangible ways you can turn those pixel-perfect shots into paydays.
 
@@ -199,7 +199,7 @@ Even better, the content you create for your courses can be sold repeatedly. One
 
 _Because Monetizing Photos Isn't Always a Perfect Picture_
 
-![Leonardo AI | Athena Character Reference](https://res.cloudinary.com/ddicetqs5/image/upload/f_auto/v1731907290/wayfinder-ghost-blog/189-monetize-photography-skills-online-1-203017)
+![Leonardo AI | Athena Character Reference](https://res.cloudinary.com/ddicetqs5/image/upload/c_fill,f_auto,fl_force_strip,q_auto:best/v1763933120/wayfinder-images/s3sbsgtdcgurapdhzbun)
 
 ### Common challenges in selling photography online
 
@@ -234,7 +234,7 @@ When in doubt, remember: every "overnight success" story had more than a few rou
 
 _You're this close to cashing in on your passion!_
 
-![Leonardo AI | Athena Character Reference](https://res-4.cloudinary.com/ddicetqs5/image/upload/f_auto,fl_force_strip,q_auto:best/v1/wayfinder-ghost-blog/189-monetize-photography-skills-online-conclusion)
+![Leonardo AI | Athena Character Reference](https://res.cloudinary.com/ddicetqs5/image/upload/c_fill,f_auto,fl_force_strip,q_auto:best/v1763933123/wayfinder-images/n2erj8jcyccwv5i5iz4p)
 
 ### Recap of key points covered
 

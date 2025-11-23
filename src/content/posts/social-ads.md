@@ -97,7 +97,7 @@ Pick one main goal. Trying to do everything at once is like trying to juggle whi
 
 ### Creating SMART Objectives
 
-![Leonardo AI | Athena Character Reference](https://res-2.cloudinary.com/ddicetqs5/image/upload/f_auto,fl_force_strip,q_auto:best/v1/wayfinder-ghost-blog/smart-ob)
+![Leonardo AI | Athena Character Reference](https://res.cloudinary.com/ddicetqs5/image/upload/c_fill,f_auto,fl_force_strip,q_auto:best/v1763933747/wayfinder-images/okco6857jix5zfqsg4wr)
 
 Now, let's make those goals SMART. No, I'm not calling your goals dumb. SMART stands for Specific, Measurable, Achievable, Relevant, and Time-bound. It's like giving your goals a personal trainer.
 
@@ -164,7 +164,7 @@ Remember, good targeting is like a well-fitted suit – it makes you look good a
 
 ## Crafting Compelling Ad Content
 
-![Leonardo AI | Athena Character Reference](https://res-2.cloudinary.com/ddicetqs5/image/upload/f_auto,fl_force_strip,q_auto:best/v1/wayfinder-ghost-blog/ad-content)
+![Leonardo AI | Athena Character Reference](https://res.cloudinary.com/ddicetqs5/image/upload/c_fill,f_auto,fl_force_strip,q_auto:best/v1763933749/wayfinder-images/xl61sigilh8yfbojgxe4)
 
 Alright, folks, we've made it to the fun part – creating ads that'll make your audience stop scrolling and start clicking. It's time to channel your inner Don Draper (minus the whiskey and existential crises).
 
@@ -210,7 +210,7 @@ Crafting compelling ad content is part science, part art, and part voodoo magic.
 
 ## Budgeting and Bidding Strategies
 
-![Leonardo AI | Athena Character Reference](https://res-1.cloudinary.com/ddicetqs5/image/upload/f_auto,fl_force_strip,q_auto:best/v1/wayfinder-ghost-blog/fantastic)
+![Leonardo AI | Athena Character Reference](https://res.cloudinary.com/ddicetqs5/image/upload/c_fill,f_auto,fl_force_strip,q_auto:best/v1763933751/wayfinder-images/awibl0dig3jawl59q0jv)
 
 Alright, it's time to talk money. I know, I know, it's not as fun as creating witty ad copy, but unless you've got Scrooge McDuck's money bin, you need to be smart about your spending.
 
@@ -252,7 +252,7 @@ Remember, optimizing your social media ad spend is an ongoing process. It's like
 
 ## Monitoring and Analyzing Campaign Performance
 
-![Leonardo AI | Athena Character Reference](https://res-1.cloudinary.com/ddicetqs5/image/upload/f_auto,fl_force_strip,q_auto:best/v1/wayfinder-ghost-blog/funny)
+![Leonardo AI | Athena Character Reference](https://res.cloudinary.com/ddicetqs5/image/upload/c_fill,f_auto,fl_force_strip,q_auto:best/v1763933753/wayfinder-images/ebqqdrqdeyn5hxaydypk)
 
 Alright, data nerds (and those who pretend to be), it's time to dive into the exciting world of metrics and analytics. Don't worry, I promise to make this as painless as possible. Maybe even fun. Okay, that might be pushing it.
 

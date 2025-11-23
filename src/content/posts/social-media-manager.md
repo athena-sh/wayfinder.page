@@ -30,7 +30,7 @@ So, you're thinking of becoming a social media manager? Awesome! The path is as 
 
 _What You'll Need Before Diving In_
 
-![Leonardo AI | Athena Character Reference](https://res.cloudinary.com/ddicetqs5/image/upload/f_auto/v1731980844/wayfinder-ghost-blog/191-become-social-media-manager-guide-1-305031)
+![Leonardo AI | Athena Character Reference](https://res.cloudinary.com/ddicetqs5/image/upload/c_fill,f_auto,fl_force_strip,q_auto:best/v1763933755/wayfinder-images/kw2lke95dviuhm2q694y)
 
 ### Educational Background
 
@@ -65,7 +65,7 @@ There, you made it through the prerequisites! Now you're ready to start building
 
 _Taking the Leap into Social Media Stardom_
 
-![Leonardo AI | Athena Character Reference](https://res.cloudinary.com/ddicetqs5/image/upload/f_auto/v1731980846/wayfinder-ghost-blog/191-become-social-media-manager-guide-2-962165)
+![Leonardo AI | Athena Character Reference](https://res.cloudinary.com/ddicetqs5/image/upload/c_fill,f_auto,fl_force_strip,q_auto:best/v1763933757/wayfinder-images/as8ozcclt1xlvhubhmii)
 
 ### Building Your Online Presence
 
@@ -107,7 +107,7 @@ If you don't have any clients yet, no worries. You can create mock social media 
 
 _Because Even the Best of Us Get Stuck Sometimes_
 
-![Leonardo AI | Athena Character Reference](https://res.cloudinary.com/ddicetqs5/image/upload/f_auto/v1731980848/wayfinder-ghost-blog/191-become-social-media-manager-guide-3-699904)
+![Leonardo AI | Athena Character Reference](https://res.cloudinary.com/ddicetqs5/image/upload/c_fill,f_auto,fl_force_strip,q_auto:best/v1763933759/wayfinder-images/kz3ltilnnqevrdzovjyk)
 
 ### Common Challenges Faced
 
@@ -137,7 +137,7 @@ Juggling multiple tasks, managing deadlines, and constantly creating can leave e
 
 _You've Got This!_
 
-![Leonardo AI | Athena Character Reference](https://res.cloudinary.com/ddicetqs5/image/upload/f_auto/v1731980850/wayfinder-ghost-blog/191-become-social-media-manager-guide-4-182875)
+![Leonardo AI | Athena Character Reference](https://res.cloudinary.com/ddicetqs5/image/upload/c_fill,f_auto,fl_force_strip,q_auto:best/v1763933760/wayfinder-images/kscmlr2inaco2rotojhi)
 
 ### Recap of Key Points
 

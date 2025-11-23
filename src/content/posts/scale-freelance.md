@@ -52,7 +52,7 @@ Time to get your act together. No more Post-it notes everywhere or trying to rem
 
 ## 3. Build a Killer Online Presence: Be Seen, Be Heard
 
-![Leonardo AI | Athena Character Reference | Happy Halloween!](https://res-2.cloudinary.com/ddicetqs5/image/upload/f_auto,fl_force_strip,q_auto:best/v1/wayfinder-ghost-blog/athena_halloween_gCSniUMdgdfgv)
+![Leonardo AI | Athena Character Reference | Happy Halloween!](https://res.cloudinary.com/ddicetqs5/image/upload/c_fill,f_auto,fl_force_strip,q_auto:best/v1763933273/wayfinder-images/xscmhzughu7qp47zgbbq)
 
 In today's digital world, your online presence is your storefront. Make it count!
 
@@ -112,7 +112,7 @@ Remember, delegation isn't defeat - it's smart business strategy.
 
 ## 6. Market Like a Boss: Get Clients Coming to You
 
-![Leonardo AI | Athena Character Reference | Happy Halloween!](https://res-2.cloudinary.com/ddicetqs5/image/upload/f_auto,fl_force_strip,q_auto:best/v1/wayfinder-ghost-blog/athena_halloween_GivvNdfgdfdfdJlQkq)
+![Leonardo AI | Athena Character Reference | Happy Halloween!](https://res.cloudinary.com/ddicetqs5/image/upload/c_fill,f_auto,fl_force_strip,q_auto:best/v1763933275/wayfinder-images/g33gwneivnaw97dcc0lk)
 
 Time to put on your marketing hat and get those clients knocking on your digital door.
 
@@ -156,7 +156,7 @@ Happy clients are your best marketers. Treat them right!
 
 ## Wrapping It Up: Your Freelance Empire Awaits
 
-![Leonardo AI | Athena Character Reference](https://res-5.cloudinary.com/ddicetqs5/image/upload/f_auto,fl_force_strip,q_auto:best/v1/wayfinder-ghost-blog/athena_h5xpXxWV)
+![Leonardo AI | Athena Character Reference](https://res.cloudinary.com/ddicetqs5/image/upload/c_fill,f_auto,fl_force_strip,q_auto:best/v1763933278/wayfinder-images/ihyhvit3dtjnz1luhfm0)
 
 Scaling your freelance business isn't about working yourself to the bone. It's about working smarter, leveraging your skills, and building systems that let your business thrive.
 

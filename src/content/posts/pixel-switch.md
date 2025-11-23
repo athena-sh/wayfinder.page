@@ -34,7 +34,7 @@ Let ’ s just say, I have _thoughts_. And we ’ re about to get into all of th
 
 _(Breaking Down the Google Pixel & Google Fi Combo)_
 
-![image for Overview](https://res.cloudinary.com/ddicetqs5/image/upload/f_auto/v1741020907/wayfinder-ghost-blog/202-ditch-iphone-verizon-google-pixel-google-fi-1-811493)
+![image for Overview](https://res.cloudinary.com/ddicetqs5/image/upload/c_fill,f_auto,fl_force_strip,q_auto:best/v1763933203/wayfinder-images/a4fctktwmk2dgpvyjhm5)
 
 ### What is Google Pixel?
 
@@ -52,7 +52,7 @@ I ’ ll be honest — I was skeptical. Could Pixel really compete with my iPhon
 
 _(Does the Pixel Really Stack Up?)_
 
-![image for Feature Comparison](https://res.cloudinary.com/ddicetqs5/image/upload/f_auto/v1741020909/wayfinder-ghost-blog/202-ditch-iphone-verizon-google-pixel-google-fi-2-100529)
+![image for Feature Comparison](https://res.cloudinary.com/ddicetqs5/image/upload/c_fill,f_auto,fl_force_strip,q_auto:best/v1763933204/wayfinder-images/myxsqpoqtzveg8cavakt)
 
 ### Camera Showdown: Pixel vs. iPhone
 
@@ -88,7 +88,7 @@ Ultimately, **both** platforms have their quirks. iOS is smooth, simple, and idi
 
 _(Does the Pixel Hold Up Under Pressure?)_
 
-![image for Performance Analysis](https://res.cloudinary.com/ddicetqs5/image/upload/f_auto/v1741020911/wayfinder-ghost-blog/202-ditch-iphone-verizon-google-pixel-google-fi-3-857066)
+![image for Performance Analysis](https://res.cloudinary.com/ddicetqs5/image/upload/c_fill,f_auto,fl_force_strip,q_auto:best/v1763933206/wayfinder-images/ufpbffwduyzj6fychab6)
 
 ### Speed and Responsiveness: How Does Pixel Stack Up?
 
@@ -114,7 +114,7 @@ Final verdict? If you ’ re coming from an iPhone, you ’ ll notice a few quir
 
 _(Where the Pixel Shines — or Struggles — Day to Day)_
 
-![image for Use Cases](https://res.cloudinary.com/ddicetqs5/image/upload/f_auto/v1741020913/wayfinder-ghost-blog/202-ditch-iphone-verizon-google-pixel-google-fi-4-532805)
+![image for Use Cases](https://res.cloudinary.com/ddicetqs5/image/upload/c_fill,f_auto,fl_force_strip,q_auto:best/v1763933207/wayfinder-images/xy8mpgnd5sqyhyxbnjhb)
 
 ### Photography: Capturing Everyday Moments
 
@@ -138,7 +138,7 @@ No phone is perfect, though. The lack of a headphone jack still baffles me, and 
 
 ## Cost Analysis: Verizon vs. Google Fi
 
-![Cost Analysis](https://res.cloudinary.com/ddicetqs5/image/upload/v1742773378/wayfinder-images/price-comparison_bzzukk)
+![Cost Analysis](https://res.cloudinary.com/ddicetqs5/image/upload/c_fill,f_auto,fl_force_strip,q_auto:best/v1742773378/wayfinder-images/price-comparison_bzzukk)
 
 Let ’ s talk about the elephant in the room: money. One of the biggest reasons I ditched Verizon for Google Fi was the sticker shock I got every month with my Verizon bill. I mean, I love my phone, but I wasn ’ t trying to fund someone ’ s yacht with my bill payments, you know? So, let ’ s break down the numbers and see how much I ’ m actually saving with Google Fi — and whether the switch was worth it financially.
 
@@ -146,7 +146,7 @@ Let ’ s talk about the elephant in the room: money. One of the biggest reasons
 
 Back when I was with Verizon, I had two iPhone 15 Pro Max devices and two Apple Watches with cellular data. I dug up an old email from October 2023 (because Verizon doesn ’ t let you log in after you disconnect — thanks for that, guys), and here ’ s what I was dealing with.
 
-![Verizon Bill Email Screenshot](https://res.cloudinary.com/ddicetqs5/image/upload/v1742770057/wayfinder-images/verizon_xs8hag)
+![Verizon Bill Email Screenshot](https://res.cloudinary.com/ddicetqs5/image/upload/c_fill,f_auto,fl_force_strip,q_auto:best/v1742770057/wayfinder-images/verizon_xs8hag)
 
 The total amount due was **\$134.93** after taxes, with an Auto Pay date set for November 1, 2023. That's for two phones and two watches with data plans. On top of that, I was paying for iCloud storage — 2TB for \$11.99 a month. So, my total monthly cost with Verizon, including the iCloud plan, was **\$146.92**. Ouch. That's a lot of coffee I could've bought instead.
 
@@ -158,9 +158,9 @@ But here's where it gets interesting. When I joined Google Fi, I snagged a sweet
 
 Here's a screenshot of my Google Fi bill summary from March 2025, showing the total of \$44.41, which includes taxes and fees. This is higher than my calculated \$19.33 because I've already received some of the bill credits, and this screenshot reflects my current balance after some of the promo credits have been applied.
 
-![Google Fi Bill Summary Screenshot1](https://res.cloudinary.com/ddicetqs5/image/upload/v1742770232/wayfinder-images/summary1_pslmn4)
+![Google Fi Bill Summary Screenshot1](https://res.cloudinary.com/ddicetqs5/image/upload/c_fill,f_auto,fl_force_strip,q_auto:best/v1742770232/wayfinder-images/summary1_pslmn4)
 
-![Google Fi Bill Summary Screenshot2](https://res.cloudinary.com/ddicetqs5/image/upload/v1742770244/wayfinder-images/summary2_mohwb2)
+![Google Fi Bill Summary Screenshot2](https://res.cloudinary.com/ddicetqs5/image/upload/c_fill,f_auto,fl_force_strip,q_auto:best/v1742770244/wayfinder-images/summary2_mohwb2)
 
 Oh, and let's not forget the storage savings. With Google Fi, I get Google Workspace accounts that come with 6TB of storage — way more than [Apple's 2TB for \$11.99 a month](https://support.apple.com/en-us/108047). That's another \$11.99 I'm saving each month since the Workspace storage is included in my plan.
 
@@ -170,7 +170,7 @@ I did have to buy the Pixel 9 Pro phones upfront, but there were some deals invo
 
 Here's a screenshot of the [Google Store page showing the \$200-off deal on the Pixel 9 Pro XL](https://store.google.com/product/pixel_9_pro?hl=en-US), which I took advantage of.
 
-![Google Store Pixel 9 Pro Deal Screenshot](https://res.cloudinary.com/ddicetqs5/image/upload/v1742770455/wayfinder-images/google-store-200-off_jpehcd)
+![Google Store Pixel 9 Pro Deal Screenshot](https://res.cloudinary.com/ddicetqs5/image/upload/c_fill,f_auto,fl_force_strip,q_auto:best/v1742770455/wayfinder-images/google-store-200-off_jpehcd)
 
 For comparison, my [iPhone 15 Pro Max devices were $1,199 each](https://www.apple.com/iphone/), so $2,398 for two. I didn ’ t have any promos with Verizon, so I paid full price. The upfront cost for the Pixels was definitely lower, even before the Google Fi credits.
 
@@ -180,11 +180,11 @@ Google Fi also has this cool “ Fi savings ” feature where you can earn credi
 
 Here ’ s a screenshot of my Fi savings page, showing the credits I ’ ve earned and what ’ s in progress.
 
-![Google Fi Savings Earned Screenshot](https://res.cloudinary.com/ddicetqs5/image/upload/v1742770553/wayfinder-images/fi-savings-earned_mmsqvs)
+![Google Fi Savings Earned Screenshot](https://res.cloudinary.com/ddicetqs5/image/upload/c_fill,f_auto,fl_force_strip,q_auto:best/v1742770553/wayfinder-images/fi-savings-earned_mmsqvs)
 
-![Google Fi Savings In Progress Screenshot](https://res.cloudinary.com/ddicetqs5/image/upload/v1742770578/wayfinder-images/fi-savings-earned-in-progress_ke5yax)
+![Google Fi Savings In Progress Screenshot](https://res.cloudinary.com/ddicetqs5/image/upload/c_fill,f_auto,fl_force_strip,q_auto:best/v1742770578/wayfinder-images/fi-savings-earned-in-progress_ke5yax)
 
-![Google Fi Savings Balance Screenshot](https://res.cloudinary.com/ddicetqs5/image/upload/v1742770562/wayfinder-images/fi-savings-bal_f05wzv)
+![Google Fi Savings Balance Screenshot](https://res.cloudinary.com/ddicetqs5/image/upload/c_fill,f_auto,fl_force_strip,q_auto:best/v1742770562/wayfinder-images/fi-savings-bal_f05wzv)
 
 ### The Breakdown: Verizon vs. Google Fi
 
@@ -208,7 +208,7 @@ Plus, I ’ m getting more storage (6TB vs. 2TB) and free watch data for two yea
 
 _(Is the Switch Worth It? Let's Break It Down!)_
 
-![image for Recommendation](https://res.cloudinary.com/ddicetqs5/image/upload/f_auto/v1741020947/wayfinder-ghost-blog/202-ditch-iphone-verizon-google-pixel-google-fi-1-630205)
+![image for Recommendation](https://res.cloudinary.com/ddicetqs5/image/upload/c_fill,f_auto,fl_force_strip,q_auto:best/v1763933221/wayfinder-images/xjrt4aw831yvoqnzzpbf)
 
 ### Who should consider making the switch?
 

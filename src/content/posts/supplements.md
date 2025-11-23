@@ -24,7 +24,7 @@ Cue the health revolution! Suddenly, everyone and their grandma is popping pills
 
 ## The Good, The Bad, and The "Wait, What?"
 
-![Leonardo AI | Athena Character Reference](https://res-3.cloudinary.com/ddicetqs5/image/upload/f_auto,fl_force_strip,q_auto:best/v1/wayfinder-ghost-blog/default_inspiring_bold_confident_flirtatious_sexy_techlady_sta_2_885b6123-5449-46b5-8913-e4bc563d679b--1-)
+![Leonardo AI | Athena Character Reference](https://res.cloudinary.com/ddicetqs5/image/upload/c_fill,f_auto,fl_force_strip,q_auto:best/v1763933812/wayfinder-images/s1j7gtq4prseh0jdeqbo)
 
 Let's break this down, shall we?
 

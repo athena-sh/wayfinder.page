@@ -5,7 +5,7 @@ published: 2025-09-06
 draft: false
 tags: [AI, Monetization]
 image: rocket.svg
-hero: https://res.cloudinary.com/ddicetqs5/image/upload/f_auto,fl_force_strip,q_auto:best/v1758495969/wayfinder-images/product-fit_gykwp0
+hero: https://res.cloudinary.com/ddicetqs5/image/upload/c_fill,f_auto,fl_force_strip,q_auto:best/v1758495969/wayfinder-images/product-fit_gykwp0
 showImageInline: false
 category: "Business"
 lang: ""
@@ -55,7 +55,7 @@ This builds actionable knowledge much faster than making elaborate untested plan
 
 ### Minimum Viable Product
 
-![DALLE3](https://res.cloudinary.com/ddicetqs5/image/upload/f_auto,fl_force_strip,q_auto:best/v1/wayfinder-images/product-fit-mvp_mcxgjp.png)
+![DALLE3](https://res.cloudinary.com/ddicetqs5/image/upload/c_fill,f_auto,fl_force_strip,q_auto:best/v1/wayfinder-images/product-fit-mvp_mcxgjp.png)
 
 🔖 The minimum viable product (MVP) is a central concept in the lean startup methodology.
 
@@ -119,7 +119,7 @@ The Build-Measure-Learn loop provides the core process to achieve validated lear
 
 ### Actionable Metrics
 
-![DALLE3](https://res-4.cloudinary.com/ddicetqs5/image/upload/f_auto,fl_force_strip,q_auto:best/v1/wayfinder-ghost-blog/1_x79DtkR3i2EP9E15Y79B_g)
+![DALLE3](https://res.cloudinary.com/ddicetqs5/image/upload/c_fill,f_auto,fl_force_strip,q_auto:best/v1763933246/wayfinder-images/wxclo6apcz6erstindqd)
 
 Metrics are an important part of the Lean Startup model. They should accurately measure your startup's progress towards business goals.
 

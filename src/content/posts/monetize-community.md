@@ -28,7 +28,7 @@ Buckle up! This guide will walk you through exactly **how** to start turning tho
 
 _Let's make sure you've got your ducks in a row before diving in._
 
-![Leonardo AI | Athena Character Reference](https://res.cloudinary.com/ddicetqs5/image/upload/f_auto/v1731606082/wayfinder-ghost-blog/artID-185-i-3-812198)
+![Leonardo AI | Athena Character Reference](https://res.cloudinary.com/ddicetqs5/image/upload/c_fill,f_auto,fl_force_strip,q_auto:best/v1763933101/wayfinder-images/bqliecpvq5gx1xvwmymu)
 
 ### Identifying Your Niche
 
@@ -54,7 +54,7 @@ To monetize, you can't just push stuff on your audience — they'll smell that f
 
 _Monetizing Like a Pro — Without Feeling Like a Sellout_
 
-![Leonardo AI | Athena Character Reference](https://res.cloudinary.com/ddicetqs5/image/upload/f_auto/v1731606085/wayfinder-ghost-blog/artID-185-i-4-260395)
+![Leonardo AI | Athena Character Reference](https://res.cloudinary.com/ddicetqs5/image/upload/c_fill,f_auto,fl_force_strip,q_auto:best/v1763933104/wayfinder-images/jdpigjxrk1zovmwc91rm)
 
 Alright, folks. You've built yourself a niche community, and your people are engaged, passionate, and ready for more. Now you're asking the million-dollar question: how do I make money from this while keeping the vibe pure? Let's dig into the details without any fluff. Here's how you monetize effectively, and maybe — just maybe — pay rent!
 
@@ -118,7 +118,7 @@ If you've nurtured a highly engaged and supportive community, some of them won't
 
 ### Measuring success and adjusting strategies
 
-![Leonardo AI | Athena Character Reference](https://res-1.cloudinary.com/ddicetqs5/image/upload/f_auto,fl_force_strip,q_auto:best/v1/wayfinder-ghost-blog/185-monetize-niche-online-community-measure)
+![Leonardo AI | Athena Character Reference](https://res.cloudinary.com/ddicetqs5/image/upload/c_fill,f_auto,fl_force_strip,q_auto:best/v1763933106/wayfinder-images/joexq7zwgifhiaw2ctqe)
 
 You could throw spaghetti against the wall and hope it sticks, or you could measure how well your strategies are working and tweak from there (I recommend the latter).
 
@@ -146,7 +146,7 @@ Yep, the not-so-fun part. Monetizing a community means legal stuff. Do NOT skip 
 
 _Avoid the Pitfalls of Monetizing Your Community_
 
-![Leonardo AI | Athena Character Reference](https://res.cloudinary.com/ddicetqs5/image/upload/f_auto/v1731606119/wayfinder-ghost-blog/artID-185-i-1-165473)
+![Leonardo AI | Athena Character Reference](https://res.cloudinary.com/ddicetqs5/image/upload/c_fill,f_auto,fl_force_strip,q_auto:best/v1763933108/wayfinder-images/jqpcpxcetk6awdssmnwh)
 
 ### Common challenges in monetization
 
@@ -170,7 +170,7 @@ You might need to pivot your offerings, whether that's changing the products you
 
 _Monetizing Your Community Without Losing Your Cool_
 
-![Leonardo AI | Athena Character Reference](https://res-2.cloudinary.com/ddicetqs5/image/upload/f_auto,fl_force_strip,q_auto:best/v1/wayfinder-ghost-blog/185-monetize-niche-online-community-conclusion)
+![Leonardo AI | Athena Character Reference](https://res.cloudinary.com/ddicetqs5/image/upload/c_fill,f_auto,fl_force_strip,q_auto:best/v1763933110/wayfinder-images/izscosl617l1efnpldup)
 
 ### Recap of key points
 

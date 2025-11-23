@@ -100,7 +100,7 @@ The key is to be specific, intriguing, and focused on what's in it for the visit
 
 ### Highlight benefits, not just features
 
-![Leonardo AI | Athena Character Reference](https://res-3.cloudinary.com/ddicetqs5/image/upload/f_auto,fl_force_strip,q_auto:best/v1/wayfinder-ghost-blog/athena_halloween_2Ke3L6Wg)
+![Leonardo AI | Athena Character Reference](https://res.cloudinary.com/ddicetqs5/image/upload/c_fill,f_auto,fl_force_strip,q_auto:best/v1763933263/wayfinder-images/ws7h43oxgeayznphgy92)
 
 Here's where many people go wrong. They list all the features of their lead magnet like they're reading off a grocery list. "10 chapters, 50 pages, 3 bonus worksheets..." Yawn.
 
@@ -170,7 +170,7 @@ The key is to stay consistent and keep providing value. It's like feeding a pet 
 
 ## Develop Your Digital Product Offer
 
-![Leonardo AI | Athena Character Reference](https://res-1.cloudinary.com/ddicetqs5/image/upload/f_auto,fl_force_strip,q_auto:best/v1/wayfinder-ghost-blog/athena_halloween_2NzjuBp1)
+![Leonardo AI | Athena Character Reference](https://res.cloudinary.com/ddicetqs5/image/upload/c_fill,f_auto,fl_force_strip,q_auto:best/v1763933265/wayfinder-images/zzmrgzy6nlewtf1ww4zg)
 
 Now we're getting to the good stuff – your digital product. This is what all the fuss has been about. It's time to make it shine brighter than a diamond in a goat's... well, you get the idea.
 
@@ -244,7 +244,7 @@ Remember, the goal is to add value, not to be pushy. It's like offering someone 
 
 ## Analyze and Optimize Your Funnel
 
-![Leonardo AI | Athena Character Reference](https://res-5.cloudinary.com/ddicetqs5/image/upload/f_auto,fl_force_strip,q_auto:best/v1/wayfinder-ghost-blog/athena_halloween_2oxikdhc)
+![Leonardo AI | Athena Character Reference](https://res.cloudinary.com/ddicetqs5/image/upload/c_fill,f_auto,fl_force_strip,q_auto:best/v1763933267/wayfinder-images/rvcxni8bzyaanjqrxjtn)
 
 You've built your funnel, set it loose in the wild, and now... well, now the real work begins. It's time to put on your detective hat, analyze your funnel's performance, and optimize it like your business depends on it (because, well, it kind of does).
 
