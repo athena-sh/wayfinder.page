@@ -90,7 +90,7 @@ Don't leave them hanging! Tell them exactly what you want them to do next.
 
 ### 7. Follow Up (Without Being a Stalker)
 
-![Leonardo AI | Athena Character Reference](https://res-3.cloudinary.com/ddicetqs5/image/upload/f_auto,fl_force_strip,q_auto:best/v1/wayfinder-ghost-blog/JE1fL1k-U_8pS84ptg22BcqErdt0gMh19cVV5g2dKT8)
+![Leonardo AI | Athena Character Reference](https://res.cloudinary.com/ddicetqs5/image/upload/c_fill,f_auto,fl_force_strip,q_auto:best/v1763925865/wayfinder-images/goi16ciretqoc1c0hvlg)
 
 So, you've sent your pitch, and now... crickets. Don't panic! It's time for the delicate art of the follow-up.
 

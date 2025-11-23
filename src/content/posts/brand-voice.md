@@ -26,7 +26,7 @@ Speaking of making people feel something, if you want more insights on content c
 
 ## The "Aha!" Moment (Or When I Realized I Sounded Like Everyone Else)
 
-![Leonardo AI | Athena Character Reference](https://res-1.cloudinary.com/ddicetqs5/image/upload/f_auto,fl_force_strip,q_auto:best/v1/wayfinder-ghost-blog/Illustrative_Albedo_A_captivating_techsavvy_woman_Athena_exudi_4--79-)
+![Leonardo AI | Athena Character Reference](https://res.cloudinary.com/ddicetqs5/image/upload/c_fill,f_auto,fl_force_strip,q_auto:best/v1763925619/wayfinder-images/fsefbydjurgt5wimmqbf)
 
 Picture this: I'm sitting at my desk, surrounded by empty coffee cups, trying to write yet another blog post. I type out a sentence, and suddenly, I pause. "Wait a minute," I think to myself, "this sounds exactly like that article I read yesterday... and the day before... and the day before that."
 
@@ -72,7 +72,7 @@ The key is to stay true to your core values while allowing yourself room to grow
 
 ## The Million Dollar Question: How Do You Know If It's Working?
 
-![Leonardo AI | Athena Character Reference](https://res-5.cloudinary.com/ddicetqs5/image/upload/f_auto,fl_force_strip,q_auto:best/v1/wayfinder-ghost-blog/Illustrative_Albedo_A_captivating_techsavvy_woman_Athena_exudi_3--78-)
+![Leonardo AI | Athena Character Reference](https://res.cloudinary.com/ddicetqs5/image/upload/c_fill,f_auto,fl_force_strip,q_auto:best/v1763925621/wayfinder-images/yl4tp9dfwtjj4qyhzx46)
 
 Wouldn't it be great if there was a "Voice-o-Meter" that could tell you if you've nailed it? Unfortunately, we're not quite there yet (calling all tech entrepreneurs – there's your next big idea).
 

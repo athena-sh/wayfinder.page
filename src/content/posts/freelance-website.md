@@ -35,7 +35,7 @@ _[1] BrightLocal. (2023). Local Consumer Review Survey._ *https://www.brightloca
 
 ## Essential Elements of a Successful Freelance Website
 
-![Leonardo AI | Athena Character Reference](https://res-2.cloudinary.com/ddicetqs5/image/upload/f_auto,fl_force_strip,q_auto:best/v1/wayfinder-ghost-blog/athena-freelance-site-article-inline-image)
+![Leonardo AI | Athena Character Reference](https://res.cloudinary.com/ddicetqs5/image/upload/c_fill,f_auto,fl_force_strip,q_auto:best/v1763925883/wayfinder-images/vjbqcbzcbzeelghp8hik)
 
 Let's talk about what makes a freelance website truly shine. First off, you need to nail your messaging. Keep it clear and concise – your visitors should know exactly what you offer within seconds of landing on your page. No beating around the bush!
 
@@ -55,7 +55,7 @@ For those who want complete control, a custom-built website is like designing yo
 
 But wait, there's a new player in town that's turning heads: Ghost. Think of Ghost as the Tesla of content management systems – sleek, modern, and perfect for growing a newsletter (it's built right in!). You can self-host for free if you're tech-savvy, or opt for Ghost Pro if you want a hassle-free SaaS experience. And here's a pro tip: if you want to get with a guru, A Ghost Guru (https://aghost.guru)
 
-![](https://res-4.cloudinary.com/ddicetqs5/image/upload/f_auto,fl_force_strip,q_auto:best/v1/aghost-guru-blog/zero-white-favicon)
+![Image](https://res.cloudinary.com/ddicetqs5/image/upload/c_fill,f_auto,fl_force_strip,q_auto:best/v1763925885/wayfinder-images/b2ra58rhc3dmlakxmhni)
 
 offers Web Design Agency services including Ghost CMS enhancement, integration assistance, SEO strategies, and white-glove deployments. Subscribe to their newsletter for FREE Ghost and general website tips!
 
@@ -93,7 +93,7 @@ If you're targeting local clients, don't neglect local SEO. It's like making sur
 
 ## Integrating Essential Tools and Features
 
-![Leonardo AI | Athena Character Reference](https://res-3.cloudinary.com/ddicetqs5/image/upload/f_auto,fl_force_strip,q_auto:best/v1/wayfinder-ghost-blog/AlbedoBase_XL_A_captivating_techsavvy_woman_Athena_exuding_con_0)
+![Leonardo AI | Athena Character Reference](https://res.cloudinary.com/ddicetqs5/image/upload/c_fill,f_auto,fl_force_strip,q_auto:best/v1763925886/wayfinder-images/u9qma2dz3hapcuz506mm)
 
 Now, let's add some bells and whistles to your site. A good contact form is like having a 24/7 receptionist – always ready to take inquiries.
 

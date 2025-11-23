@@ -74,7 +74,7 @@ Remember, the goal isn't to compete with every freelancer out there. It's about 
 
 ## Improving Work Efficiency and Quality
 
-![Leonardo AI | Athena Character Reference | Happy Halloween!](https://res-4.cloudinary.com/ddicetqs5/image/upload/f_auto,fl_force_strip,q_auto:best/v1/wayfinder-ghost-blog/athena_halloween_eCpuoQ0Q)
+![Leonardo AI | Athena Character Reference | Happy Halloween!](https://res.cloudinary.com/ddicetqs5/image/upload/c_fill,f_auto,fl_force_strip,q_auto:best/v1763925853/wayfinder-images/cq9tqljm4d85kqd6a6ak)
 
 Let's be real: As a freelancer, time is quite literally money. The faster you can complete quality work, the more projects you can take on, and the more you can charge. But here's the kicker – you can't sacrifice quality for speed. Clients aren't exactly thrilled with sloppy work delivered at the speed of light.
 
@@ -118,7 +118,7 @@ So the next time that imposter syndrome creeps in, remind yourself of how far yo
 
 ## Fostering Innovation and Creativity
 
-![Leonardo AI | Athena Character Reference | Happy Halloween!](https://res-1.cloudinary.com/ddicetqs5/image/upload/f_auto,fl_force_strip,q_auto:best/v1/wayfinder-ghost-blog/athena_halloween_ELoCtP7H)
+![Leonardo AI | Athena Character Reference | Happy Halloween!](https://res.cloudinary.com/ddicetqs5/image/upload/c_fill,f_auto,fl_force_strip,q_auto:best/v1763925855/wayfinder-images/es5ldsmkmlfwras2rgvd)
 
 Alright, let's talk about the freelancer's secret sauce: creativity. In a world where AI can write articles and generate images (gulp), your unique human spark is more valuable than ever. But here's the thing – creativity isn't some mystical gift bestowed upon a chosen few. It's a muscle that needs constant exercise.
 
@@ -164,6 +164,6 @@ So go ahead, dream big. Your freelance business doesn't have to be a one-trick p
 
 ## Conclusion
 
-![Leonardo AI | Athena Character Reference | Happy Halloween!](https://res-4.cloudinary.com/ddicetqs5/image/upload/f_auto,fl_force_strip,q_auto:best/v1/wayfinder-ghost-blog/athena_h24D41zj)
+![Leonardo AI | Athena Character Reference | Happy Halloween!](https://res.cloudinary.com/ddicetqs5/image/upload/c_fill,f_auto,fl_force_strip,q_auto:best/v1763925857/wayfinder-images/ux1m8rtsvfboce3htyei)
 
 Continuous learning is not just a buzzword; it's a crucial strategy for long-term freelancing success. By prioritizing ongoing education, you position yourself as a valuable asset in an ever-changing marketplace. Remember, the most successful freelancers are those who never stop growing. Start investing in your learning journey today – your future freelancing self will thank you.

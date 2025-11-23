@@ -58,7 +58,7 @@ Alright, let's roll up our sleeves and get down to business. Here's how you can 
 
 ## The Secret Sauce: Making Your Content Calendar Work for You
 
-![Leonardo AI | Athena Character Reference](https://res-5.cloudinary.com/ddicetqs5/image/upload/f_auto,fl_force_strip,q_auto:best/v1/wayfinder-ghost-blog/Illustrative_Albedo_A_captivating_techsavvy_woman_Athena_exudi_7--10-)
+![Leonardo AI | Athena Character Reference](https://res.cloudinary.com/ddicetqs5/image/upload/c_fill,f_auto,fl_force_strip,q_auto:best/v1763925691/wayfinder-images/m41kx3wknrlpdlda1kci)
 
 Here's the thing about content calendars: they're not just about planning what to post and when. They're about aligning your content with your overall digital strategy. Each piece of content should serve a purpose, whether it's driving traffic, boosting engagement, or showcasing your expertise.
 

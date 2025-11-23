@@ -45,7 +45,7 @@ Constantly checking email fragments your attention. Instead, set specific times 
 
 ## Notification Detox: Breaking Free from the Ping Prison
 
-![Leonardo AI | Athena Character Reference](https://res-3.cloudinary.com/ddicetqs5/image/upload/f_auto,fl_force_strip,q_auto:best/v1/wayfinder-ghost-blog/default_inspiring_bold_confident_flirtatious_sexy_techlady_sta_7_ea6aac48-307a-4643-bf4e-22a20554819d)
+![Leonardo AI | Athena Character Reference](https://res.cloudinary.com/ddicetqs5/image/upload/c_fill,f_auto,fl_force_strip,q_auto:best/v1763925738/wayfinder-images/ysihzv20mxpx0n4zb1yj)
 
 Notifications are the antithesis of digital minimalism for better focus. Each ping hijacks your attention, pulling you out of the present moment. It's time for a notification detox.
 
@@ -79,7 +79,7 @@ Many services offer web versions that are just as functional as their app counte
 
 ## Mindful Media Consumption: Curating Your Digital Diet
 
-![Leonardo AI | Athena Character Reference](https://res-4.cloudinary.com/ddicetqs5/image/upload/f_auto,fl_force_strip,q_auto:best/v1/wayfinder-ghost-blog/default_inspiring_bold_confident_flirtatious_sexy_techlady_sta_7_c49d769d-404b-4003-ac6d-4548da571b7f)
+![Leonardo AI | Athena Character Reference](https://res.cloudinary.com/ddicetqs5/image/upload/c_fill,f_auto,fl_force_strip,q_auto:best/v1763925740/wayfinder-images/i5d8bkp4ihfsqnccjc4l)
 
 Just as we watch what we eat, we need to be mindful of what we consume digitally. Digital minimalism isn't about eliminating online content, but about being intentional with what we let into our digital lives.
 
@@ -117,7 +117,7 @@ Start small, be consistent, and watch as your digital life transforms into a too
 
 ## Conclusion
 
-![Leonardo.Ai | An owl counting.](https://res-5.cloudinary.com/ddicetqs5/image/upload/f_auto,fl_force_strip,q_auto:best/v1/wayfinder-ghost-blog/0_uGgtPirpHbchvnrc)
+![Leonardo.Ai | An owl counting.](https://res.cloudinary.com/ddicetqs5/image/upload/c_fill,f_auto,fl_force_strip,q_auto:best/v1763925742/wayfinder-images/z23qjj4mkupixmnfepxl)
 
 Congratulations! You've just taken the first step towards a more intentional digital life. Remember, digital minimalism isn't about depriving yourself – it's about making room for what truly matters.
 

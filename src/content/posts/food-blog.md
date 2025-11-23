@@ -32,7 +32,7 @@ Alright, let's talk turkey (and we're not just roasting one). While food bloggin
 
 _How to Set Yourself Up for Success from Day One_
 
-![Leonardo AI | Athena Character Reference](https://res.cloudinary.com/ddicetqs5/image/upload/f_auto/v1731692189/wayfinder-ghost-blog/artID-186-i-3-863088)
+![Leonardo AI | Athena Character Reference](https://res.cloudinary.com/ddicetqs5/image/upload/c_fill,f_auto,fl_force_strip,q_auto:best/v1763925833/wayfinder-images/vmbh8vlirm1smlph24yh)
 
 ### Identifying Your Niche in the Food Blog Universe
 
@@ -71,7 +71,7 @@ Now that you've got your niche, a solid grasp on skills, and the right tools, yo
 
 _Ready to Get the Ball Rolling? Let's Dive In._
 
-![Leonardo AI | Athena Character Reference](https://res.cloudinary.com/ddicetqs5/image/upload/f_auto/v1731692191/wayfinder-ghost-blog/artID-186-i-4-451226)
+![Leonardo AI | Athena Character Reference](https://res.cloudinary.com/ddicetqs5/image/upload/c_fill,f_auto,fl_force_strip,q_auto:best/v1763925835/wayfinder-images/k0wi8p7rzjdtaexumdiq)
 
 ### Choosing a blogging platform and domain name
 
@@ -140,7 +140,7 @@ Nailing these steps will give you a killer food blog with the potential for futu
 
 _Avoiding the speed bumps on your blogging journey_
 
-![Leonardo AI | Athena Character Reference](https://res.cloudinary.com/ddicetqs5/image/upload/f_auto/v1731692225/wayfinder-ghost-blog/artID-186-i-1-424794)
+![Leonardo AI | Athena Character Reference](https://res.cloudinary.com/ddicetqs5/image/upload/c_fill,f_auto,fl_force_strip,q_auto:best/v1763925837/wayfinder-images/bqowqmy7tw9ljzudd4db)
 
 ### Common mistakes to avoid in food blogging
 
@@ -170,7 +170,7 @@ Alright, let's get nerdy for a second. SEO (Search Engine Optimization) is how G
 
 _Because yes, you can totally do this!_
 
-![Leonardo AI | Athena Character Reference](https://res-1.cloudinary.com/ddicetqs5/image/upload/f_auto,fl_force_strip,q_auto:best/v1/wayfinder-ghost-blog/artID-186-i-2-458840)
+![Leonardo AI | Athena Character Reference](https://res.cloudinary.com/ddicetqs5/image/upload/c_fill,f_auto,fl_force_strip,q_auto:best/v1763925838/wayfinder-images/ikgc1nqe8iy9rxrplt1w)
 
 ### Recap of key points
 

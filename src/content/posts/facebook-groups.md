@@ -41,7 +41,7 @@ And let's not forget about word-of-mouth marketing. In a Facebook Group, your mo
 
 ## Setting Up Your Facebook Group for Success
 
-![Leonardo AI | Athena Character Reference](https://res-5.cloudinary.com/ddicetqs5/image/upload/f_auto,fl_force_strip,q_auto:best/v1/wayfinder-ghost-blog/setting-up-facebook-group-success)
+![Leonardo AI | Athena Character Reference](https://res.cloudinary.com/ddicetqs5/image/upload/c_fill,f_auto,fl_force_strip,q_auto:best/v1763925783/wayfinder-images/gpg6bf3qzqvanpzrterf)
 
 Alright, you're sold on the idea of a Facebook Group. Now what? Well, my friend, it's time to roll up your sleeves and get to work. Setting up your group is like preparing for a first date – you want to make a good impression, but you also don't want to try too hard. Let's walk through this together.
 
@@ -97,7 +97,7 @@ And let's not forget about exclusivity. Everyone loves feeling special, right? O
 
 ## Fostering a Sense of Community Within Your Group
 
-![Leonardo AI | Athena Character Reference](https://res-3.cloudinary.com/ddicetqs5/image/upload/f_auto,fl_force_strip,q_auto:best/v1/wayfinder-ghost-blog/fostering-sense-community-group)
+![Leonardo AI | Athena Character Reference](https://res.cloudinary.com/ddicetqs5/image/upload/c_fill,f_auto,fl_force_strip,q_auto:best/v1763925784/wayfinder-images/r7fqgx8d8rclykw8y3ft)
 
 Building a community is like nurturing a garden. It takes time, patience, and occasionally getting your hands dirty. But when it blooms, oh boy, is it worth it. So, how do we turn your Facebook Group from a digital ghost town into a thriving community? Let's dig in.
 
@@ -133,7 +133,7 @@ And finally, _always_ to take care of yourself. Moderating can be stressful. It'
 
 ## Analyzing Group Performance and Growth
 
-![Leonardo AI | Athena Character Reference](https://res-2.cloudinary.com/ddicetqs5/image/upload/f_auto,fl_force_strip,q_auto:best/v1/wayfinder-ghost-blog/analyzing-group-performance-growth)
+![Leonardo AI | Athena Character Reference](https://res.cloudinary.com/ddicetqs5/image/upload/c_fill,f_auto,fl_force_strip,q_auto:best/v1763925786/wayfinder-images/wegwvg46e2rnbzmcchpa)
 
 Numbers, metrics, analytics – oh my! Don't worry, you don't need to be a math whiz to make sense of your group's performance. Think of it like keeping score in a game where the rules keep changing. Fun, right?
 
@@ -185,7 +185,7 @@ Retain this — Facebook Group is part of a bigger picture. It's one piece of th
 
 ## Conclusion
 
-![Leonardo AI | Athena Character Reference](https://res-2.cloudinary.com/ddicetqs5/image/upload/f_auto,fl_force_strip,q_auto:best/v1/wayfinder-ghost-blog/build-thriving-facebook-groups-brand-community-2024-conclusion)
+![Leonardo AI | Athena Character Reference](https://res.cloudinary.com/ddicetqs5/image/upload/c_fill,f_auto,fl_force_strip,q_auto:best/v1763925788/wayfinder-images/m0fj69o0nlbzae8elfgp)
 
 Building a thriving Facebook Groups brand community takes time, effort, and dedication. But the rewards are well worth it. Trying following the steps so you can be on your way to creating a passionate and engaged community around your brand.
 

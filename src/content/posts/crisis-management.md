@@ -114,7 +114,7 @@ Remember, in the absence of information, people will fill the void with speculat
 
 ## Manage Online Reputation
 
-![Leonardo AI | Athena Character Reference | "Manage Online Reputation" Supporting Image](https://res-5.cloudinary.com/ddicetqs5/image/upload/f_auto,fl_force_strip,q_auto:best/v1/wayfinder-ghost-blog/athena_ZZh6Fapv)
+![Leonardo AI | Athena Character Reference | "Manage Online Reputation" Supporting Image](https://res.cloudinary.com/ddicetqs5/image/upload/c_fill,f_auto,fl_force_strip,q_auto:best/v1763925727/wayfinder-images/h6fdm66juwett0q7a4cu)
 
 In the digital age, your online reputation can make or break your business. Let's explore how to protect and repair it during a crisis.
 
@@ -173,7 +173,7 @@ Sprout Social reports that 77% of consumers expect brands to respond to social m
 
 ## Learn and Improve from the Crisis
 
-![Leonardo AI | Athena Character Reference | Happy Halloween!](https://res-5.cloudinary.com/ddicetqs5/image/upload/f_auto,fl_force_strip,q_auto:best/v1/wayfinder-ghost-blog/athena_halloween_iZY0LK9I)
+![Leonardo AI | Athena Character Reference | Happy Halloween!](https://res.cloudinary.com/ddicetqs5/image/upload/c_fill,f_auto,fl_force_strip,q_auto:best/v1763925729/wayfinder-images/qjaldqm8wgser3d7smcs)
 
 Every crisis, no matter how painful, is an opportunity to learn and grow. Here's how to make the most of it.
 
@@ -223,7 +223,7 @@ Edelman's Trust Barometer shows that trust is a key factor in consumer decisions
 
 ## Conclusion
 
-![Leonardo AI | Athena Character Reference | "Conclusion" Supporting Image](https://res.cloudinary.com/ddicetqs5/image/upload/v1728965603/wayfinder-ghost-blog/inline-177.jpg)
+![Leonardo AI | Athena Character Reference | "Conclusion" Supporting Image](https://res.cloudinary.com/ddicetqs5/image/upload/c_fill,f_auto,fl_force_strip,q_auto:best/v1763925731/wayfinder-images/wq81ijpawxzizly7ovhn)
 
 Navigating an online business crisis is never easy, but with the right approach, it's entirely manageable. By following these seven essential steps, you're not just surviving a crisis — you're setting the stage for future success.
 

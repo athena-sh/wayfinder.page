@@ -96,7 +96,7 @@ Remember, the more relevant information you can provide in your ad, the more lik
 
 ## Refine Your Targeting
 
-![Leonardo AI | Athena Character Reference](https://res-1.cloudinary.com/ddicetqs5/image/upload/f_auto,fl_force_strip,q_auto:best/v1/wayfinder-ghost-blog/66ef8d3abc941a0001f28a9b)
+![Leonardo AI | Athena Character Reference](https://res.cloudinary.com/ddicetqs5/image/upload/c_fill,f_auto,fl_force_strip,q_auto:best/v1763925913/wayfinder-images/o9mmkla7ptilqkbbizsr)
 
 Targeting in Google Ads is like using a sniper rifle instead of a shotgun. Sure, you might hit something with a shotgun, but you'll waste a lot of ammo in the process.
 

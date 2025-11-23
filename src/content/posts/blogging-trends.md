@@ -28,7 +28,7 @@ Want to stay ahead of the curve? [Smash that subscribe button at the top](https:
 
 ## The Rise of AI-Generated Content
 
-![Leonardo AI | Prompt:"A young techie lady with a vibrant personality, sporting trendy glasses and light blue (hex color #5F92C3) highlights in her hair, holds a mini hologram of an owl. She stands confidently against a backdrop of mountains and rivers."](https://res-3.cloudinary.com/ddicetqs5/image/upload/f_auto,fl_force_strip,q_auto:best/v1/wayfinder-ghost-blog/Young-techie-lady--18-)
+![Leonardo AI | Prompt:"A young techie lady with a vibrant personality, sporting trendy glasses and light blue (hex color #5F92C3) highlights in her hair, holds a mini hologram of an owl. She stands confidently against a backdrop of mountains and rivers."](https://res.cloudinary.com/ddicetqs5/image/upload/c_fill,f_auto,fl_force_strip,q_auto:best/v1763925611/wayfinder-images/t94jmovcgdoer25ahoqd)
 
 Have you ever wondered if a robot could write your next blog post? Well, it's not science fiction anymore!
 
@@ -70,7 +70,7 @@ What do you think? Are you ready to give AI a try in your content creation proce
 
 ## Video and Multimedia Integration
 
-![Leonardo AI | Prompt:"A young techie lady with a vibrant personality, sporting trendy glasses, light blue (hex color #5F92C3) highlights in her hair, holding a video recorder, and accompanied by a small single playful cartoon owl familiar, stands confidently against a backdrop of mountains and rivers."](https://res-5.cloudinary.com/ddicetqs5/image/upload/f_auto,fl_force_strip,q_auto:best/v1/wayfinder-ghost-blog/Young-techie-lady--16-)
+![Leonardo AI | Prompt:"A young techie lady with a vibrant personality, sporting trendy glasses, light blue (hex color #5F92C3) highlights in her hair, holding a video recorder, and accompanied by a small single playful cartoon owl familiar, stands confidently against a backdrop of mountains and rivers."](https://res.cloudinary.com/ddicetqs5/image/upload/c_fill,f_auto,fl_force_strip,q_auto:best/v1763925613/wayfinder-images/ldvpkqiiuhihhohustc4)
 
 Have you noticed how videos are taking over your social media feeds? It's not just you! The world of blogging is changing, and video is leading the charge.
 
@@ -114,7 +114,7 @@ How can you use multimedia to make your blog more engaging? Try adding a poll or
 
 ## Niche Specialization and Micro-Communities
 
-![Leonardo AI | Prompt:"A young techie lady with a vibrant personality, sporting trendy glasses and light blue (hex color #5F92C3) highlights in her hair, holds a mini hologram of an owl. She stands confidently against a backdrop of mountains and rivers."](https://res-2.cloudinary.com/ddicetqs5/image/upload/f_auto,fl_force_strip,q_auto:best/v1/wayfinder-ghost-blog/Young-Techie-Lady--17-)
+![Leonardo AI | Prompt:"A young techie lady with a vibrant personality, sporting trendy glasses and light blue (hex color #5F92C3) highlights in her hair, holds a mini hologram of an owl. She stands confidently against a backdrop of mountains and rivers."](https://res.cloudinary.com/ddicetqs5/image/upload/c_fill,f_auto,fl_force_strip,q_auto:best/v1763925615/wayfinder-images/avivzgv0bdmopynfalut)
 
 Ever wondered how some bloggers seem to have a super-engaged audience? It's all about niche specialization and micro-communities. Let's dive in!
 
@@ -152,7 +152,7 @@ Did you know that some micro-influencers charge around $100 for thousands of wor
 
 ## Conclusion
 
-![Leonardo AI | Prompt:"A young techie lady with a vibrant personality, sporting trendy glasses, light blue (hex color #5F92C3) highlights in her hair, actively pondering/thinking, and accompanied by a small single playful cartoon owl familiar, stands confidently against a backdrop of mountains and rivers."](https://res-3.cloudinary.com/ddicetqs5/image/upload/f_auto,fl_force_strip,q_auto:best/v1/wayfinder-ghost-blog/Vibrant-Techie-Lady--1-)
+![Leonardo AI | Prompt:"A young techie lady with a vibrant personality, sporting trendy glasses, light blue (hex color #5F92C3) highlights in her hair, actively pondering/thinking, and accompanied by a small single playful cartoon owl familiar, stands confidently against a backdrop of mountains and rivers."](https://res.cloudinary.com/ddicetqs5/image/upload/c_fill,f_auto,fl_force_strip,q_auto:best/v1763925617/wayfinder-images/diuhbphpq3ovphkv21tl)
 
 The blogging world is changing fast, and it's exciting to see what's next. AI, video, and niche communities shape how we create and share content online.
 

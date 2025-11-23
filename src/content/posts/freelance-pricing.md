@@ -27,7 +27,7 @@ Once you have that number, divide it by the number of billable hours you plan to
 
 ## 2. Research Your Market (Without Stalking Your Competitors)
 
-![Leonardo AI | Athena Character Reference](https://res-1.cloudinary.com/ddicetqs5/image/upload/f_auto,fl_force_strip,q_auto:best/v1/wayfinder-ghost-blog/AlbedoBase_XL_A_captivating_techsavvy_woman_Athena_exuding_con_6--3-)
+![Leonardo AI | Athena Character Reference](https://res.cloudinary.com/ddicetqs5/image/upload/c_fill,f_auto,fl_force_strip,q_auto:best/v1763925875/wayfinder-images/rx11afarhvnc33snvoeu)
 
 Now that you have a baseline, it's time to see what others in your field are charging. This doesn't mean you should price-match like it's Black Friday at Walmart. Instead, use this information to gauge where you fit in the market. Are you a newbie still learning the ropes, or a seasoned pro with a portfolio that makes clients swoon?
 
@@ -88,7 +88,7 @@ The key is to offer these additions as options, not obligations. It's about enha
 
 ## 6. The Confidence Factor (Fake It 'Til You Make It)
 
-![Leonardo AI | Athena Character Reference](https://res-4.cloudinary.com/ddicetqs5/image/upload/f_auto,fl_force_strip,q_auto:best/v1/wayfinder-ghost-blog/AlbedoBase_XL_A_captivating_techsavvy_woman_Athena_exuding_con_2--3-)
+![Leonardo AI | Athena Character Reference](https://res.cloudinary.com/ddicetqs5/image/upload/c_fill,f_auto,fl_force_strip,q_auto:best/v1763925877/wayfinder-images/oqcdk3tw7ihc8mrgsr8u)
 
 Here's a secret that took me way too long to learn: Your confidence level directly impacts your pricing. If you're hesitant or apologetic about your rates, clients will sense that and may try to negotiate you down.
 
@@ -110,7 +110,7 @@ Instead of saying yes to every opportunity, be selective. Look for clients who v
 
 ## 8. The Art of the Raise (Because Inflation is Real, People)
 
-![Leonardo AI | Athena Character Reference](https://res-3.cloudinary.com/ddicetqs5/image/upload/f_auto,fl_force_strip,q_auto:best/v1/wayfinder-ghost-blog/athena-yellow-owl-shrt)
+![Leonardo AI | Athena Character Reference](https://res.cloudinary.com/ddicetqs5/image/upload/c_fill,f_auto,fl_force_strip,q_auto:best/v1763925878/wayfinder-images/m3b6n0xcolnjo53fgf1v)
 
 Once you've set your initial rates, don't forget to revisit them regularly. As you gain experience and skills, your rates should increase. But how do you do this without losing all your clients?
 
@@ -143,7 +143,7 @@ My advice? Offer both options and let the client choose. Just make sure your pro
 
 ## 10. The Secret Weapon: Diversify Your Income Streams
 
-![Leonardo AI | Athena Character Reference](https://res-2.cloudinary.com/ddicetqs5/image/upload/f_auto,fl_force_strip,q_auto:best/v1/wayfinder-ghost-blog/AlbedoBase_XL_A_captivating_techsavvy_woman_Athena_exuding_con_6--1-)
+![Leonardo AI | Athena Character Reference](https://res.cloudinary.com/ddicetqs5/image/upload/c_fill,f_auto,fl_force_strip,q_auto:best/v1763925880/wayfinder-images/e3uoudhwjapqlsxywrka)
 
 Okay, this isn't strictly a pricing strategy, but it's a game-changer when it comes to setting and maintaining your rates. When you have multiple income streams, you're not dependent on any single client or project. This gives you the freedom to stick to your guns when it comes to pricing.
 

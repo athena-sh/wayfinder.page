@@ -3,15 +3,15 @@ title: "How Sticking Around for 30 Seconds on Medium Pays Off for Writers"
 description: "Ever wonder why chilling on a Medium article for a bit before hitting like or comment matters? Here's how Medium's smart algorithm ensures writers get their dues for keeping us hooked."
 published: 2024-07-18
 draft: false
+hero: https://res.cloudinary.com/ddicetqs5/image/upload/c_fill,f_auto,fl_force_strip,q_auto:best/v1763928466/wayfinder-images/afmgu7nk3r25nineecnb
+image: clock.svg
 tags:
   - Medium
   - Content
   - Writing
   - Business Strategy
 category: "Guides"
-lang: ""
 ---
-
 
 _Series: Wayfinder's Medium Monetization Tips_
 
@@ -19,16 +19,13 @@ _Series: Wayfinder's Medium Monetization Tips_
 
 I've previously written the well-received articles below, which I feel are in a series. This post continues to raise awareness of the various "gotchas" on the Medium platform.
 
-
 Why am I sharing this? I like to get paid (and won't _if readers leave before_ **30 seconds**), and I enjoy helping others, specifically with
 
 - Eureka moments,
 - Solutions to challenges that stump me,
 - Or simply when something isn't well documented or widely known.
 
-![From The Dark Knight](https://res-3.cloudinary.com/ddicetqs5/image/upload/f_auto,fl_force_strip,q_auto:best/v1/wayfinder-ghost-blog/1_sMo77UVyq09RCBPGriddXw)
-
-![](https://static.ghost.org/v5.0.0/images/link-icon.svg)
+![From The Dark Knight](https://res.cloudinary.com/ddicetqs5/image/upload/c_fill,f_auto,fl_force_strip,q_auto:best/v1763929053/wayfinder-images/uhneqmwhfsaliyexbwrr)
 
 ### **Why 30 Seconds Make a World of Difference**
 
@@ -44,9 +41,9 @@ It's important **not to clap** or **comment** \*until **after** those precious *
 
 So, how do you craft an article that makes readers forget about their ever-growing browser tabs? It's all about the hook, the story, and a dash of personality. Imagine starting with a confession, a bold claim, or a question that's been keeping you up at night. _Keep it real_, sprinkle in some relatable tales, and maybe, just maybe, readers won't want to leave.
 
-![Chappelle's Show](https://res-1.cloudinary.com/ddicetqs5/image/upload/f_auto,fl_force_strip,q_auto:best/v1/wayfinder-ghost-blog/1_N8fOR01C8U5g9cWET7VUtg)
+![Chappelle's Show](https://res.cloudinary.com/ddicetqs5/image/upload/c_fill,f_auto,fl_force_strip,q_auto:best/v1763929055/wayfinder-images/xrl0hgppo35w7cqnt6dm)
 
-![Chappelle's Show](https://res-4.cloudinary.com/ddicetqs5/image/upload/f_auto,fl_force_strip,q_auto:best/v1/wayfinder-ghost-blog/1_31q67P39g6jC6XdhwifVGw)
+![Chappelle's Show](https://res.cloudinary.com/ddicetqs5/image/upload/c_fill,f_auto,fl_force_strip,q_auto:best/v1763929056/wayfinder-images/xu698bia9fnlsnrgjz2m)
 
 ### **The Win-Win of Engaging Reads**
 
@@ -56,12 +53,5 @@ Here's the scoop: Medium's model is a two-way street. Writers get to pen their p
 
 Medium's 30-second rule isn't just about numbers; it's a shoutout to the art of meaningful storytelling. It's a nudge for writers to pour heart and soul into their work. And for us, the readers? It's a reminder to slow down and savor the stories that resonate with us, one 30-second chunk at a time.
 
-In this fast-paced digital age, Medium's stance on engagement over quick clicks is refreshing. Let's embrace it   —  by giving stories the attention they deserve and celebrating the writers who make our scrolling worthwhile.
+In this fast-paced digital age, Medium's stance on engagement over quick clicks is refreshing. Let's embrace it —  by giving stories the attention they deserve and celebrating the writers who make our scrolling worthwhile.
 
----
-
-![](https://static.ghost.org/v5.0.0/images/link-icon.svg)
-
-> Don't forget to clap up to 50! Click this ^^ banner link to learn why!
-
-> Subscribe to our newsletter to get the inside track on all things self-improvement.

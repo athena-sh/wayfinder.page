@@ -24,7 +24,7 @@ But here's the million-dollar question (or in our case, the much, much less than
 
 ## The Essential Equipment: Your Fitness Swiss Army Knife
 
-![Leonardo AI | Athena Character Reference](https://res-2.cloudinary.com/ddicetqs5/image/upload/f_auto,fl_force_strip,q_auto:best/v1/wayfinder-ghost-blog/home-gym-heroes-fitness-fortress-budget-inline-1)
+![Leonardo AI | Athena Character Reference](https://res.cloudinary.com/ddicetqs5/image/upload/c_fill,f_auto,fl_force_strip,q_auto:best/v1763928123/wayfinder-images/ledwze0nakmrtnv5zqwm)
 
 Let's break down the must-haves that'll give you the biggest bang for your buck. These are the items that'll make you feel like a fitness MacGyver, ready to tackle any workout with just a few key tools.
 
@@ -50,7 +50,7 @@ As you can see from our highly scientific "Price Per Sweat" chart, resistance ba
 
 ## The Workout Space: Turning Your Living Room into a Sweat Palace
 
-![Leonardo AI | Athena Character Reference](https://res-5.cloudinary.com/ddicetqs5/image/upload/f_auto,fl_force_strip,q_auto:best/v1/wayfinder-ghost-blog/home-gym-heroes-fitness-fortress-budget-inline-2)
+![Leonardo AI | Athena Character Reference](https://res.cloudinary.com/ddicetqs5/image/upload/c_fill,f_auto,fl_force_strip,q_auto:best/v1763928125/wayfinder-images/orn1mp3n4xf1hzi2m0yx)
 
 Now that we've got our equipment sorted, let's talk about where you're going to unleash your inner fitness beast. And no, the path between your couch and fridge doesn't count as a running track.
 
@@ -84,7 +84,7 @@ And who are we to argue with Britney?
 
 ## The Motivation Station: Keeping Your Fire Lit
 
-![Leonardo AI | Athena Character Reference](https://res-1.cloudinary.com/ddicetqs5/image/upload/f_auto,fl_force_strip,q_auto:best/v1/wayfinder-ghost-blog/home-gym-heroes-fitness-fortress-budget-inline-3)
+![Leonardo AI | Athena Character Reference](https://res.cloudinary.com/ddicetqs5/image/upload/c_fill,f_auto,fl_force_strip,q_auto:best/v1763928126/wayfinder-images/lxkbj8momq8lzofuisja)
 
 Let's face it, motivation is like that one friend who's always late to the party. Sometimes it shows up, sometimes it doesn't, and sometimes it cancels at the last minute with a lame excuse.
 
@@ -118,7 +118,7 @@ You see, knowledge is power. And in this case, knowledge is the power to not be 
 
 ## The Unexpected Benefits: More Than Just Muscles
 
-![Leonardo AI | Athena Character Reference](https://res-5.cloudinary.com/ddicetqs5/image/upload/f_auto,fl_force_strip,q_auto:best/v1/wayfinder-ghost-blog/home-gym-heroes-fitness-fortress-budget-inline-4)
+![Leonardo AI | Athena Character Reference](https://res.cloudinary.com/ddicetqs5/image/upload/c_fill,f_auto,fl_force_strip,q_auto:best/v1763928129/wayfinder-images/z8efocfwimyg1rwz5glo)
 
 Now, let's talk about the good stuff - the unexpected perks of having a home gym that no one tells you about. It's like ordering a pizza and finding out they threw in free breadsticks. Who doesn't love surprises?
 

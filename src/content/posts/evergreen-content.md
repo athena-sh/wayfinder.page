@@ -21,7 +21,7 @@ But here's the million-dollar question: How do you create content that stands th
 
 ## The Evergreen Epiphany (Or How I Learned to Stop Worrying and Love Timeless Content)
 
-![Leonardo AI | Athena Character Reference](https://res-3.cloudinary.com/ddicetqs5/image/upload/f_auto,fl_force_strip,q_auto:best/v1/wayfinder-ghost-blog/Illustrative_Albedo_A_captivating_techsavvy_woman_Athena_exudi_7--47-)
+![Leonardo AI | Athena Character Reference](https://res.cloudinary.com/ddicetqs5/image/upload/c_fill,f_auto,fl_force_strip,q_auto:best/v1763925772/wayfinder-images/vixmlvcyctu5xxltiqsg)
 
 Picture this: It's 2 AM, I'm knee-deep in my third cup of coffee, frantically trying to churn out yet another "Top 10 Trends for [Insert Year]" article. As I'm typing away, it hits me like a ton of bricks – in a few months, this content will be about as useful as a chocolate teapot.
 
@@ -42,7 +42,7 @@ Remember, the goal is to create content that will be just as relevant and useful
 
 ## Strategy 2: Make it Comprehensive (But Don't Put People to Sleep)
 
-![Leonardo AI | Athena Character Reference](https://res-2.cloudinary.com/ddicetqs5/image/upload/f_auto,fl_force_strip,q_auto:best/v1/wayfinder-ghost-blog/Illustrative_Albedo_A_captivating_techsavvy_woman_Athena_exudi_6--41-)
+![Leonardo AI | Athena Character Reference](https://res.cloudinary.com/ddicetqs5/image/upload/c_fill,f_auto,fl_force_strip,q_auto:best/v1763925773/wayfinder-images/rbmozdz3ffo6krtf9mjd)
 
 When it comes to evergreen content, depth is your friend. But here's the catch – you need to make it comprehensive without boring your readers to tears. It's a delicate balance, kind of like trying to explain the plot of Game of Thrones to someone who's never seen it – you want to cover everything important without getting lost in the details of who's related to whom.
 
@@ -66,7 +66,7 @@ How do you do that? Glad you asked:
 
 ## Strategy 4: Use Timeless Examples (And Ditch the Dated References)
 
-![Leonardo AI | Athena Character Reference](https://res-1.cloudinary.com/ddicetqs5/image/upload/f_auto,fl_force_strip,q_auto:best/v1/wayfinder-ghost-blog/Illustrative_Albedo_A_captivating_techsavvy_woman_Athena_exudi_2--48-)
+![Leonardo AI | Athena Character Reference](https://res.cloudinary.com/ddicetqs5/image/upload/c_fill,f_auto,fl_force_strip,q_auto:best/v1763925775/wayfinder-images/y2lgez9sphghzawbxvz0)
 
 You know what can make your content feel old faster than you can say "Gangnam Style"? Dated pop culture references and examples that lose relevance quicker than a Snapchat story.
 
@@ -91,7 +91,7 @@ Here's how I try to strike that balance:
 
 ## Strategy 6: Make it Visually Appealing (Because We All Judge Books by Their Covers)
 
-![Leonardo AI | Athena Character Reference](https://res-5.cloudinary.com/ddicetqs5/image/upload/f_auto,fl_force_strip,q_auto:best/v1/wayfinder-ghost-blog/Illustrative_Albedo_A_captivating_techsavvy_woman_Athena_exudi_3--47-)
+![Leonardo AI | Athena Character Reference](https://res.cloudinary.com/ddicetqs5/image/upload/c_fill,f_auto,fl_force_strip,q_auto:best/v1763925777/wayfinder-images/psaeb5d3iljaxh0mlzw3)
 
 Let's face it – we're visual creatures. No matter how brilliant your content is, if it looks like a wall of text, people are going to run for the hills. So, let's talk about making your evergreen content as visually appealing as it is informative.
 
@@ -117,7 +117,7 @@ Here's what I've learned about maintaining evergreen content:
 
 ## The Evergreen Mindset: Playing the Long Game
 
-![Leonardo AI | Athena Character Reference](https://res-5.cloudinary.com/ddicetqs5/image/upload/f_auto,fl_force_strip,q_auto:best/v1/wayfinder-ghost-blog/Illustrative_Albedo_A_captivating_techsavvy_woman_Athena_exudi_4--51-)
+![Leonardo AI | Athena Character Reference](https://res.cloudinary.com/ddicetqs5/image/upload/c_fill,f_auto,fl_force_strip,q_auto:best/v1763925779/wayfinder-images/tyhdlltedlwqy8bajxgd)
 
 Creating evergreen content isn't just about the strategies and tactics we've discussed. It's about adopting a mindset that values long-term impact over short-term gains. It's about creating content that genuinely helps people, content that you'd be proud to have associated with your name years down the line.
 
@@ -127,7 +127,7 @@ As the great Warren Buffett once said,
 
 ## Wrapping Up: Your Evergreen Journey Starts Now
 
-![Leonardo AI | Athena Character Reference](https://res-1.cloudinary.com/ddicetqs5/image/upload/f_auto,fl_force_strip,q_auto:best/v1/wayfinder-ghost-blog/Athena_and_owl)
+![Leonardo AI | Athena Character Reference](https://res.cloudinary.com/ddicetqs5/image/upload/c_fill,f_auto,fl_force_strip,q_auto:best/v1763925781/wayfinder-images/gliz4rqfm613zx3akszm)
 
 So there you have it, folks – my not-so-expert guide to creating evergreen content strategies. Remember, I'm not claiming to have all the answers. I'm just sharing what's worked for me in hopes that it might help you too.
 

@@ -337,7 +337,7 @@ Now, let's give a greatest hits tour of your business plan. For each main sectio
 
 ## Conclusion
 
-![Athena](https://res.cloudinary.com/ddicetqs5/image/upload/f_auto/v1728181457/wayfinder-ghost-blog/inline-recW1c7CTfQcTk2OR)
+![Athena](https://res.cloudinary.com/ddicetqs5/image/upload/c_fill,f_auto,fl_force_strip,q_auto:best/v1763925655/wayfinder-images/lndegjdmyyrokxyk55it)
 
 Congratulations! You've now got a roadmap for creating your digital business plan. Remember, this plan is a living document. As your business grows and evolves, so should your plan. Don't be afraid to revisit and revise it regularly. Ready to turn your digital business plan into reality? Start with Step 1 and take it one step at a time. Your online success story begins now!
 

@@ -36,7 +36,7 @@ Finally, pick your social media battles. You don't need to be on every platform 
 
 ## 3. Attend Industry Events and Conferences
 
-![Leonardo AI | Athena Character Reference | Happy Halloween!](https://res-5.cloudinary.com/ddicetqs5/image/upload/f_auto,fl_force_strip,q_auto:best/v1/wayfinder-ghost-blog/athena_halloween_FDkX5zWb)
+![Leonardo AI | Athena Character Reference | Happy Halloween!](https://res.cloudinary.com/ddicetqs5/image/upload/c_fill,f_auto,fl_force_strip,q_auto:best/v1763925858/wayfinder-images/xnxvo4sut1mrgwelghvb)
 
 Alright, introverts, I see you cringing. But hear me out – sometimes you gotta put on pants and venture into the real world.
 
@@ -70,7 +70,7 @@ Lastly, use hashtags strategically. And no, I don't mean #blessed or #motivation
 
 ## 6. Offer Value Through Content Creation
 
-![Leonardo AI | Athena Character Reference | Happy Halloween!](https://res-3.cloudinary.com/ddicetqs5/image/upload/f_auto,fl_force_strip,q_auto:best/v1/wayfinder-ghost-blog/athena_halloween_fdV0bClR)
+![Leonardo AI | Athena Character Reference | Happy Halloween!](https://res.cloudinary.com/ddicetqs5/image/upload/c_fill,f_auto,fl_force_strip,q_auto:best/v1763925860/wayfinder-images/bigmgabzppf44vqxpmkf)
 
 Time to put on your thinking cap and create some killer content. And no, your daily horoscope posts don't count.
 
@@ -102,7 +102,7 @@ Offer updates on your services and availability. A quick "Hey, just wanted to le
 
 ## 9. Utilize Freelancing Platforms and Job Boards
 
-![Leonardo AI | Athena Character Reference | Happy Halloween!](https://res-1.cloudinary.com/ddicetqs5/image/upload/f_auto,fl_force_strip,q_auto:best/v1/wayfinder-ghost-blog/athena_halloween_ffChdivb)
+![Leonardo AI | Athena Character Reference | Happy Halloween!](https://res.cloudinary.com/ddicetqs5/image/upload/c_fill,f_auto,fl_force_strip,q_auto:best/v1763925862/wayfinder-images/woqrkvq2ywinafoafxsf)
 
 Ah, freelancing platforms. The digital equivalent of a talent show, where you're competing against a guy who can juggle flaming chainsaws (metaphorically speaking, of course).
 
@@ -126,6 +126,6 @@ Remember, effective networking isn't about collecting the most business cards or
 
 ## Conclusion
 
-![Leonardo AI | Athena Character Reference | Happy Halloween!](https://res-5.cloudinary.com/ddicetqs5/image/upload/f_auto,fl_force_strip,q_auto:best/v1/wayfinder-ghost-blog/athena_h9U6hV6q)
+![Leonardo AI | Athena Character Reference | Happy Halloween!](https://res.cloudinary.com/ddicetqs5/image/upload/c_fill,f_auto,fl_force_strip,q_auto:best/v1763925864/wayfinder-images/pupnxdjbolcuanvqb16r)
 
 Effective networking is a crucial skill for freelancers looking to build a successful and sustainable business. By implementing these strategies, you can create a strong network that supports your growth and opens up new opportunities. Remember, networking is about building genuine relationships, not just collecting business cards. Focus on offering value to others and nurturing connections over time. With patience and persistence, you'll develop a robust network that can help you weather the ups and downs of freelancing. Start putting these networking strategies into practice today, and watch your freelance career flourish. Your next big opportunity could be just one connection away!

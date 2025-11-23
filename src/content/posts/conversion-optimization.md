@@ -91,7 +91,7 @@ Remember, your headline should make people think, "Hot damn, I need to read this
 
 ### Use Persuasive Product Descriptions (Because "It's Good" Doesn't Cut It)
 
-![Leonardo AI | Athena Character Reference](https://res-3.cloudinary.com/ddicetqs5/image/upload/f_auto,fl_force_strip,q_auto:best/v1/wayfinder-ghost-blog/66ef95a5bc941a0001f28abc_2)
+![Leonardo AI | Athena Character Reference](https://res.cloudinary.com/ddicetqs5/image/upload/c_fill,f_auto,fl_force_strip,q_auto:best/v1763925724/wayfinder-images/nkqqpnzucicw325tvxie)
 
 Next, product descriptions. This is where you make your product sound so irresistible that people throw money at their screens. Here's how:
 

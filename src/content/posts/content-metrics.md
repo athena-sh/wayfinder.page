@@ -34,7 +34,7 @@ Now, I know what you're thinking: "Great, more numbers to obsess over!" But hang
 
 ## The Tools of the Trade: Your Content Success Swiss Army Knife
 
-![Leonardo AI | Athena Character Reference](https://res-3.cloudinary.com/ddicetqs5/image/upload/f_auto,fl_force_strip,q_auto:best/v1/wayfinder-ghost-blog/_7--7-)
+![Leonardo AI | Athena Character Reference](https://res.cloudinary.com/ddicetqs5/image/upload/c_fill,f_auto,fl_force_strip,q_auto:best/v1763925695/wayfinder-images/hpvxopyepkrf72rqrynd)
 
 Alright, now that we know what to measure, let's talk about how to measure it. There are more analytics tools out there than flavors of La Croix, but here are a few that I've found genuinely useful:
 
@@ -46,7 +46,7 @@ Alright, now that we know what to measure, let's talk about how to measure it. T
 
 ## The Human Touch: Beyond the Numbers
 
-![Leonardo AI | Athena Character Reference](https://res-1.cloudinary.com/ddicetqs5/image/upload/f_auto,fl_force_strip,q_auto:best/v1/wayfinder-ghost-blog/_6--7-)
+![Leonardo AI | Athena Character Reference](https://res.cloudinary.com/ddicetqs5/image/upload/c_fill,f_auto,fl_force_strip,q_auto:best/v1763925698/wayfinder-images/tpbji9oiwdlqhkpygngs)
 
 Here's where I'm going to get a bit philosophical on you. While all these metrics and tools are great, they're missing something crucial: the human element.
 
@@ -64,7 +64,7 @@ So, while you're diving into your metrics, don't forget to:
 
 ## Putting It All Together: Your Content Success Game Plan
 
-![Leonardo AI | Athena Character Reference](https://res-3.cloudinary.com/ddicetqs5/image/upload/f_auto,fl_force_strip,q_auto:best/v1/wayfinder-ghost-blog/Illustrative_Albedo_A_captivating_techsavvy_woman_Athena_exudi_0---2024-09-08T215422)
+![Leonardo AI | Athena Character Reference](https://res.cloudinary.com/ddicetqs5/image/upload/c_fill,f_auto,fl_force_strip,q_auto:best/v1763925699/wayfinder-images/bmfuwszciurbffvdcy51)
 
 Alright, so how do we take all this information and turn it into a actionable plan? Here's my step-by-step guide:
 
@@ -81,7 +81,7 @@ Remember, measuring content success is as much an art as it is a science. It's a
 
 So, the next time you're staring at your analytics dashboard, wondering if anyone out there is actually reading your content, remember this:
 
-![](https://res-3.cloudinary.com/ddicetqs5/image/upload/f_auto,fl_force_strip,q_auto:best/v1/wayfinder-ghost-blog/_5--6-)
+![Image](https://res.cloudinary.com/ddicetqs5/image/upload/c_fill,f_auto,fl_force_strip,q_auto:best/v1763925701/wayfinder-images/pcsunmhwnlwwywbfi5fk)
 
 > Behind every number is a real person who chose to spend their time with your words. And that, my friends, is pretty amazing. — Athena
 

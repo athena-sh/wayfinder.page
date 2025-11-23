@@ -25,7 +25,7 @@ So, how do you go from zero to booked? Let's dive in.
 
 ## 1. Polish Your Portfolio (Even If It's All Personal Projects)
 
-![Leonardo AI | Athena Character Reference](https://res-2.cloudinary.com/ddicetqs5/image/upload/f_auto,fl_force_strip,q_auto:best/v1/wayfinder-ghost-blog/AlbedoBase_XL_A_captivating_techsavvy_woman_Athena_exuding_con_4--2-)
+![Leonardo AI | Athena Character Reference](https://res.cloudinary.com/ddicetqs5/image/upload/c_fill,f_auto,fl_force_strip,q_auto:best/v1763925790/wayfinder-images/oroarz7p6die3n4oyfhk)
 
 First things first, you need a portfolio. "But I don't have any clients yet!" I hear you cry. No problem! Your portfolio doesn't need to be filled with Fortune 500 companies (yet). Here's what you can do:
 
@@ -51,7 +51,7 @@ Don't just talk about yourself. Ask questions, offer help, and genuinely engage 
 
 ## 3. Leverage Your Existing Connections
 
-![Leonardo AI | Athena Character Reference](https://res-1.cloudinary.com/ddicetqs5/image/upload/f_auto,fl_force_strip,q_auto:best/v1/wayfinder-ghost-blog/AlbedoBase_XL_A_captivating_techsavvy_woman_Athena_exuding_con_4)
+![Leonardo AI | Athena Character Reference](https://res.cloudinary.com/ddicetqs5/image/upload/c_fill,f_auto,fl_force_strip,q_auto:best/v1763925792/wayfinder-images/s0gj8htjhowhznsutrvd)
 
 You might be surprised by who's already in your network. That cousin who runs a small business? Your neighbor's startup? Your old college roommate's band? They all might need design work.
 
@@ -71,7 +71,7 @@ Keep in mind, it's a numbers game. For every 20 pitches, you might get one respo
 
 ## 5. Embrace Freelance Platforms (But Don't Rely on Them)
 
-![Leonardo AI | Athena Character Reference](https://res-5.cloudinary.com/ddicetqs5/image/upload/f_auto,fl_force_strip,q_auto:best/v1/wayfinder-ghost-blog/AlbedoBase_XL_A_captivating_techsavvy_woman_Athena_exuding_con_0--2-)
+![Leonardo AI | Athena Character Reference](https://res.cloudinary.com/ddicetqs5/image/upload/c_fill,f_auto,fl_force_strip,q_auto:best/v1763925795/wayfinder-images/qqt2qoah2x2p3gwq2bri)
 
 Sites like Upwork, Fiverr, and 99designs can be great for landing your first few gigs. But beware: the competition is fierce, and the rates can be low. Use them as a stepping stone, not a final destination.
 
@@ -90,7 +90,7 @@ As the legendary Coco Chanel once said, "In order to be irreplaceable, one must 
 
 ## 7. Create Content and Share Your Knowledge
 
-![Leonardo AI | Athena Character Reference](https://res-5.cloudinary.com/ddicetqs5/image/upload/f_auto,fl_force_strip,q_auto:best/v1/wayfinder-ghost-blog/AlbedoBase_XL_A_captivating_techsavvy_woman_Athena_exuding_con_1--2-)
+![Leonardo AI | Athena Character Reference](https://res.cloudinary.com/ddicetqs5/image/upload/c_fill,f_auto,fl_force_strip,q_auto:best/v1763925797/wayfinder-images/ise7iebm9vxjxa3xpwrj)
 
 Believe it or not, you know things that others don't. Share that knowledge! Start a blog, create tutorials, or post time-lapse videos of your design process. This positions you as an expert and helps potential clients find you.
 
@@ -102,7 +102,7 @@ And please, for the love of all that is holy, don't work for free. Exposure does
 
 ## 9. Deliver Outstanding Work (Every. Single. Time.)
 
-![Leonardo AI | Athena Character Reference](https://res-4.cloudinary.com/ddicetqs5/image/upload/f_auto,fl_force_strip,q_auto:best/v1/wayfinder-ghost-blog/AlbedoBase_XL_A_captivating_techsavvy_woman_Athena_exuding_con_4--1-)
+![Leonardo AI | Athena Character Reference](https://res.cloudinary.com/ddicetqs5/image/upload/c_fill,f_auto,fl_force_strip,q_auto:best/v1763925799/wayfinder-images/zhzeeojnynz7san8u11s)
 
 This should go without saying, but I'll say it anyway: do great work. Every project, no matter how small, is a chance to impress. Happy clients lead to referrals, and referrals are the lifeblood of freelancing.
 
@@ -112,7 +112,7 @@ Landing your first clients can be stressful. Remember to take care of yourself. 
 
 ## The Bottom Line
 
-![Leonardo AI | Athena Character Reference](https://res-5.cloudinary.com/ddicetqs5/image/upload/f_auto,fl_force_strip,q_auto:best/v1/wayfinder-ghost-blog/AlbedoBase_XL_A_captivating_techsavvy_woman_Athena_exuding_con_2--2-)
+![Leonardo AI | Athena Character Reference](https://res.cloudinary.com/ddicetqs5/image/upload/c_fill,f_auto,fl_force_strip,q_auto:best/v1763925801/wayfinder-images/qxxqcsxqv6vtkjyrixjd)
 
 Landing your first clients as a freelance graphic designer is tough, but it's far from impossible. It takes persistence, creativity, and a whole lot of coffee. But trust me, that first "You're hired!" email makes it all worth it.
 
@@ -124,7 +124,7 @@ Now go forth and design!
 
 🔆 Take away this: Success in freelance graphic design isn't just about talent — it's about persistence, networking, and not being afraid to put yourself out there.
 
-![](https://res-3.cloudinary.com/ddicetqs5/image/upload/f_auto,fl_force_strip,q_auto:best/v1/wayfinder-ghost-blog/AlbedoBase_XL_A_captivating_techsavvy_woman_Athena_exuding_con_2--1-)
+![Image](https://res.cloudinary.com/ddicetqs5/image/upload/c_fill,f_auto,fl_force_strip,q_auto:best/v1763925803/wayfinder-images/tbkmyefhqhekv3ox9gbg)
 
 ## Every "no" gets you one step closer to a "yes."
 

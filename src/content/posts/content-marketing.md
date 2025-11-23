@@ -49,7 +49,7 @@ Now, let's talk content types. It's not just about blog posts anymore (though th
 
 ## SEO Optimization for Content
 
-![Leonardo AI | Athena Character Reference](https://res-4.cloudinary.com/ddicetqs5/image/upload/f_auto,fl_force_strip,q_auto:best/v1/wayfinder-ghost-blog/66eccb95bc941a0001f28928-2)
+![Leonardo AI | Athena Character Reference](https://res.cloudinary.com/ddicetqs5/image/upload/c_fill,f_auto,fl_force_strip,q_auto:best/v1763925693/wayfinder-images/jirlwb06rtz5sqvjc0rd)
 
 SEO. Three letters that strike fear into the hearts of many. But fear not, my friend. It's not as scary as it seems.
 

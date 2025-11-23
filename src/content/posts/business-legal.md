@@ -156,7 +156,7 @@ Consider using accounting software to make your life easier. It's like having a 
 
 ## Data Protection and Cybersecurity: Because Hackers Are the Worst Party Crashers
 
-![Leonardo AI | Athena Character Reference | Happy Halloween!](https://res-5.cloudinary.com/ddicetqs5/image/upload/f_auto,fl_force_strip,q_auto:best/v1/wayfinder-ghost-blog/athena_mreport_zqxZSkQE)
+![Leonardo AI | Athena Character Reference | Happy Halloween!](https://res.cloudinary.com/ddicetqs5/image/upload/c_fill,f_auto,fl_force_strip,q_auto:best/v1763925651/wayfinder-images/suiaq5nslxawaligkdwe)
 
 In today's digital world, data is the new oil. And just like oil, if it leaks, it can cause a big mess. That's why data protection and cybersecurity should be at the top of your priority list.
 
@@ -279,7 +279,7 @@ Remember, complying with industry-specific regulations isn't just about avoiding
 
 ## Conclusion
 
-![Athena](https://res.cloudinary.com/ddicetqs5/image/upload/f_auto/v1727394794/wayfinder-ghost-blog/inline-rec96OWSci08H1Gzu)
+![Athena](https://res.cloudinary.com/ddicetqs5/image/upload/c_fill,f_auto,fl_force_strip,q_auto:best/v1763925653/wayfinder-images/gegpfnbgjtuoys4e9yhl)
 
 Navigating the legal landscape of online business can be challenging, but it's essential. By addressing these seven legal essentials, you're laying a solid foundation for your venture.
 

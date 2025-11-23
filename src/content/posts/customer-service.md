@@ -93,7 +93,7 @@ Leveraging AI and chatbots isn't about creating a digital workforce to replace h
 
 ## Personalize Digital Interactions
 
-![Leonardo AI | Athena Character Reference | Happy Halloween!](https://res-5.cloudinary.com/ddicetqs5/image/upload/f_auto,fl_force_strip,q_auto:best/v1/wayfinder-ghost-blog/athena_halloween_iZlzd8EV)
+![Leonardo AI | Athena Character Reference | Happy Halloween!](https://res.cloudinary.com/ddicetqs5/image/upload/c_fill,f_auto,fl_force_strip,q_auto:best/v1763925733/wayfinder-images/hnrug3kuofwtyqdallsk)
 
 Alright, let's get personal. No, I'm not asking for your deepest, darkest secrets (although if you want to share, I'm all ears). We're talking about personalizing digital interactions with your customers. Because let's face it, in a world of automated responses and cookie-cutter service, a little personalization goes a long way.
 
@@ -199,7 +199,7 @@ Continuous feedback is like having a never-ending conversation with your custome
 
 ## Conclusion
 
-![Leonardo AI | Athena Character Reference | Happy Halloween!](https://res.cloudinary.com/ddicetqs5/image/upload/f_auto/v1728528314/wayfinder-ghost-blog/inline-rec002h8LPy8v2Px3)
+![Leonardo AI | Athena Character Reference | Happy Halloween!](https://res.cloudinary.com/ddicetqs5/image/upload/c_fill,f_auto,fl_force_strip,q_auto:best/v1763925735/wayfinder-images/dua8dkh9qjmqcjinkfjn)
 
 Digital customer service excellence is an ongoing journey, not a destination. By implementing these seven steps, you'll be well on your way to creating outstanding online customer experiences.
 

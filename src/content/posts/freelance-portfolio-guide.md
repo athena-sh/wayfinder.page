@@ -67,7 +67,7 @@ I once included a "Fun Facts" section on my portfolio. It included gems like "Ca
 
 ## 7. Include Testimonials (Even if They're from Your Mom)
 
-![Leonardo AI | Athena Character Reference](https://res-1.cloudinary.com/ddicetqs5/image/upload/f_auto,fl_force_strip,q_auto:best/v1/wayfinder-ghost-blog/N1AWFBwLUtJhcZ9IBzytoo7zpFdfQt26iQSn5sX_uGo)
+![Leonardo AI | Athena Character Reference](https://res.cloudinary.com/ddicetqs5/image/upload/c_fill,f_auto,fl_force_strip,q_auto:best/v1763925873/wayfinder-images/v8hjyqjgytqjmacfwbef)
 
 Okay, maybe don't actually use your mom's testimonial. But if you've done any work for anyone, even if it was for free, ask for a testimonial. People trust other people's opinions more than they trust your own bragging.
 

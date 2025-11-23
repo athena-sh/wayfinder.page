@@ -75,7 +75,7 @@ In the direct client world, your competition isn't just other freelancers – it
 
 ## 3. Pricing and Earnings Potential
 
-![Leonardo AI | Athena Character Reference | Happy Halloween!](https://res-3.cloudinary.com/ddicetqs5/image/upload/f_auto,fl_force_strip,q_auto:best/v1/wayfinder-ghost-blog/athena_halloween_gj1Qdd3Dmg)
+![Leonardo AI | Athena Character Reference | Happy Halloween!](https://res.cloudinary.com/ddicetqs5/image/upload/c_fill,f_auto,fl_force_strip,q_auto:best/v1763925867/wayfinder-images/dr1bk8bogv1txh5z13sj)
 
 Money, money, money – it's not just a catchy ABBA song, it's the lifeblood of your freelance career. Let's break down the cash flow situation in both the platform and direct client worlds.
 
@@ -114,7 +114,7 @@ But remember, with great power comes great responsibility. You'll need to justif
 
 ## 4. Client Relationships and Long-Term Opportunities
 
-![Leonardo AI | Athena Character Reference | Happy Halloween!](https://res-4.cloudinary.com/ddicetqs5/image/upload/f_auto,fl_force_strip,q_auto:best/v1/wayfinder-ghost-blog/athena_halloween_Gy36fsdSHT)
+![Leonardo AI | Athena Character Reference | Happy Halloween!](https://res.cloudinary.com/ddicetqs5/image/upload/c_fill,f_auto,fl_force_strip,q_auto:best/v1763925868/wayfinder-images/dub6gfmxbxzgvsqbdcqh)
 
 Alright, let's talk about relationships. No, not the kind that end with "**it's not you, it's me**" – we're talking about those beautiful client connections that can make or break your freelance career.
 
@@ -194,7 +194,7 @@ The upside? You have complete control. Want to use a specific contract template?
 
 ## 6. Portfolio Building and Reputation Management
 
-![Leonardo AI | Athena Character Reference | Happy Halloween!](https://res-4.cloudinary.com/ddicetqs5/image/upload/f_auto,fl_force_strip,q_auto:best/v1/wayfinder-ghost-blog/athena_halloween_GrCk5hnu)
+![Leonardo AI | Athena Character Reference | Happy Halloween!](https://res.cloudinary.com/ddicetqs5/image/upload/c_fill,f_auto,fl_force_strip,q_auto:best/v1763925870/wayfinder-images/e63osleorjz5mkybtvbk)
 
 In the freelance scene, your reputation is your currency. Well, that and actual currency. But let's focus on the reputation part for now.
 
@@ -282,7 +282,7 @@ But remember, specializing doesn't mean you stop learning. In fact, it often mea
 
 ## Wrapping Up
 
-![Leonardo AI | Athena Character Reference](https://res-4.cloudinary.com/ddicetqs5/image/upload/f_auto,fl_force_strip,q_auto:best/v1/wayfinder-ghost-blog/athena_H5wuk9tdp)
+![Leonardo AI | Athena Character Reference](https://res.cloudinary.com/ddicetqs5/image/upload/c_fill,f_auto,fl_force_strip,q_auto:best/v1763925872/wayfinder-images/uneomyifvn6prjnl33wv)
 
 Choosing between freelance platforms and direct clients isn't a one-size-fits-all decision. Both approaches offer unique advantages and challenges that can shape your freelancing journey.
 

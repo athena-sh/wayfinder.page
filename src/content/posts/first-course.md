@@ -9,7 +9,7 @@ draft: false
 lang: ""
 ---
 
-![Unsplash](https://res-3.cloudinary.com/ddicetqs5/image/upload/f_auto,fl_force_strip,q_auto:best/v1/wayfinder-ghost-blog/1_jMoBa4loKX2o9iPteM8fJQ)
+![Unsplash](https://res.cloudinary.com/ddicetqs5/image/upload/c_fill,f_auto,fl_force_strip,q_auto:best/v1763925805/wayfinder-images/yespmsm4z4fpkkqvs3k7)
 
 ## Intro: This Is Why You Might Create An Online Course
 
@@ -58,7 +58,7 @@ Here, we'll walk you through each step of creating your first online course. It 
 
 ## Getting Started: Planning Your Course
 
-![Unsplash](https://res-3.cloudinary.com/ddicetqs5/image/upload/f_auto,fl_force_strip,q_auto:best/v1/wayfinder-ghost-blog/1_LbxXpHg1WIezWAsSVSXOUA)
+![Unsplash](https://res.cloudinary.com/ddicetqs5/image/upload/c_fill,f_auto,fl_force_strip,q_auto:best/v1763925807/wayfinder-images/gmd50zz6arlvejbudn4c)
 
 Before you dive into the world of online course creation, a solid foundation is essential. This begins with three key steps: identifying your audience, choosing a relevant topic, and setting clear goals (more on this later).
 
@@ -78,7 +78,7 @@ Your expertise is valuable, but aligning it with what people want to learn is es
 
 ### Set Clear Goals
 
-![Unsplash](https://res-1.cloudinary.com/ddicetqs5/image/upload/f_auto,fl_force_strip,q_auto:best/v1/wayfinder-ghost-blog/1_FWghnmXKsjSDM0Nn4vPgTQ)
+![Unsplash](https://res.cloudinary.com/ddicetqs5/image/upload/c_fill,f_auto,fl_force_strip,q_auto:best/v1763925809/wayfinder-images/wuzfvdbztdaerxugdzsj)
 
 > What does success look like?
 
@@ -90,7 +90,7 @@ By starting with these fundamental steps, you're positioning your course for suc
 
 ## Designing Your Course Content
 
-![Photo byEdho PratamaonUnsplash](https://res-2.cloudinary.com/ddicetqs5/image/upload/f_auto,fl_force_strip,q_auto:best/v1/wayfinder-ghost-blog/1_TH8KCA6vRh1Y1iKxRnkX3Q)
+![Photo byEdho PratamaonUnsplash](https://res.cloudinary.com/ddicetqs5/image/upload/c_fill,f_auto,fl_force_strip,q_auto:best/v1763925811/wayfinder-images/o4mjqzlusg3zhxpcnew8)
 
 Once you have a plan, the next step is to design your course content. This phase is crucial for capturing and maintaining student interest. Here's how to do it effectively:
 
@@ -124,7 +124,7 @@ This approach will help your students stay motivated and committed throughout th
 
 ## Technical Setup
 
-![Photo byJESHOOTS.COMonUnsplash](https://res-4.cloudinary.com/ddicetqs5/image/upload/f_auto,fl_force_strip,q_auto:best/v1/wayfinder-ghost-blog/1_MtwMZ93hI3AuNb6kXkRqug)
+![Photo byJESHOOTS.COMonUnsplash](https://res.cloudinary.com/ddicetqs5/image/upload/c_fill,f_auto,fl_force_strip,q_auto:best/v1763925813/wayfinder-images/oqtenzyhrupc2mle3ihr)
 
 Setting up the technical aspects of your online course can be manageable. From choosing the right platform to understanding the essential tools and learning to record high-quality content, here's a comprehensive guide to getting the technical side right.
 
@@ -179,7 +179,7 @@ Checkout "[Morning Hours](https://audius.co/nascent/morning-hours)" by [NASCENT]
 
 ## Building Your Online Presence
 
-![Photo byMarkus SpiskeonUnsplash](https://res-4.cloudinary.com/ddicetqs5/image/upload/f_auto,fl_force_strip,q_auto:best/v1/wayfinder-ghost-blog/1_r3sXyvXt7G5gYyFiMBORxA)
+![Photo byMarkus SpiskeonUnsplash](https://res.cloudinary.com/ddicetqs5/image/upload/c_fill,f_auto,fl_force_strip,q_auto:best/v1763925816/wayfinder-images/jmdjfq2i5ysedj4xiegw)
 
 A solid online presence is crucial for attracting and engaging students. Here's how to establish one through a captivating landing page, effective SEO strategies, and active social media promotion.
 
@@ -222,7 +222,7 @@ By effectively building your online presence in these areas, you can attract mor
 
 ## Launch Preparation
 
-![Unsplash](https://res-5.cloudinary.com/ddicetqs5/image/upload/f_auto,fl_force_strip,q_auto:best/v1/wayfinder-ghost-blog/1_MzZs4TDRdhhiXtWP2HeXoA)
+![Unsplash](https://res.cloudinary.com/ddicetqs5/image/upload/c_fill,f_auto,fl_force_strip,q_auto:best/v1763925818/wayfinder-images/mf5gviktorf4yexre6vn)
 
 Preparing for the launch of your online course is as critical as the content itself. Proper preparation can ensure a smooth rollout and increase your course's initial impact. Here's how to get ready:
 
@@ -257,13 +257,13 @@ By carefully planning your launch preparation, you can ensure the course debut i
 
 ## Maintaining and Growing Your Course
 
-![Unsplash](https://res-1.cloudinary.com/ddicetqs5/image/upload/f_auto,fl_force_strip,q_auto:best/v1/wayfinder-ghost-blog/1_eSPvWLeTBh4aPQoFngvzuw)
+![Unsplash](https://res.cloudinary.com/ddicetqs5/image/upload/c_fill,f_auto,fl_force_strip,q_auto:best/v1763925820/wayfinder-images/d89jpjtpm10uuvpa6lju)
 
 After the launch, the work isn't over. Your course's ongoing maintenance and improvement are essential to its long-term success. Here's how to keep your course dynamic and continually improving:
 
 ### Analyze Student Engagement
 
-![Unsplash](https://res-3.cloudinary.com/ddicetqs5/image/upload/f_auto,fl_force_strip,q_auto:best/v1/wayfinder-ghost-blog/1_BmRriA35eTvPuWOpIbU5xQ)
+![Unsplash](https://res.cloudinary.com/ddicetqs5/image/upload/c_fill,f_auto,fl_force_strip,q_auto:best/v1763925822/wayfinder-images/zjg670yempyzrqpdv8t7)
 
 Monitoring how students interact with your course is crucial. Use analytics tools provided by your course platform to track engagement metrics, such as
 
@@ -299,7 +299,7 @@ While focusing on these areas, you can ensure that your course remains a dynamic
 
 ## Wrapping Up
 
-![Photo byTim MossholderonUnsplash](https://res-4.cloudinary.com/ddicetqs5/image/upload/f_auto,fl_force_strip,q_auto:best/v1/wayfinder-ghost-blog/1_j5Q0kvQboupvUp0Qx4-d6A)
+![Photo byTim MossholderonUnsplash](https://res.cloudinary.com/ddicetqs5/image/upload/c_fill,f_auto,fl_force_strip,q_auto:best/v1763925824/wayfinder-images/zycfucclxqqm6fwvr5le)
 
 As we wrap up this guide on creating your first online course, let's recap the essential steps from conception to launch.
 
@@ -336,7 +336,7 @@ With commitment and resilience, your online course can become a significant and 
 
 ### Checklist
 
-![Unsplash](https://res-3.cloudinary.com/ddicetqs5/image/upload/f_auto,fl_force_strip,q_auto:best/v1/wayfinder-ghost-blog/1_Wtw61YIJ55_fetGQe8xCWg)
+![Unsplash](https://res.cloudinary.com/ddicetqs5/image/upload/c_fill,f_auto,fl_force_strip,q_auto:best/v1763925826/wayfinder-images/wb87lx3doac7yywjdh7l)
 
 Creating and maintaining a successful online course requires careful attention to detail.
 
@@ -412,7 +412,7 @@ This checklist will help ensure that every aspect of your online course is metic
 
 ## Further Reading
 
-![Photo byBen WhiteonUnsplash](https://res-1.cloudinary.com/ddicetqs5/image/upload/f_auto,fl_force_strip,q_auto:best/v1/wayfinder-ghost-blog/1_0Fj4efjt7XuyPnFQ3llHSQ)
+![Photo byBen WhiteonUnsplash](https://res.cloudinary.com/ddicetqs5/image/upload/c_fill,f_auto,fl_force_strip,q_auto:best/v1763925827/wayfinder-images/mhmohxz1etm2nakw7c6y)
 
 Explore the following related posts and books to deepen your understanding and enhance your approach to leveraging skills and thriving during economic uncertainty.
 
@@ -456,7 +456,7 @@ These articles provide a broader perspective on handling economic fluctuations a
 
 ## FAQs
 
-![Unsplash](https://res-2.cloudinary.com/ddicetqs5/image/upload/f_auto,fl_force_strip,q_auto:best/v1/wayfinder-ghost-blog/1_zgjBpMikvGHs6lP-L0uOuw)
+![Unsplash](https://res.cloudinary.com/ddicetqs5/image/upload/c_fill,f_auto,fl_force_strip,q_auto:best/v1763925829/wayfinder-images/bozwxyfatzcpoj5wh2ac)
 
 ### Q: When designing online course content, what are the best practices?
 
@@ -481,7 +481,7 @@ A:
 
 ## Compliance, Guidelines, and Acknowledgements
 
-![Leonardo.Ai | An owl counting.](https://res-5.cloudinary.com/ddicetqs5/image/upload/f_auto,fl_force_strip,q_auto:best/v1/wayfinder-ghost-blog/0_uGgtPirpHbchvnrc)
+![Leonardo.Ai | An owl counting.](https://res.cloudinary.com/ddicetqs5/image/upload/c_fill,f_auto,fl_force_strip,q_auto:best/v1763925832/wayfinder-images/qm9aeiimco4vhmucnd2q)
 
 - Affiliate Disclosure: I am a participant in the Amazon Affiliate Program. Click here to learn more about Wayfinder's Affiliate Marketing Policy.
 - 📷 Photo Credit: Images within this post with Unsplash captions are linked to their respective source locations.

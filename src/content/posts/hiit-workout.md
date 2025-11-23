@@ -1,6 +1,7 @@
 ---
 title: "HIIT Workout Challenge: The Lazy Person's Guide to Getting Fit (Or How I Tricked Myself into Exercise)"
 description: Take advantage of these surprising HIIT workout benefits from a regular person's perspective. Get fitter faster with less time and more fun!
+hero: https://res.cloudinary.com/ddicetqs5/image/upload/c_fill,f_auto,fl_force_strip,q_auto:best/v1763927382/wayfinder-images/oz5d1dtc5papciovzykm
 published: 2024-04-17
 draft: false
 tags: ["Fitness", "Health"]
@@ -18,7 +19,7 @@ So, I thought, "Who else might want to know about this?" Here's my utterly non-e
 
 ## What the Heck is HIIT Anyway?
 
-![Leonardo AI | Athena Character Reference](https://res-1.cloudinary.com/ddicetqs5/image/upload/f_auto,fl_force_strip,q_auto:best/v1/wayfinder-ghost-blog/Illustrative_Albedo_A_stunningly_alluring_and_strong_technolog_0)
+![Leonardo AI | Athena Character Reference](https://res.cloudinary.com/ddicetqs5/image/upload/c_fill,f_auto,fl_force_strip,q_auto:best/v1763928000/wayfinder-images/aup2wuaa48gefk7zs4bw)
 
 First things first, let's break down what HIIT actually is. Because if you're anything like me, you've probably nodded along when people talked about it, pretending you knew what they meant.
 
@@ -48,7 +49,7 @@ Sound familiar? Don't worry, we've all been there. The good news is, it does get
 
 ## The Science-y Bit (Because Apparently, We Need to Know Why We're Torturing Ourselves)
 
-![Leonardo AI | Athena Character Reference](https://res-5.cloudinary.com/ddicetqs5/image/upload/f_auto,fl_force_strip,q_auto:best/v1/wayfinder-ghost-blog/Illustrative_Albedo_Inspiring_flirtatious_sexy_techlady_standi_4)
+![OpenArt AI | Athena Character Reference](https://res.cloudinary.com/ddicetqs5/image/upload/c_fill,f_auto,fl_force_strip,q_auto:best/v1763927756/wayfinder-images/kgvswdvh6uzqoy1q27k5)
 
 Now, I'm not a scientist. The closest I've come to scientific research is binge-watching "Bill Nye the Science Guy" reruns. But even I can understand the basic science behind HIIT workout benefits.
 
@@ -66,7 +67,7 @@ But here's my favorite part - all of this happens in way less time than traditio
 
 ## The "I Can't Believe This is Actually Working" Phase
 
-![Leonardo AI | Athena Character Reference](https://res-3.cloudinary.com/ddicetqs5/image/upload/f_auto,fl_force_strip,q_auto:best/v1/wayfinder-ghost-blog/Illustrative_Albedo_A_stunningly_alluring_and_strong_technolog_4)
+![Leonardo AI | Athena Character Reference](https://res.cloudinary.com/ddicetqs5/image/upload/c_fill,f_auto,fl_force_strip,q_auto:best/v1763925927/wayfinder-images/yywsbk3guab74owokngt)
 
 After a few weeks of HIIT, something weird starts to happen. You might notice that you're not wheezing like a broken accordion after climbing a flight of stairs. Or maybe you can chase after your dog/kid/runaway shopping cart without feeling like you're going to die.
 
@@ -92,7 +93,7 @@ It's a strange feeling, isn't it? Suddenly, you're that person who talks about w
 
 ## The "Let's Get Technical" Bit (Because Apparently, We Need to Know How to Do This Properly)
 
-![Leonardo AI | Athena Character Reference](https://res-3.cloudinary.com/ddicetqs5/image/upload/f_auto,fl_force_strip,q_auto:best/v1/wayfinder-ghost-blog/alchemyrefiner_alchemymagic_1_7d996467-178b-41f8-9dde-f3a8370244a2_0)
+![OpenArt AI | Athena Character Reference](https://res.cloudinary.com/ddicetqs5/image/upload/c_fill,f_auto,fl_force_strip,q_auto:best/v1763927574/wayfinder-images/cqcplfhtcdqfkjxlhhwi)
 
 Okay, so you're convinced that HIIT is worth a shot. Now what? Here's a basic HIIT workout that even I can manage without crying (much):
 
@@ -119,7 +120,7 @@ The key is to keep challenging yourself. Your body should never know what's comi
 
 ## The "I Can't Believe I'm Saying This, But I Actually Enjoy It" Revelation
 
-![Leonardo AI | Athena Character Reference](https://res-2.cloudinary.com/ddicetqs5/image/upload/f_auto,fl_force_strip,q_auto:best/v1/wayfinder-ghost-blog/Illustrative_Albedo_Inspiring_flirtatious_sexy_techlady_standi_5-1-)
+![OpenArt AI | Athena Character Reference](https://res.cloudinary.com/ddicetqs5/image/upload/c_fill,f_auto,fl_force_strip,q_auto:best/v1763927655/wayfinder-images/gzujd2qlmhhdjxzqnpax)
 
 Here's a dirty little secret about HIIT - it can actually be fun. I know, I was shocked too. But there's something weirdly satisfying about pushing yourself to the limit and surviving.
 
@@ -135,7 +136,7 @@ Remember what the great philosopher Dory said: "Just keep swimming." Or in our c
 
 ## The "What Now?" Conclusion
 
-![Leonardo AI | Athena Character Reference](https://res-1.cloudinary.com/ddicetqs5/image/upload/f_auto,fl_force_strip,q_auto:best/v1/wayfinder-ghost-blog/athena-featured-image)
+![OpenArt AI | Athena Character Reference](https://res.cloudinary.com/ddicetqs5/image/upload/c_fill,f_auto,fl_force_strip,q_auto:best/v1763927842/wayfinder-images/aoihir5jk3blama4grzj)
 
 So, there you have it - my non-expert guide to HIIT workout benefits. Will it turn you into a superhero? Probably not. Will it make you fitter and healthier without taking up all your free time? Absolutely.
 

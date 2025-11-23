@@ -20,7 +20,7 @@ Last year, Google made headlines with its mass layoffs, reverberating throughout
 
 In January 2023, Google initiated a wave of layoffs affecting approximately 12,000 employees, constituting roughly 6% of its workforce. This wasn't just a cost-cutting measure but a strategic pivot in response to evolving economic realities. As CEO Sundar Pichai candidly communicated to staff then, Google had hired aggressively to fuel its growth, only to find itself in a different financial landscape than anticipated.
 
-![Mateusz Wlodarczyk/Getty Images](https://res-4.cloudinary.com/ddicetqs5/image/upload/f_auto,fl_force_strip,q_auto:best/v1/wayfinder-ghost-blog/0_8lhvSfRN-h5aH7pG)
+![Mateusz Wlodarczyk/Getty Images](https://res.cloudinary.com/ddicetqs5/image/upload/c_fill,f_auto,fl_force_strip,q_auto:best/v1763925915/wayfinder-images/wgs5j2ulzfnx8laauwdz)
 
 > _To match and fuel that growth, we hired for a different economic reality than the one we face today,_
 

@@ -52,7 +52,7 @@ Your content should be like a good burrito - satisfying and leaving them wanting
 
 ## 5. Collaborate and Cross-Pollinate
 
-![Leonardo AI | Athena Character Reference](https://res-4.cloudinary.com/ddicetqs5/image/upload/f_auto,fl_force_strip,q_auto:best/v1/wayfinder-ghost-blog/Illustrative_Albedo_A_stunningly_alluring_and_strong_technolog_4--19-)
+![Leonardo AI | Athena Character Reference](https://res.cloudinary.com/ddicetqs5/image/upload/c_fill,f_auto,fl_force_strip,q_auto:best/v1763928131/wayfinder-images/ayi9gnfg1andvcp6ygke)
 
 Two heads are better than one. Unless you're a Hydra, then more is definitely better:
 

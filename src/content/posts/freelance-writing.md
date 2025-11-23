@@ -39,7 +39,7 @@ Always, always, **quality** over _quantity_. It's better to have three killer pi
 
 ## 3. Set Up Your Online Presence (Without Falling into a Social Media Rabbit Hole)
 
-![Leonardo AI | Athena Character Reference](https://res-1.cloudinary.com/ddicetqs5/image/upload/f_auto,fl_force_strip,q_auto:best/v1/wayfinder-ghost-blog/AlbedoBase_XL_A_captivating_techsavvy_woman_Athena_exuding_con_3--1-)
+![Leonardo AI | Athena Character Reference](https://res.cloudinary.com/ddicetqs5/image/upload/c_fill,f_auto,fl_force_strip,q_auto:best/v1763925888/wayfinder-images/ln3kad2sxumvjfiu2zqf)
 
 In today's digital age, if you're not online, do you even exist? Here's how to establish your online presence without losing your soul to the internet:
 
@@ -64,7 +64,7 @@ Recall, finding clients is a numbers game. The more you put yourself out there, 
 
 ## 5. Set Your Rates (Without Undervaluing Yourself or Scaring Off Clients)
 
-![Leonardo AI | Athena Character Reference](https://res-4.cloudinary.com/ddicetqs5/image/upload/f_auto,fl_force_strip,q_auto:best/v1/wayfinder-ghost-blog/AlbedoBase_XL_A_captivating_techsavvy_woman_Athena_exuding_con_0--1-)
+![Leonardo AI | Athena Character Reference](https://res.cloudinary.com/ddicetqs5/image/upload/c_fill,f_auto,fl_force_strip,q_auto:best/v1763925890/wayfinder-images/zii88gdbhqog6rkji7k1)
 
 Pricing your services is an art form. Set your rates too low, and you'll be eating ramen for dinner (again). Set them too high, and crickets will be your only clients. Here's how to find that sweet spot:
 
@@ -90,7 +90,7 @@ As always, perfect time management doesn't exist. Some days you'll be a producti
 
 ## 7. Develop a Thick Skin (Because Rejection is Part of the Game)
 
-![Leonardo AI | Athena Character Reference](https://res-5.cloudinary.com/ddicetqs5/image/upload/f_auto,fl_force_strip,q_auto:best/v1/wayfinder-ghost-blog/AlbedoBase_XL_A_captivating_techsavvy_woman_Athena_exuding_con_2)
+![Leonardo AI | Athena Character Reference](https://res.cloudinary.com/ddicetqs5/image/upload/c_fill,f_auto,fl_force_strip,q_auto:best/v1763925892/wayfinder-images/udaztrjqvhnphxffbrpa)
 
 Get ready for rejection. Lots of it. But don't worry, it gets easier. Here's how I learned to deal with it:
 
@@ -113,7 +113,7 @@ The world of writing is always changing, and you need to keep up. Here's how I s
 
 ## 9. Take Care of the Business Side (Because Uncle Sam Wants His Cut)
 
-![Leonardo AI | Athena Character Reference](https://res-4.cloudinary.com/ddicetqs5/image/upload/f_auto,fl_force_strip,q_auto:best/v1/wayfinder-ghost-blog/AlbedoBase_XL_A_captivating_techsavvy_woman_Athena_exuding_con_6--2-)
+![Leonardo AI | Athena Character Reference](https://res.cloudinary.com/ddicetqs5/image/upload/c_fill,f_auto,fl_force_strip,q_auto:best/v1763925895/wayfinder-images/n95rsou7jzrmqtzj80qu)
 
 Being a freelance writer isn't just about writing. It's also about running a business. Here's what you need to know:
 
@@ -137,7 +137,7 @@ You see, your experiences fuel your writing. So go out there and experience thin
 
 ## Conclusion: You've Got This (Even When You Feel Like You Don't)
 
-![Leonardo AI | Athena Character Reference](https://res-2.cloudinary.com/ddicetqs5/image/upload/f_auto,fl_force_strip,q_auto:best/v1/wayfinder-ghost-blog/AlbedoBase_XL_A_captivating_techsavvy_woman_Athena_exuding_con_7--1-)
+![Leonardo AI | Athena Character Reference](https://res.cloudinary.com/ddicetqs5/image/upload/c_fill,f_auto,fl_force_strip,q_auto:best/v1763925897/wayfinder-images/fsbsthpytlugjqktaxsq)
 
 Starting a freelance writing career is a journey. There will be ups and downs, moments of triumph and moments of "why did I think I could do this?" But trust me, it's worth it.
 

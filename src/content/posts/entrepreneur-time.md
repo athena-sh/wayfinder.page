@@ -92,7 +92,7 @@ Start small. Pick one task to automate this week. Get comfortable with it. Then 
 
 ## Master the Art of Delegation
 
-![Leonardo AI | Athena Character Reference | Happy Halloween!](https://res-5.cloudinary.com/ddicetqs5/image/upload/f_auto,fl_force_strip,q_auto:best/v1/wayfinder-ghost-blog/athena_halloween_iZlzd8EV)
+![Leonardo AI | Athena Character Reference | Happy Halloween!](https://res.cloudinary.com/ddicetqs5/image/upload/c_fill,f_auto,fl_force_strip,q_auto:best/v1763925755/wayfinder-images/w1hnx8c2hnj2iddsb4fx)
 
 Okay, control freaks, this one's for you. (And yes, I'm talking to myself too.) It's time to face a hard truth: you can't do everything yourself. Not if you want to grow your business, maintain your sanity, and occasionally see the sun.
 
@@ -204,7 +204,7 @@ Remember, the goal isn't to account for every minute of your day. It's to make s
 
 ## Conclusion
 
-![Leonardo AI | Athena Character Reference | Happy Halloween!](https://res-2.cloudinary.com/ddicetqs5/image/upload/f_auto,fl_force_strip,q_auto:best/v1/wayfinder-ghost-blog/athena_halloween_IlFRTqTN)
+![Leonardo AI | Athena Character Reference | Happy Halloween!](https://res.cloudinary.com/ddicetqs5/image/upload/c_fill,f_auto,fl_force_strip,q_auto:best/v1763925756/wayfinder-images/men1hojxhcdwwa50pxda)
 
 Implementing these time management hacks can transform your online business operations. By prioritizing tasks, leveraging technology, and creating focused work periods, you'll be able to accomplish more in less time.
 

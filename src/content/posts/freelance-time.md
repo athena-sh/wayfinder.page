@@ -96,7 +96,7 @@ Be honest with yourself. Not everything can be urgent and important, no matter h
 
 ## 7. The "No" Technique (Because You're Not a Superhero)
 
-![Leonardo AI | Athena Character Reference](https://res-5.cloudinary.com/ddicetqs5/image/upload/f_auto,fl_force_strip,q_auto:best/v1/wayfinder-ghost-blog/IUZ6NCJTxp5xlCfKjqBTli2Epmb2uIdKP1X_xt98iq8)
+![Leonardo AI | Athena Character Reference](https://res.cloudinary.com/ddicetqs5/image/upload/c_fill,f_auto,fl_force_strip,q_auto:best/v1763925882/wayfinder-images/jvc8rkoo4tdd3svry0qa)
 
 This might be the hardest technique of all – learning to say "no." As freelancers, we often feel like we need to take on every opportunity that comes our way. But overcommitting is a one-way ticket to Burnout City.
 

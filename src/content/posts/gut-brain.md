@@ -44,7 +44,7 @@ This connection is so strong that scientists have started calling the gut our "s
 
 ## My Gut Feeling About Gut Feelings
 
-![Leonardo AI | Athena Character Reference](https://res-1.cloudinary.com/ddicetqs5/image/upload/f_auto,fl_force_strip,q_auto:best/v1/wayfinder-ghost-blog/gut-brain-connection-wellness-inline-1)
+![Leonardo AI | Athena Character Reference](https://res.cloudinary.com/ddicetqs5/image/upload/c_fill,f_auto,fl_force_strip,q_auto:best/v1763925918/wayfinder-images/pfjcknpj1g5iyxjkyxq3)
 
 Let me tell you a little story. A few years ago, I was up for a big promotion at work. The night before my interview, my stomach was doing more flips than an Olympic gymnast. I chalked it up to nerves and tried to ignore it.
 
@@ -76,7 +76,7 @@ As you can see, there's a pretty strong connection between what's going on in yo
 
 ## The Stress-Gut Tango: A Dance No One Wants to Do
 
-![Leonardo AI | Athena Character Reference](https://res-3.cloudinary.com/ddicetqs5/image/upload/f_auto,fl_force_strip,q_auto:best/v1/wayfinder-ghost-blog/gut-brain-connection-wellness-inline-2)
+![Leonardo AI | Athena Character Reference](https://res.cloudinary.com/ddicetqs5/image/upload/c_fill,f_auto,fl_force_strip,q_auto:best/v1763925920/wayfinder-images/hqy6oltfjzgtwz3qbzcj)
 
 Now, let's talk about stress. We all know stress is about as welcome as a porcupine in a balloon factory, but did you know it can wreak havoc on your gut health too?
 
@@ -131,7 +131,7 @@ So, the next time you're tempted to stay up late binge-watching that new show, j
 
 ## The Gut-Brain Connection: What Does It All Mean?
 
-![Leonardo AI | Athena Character Reference](https://res-3.cloudinary.com/ddicetqs5/image/upload/f_auto,fl_force_strip,q_auto:best/v1/wayfinder-ghost-blog/gut-brain-connection-wellness-inline-3)
+![Leonardo AI | Athena Character Reference](https://res.cloudinary.com/ddicetqs5/image/upload/c_fill,f_auto,fl_force_strip,q_auto:best/v1763925921/wayfinder-images/wtkp4zwhwgjobr10h8mg)
 
 Alright, we've covered a lot of ground here. We've talked about how your gut and your brain are constantly chatting, how your mood can affect your digestion (and vice versa), and how things like diet, exercise, and sleep play into all of this.
 

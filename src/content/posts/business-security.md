@@ -32,7 +32,7 @@ Before we dive into these cybersecurity essentials, if you're serious about prot
 
 ## Assess Your Current Security Posture
 
-![Leonardo AI | Athena Character Reference | Happy Halloween!](https://res-5.cloudinary.com/ddicetqs5/image/upload/f_auto,fl_force_strip,q_auto:best/v1/wayfinder-ghost-blog/athena_halloween_iZlzd8EV)
+![Leonardo AI | Athena Character Reference | Happy Halloween!](https://res.cloudinary.com/ddicetqs5/image/upload/c_fill,f_auto,fl_force_strip,q_auto:best/v1763925657/wayfinder-images/lh1dt5gibasmv6v45rh9)
 
 ### Conduct a Comprehensive Risk Assessment
 
@@ -57,7 +57,7 @@ According to a report by IBM, the average cost of a data breach in 2021 was $4.2
 
 ### Implement Regular Security Audits
 
-![Leonardo AI | Athena Character Reference | Happy Halloween!](https://res-2.cloudinary.com/ddicetqs5/image/upload/f_auto,fl_force_strip,q_auto:best/v1/wayfinder-ghost-blog/athena_mreport_4tQz9C7s)
+![Leonardo AI | Athena Character Reference | Happy Halloween!](https://res.cloudinary.com/ddicetqs5/image/upload/c_fill,f_auto,fl_force_strip,q_auto:best/v1763925659/wayfinder-images/cqhmy8ofesz5yoaa3det)
 
 Remember when your mom used to do surprise room inspections? Well, it's time to channel that energy into your cybersecurity strategy. Regular security audits are like those surprise inspections, but instead of finding dirty socks under the bed, you're uncovering potential vulnerabilities in your systems.
 
@@ -86,7 +86,7 @@ Remember, the goal isn't to achieve perfection (sorry, perfectionists). It's abo
 
 ## Educate Your Team
 
-![Leonardo AI | Athena Character Reference](https://res-3.cloudinary.com/ddicetqs5/image/upload/f_auto,fl_force_strip,q_auto:best/v1/wayfinder-ghost-blog/athena_mreport_VtzFZUxG)
+![Leonardo AI | Athena Character Reference](https://res.cloudinary.com/ddicetqs5/image/upload/c_fill,f_auto,fl_force_strip,q_auto:best/v1763925661/wayfinder-images/pwgwdzf0i7ajeaox0lwy)
 
 ### Provide Cybersecurity Training
 
@@ -131,7 +131,7 @@ Remember, the goal is to create a culture of security awareness. It's not about 
 
 ## Strengthen Your Network Security
 
-![Leonardo AI | Athena Character Reference](https://res-3.cloudinary.com/ddicetqs5/image/upload/f_auto,fl_force_strip,q_auto:best/v1/wayfinder-ghost-blog/athena_mreport_40o5yEiD)
+![Leonardo AI | Athena Character Reference](https://res.cloudinary.com/ddicetqs5/image/upload/c_fill,f_auto,fl_force_strip,q_auto:best/v1763925663/wayfinder-images/sx9unqnph0icfdhls0ck)
 
 ### Implement Multi-Factor Authentication (MFA)
 
@@ -173,7 +173,7 @@ Remember, using a VPN is like wearing a digital disguise. It might make you feel
 
 ## Secure Your Data
 
-![Leonardo AI | Athena Character Reference](https://res-4.cloudinary.com/ddicetqs5/image/upload/f_auto,fl_force_strip,q_auto:best/v1/wayfinder-ghost-blog/-athena_mreport_secureyourdata)
+![Leonardo AI | Athena Character Reference](https://res.cloudinary.com/ddicetqs5/image/upload/c_fill,f_auto,fl_force_strip,q_auto:best/v1763925665/wayfinder-images/oxvhxwmldfsgfvjqhvvk)
 
 ### Encrypt Sensitive Information
 
@@ -199,7 +199,7 @@ Protecting customer data and intellectual property should be at the top of your 
 
 Picture this: you're working on a groundbreaking project, pouring your heart and soul into it. Suddenly, your computer decides it's the perfect time for an impromptu meltdown. Poof! All your hard work vanishes into the digital ether. Cue the dramatic music and slow-motion "Noooooo!"
 
-![Source:https://www.pinterest.com/pin/noooooo-darth-vader--393713192407857023/](https://i.pinimg.com/736x/20/6a/b1/206ab1b427bb2a756a32de839d56433d.jpg)
+![Source:https://www.pinterest.com/pin/noooooo-darth-vader--393713192407857023/](https://res.cloudinary.com/ddicetqs5/image/upload/c_fill,f_auto,fl_force_strip,q_auto:best/v1763925667/wayfinder-images/osztk8ytnmxbllumuadf)
 
 But wait! There's hope. If you've implemented regular backups, you can wipe away those tears and breathe a sigh of relief. It's like having a time machine for your data.
 
@@ -233,7 +233,7 @@ Remember, implementing regular backups is like flossing - it might seem like a c
 
 ## Update and Patch Regularly
 
-![Leonardo AI | Athena Character Reference](https://res-2.cloudinary.com/ddicetqs5/image/upload/f_auto,fl_force_strip,q_auto:best/v1/wayfinder-ghost-blog/athena_mreport_arZLuI9d)
+![Leonardo AI | Athena Character Reference](https://res.cloudinary.com/ddicetqs5/image/upload/c_fill,f_auto,fl_force_strip,q_auto:best/v1763925669/wayfinder-images/updmnlfwkh1ylxvzvgqu)
 
 ### Automate Software Updates
 
@@ -276,7 +276,7 @@ Remember, monitoring for vulnerabilities is like being a lifeguard at the beach 
 
 ## Develop an Incident Response Plan
 
-![Leonardo AI | Athena Character Reference](https://res-4.cloudinary.com/ddicetqs5/image/upload/f_auto,fl_force_strip,q_auto:best/v1/wayfinder-ghost-blog/athena_mreport_b8XdtCQc)
+![Leonardo AI | Athena Character Reference](https://res.cloudinary.com/ddicetqs5/image/upload/c_fill,f_auto,fl_force_strip,q_auto:best/v1763925671/wayfinder-images/d0nztnpyjqizd7ahpalp)
 
 ### Create a Detailed Response Strategy
 
@@ -298,7 +298,7 @@ Here's a quick rundown of what your response strategy should include:
 
 ## Conclusion
 
-![Leonardo AI | Athena Character Reference](https://res-3.cloudinary.com/ddicetqs5/image/upload/f_auto,fl_force_strip,q_auto:best/v1/wayfinder-ghost-blog/athena_HFGErt64)
+![Leonardo AI | Athena Character Reference](https://res.cloudinary.com/ddicetqs5/image/upload/c_fill,f_auto,fl_force_strip,q_auto:best/v1763925674/wayfinder-images/gt5k2rgnhfr2cjvoctxh)
 
 Whew! We've covered a lot of ground, haven't we? By now, your business should be tougher to crack than a bank vault wrapped in a steel burrito.
 

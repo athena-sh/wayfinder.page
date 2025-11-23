@@ -26,7 +26,7 @@ Before we jump in, let's address the elephant in the room: Why should you care a
 
 ## The Key Elements of a Strong Personal Brand (No Superhero Cape Required)
 
-![Leonardo AI | Athena Character Reference | Happy Halloween!](https://res-4.cloudinary.com/ddicetqs5/image/upload/f_auto,fl_force_strip,q_auto:best/v1/wayfinder-ghost-blog/athena_halloween_fogAImFK)
+![Leonardo AI | Athena Character Reference | Happy Halloween!](https://res.cloudinary.com/ddicetqs5/image/upload/c_fill,f_auto,fl_force_strip,q_auto:best/v1763925840/wayfinder-images/v170ux0ebwhiivbpat3t)
 
 1. **Authenticity**: Be yourself, but like, the best version of yourself. You know, the one that doesn't binge-watch Netflix in pajamas all day.
 2. **Consistency**: Make sure your brand message is the same across all platforms. Don't be a professional on LinkedIn and a party animal on Instagram (unless that's your brand, in which case, party on).
@@ -70,7 +70,7 @@ For example: "I help tech startups attract investors through compelling pitch de
 
 ## Step 2: Develop Your Brand Identity (Because Looks Matter, Apparently)
 
-![Leonardo AI | Athena Character Reference | Happy Halloween!](https://res-4.cloudinary.com/ddicetqs5/image/upload/f_auto,fl_force_strip,q_auto:best/v1/wayfinder-ghost-blog/athena_halloween_fQpg8W21)
+![Leonardo AI | Athena Character Reference | Happy Halloween!](https://res.cloudinary.com/ddicetqs5/image/upload/c_fill,f_auto,fl_force_strip,q_auto:best/v1763925843/wayfinder-images/gxk0s02tdlxdaejtt6qe)
 
 ### Choose Your Colors and Fonts
 
@@ -114,7 +114,7 @@ Find where your target audience hangs out online and join the conversation. Shar
 
 ## Step 5: Network and Collaborate (Without Feeling Like a Used Car Salesman)
 
-![Leonardo AI | Athena Character Reference | Happy Halloween!](https://res-5.cloudinary.com/ddicetqs5/image/upload/f_auto,fl_force_strip,q_auto:best/v1/wayfinder-ghost-blog/athena_halloween_Fss6U48A)
+![Leonardo AI | Athena Character Reference | Happy Halloween!](https://res.cloudinary.com/ddicetqs5/image/upload/c_fill,f_auto,fl_force_strip,q_auto:best/v1763925844/wayfinder-images/iuomefwe9guhrq6qrlz0)
 
 ### Attend Industry Events and Conferences
 
@@ -158,7 +158,7 @@ Find little ways to add extra value. Maybe it's providing a helpful resource, of
 
 ## Step 8: Continuously Learn and Adapt (Because Dinosaurs Went Extinct)
 
-![Leonardo AI | Athena Character Reference | Happy Halloween!](https://res-2.cloudinary.com/ddicetqs5/image/upload/f_auto,fl_force_strip,q_auto:best/v1/wayfinder-ghost-blog/athena_halloween_fU4EdKso)
+![Leonardo AI | Athena Character Reference | Happy Halloween!](https://res.cloudinary.com/ddicetqs5/image/upload/c_fill,f_auto,fl_force_strip,q_auto:best/v1763925846/wayfinder-images/r0mpg0kepl2wxbyizg87)
 
 ### Stay Up-to-Date with Industry Trends
 
@@ -188,7 +188,7 @@ If there's a problem, acknowledge it, apologize if necessary, and explain how yo
 
 ## The Grand Finale: Your Personal Brand in Action
 
-![Leonardo AI | Athena Character Reference](https://res-1.cloudinary.com/ddicetqs5/image/upload/f_auto,fl_force_strip,q_auto:best/v1/wayfinder-ghost-blog/athena_H9oJmShI)
+![Leonardo AI | Athena Character Reference](https://res.cloudinary.com/ddicetqs5/image/upload/c_fill,f_auto,fl_force_strip,q_auto:best/v1763925848/wayfinder-images/mzokxc740czzt598lvbu)
 
 Building a personal brand isn't a one-time thing. It's an ongoing process of refinement, like trying to perfect your coffee order or finally mastering that yoga pose without falling on your face.
 

@@ -191,7 +191,7 @@ A survey by Kabbage found that 92% of small business owners are investing time i
 
 ## Effective Inventory Management
 
-![Leonardo AI | Athena Character Reference](https://res-4.cloudinary.com/ddicetqs5/image/upload/f_auto,fl_force_strip,q_auto:best/v1/wayfinder-ghost-blog/athena_paUdS5FZ)
+![Leonardo AI | Athena Character Reference](https://res.cloudinary.com/ddicetqs5/image/upload/c_fill,f_auto,fl_force_strip,q_auto:best/v1763925676/wayfinder-images/x2cvrd9pmrfcefppioil)
 
 For product-based businesses, inventory can be a major cash drain if not managed properly. Let's look at some strategies to keep your inventory lean and mean.
 
@@ -313,7 +313,7 @@ A study by JP Morgan Chase found that the median small business only has 27 days
 
 ## Conclusion
 
-![Athena](https://res.cloudinary.com/ddicetqs5/image/upload/v1728950249/wayfinder-ghost-blog/inline-175.jpg)
+![Athena](https://res.cloudinary.com/ddicetqs5/image/upload/c_fill,f_auto,fl_force_strip,q_auto:best/v1763925679/wayfinder-images/sp4bqrp0tgyrxvahl9lc)
 
 Implementing these cash flow management strategies isn't just about keeping your business afloat – it's about setting yourself up for long-term success and growth.
 

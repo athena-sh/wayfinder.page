@@ -30,7 +30,7 @@ Wait, how does this whole ghostwriting thing work? It goes something like this: 
 
 _(What You Need Before Diving In)_
 
-![Leonardo AI | Athena Character Reference](https://res.cloudinary.com/ddicetqs5/image/upload/f_auto/v1731550660/wayfinder-ghost-blog/artID-184-i-3-219183)
+![Leonardo AI | Athena Character Reference](https://res.cloudinary.com/ddicetqs5/image/upload/c_fill,f_auto,fl_force_strip,q_auto:best/v1763925901/wayfinder-images/m6qyxzoxwp2qmjwzbtuf)
 
 ### Essential Writing Skills and Knowledge
 
@@ -48,7 +48,7 @@ Ah, the humble portfolio: your golden ticket to getting gigs. Start with persona
 
 _(From Zero to Invisibility Hero)_
 
-![Leonardo AI | Athena Character Reference](https://res.cloudinary.com/ddicetqs5/image/upload/f_auto/v1731550662/wayfinder-ghost-blog/artID-184-i-4-336368)
+![Leonardo AI | Athena Character Reference](https://res.cloudinary.com/ddicetqs5/image/upload/c_fill,f_auto,fl_force_strip,q_auto:best/v1763925903/wayfinder-images/ujtjyonejdahrd4girlj)
 
 ### Finding Your Niche in Ghostwriting
 
@@ -128,7 +128,7 @@ Google and YouTube can be like your best study buddies.
 
 _(Organize Before the Chaos Begins)_
 
-![Leonardo AI | Athena Character Reference](https://res.cloudinary.com/ddicetqs5/image/upload/f_auto/v1731550658/wayfinder-ghost-blog/artID-184-i-2-278544)
+![Leonardo AI | Athena Character Reference](https://res.cloudinary.com/ddicetqs5/image/upload/c_fill,f_auto,fl_force_strip,q_auto:best/v1763925905/wayfinder-images/o98dilf0p1peydypumvg)
 
 Jumping straight into writing without an outline will probably leave you floundering halfway through. Instead, work backwards. Start with an outline.
 
@@ -277,7 +277,7 @@ Being a ghostwriter isn't just about writing for someone else — it's a balanci
 
 _(Because Even Pros Hit a Snag Sometimes)_
 
-![Leonardo AI | Athena Character Reference](https://res.cloudinary.com/ddicetqs5/image/upload/f_auto/v1731550696/wayfinder-ghost-blog/artID-184-i-1-212095)
+![Leonardo AI | Athena Character Reference](https://res.cloudinary.com/ddicetqs5/image/upload/c_fill,f_auto,fl_force_strip,q_auto:best/v1763925906/wayfinder-images/osdnbofm7jvviguklmwc)
 
 ### Common challenges faced by ghostwriters
 
@@ -299,7 +299,7 @@ Deadlines aren't just dates; they're mini heart attacks waiting to happen. The k
 
 _The Final Chapter (Okay, Not That Dramatic)_
 
-![Leonardo AI | Athena Character Reference](https://res.cloudinary.com/ddicetqs5/image/upload/f_auto/v1731550698/wayfinder-ghost-blog/artID-184-i-2-908729)
+![Leonardo AI | Athena Character Reference](https://res.cloudinary.com/ddicetqs5/image/upload/c_fill,f_auto,fl_force_strip,q_auto:best/v1763925908/wayfinder-images/ua4k5k6cgjaa90nuwxc8)
 
 ### Recap of Key Points
 

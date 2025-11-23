@@ -16,7 +16,7 @@ _Do you ever find your Gmail inbox cluttered with emails that are only relevant 
 
 ## Preface
 
-<!-- ![Crafted using Athena's imaginative AI prompts on theMidjourneyplatform.](https://res-3.cloudinary.com/ddicetqs5/image/upload/f_auto,fl_force_strip,q_auto:best/v1/wayfinder-ghost-blog/0_wbZ1xvWEDk-H-W9j) -->
+<!-- ![Crafted using Athena's imaginative AI prompts on theMidjourneyplatform.](https://res.cloudinary.com/ddicetqs5/image/upload/c_fill,f_auto,fl_force_strip,q_auto:best/v1763925910/wayfinder-images/coluddqzuzv2n85fx3pz) -->
 
 Think about those balance notifications from a highly fluctuating account, up-to-the-minute stock quotes, or short-lived discount offers.
 
@@ -75,7 +75,7 @@ Test the script with a non-essential email labeled as specified. Wait for 5 minu
 
 ## Final Thoughts
 
-![Crafted using Athena's imaginative AI prompts on theMidjourneyplatform.](https://res-5.cloudinary.com/ddicetqs5/image/upload/f_auto,fl_force_strip,q_auto:best/v1/wayfinder-ghost-blog/0_ly5LhPS5wf51ue0U)
+![Crafted using Athena's imaginative AI prompts on theMidjourneyplatform.](https://res.cloudinary.com/ddicetqs5/image/upload/c_fill,f_auto,fl_force_strip,q_auto:best/v1763925912/wayfinder-images/kfgqsgobc705nwptqbjc)
 
 My use case for this script is managing GitHub Actions notifications. These alerts are crucial to know when a workflow has finished.
 

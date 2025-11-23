@@ -53,7 +53,7 @@ Creating a digital product is a bit like cooking. You start with a recipe (your 
 
 ## Set Up Your Online Store
 
-![Leonardo AI | Athena Character Reference](https://res-4.cloudinary.com/ddicetqs5/image/upload/f_auto,fl_force_strip,q_auto:best/v1/wayfinder-ghost-blog/66ecc8e9bc941a0001f28906-2)
+![Leonardo AI | Athena Character Reference](https://res.cloudinary.com/ddicetqs5/image/upload/c_fill,f_auto,fl_force_strip,q_auto:best/v1763925743/wayfinder-images/lfjzas0vlzj5tuuogqdw)
 
 Now that you've got your digital masterpiece ready, you need somewhere to sell it. It's time to set up shop in the vast mall that is the internet.
 

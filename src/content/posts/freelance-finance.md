@@ -58,7 +58,7 @@ Remember, the goal isn't to become a social media influencer (unless that's your
 
 ## 4. Network Strategically (Without Becoming That Guy at Parties)
 
-![Leonardo AI | Athena Character Reference](https://res-4.cloudinary.com/ddicetqs5/image/upload/f_auto,fl_force_strip,q_auto:best/v1/wayfinder-ghost-blog/66eb936dbc941a0001f28758)
+![Leonardo AI | Athena Character Reference](https://res.cloudinary.com/ddicetqs5/image/upload/c_fill,f_auto,fl_force_strip,q_auto:best/v1763925851/wayfinder-images/an6vgkdx9hcrwaa5dgbl)
 
 Networking. It's not just for corporate climbers and multi-level marketing enthusiasts anymore. For financial planning freelancers, it's a crucial part of business growth. But let's be real – it can also be awkward, time-consuming, and sometimes feels about as productive as trying to herd cats.
 

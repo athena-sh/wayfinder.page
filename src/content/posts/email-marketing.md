@@ -68,7 +68,7 @@ Start simple with one or two segments, and build from there. You don't need to c
 
 ## Craft Compelling Subject Lines
 
-![Leonardo AI | Athena Character Reference](https://res-5.cloudinary.com/ddicetqs5/image/upload/f_auto,fl_force_strip,q_auto:best/v1/wayfinder-ghost-blog/athena_halloween_E2kQ9VFL)
+![Leonardo AI | Athena Character Reference](https://res.cloudinary.com/ddicetqs5/image/upload/c_fill,f_auto,fl_force_strip,q_auto:best/v1763925749/wayfinder-images/k6jzkczfszzbngukowyl)
 
 Alright, let's talk subject lines. These little nuggets of text are like the headline on a newspaper stand – they need to grab attention and make people want to read more. In the world of overflowing inboxes, your subject line is your ticket to getting noticed.
 
@@ -141,7 +141,7 @@ Remember, A/B testing is an ongoing process. What works today might not work tom
 
 ## Personalize Your Content
 
-![Leonardo AI | Athena Character Reference](https://res-4.cloudinary.com/ddicetqs5/image/upload/f_auto,fl_force_strip,q_auto:best/v1/wayfinder-ghost-blog/athena_halloween_e34HIakb)
+![Leonardo AI | Athena Character Reference](https://res.cloudinary.com/ddicetqs5/image/upload/c_fill,f_auto,fl_force_strip,q_auto:best/v1763925751/wayfinder-images/ewneildrocts8jhgxoec)
 
 Alright, we've got them to open the email. Now what? It's time to deliver on the promise of that killer subject line with some seriously personalized content. This is where we turn casual readers into loyal fans.
 
@@ -253,6 +253,6 @@ Create a testing group within your team or friends. Send them your email and ask
 
 ## Conclusion
 
-![Leonardo AI | Athena Character Reference](https://res-5.cloudinary.com/ddicetqs5/image/upload/f_auto,fl_force_strip,q_auto:best/v1/wayfinder-ghost-blog/athena_HAkjoofd)
+![Leonardo AI | Athena Character Reference](https://res.cloudinary.com/ddicetqs5/image/upload/c_fill,f_auto,fl_force_strip,q_auto:best/v1763925753/wayfinder-images/tbohu8dubqofto4okbow)
 
 Implementing these email marketing strategies can significantly impact your entrepreneurial success. By focusing on building a quality list, crafting compelling content, and leveraging automation, you'll be well-positioned to grow your business. Remember, effective email marketing is an ongoing process of testing and refinement. Don't be afraid to experiment and adapt your approach based on your audience's responses and preferences. Start applying these strategies today, and watch your email marketing efforts transform into a powerful engine for business growth in 2024 and beyond.

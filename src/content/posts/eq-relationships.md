@@ -47,7 +47,7 @@ Listen, I get it. Emotions are messy, complicated, and sometimes downright incon
 
 ## My Utterly Non-Expert Guide to Boosting Your Emotional Intelligence
 
-![Leonardo AI | Athena Character Reference](https://res-2.cloudinary.com/ddicetqs5/image/upload/f_auto,fl_force_strip,q_auto:best/v1/wayfinder-ghost-blog/Young-techie-lady--44-)
+![Leonardo AI | Athena Character Reference](https://res.cloudinary.com/ddicetqs5/image/upload/c_fill,f_auto,fl_force_strip,q_auto:best/v1763925768/wayfinder-images/mvd3lohmxbnx5r6iji0v)
 
 Alright, let's get down to business. How can you actually improve your emotional intelligence in relationships? Here are some strategies that have worked for me (when I remember to use them):
 

@@ -24,7 +24,7 @@ That word - "**good**" - hit me like a bucket of ice water. When had we started 
 
 That evening, I pulled out my copy of Jim Collins's landmark study on business excellence.
 
-![](https://res-2.cloudinary.com/ddicetqs5/image/upload/f_auto,fl_force_strip,q_auto:best/v1/wayfinder-ghost-blog/audible-athena-good-to-great)
+![Image](https://res.cloudinary.com/ddicetqs5/image/upload/c_fill,f_auto,fl_force_strip,q_auto:best/v1763925624/wayfinder-images/jw3ewd7etsxljfzqapnv)
 
 #### Good to Great: Why Some Companies Make the Leap...And Others Don't
 
@@ -52,7 +52,7 @@ If you're committed to transforming your business from good to great, [smash tha
 
 ## Beyond the Numbers: Inside Collins's Groundbreaking Research
 
-![Leonardo AI | Athena Character Reference](https://res-3.cloudinary.com/ddicetqs5/image/upload/f_auto,fl_force_strip,q_auto:best/v1/wayfinder-ghost-blog/number-crunching-good-to-great)
+![Leonardo AI | Athena Character Reference](https://res.cloudinary.com/ddicetqs5/image/upload/c_fill,f_auto,fl_force_strip,q_auto:best/v1763925625/wayfinder-images/jdn6tyoc8rn6b5bjjcfj)
 
 When I first shared Collins's findings with my executive team, our skeptic-in-chief (aka our Head of Operations) raised an eyebrow. "How reliable is this research?" she asked. It's a fair question - in a world of business bestsellers, what makes this particular study stand out?
 
@@ -88,7 +88,7 @@ The implications cut deep: greatness isn't a matter of circumstance. It's a matt
 
 ## Level 5 Leadership: The Surprising DNA of Great Organizations
 
-![Leonardo AI | Athena Character Reference/Leonardo AI | Athena Character Referencef](https://res-4.cloudinary.com/ddicetqs5/image/upload/f_auto,fl_force_strip,q_auto:best/v1/wayfinder-ghost-blog/leadership-good-to-great)
+![Leonardo AI | Athena Character Reference/Leonardo AI | Athena Character Referencef](https://res.cloudinary.com/ddicetqs5/image/upload/c_fill,f_auto,fl_force_strip,q_auto:best/v1763925628/wayfinder-images/obteinlinkkfgvielaon)
 
 Picture the leaders of the world's most successful companies. Your mind might jump to charismatic figures like Steve Jobs or bold visionaries like Elon Musk. Yet Collins's research reveals a startling truth: the most transformative business leaders often go unrecognized in the press.
 
@@ -136,7 +136,7 @@ The evidence is compelling: true organizational greatness emerges not from chari
 
 ## The Hedgehog Concept: Finding Your Sweet Spot for Success
 
-![Leonardo AI | Phoenix Model](https://res-3.cloudinary.com/ddicetqs5/image/upload/f_auto,fl_force_strip,q_auto:best/v1/wayfinder-ghost-blog/new_hedgehog)
+![Leonardo AI | Phoenix Model](https://res.cloudinary.com/ddicetqs5/image/upload/c_fill,f_auto,fl_force_strip,q_auto:best/v1763925630/wayfinder-images/q1p1qalznw9hwdflibkx)
 
 ### Ancient Wisdom for Modern Business
 
@@ -193,7 +193,7 @@ The power of the Hedgehog Concept lies not in its complexity, but in its ruthles
 
 ## Building a Culture of Discipline: The Backbone of Sustainable Success
 
-![Leonardo AI | Athena Character Reference](https://res-4.cloudinary.com/ddicetqs5/image/upload/f_auto,fl_force_strip,q_auto:best/v1/wayfinder-ghost-blog/saluting-good-to-great)
+![Leonardo AI | Athena Character Reference](https://res.cloudinary.com/ddicetqs5/image/upload/c_fill,f_auto,fl_force_strip,q_auto:best/v1763925632/wayfinder-images/ci3cokreibewiszfdq3h)
 
 ### The Disciplined Organization Defined
 
@@ -258,7 +258,7 @@ Freedom paradoxically emerges from discipline. When people internalize disciplin
 
 ## The Technology Accelerator Effect: Catalyst, Not Creator
 
-![Leonardo AI | Athena Character Reference](https://res-1.cloudinary.com/ddicetqs5/image/upload/f_auto,fl_force_strip,q_auto:best/v1/wayfinder-ghost-blog/tech-effect-good-to-great)
+![Leonardo AI | Athena Character Reference](https://res.cloudinary.com/ddicetqs5/image/upload/c_fill,f_auto,fl_force_strip,q_auto:best/v1763925634/wayfinder-images/ejgba09y2tojscgeruyx)
 
 ### Debunking Tech Myths
 
@@ -315,7 +315,7 @@ Technology _amplifies greatness, but it doesn't create it_. The key is selecting
 
 ## The Flywheel Principle: Building Unstoppable Momentum
 
-![Leonardo AI | Athena Character Reference](https://res-2.cloudinary.com/ddicetqs5/image/upload/f_auto,fl_force_strip,q_auto:best/v1/wayfinder-ghost-blog/fly-wheel-good-to-great)
+![Leonardo AI | Athena Character Reference](https://res.cloudinary.com/ddicetqs5/image/upload/c_fill,f_auto,fl_force_strip,q_auto:best/v1763925636/wayfinder-images/ifxgpnxe7mxpibzum0xn)
 
 ### The Physics of Business Success
 
@@ -388,7 +388,7 @@ The power of the flywheel lies not in any single push, but in the consistency of
 
 ## The Stockdale Paradox: Balancing Realism and Faith
 
-![Leonardo AI | Athena Character Reference](https://res-5.cloudinary.com/ddicetqs5/image/upload/f_auto,fl_force_strip,q_auto:best/v1/wayfinder-ghost-blog/stockdale-good-to-great)
+![Leonardo AI | Athena Character Reference](https://res.cloudinary.com/ddicetqs5/image/upload/c_fill,f_auto,fl_force_strip,q_auto:best/v1763925638/wayfinder-images/ke4kh5xuuqsstnrgk3ic)
 
 ### The Origins of Unwavering Resolve
 
@@ -436,7 +436,7 @@ The path to greatness requires both unflinching realism about where you are and 
 
 ## Modern Applications: Good to Great in Today's Business Landscape
 
-![Leonardo AI | Athena Character Reference](https://res-4.cloudinary.com/ddicetqs5/image/upload/f_auto,fl_force_strip,q_auto:best/v1/wayfinder-ghost-blog/modern-applications-good-to-great)
+![Leonardo AI | Athena Character Reference](https://res.cloudinary.com/ddicetqs5/image/upload/c_fill,f_auto,fl_force_strip,q_auto:best/v1763925640/wayfinder-images/ccmjs8pgzjdgaba9kgff)
 
 ### Tech Giants Leading the Way
 
@@ -512,7 +512,7 @@ Organizations that maintain these foundational principles while adapting to mode
 
 ## Implementation Guide: From Theory to Transformation
 
-![Leonardo AI | Athena Character Reference](https://res-5.cloudinary.com/ddicetqs5/image/upload/f_auto,fl_force_strip,q_auto:best/v1/wayfinder-ghost-blog/implementation-guide-good-to-great)
+![Leonardo AI | Athena Character Reference](https://res.cloudinary.com/ddicetqs5/image/upload/c_fill,f_auto,fl_force_strip,q_auto:best/v1763925642/wayfinder-images/ufwibxco2w6aenhldqdl)
 
 ### The First 90 Days
 
@@ -594,7 +594,7 @@ Sustainable transformation isn't about speed — it's about building foundations
 
 ## Expert Tips and Insights: Voices from the Field
 
-![Leonardo AI | Athena Character Reference](https://res-3.cloudinary.com/ddicetqs5/image/upload/f_auto,fl_force_strip,q_auto:best/v1/wayfinder-ghost-blog/voices-from-the-field)
+![Leonardo AI | Athena Character Reference](https://res.cloudinary.com/ddicetqs5/image/upload/c_fill,f_auto,fl_force_strip,q_auto:best/v1763925644/wayfinder-images/fmhmexcbmtyyysulr5ou)
 
 ### Leadership Luminaries Speak
 
@@ -668,7 +668,7 @@ Great leaders combine timeless principles with modern execution methods, creatin
 
 ## Your Path Forward: From Insights to Action
 
-![Leonardo AI | Athena Character Reference](https://res-5.cloudinary.com/ddicetqs5/image/upload/f_auto,fl_force_strip,q_auto:best/v1/wayfinder-ghost-blog/your-path-forward-good-to-great)
+![Leonardo AI | Athena Character Reference](https://res.cloudinary.com/ddicetqs5/image/upload/c_fill,f_auto,fl_force_strip,q_auto:best/v1763925647/wayfinder-images/kzxbhjy3izc8a5npo36k)
 
 ### Start Your Transformation Today
 

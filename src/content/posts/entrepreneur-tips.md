@@ -31,7 +31,7 @@ Carmichael's insights are precious in a world where traditional success metrics 
 
 ## Why You Should Read and Buy the Book
 
-![Leonardo.Ai | Prompt "An owl enjoying reading a book"](https://res-5.cloudinary.com/ddicetqs5/image/upload/f_auto,fl_force_strip,q_auto:best/t_wm2px_outline/v1/wayfinder-ghost-blog/1_TpPb4oL5TtxhRo0mpxnOLQ)
+![Leonardo.Ai | Prompt "An owl enjoying reading a book"](https://res.cloudinary.com/ddicetqs5/image/upload/c_fill,f_auto,fl_force_strip,q_auto:best/v1763925758/wayfinder-images/ce8iwstssg7wbg6vf9nf)
 
 "Built to Serve" is more than a business manual; it's a blueprint for a fulfilling life. Here's why this book is a must-read:
 
@@ -40,7 +40,7 @@ Carmichael's insights are precious in a world where traditional success metrics 
 1. **Broad Appeal Beyond Business**: While the book offers invaluable lessons for the business-minded, its teachings on leadership, empathy, and innovation resonate with a broader audience. These universal themes make "Built to Serve" beneficial for anyone looking to impact their community or profession positively.
 1. **Actionable Steps for a Purpose-Driven Life**: Carmichael provides straightforward, actionable steps to help readers align their values with their career aspirations. This practical advice paves the way for a more fulfilling and purpose-driven life, making "Built to Serve" a comprehensive guide for personal and professional growth.
 
-![](https://res-4.cloudinary.com/ddicetqs5/image/upload/f_auto,fl_force_strip,q_auto:best/v1/wayfinder-ghost-blog/built-to-serve)
+![Image](https://res.cloudinary.com/ddicetqs5/image/upload/c_fill,f_auto,fl_force_strip,q_auto:best/v1763925760/wayfinder-images/zkmynhigp1oyof3nzgx7)
 
 #### Built to Serve: Find Your Purpose and Become the Leader You Were Born to Be
 
@@ -54,7 +54,7 @@ Are you curious about adopting Carmichael's progressive insights? Listen to the 
 
 ## Call to Action
 
-![Leonardo.Ai | Prompt "An owl marching"](https://res-1.cloudinary.com/ddicetqs5/image/upload/f_auto,fl_force_strip,q_auto:best/t_wm2px_outline/v1/wayfinder-ghost-blog/1_O3sbMHK6LQxSgVD4FhhtOw)
+![Leonardo.Ai | Prompt "An owl marching"](https://res.cloudinary.com/ddicetqs5/image/upload/c_fill,f_auto,fl_force_strip,q_auto:best/v1763925762/wayfinder-images/qwaxf1wbnnnslrl6cgka)
 
 Embark on a journey of self-discovery and professional excellence with "Built to Serve." By purchasing this book through my Amazon affiliate link, you'll gain access to invaluable insights and support for my blog, allowing me to continue providing high-quality content and recommendations.
 
@@ -62,7 +62,7 @@ For those keen on exploring the mindset of successful entrepreneurs and leaders,
 
 ## Conclusion
 
-![Leonardo.Ai | An owl crossing a racing finish line.](https://res-2.cloudinary.com/ddicetqs5/image/upload/f_auto,fl_force_strip,q_auto:best/t_wm2px_outline/v1/wayfinder-ghost-blog/1_GUyHHiK-m8ieMyU5R-ZSHw)
+![Leonardo.Ai | An owl crossing a racing finish line.](https://res.cloudinary.com/ddicetqs5/image/upload/c_fill,f_auto,fl_force_strip,q_auto:best/v1763925764/wayfinder-images/yij7fdntnpdcriqilji5)
 
 "Built to Serve" by Evan Carmichael is indispensable to any entrepreneur's library. Its emphasis on divergent thinking and actionable steps for aligning personal values and professional goals make it a standout read.
 
@@ -72,7 +72,7 @@ Seize this opportunity to alter your approach to business and life. Get your cop
 
 ## Compliance, Guidelines, and Acknowledgements
 
-![Leonardo.Ai | An owl counting.](https://res-5.cloudinary.com/ddicetqs5/image/upload/f_auto,fl_force_strip,q_auto:best/l_text:Arial_36:wayfinder.page,co_rgb:51b3d0,w_0.18,fl_relative/e_outline:2:0,co_rgb:ffffff/fl_layer_apply,g_south_east,x_10,y_10/v1/wayfinder-ghost-blog/0_uGgtPirpHbchvnrc)
+![Leonardo.Ai | An owl counting.](https://res.cloudinary.com/ddicetqs5/image/upload/c_fill,f_auto,fl_force_strip,q_auto:best/v1763925767/wayfinder-images/kdy9pp63btcdzblroxs3)
 
 :::info Affiliate Disclosure
 

@@ -33,7 +33,7 @@ Speaking of understanding your audience, if you want more insider tips on conten
 
 ## 2. Craft a Killer Headline (That Doesn't Make You Cringe)
 
-![Leonardo AI | Athena Character Reference](https://res-4.cloudinary.com/ddicetqs5/image/upload/f_auto,fl_force_strip,q_auto:best/v1/wayfinder-ghost-blog/ultimate-guide-writing-engaging-blog-posts-inline-1)
+![Leonardo AI | Athena Character Reference](https://res.cloudinary.com/ddicetqs5/image/upload/c_fill,f_auto,fl_force_strip,q_auto:best/v1763925605/wayfinder-images/ulpmgfm9ou2gbwwdthdn)
 
 Your headline is like the pickup line of the blogging world. It needs to be catchy enough to make readers stop scrolling, but not so cheesy that they roll their eyes so hard they sprain something.
 
@@ -79,7 +79,7 @@ And don't forget, white space is your friend. Give your paragraphs some breathin
 
 ## 5. Find Your Voice (And No, I Don't Mean Start Singing)
 
-![Leonardo AI | Athena Character Reference](https://res-4.cloudinary.com/ddicetqs5/image/upload/f_auto,fl_force_strip,q_auto:best/v1/wayfinder-ghost-blog/ultimate-guide-writing-engaging-blog-posts-inline-2)
+![Leonardo AI | Athena Character Reference](https://res.cloudinary.com/ddicetqs5/image/upload/c_fill,f_auto,fl_force_strip,q_auto:best/v1763925606/wayfinder-images/bpy8ck89tga7p2fdexbg)
 
 Your blogging voice is like your fingerprint – it should be uniquely you. Unless your natural voice is super boring, in which case, feel free to steal someone else's. (Kidding! Please don't sue me.)
 
@@ -117,7 +117,7 @@ Just make sure your visuals are relevant. Don't just throw in a picture of a cut
 
 ## 8. Edit Like Your Life Depends On It (It Doesn't, But Pretend It Does)
 
-![Leonardo AI | Athena Character Reference](https://res-5.cloudinary.com/ddicetqs5/image/upload/f_auto,fl_force_strip,q_auto:best/v1/wayfinder-ghost-blog/ultimate-guide-writing-engaging-blog-posts-inline-3)
+![Leonardo AI | Athena Character Reference](https://res.cloudinary.com/ddicetqs5/image/upload/c_fill,f_auto,fl_force_strip,q_auto:best/v1763925609/wayfinder-images/vptsfro4qakv6e8edmm1)
 
 Editing is like going to the gym. It's painful, time-consuming, and you'd rather be doing literally anything else. But it's necessary if you don't want your blog post to look like it was written by a caffeinated squirrel.
 

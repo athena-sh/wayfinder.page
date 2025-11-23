@@ -27,7 +27,7 @@ So grab your favorite beverage, settle into that comfy chair, and let's get this
 
 _(Or: Why Your Cat Isn't a Qualified Life Coach)_
 
-![Leonardo AI | Athena Character Reference](https://res-4.cloudinary.com/ddicetqs5/image/upload/f_auto,fl_force_strip,q_auto:best/v1/wayfinder-ghost-blog/coaching-conundrum)
+![Leonardo AI | Athena Character Reference](https://res.cloudinary.com/ddicetqs5/image/upload/c_fill,f_auto,fl_force_strip,q_auto:best/v1763925682/wayfinder-images/wqnp3hert1dxv8tcqwe4)
 
 Let's face it: the internet is crawling with self-proclaimed 'experts' offering advice on everything from manifesting millions to communicating with houseplants. So, how do you stand out in this sea of digital gurus? Here's the deal:
 
@@ -51,7 +51,7 @@ But here's the secret: you don't need to be a tech wizard. Start simple. Focus o
 
 _(AKA: How to Be the Beyoncé of Online Mentoring)_
 
-![Leonardo AI | Athena Character Reference](https://res-1.cloudinary.com/ddicetqs5/image/upload/f_auto,fl_force_strip,q_auto:best/v1/wayfinder-ghost-blog/coaching-charm)
+![Leonardo AI | Athena Character Reference](https://res.cloudinary.com/ddicetqs5/image/upload/c_fill,f_auto,fl_force_strip,q_auto:best/v1763925685/wayfinder-images/egb3rrsg2u3sttthjydo)
 
 Let's face it, becoming the Beyoncé of online coaching isn't just about having a killer voice (though belting out "Single Ladies" during your sessions might help). It's about creating a persona that's so magnetic, clients will be lining up faster than fans at a concert. Here's how to strut your stuff in the digital coaching world:
 
@@ -78,7 +78,7 @@ Follow these, and you'll be well on your way to becoming the Beyoncé of online 
 
 _(Or: How to Know You've Made It Without Getting a Big Head)_
 
-![Leonardo AI | Athena Character Reference](https://res-1.cloudinary.com/ddicetqs5/image/upload/f_auto,fl_force_strip,q_auto:best/v1/wayfinder-ghost-blog/smell-of-coaching-success)
+![Leonardo AI | Athena Character Reference](https://res.cloudinary.com/ddicetqs5/image/upload/c_fill,f_auto,fl_force_strip,q_auto:best/v1763925687/wayfinder-images/aultghjqhgicfdlb3ufy)
 
 Let's get real for a second – when you nail this online coaching gig, you're in for some pretty sweet perks. But before you start imagining yourself as the Tony Robbins of the internet, let's break down what success actually looks like in this wild world of virtual mentoring.
 
@@ -96,7 +96,7 @@ So there you have it, folks. The sweet smell of coaching success isn't just abou
 
 ## Conclusion
 
-![Leonardo AI | Athena Character Reference](https://res-2.cloudinary.com/ddicetqs5/image/upload/f_auto,fl_force_strip,q_auto:best/v1/wayfinder-ghost-blog/coaching-conclusion)
+![Leonardo AI | Athena Character Reference](https://res.cloudinary.com/ddicetqs5/image/upload/c_fill,f_auto,fl_force_strip,q_auto:best/v1763925689/wayfinder-images/ozqmbvqkzqkhl2dufnyq)
 
 Building a successful online coaching business isn't just about spouting wisdom from your couch (though that's definitely a perk). It's about finding your unique voice, delivering real value, and connecting with folks who need your know-how. With the right approach, you can create a coaching practice that's as fulfilling as it's profitable.
 
