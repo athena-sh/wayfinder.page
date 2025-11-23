@@ -25,7 +25,7 @@ Ready to transform your travel tales into a money-making machine? Buckle up, bec
 
 ## The Money Conundrum
 
-![Leonardo AI | Athena Character Reference](https://res-3.cloudinary.com/ddicetqs5/image/upload/f_auto,fl_force_strip,q_auto:best/v1/wayfinder-ghost-blog/money-conundrum)
+![Leonardo AI | Athena Character Reference](https://res.cloudinary.com/ddicetqs5/image/upload/c_fill,f_auto,fl_force_strip,q_auto:best/v1763934832/wayfinder-images/hlgzpx0msv7cmcbzzqfg)
 
 _(Or: Why Your Instagram Likes Don't Pay the Bills)_
 
@@ -112,7 +112,7 @@ Remember, diversification is key. Don't put all your eggs in one monetary basket
 
 _(And It Doesn't Just Smell Like Sunscreen)_
 
-![](https://res-2.cloudinary.com/ddicetqs5/image/upload/f_auto,fl_force_strip,q_auto:best/v1/wayfinder-ghost-blog/sweet-smell-of-success)
+![Image](https://res.cloudinary.com/ddicetqs5/image/upload/c_fill,f_auto,fl_force_strip,q_auto:best/v1763934834/wayfinder-images/kng626khvoq6z585vpns)
 
 Let's be real: turning your travel blog into a money-making machine isn't just about snapping Instagram-worthy shots of your toes in the sand. It's a journey that's equal parts exhilarating and terrifying, kind of like that time I tried surfing and ended up with a mouthful of seawater and a bruised ego.
 
@@ -133,7 +133,7 @@ Remember that time I tried to monetize by selling "authentic" sand from various 
 
 ## Conclusion
 
-![Leonardo AI | Athena Character Reference](https://res-2.cloudinary.com/ddicetqs5/image/upload/f_auto,fl_force_strip,q_auto:best/v1/wayfinder-ghost-blog/pack-light-success)
+![Leonardo AI | Athena Character Reference](https://res.cloudinary.com/ddicetqs5/image/upload/c_fill,f_auto,fl_force_strip,q_auto:best/v1763934837/wayfinder-images/knr8snmdfeejd1eiql7r)
 
 Turning your passion for travel into a sustainable income isn't a quick journey, but it's certainly an exciting one. By implementing the travel blog monetization strategies we've discussed, you're setting yourself up for long-term success. Remember, authenticity is key – your unique voice and experiences are what will set you apart in the crowded travel blogging space.
 

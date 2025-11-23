@@ -3,7 +3,7 @@ title: "Work-Life Balance Is a Lie—And You're Buying It"
 published: 2025-05-19
 description: "Everyone's selling you work-life balance like it's achievable. Spoiler: it's not. But here's what actually works when you stop chasing the impossible and start playing the real game."
 image: scale-unbalanced.svg
-hero: "https://res.cloudinary.com/ddicetqs5/image/upload/f_auto/t_wm2px_outline/v1747670527/wayfinder-images/work-life-balance-career-success-strategies-heroImage_yppneh"
+hero: https://res.cloudinary.com/ddicetqs5/image/upload/c_fill,f_auto,fl_force_strip,q_auto:best/t_wm2px_outline/v1747670527/wayfinder-images/work-life-balance-career-success-strategies-heroImage_yppneh
 tags: ["Meditation", "Productivity"]
 category: "Opinion"
 draft: false

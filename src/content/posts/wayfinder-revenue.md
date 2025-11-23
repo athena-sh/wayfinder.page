@@ -32,7 +32,7 @@ This section of our story is not just a look back at where we've been but a test
 
 ### The Revenue Explosion: A 10-Fold Increase
 
-![](https://res.cloudinary.com/ddicetqs5/image/upload/c_fill,f_auto,fl_force_strip,q_auto:best/v1763877728/wayfinder-images/kjqwxgqo4aq2qsioeqcu)
+![Image](https://res.cloudinary.com/ddicetqs5/image/upload/c_fill,f_auto,fl_force_strip,q_auto:best/v1763877728/wayfinder-images/kjqwxgqo4aq2qsioeqcu)
 
 The impact of joining Medium's ‘ Friend of Medium' program on Welcome Rain's revenue was nothing short of spectacular-a monumental 10-fold increase within just a few days!
 

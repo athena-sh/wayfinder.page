@@ -49,7 +49,7 @@ Keep in mind, you're not trying to recreate a rainbow. A pop of color here and t
 
 ## 3. Typography: It's Not Just for Coffee Snobs
 
-![Leonardo AI | Athena Character Reference](https://res-3.cloudinary.com/ddicetqs5/image/upload/f_auto,fl_force_strip,q_auto:best/v1/wayfinder-ghost-blog/Illustrative_Albedo_A_captivating_techsavvy_woman_Athena_exudi_3--43-)
+![Leonardo AI | Athena Character Reference](https://res.cloudinary.com/ddicetqs5/image/upload/c_fill,f_auto,fl_force_strip,q_auto:best/v1763934867/wayfinder-images/j8zhzcdpvp8czv2i6ebt)
 
 Typography can make or break your design. It's like choosing the right outfit for a first date – you want to make a good impression without trying too hard. Here are some tips:
 
@@ -73,7 +73,7 @@ Look for images that tell a story or evoke an emotion. A picture of a laptop on 
 
 ## 5. Tools of the Trade: No Expensive Software Required
 
-![Leonardo AI | Athena Character Reference](https://res-5.cloudinary.com/ddicetqs5/image/upload/f_auto,fl_force_strip,q_auto:best/v1/wayfinder-ghost-blog/Illustrative_Albedo_A_captivating_techsavvy_woman_Athena_exudi_4--46-)
+![Leonardo AI | Athena Character Reference](https://res.cloudinary.com/ddicetqs5/image/upload/c_fill,f_auto,fl_force_strip,q_auto:best/v1763934869/wayfinder-images/sl1tkmjd0lapabgbjfyr)
 
 You don't need a degree in graphic design or a subscription to Adobe Creative Suite to create stunning visuals. There are plenty of user-friendly tools out there for us design newbies:
 
@@ -94,7 +94,7 @@ There's no shame in looking at other designs for inspiration. In fact, it's enco
 
 ## 8. Embrace the Power of Negative Space
 
-![Leonardo AI | Athena Character Reference](https://res-3.cloudinary.com/ddicetqs5/image/upload/f_auto,fl_force_strip,q_auto:best/v1/wayfinder-ghost-blog/Illustrative_Albedo_A_captivating_techsavvy_woman_Athena_exudi_2--43-)
+![Leonardo AI | Athena Character Reference](https://res.cloudinary.com/ddicetqs5/image/upload/c_fill,f_auto,fl_force_strip,q_auto:best/v1763934872/wayfinder-images/cgwoti1h40sksoykxes1)
 
 Negative space (also known as white space) is like the introvert at a party – it might not be the center of attention, but it plays a crucial role. Don't feel the need to fill every inch of your design. Give your elements room to breathe. It's like decluttering your closet – suddenly, everything looks better!
 
@@ -108,7 +108,7 @@ At the end of the day, design is about creativity and expression. Don't get so c
 
 ## The Grand Finale: You've Got This!
 
-![Leonardo AI | Athena Character Reference](https://res-2.cloudinary.com/ddicetqs5/image/upload/f_auto,fl_force_strip,q_auto:best/v1/wayfinder-ghost-blog/Illustrative_Albedo_A_captivating_techsavvy_woman_Athena_exudi_1--49-)
+![Leonardo AI | Athena Character Reference](https://res.cloudinary.com/ddicetqs5/image/upload/c_fill,f_auto,fl_force_strip,q_auto:best/v1763934874/wayfinder-images/wwct9nxhggk9od6uxzyi)
 
 Recall, every great designer started as a beginner. Your first attempts might look like a toddler got hold of your computer, but that's okay! Keep practicing, keep learning, and before you know it, you'll be creating visuals that make people go "Wow, did you really make that?"
 

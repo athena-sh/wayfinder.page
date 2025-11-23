@@ -2,7 +2,7 @@
 title: "How to Go Viral on TikTok: Insider Tips from a Wannabe Influencer"
 description: "Uncover practical strategies for creating viral TikTok content. Learn to nail trends, create engaging hooks, and build your audience from a fellow TikTok enthusiast."
 image: tiktok.svg
-hero: "https://res.cloudinary.com/ddicetqs5/image/upload/f_auto,fl_force_strip,q_auto:best/v1758430810/wayfinder-images/heroImage_luy2z2"
+hero: https://res.cloudinary.com/ddicetqs5/image/upload/c_fill,f_auto,fl_force_strip,q_auto:best/v1758430810/wayfinder-images/heroImage_luy2z2
 published: 2024-08-05
 draft: false
 tags:

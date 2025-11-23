@@ -28,7 +28,7 @@ Remember, your hook isn't just about being flashy – it's about promising value
 
 ## Optimize for Platform Algorithms
 
-![Leonardo AI | Athena Character Reference](https://res-4.cloudinary.com/ddicetqs5/image/upload/f_auto,fl_force_strip,q_auto:best/v1/wayfinder-ghost-blog/athena_halloween_0easllUy)
+![Leonardo AI | Athena Character Reference](https://res.cloudinary.com/ddicetqs5/image/upload/c_fill,f_auto,fl_force_strip,q_auto:best/v1763934851/wayfinder-images/lmemq5akrlginvwcunwu)
 
 Ah, algorithms. Those mysterious digital gatekeepers that decide whether your video goes viral or ends up in the virtual equivalent of a dusty attic. While we can't crack the code entirely (sorry, no cheat codes here), we can certainly play the game better.
 
@@ -86,7 +86,7 @@ Always leave them wanting more. End your video on a high note, and they'll be ea
 
 ## Encourage User-Generated Content
 
-![Leonardo AI | Athena Character Reference](https://res-5.cloudinary.com/ddicetqs5/image/upload/f_auto,fl_force_strip,q_auto:best/v1/wayfinder-ghost-blog/athena_halloween_1vXzFRs5)
+![Leonardo AI | Athena Character Reference](https://res.cloudinary.com/ddicetqs5/image/upload/c_fill,f_auto,fl_force_strip,q_auto:best/v1763934853/wayfinder-images/lkdvu94xmuyotkw1rolp)
 
 Want to know a secret? Your audience can be your best content creators. User-generated content (UGC) is like word-of-mouth marketing on steroids. It's authentic, it's engaging, and best of all, it takes some of the content creation burden off your shoulders.
 
@@ -132,7 +132,7 @@ And please, don't ask influencers to work for "exposure." They can't pay rent wi
 
 ## Analyze and Iterate
 
-![Leonardo AI | Athena Character Reference](https://res-4.cloudinary.com/ddicetqs5/image/upload/f_auto,fl_force_strip,q_auto:best/v1/wayfinder-ghost-blog/athena_halloween_1xSqlJ78)
+![Leonardo AI | Athena Character Reference](https://res.cloudinary.com/ddicetqs5/image/upload/c_fill,f_auto,fl_force_strip,q_auto:best/v1763934855/wayfinder-images/im63rhqmr29bdcegbrxj)
 
 Alright, you've implemented all these strategies. You're feeling pretty good about yourself. Time to sit back and watch the views roll in, right? Wrong!
 

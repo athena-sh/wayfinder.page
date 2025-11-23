@@ -20,7 +20,7 @@ This isn't a lofty promise but the core premise of "The 12 Week Year" by Brian P
 This revolutionary approach redefines the concept of a year, condensing it into 12 weeks, thereby instilling a sense of urgency, focus, and clarity that traditional annual planning needs simply lack.
 
 
-![Created by the author using a Wayfinder logo, an image of the book cover, and Canva to stylize.](https://res-3.cloudinary.com/ddicetqs5/image/upload/f_auto,fl_force_strip,q_auto:best/v1/wayfinder-ghost-blog/12-week)
+![Created by the author using a Wayfinder logo, an image of the book cover, and Canva to stylize.](https://res.cloudinary.com/ddicetqs5/image/upload/c_fill,f_auto,fl_force_strip,q_auto:best/v1763934879/wayfinder-images/yqrqwshyalobekzvl6lv)
 
 At its heart, "The 12 Week Year" challenges the status quo of annual goal setting, often leading to procrastination and lackluster results.
 
@@ -52,7 +52,7 @@ They delve into common pitfalls that hinder progress, such as fear of failure an
 
 > The book has real-world examples and actionable advice that make the 12-week year concept not just aspirational but achievable.
 
-![Leonardo AI | Prompt: "A young techie lady with a vibrant personality, sporting trendy glasses, light blue (hex color #5F92C3) highlights in her hair and accompanied by a small single playful cartoon owl familiar, stands confidently against a backdrop of mountains and rivers."](https://res-5.cloudinary.com/ddicetqs5/image/upload/f_auto,fl_force_strip,q_auto:best/v1/wayfinder-ghost-blog/Young-Techie-Lady--12-)
+![Leonardo AI | Prompt: "A young techie lady with a vibrant personality, sporting trendy glasses, light blue (hex color #5F92C3) highlights in her hair and accompanied by a small single playful cartoon owl familiar, stands confidently against a backdrop of mountains and rivers."](https://res.cloudinary.com/ddicetqs5/image/upload/c_fill,f_auto,fl_force_strip,q_auto:best/v1763934881/wayfinder-images/rwl5qhfbnxphymbhgtbg)
 
 ### More Than Just Productivity
 

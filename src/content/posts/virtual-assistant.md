@@ -28,7 +28,7 @@ The VA industry has seen some impressive growth in the last decade, especially w
 
 _What You Need Before Becoming a Virtual Helper Extraordinaire_
 
-![Leonardo AI | Athena Character Reference](https://res.cloudinary.com/ddicetqs5/image/upload/f_auto/v1731731974/wayfinder-ghost-blog/187-virtual-assistant-career-guide-3-465014)
+![Leonardo AI | Athena Character Reference](https://res.cloudinary.com/ddicetqs5/image/upload/c_fill,f_auto,fl_force_strip,q_auto:best/v1763934858/wayfinder-images/vgvoixui9f1lv8uabcsp)
 
 ### Essential Skills for Virtual Assistants
 
@@ -46,7 +46,7 @@ Here's the good news: you don't need a Harvard diploma to become a VA. However, 
 
 _How to Set Yourself Up for VA Success Without Losing Your Sanity_
 
-![Leonardo AI | Athena Character Reference](https://res.cloudinary.com/ddicetqs5/image/upload/f_auto/v1731731976/wayfinder-ghost-blog/187-virtual-assistant-career-guide-4-833275)
+![Leonardo AI | Athena Character Reference](https://res.cloudinary.com/ddicetqs5/image/upload/c_fill,f_auto,fl_force_strip,q_auto:best/v1763934859/wayfinder-images/lmkant3b0qixzrohzxxi)
 
 ### Deciding Your Niche
 
@@ -94,7 +94,7 @@ Completing these steps will set you on the right path to building a sustainable 
 
 _Challenges? Let's Roll Up Our Sleeves_
 
-![Leonardo AI | Athena Character Reference](https://res.cloudinary.com/ddicetqs5/image/upload/f_auto/v1731732010/wayfinder-ghost-blog/187-virtual-assistant-career-guide-1-485756)
+![Leonardo AI | Athena Character Reference](https://res.cloudinary.com/ddicetqs5/image/upload/c_fill,f_auto,fl_force_strip,q_auto:best/v1763934862/wayfinder-images/eb59ue0aqei4sqgeofr9)
 
 ### Common Challenges and Solutions
 
@@ -124,7 +124,7 @@ Ah, difficult clients — the Achilles' heel of every seasoned VA. Whether they'
 
 _You've Made It This Far — Now Keep Going!_
 
-![Leonardo AI | Athena Character Reference](https://res-2.cloudinary.com/ddicetqs5/image/upload/f_auto,fl_force_strip,q_auto:best/v1/wayfinder-ghost-blog/187-virtual-assistant-career-guide-conclusion)
+![Leonardo AI | Athena Character Reference](https://res.cloudinary.com/ddicetqs5/image/upload/c_fill,f_auto,fl_force_strip,q_auto:best/v1763934864/wayfinder-images/uo5x6xpuvhzr2wc1b9xr)
 
 ### Recap of Key Points
 

@@ -48,7 +48,7 @@ Keep in mind, the best software is the one you'll actually use. Don't get bogged
 
 ## Getting Started: The Basics of Video Editing
 
-![Leonardo AI | Athena Character Reference](https://res-5.cloudinary.com/ddicetqs5/image/upload/f_auto,fl_force_strip,q_auto:best/v1/wayfinder-ghost-blog/Illustrative_Albedo_Heres_the_adjusted_promptA_captivating_tec_1--4-)
+![Leonardo AI | Athena Character Reference](https://res.cloudinary.com/ddicetqs5/image/upload/c_fill,f_auto,fl_force_strip,q_auto:best/v1763934846/wayfinder-images/ix2wvd0jt2wdyjh5ucrd)
 
 Alright, you've got your software. Now what? Let's break down the basics:
 
@@ -80,7 +80,7 @@ Look, we all make mistakes. Here are some common ones to avoid:
 
 ## The Secret Ingredient: Practice, Practice, Practice
 
-![Leonardo AI | Athena Character Reference](https://res-5.cloudinary.com/ddicetqs5/image/upload/f_auto,fl_force_strip,q_auto:best/v1/wayfinder-ghost-blog/Illustrative_Albedo_Heres_the_adjusted_promptA_captivating_tec_3--5-)
+![Leonardo AI | Athena Character Reference](https://res.cloudinary.com/ddicetqs5/image/upload/c_fill,f_auto,fl_force_strip,q_auto:best/v1763934848/wayfinder-images/eksiyq8buodo74mjzcs3)
 
 Here's the truth: your first video probably won't win an Oscar. And that's okay! Like grilling the perfect burger for your Labor Day cookout, video editing takes practice. The more you do it, the better you'll get.
 

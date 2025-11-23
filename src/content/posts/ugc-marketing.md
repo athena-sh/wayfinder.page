@@ -33,7 +33,7 @@ It was like a lightbulb moment. I realized that no matter how great my own conte
 
 ## The Power of Social Proof
 
-![Leonardo AI | Athena Character Reference](https://res-5.cloudinary.com/ddicetqs5/image/upload/f_auto,fl_force_strip,q_auto:best/v1/wayfinder-ghost-blog/Illustrative_Albedo_A_captivating_techsavvy_woman_Athena_exudi_3--12-)
+![Leonardo AI | Athena Character Reference](https://res.cloudinary.com/ddicetqs5/image/upload/c_fill,f_auto,fl_force_strip,q_auto:best/v1763934839/wayfinder-images/vitugfpizb7cpmpp5hbc)
 
 There's a famous quote by Robert Cialdini, a psychologist and author, that really resonates with this idea:
 
@@ -53,7 +53,7 @@ Alright, so we've established that UGC is pretty awesome. But how do you actuall
 
 ## Leveraging User-Generated Content Effectively
 
-![Leonardo AI | Athena Character Reference](https://res-5.cloudinary.com/ddicetqs5/image/upload/f_auto,fl_force_strip,q_auto:best/v1/wayfinder-ghost-blog/Illustrative_Albedo_A_captivating_techsavvy_woman_Athena_exudi_5--7-)
+![Leonardo AI | Athena Character Reference](https://res.cloudinary.com/ddicetqs5/image/upload/c_fill,f_auto,fl_force_strip,q_auto:best/v1763934841/wayfinder-images/zxcgvljnjxewre3ryu6e)
 
 Once you've got your users creating awesome content, it's time to put it to work. Here's how you can leverage user-generated content to boost your brand:
 
@@ -94,7 +94,7 @@ The possibilities are endless, and I, for one, am excited to see where it all go
 
 ## Wrapping It Up
 
-![Leonardo AI | Athena Character Reference](https://res-3.cloudinary.com/ddicetqs5/image/upload/f_auto,fl_force_strip,q_auto:best/v1/wayfinder-ghost-blog/Illustrative_Albedo_A_captivating_techsavvy_woman_Athena_exudi_7--13-)
+![Leonardo AI | Athena Character Reference](https://res.cloudinary.com/ddicetqs5/image/upload/c_fill,f_auto,fl_force_strip,q_auto:best/v1763934843/wayfinder-images/arvcrv3hkfjhakxosn6m)
 
 So there you have it, folks – a deep dive into the world of user-generated content. Remember, at its core, UGC is about building relationships with your customers and letting them tell your brand story in their own authentic way.
 
