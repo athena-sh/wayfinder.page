@@ -46,3 +46,6 @@ scripts/*
 
 # config folder
 config/
+
+# reports output
+reports/

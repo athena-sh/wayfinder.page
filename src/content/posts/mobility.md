@@ -8,11 +8,9 @@ category: "Guides"
 lang: ""
 ---
 
-
 The authors, a physical therapist, and a CrossFit gym owner argue that humans were designed for constant movement, not prolonged sitting or limited ranges of motion.
 
 As a desk-bound writer, I was intrigued by the promise of discovering how to remedy the "sitting disease" that has tightened my hips, weakened my core, and led to daily aches and pains.
-
 
 The book opens with a sobering description of how drastically human movement patterns have changed over the last few centuries, leaving most of us immobilized and dysfunctional. However, the authors quickly pivoted to solutions and a step-by-step mobility and alignment program to awaken our inner athletes.
 
@@ -20,7 +18,7 @@ If you spend your days slouched in front of screens, _built to move_ may be just
 
 ### Humans are designed for movement
 
-![](https://cdn-images-1.medium.com/max/800/0*sdwtvQY9hBFgK7q9.png)
+![Built to move graphic generated using AI](https://res.cloudinary.com/ddicetqs5/image/upload/c_fill,f_auto,fl_force_strip,q_auto:best/v1763877438/wayfinder-images/nwd30nrmi2nunu1ul0eu)
 
 Humans have evolved to move frequently throughout the day. According to scientific research, our bodies and minds function optimally when we regularly move, walk, and exercise. Staying sedentary for prolonged periods can harm physical and mental health.
 

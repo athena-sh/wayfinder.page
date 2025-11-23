@@ -33,7 +33,7 @@ Let's start with the core principles that define the agile approach.
 
 ## Understanding Agile Methodologies
 
-![Leonardo AI | Athena Character Reference](https://res.cloudinary.com/ddicetqs5/image/upload/f_auto,fl_force_strip,q_auto:best/v1759638780/wayfinder-images/n1agiyq0axqtiyjgdf67)
+![Leonardo AI | Athena Character Reference](https://res.cloudinary.com/ddicetqs5/image/upload/c_fill,f_auto,fl_force_strip,q_auto:best/v1759638780/wayfinder-images/n1agiyq0axqtiyjgdf67)
 
 Agile methodologies have revolutionized the way we approach project management and product development. Let's dive into two popular frameworks: Scrum and Kanban.
 
@@ -68,7 +68,7 @@ This simple visualization helps teams track progress at a glance and identify bo
 
 ## Implementing Agile in Digital Entrepreneurship
 
-![Leonardo AI | Athena Character Reference](https://res-1.cloudinary.com/ddicetqs5/image/upload/f_auto,fl_force_strip,q_auto:best/v1/wayfinder-ghost-blog/agile-methodologies-digital-entrepreneurship-implementing)
+![Leonardo AI | Athena Character Reference](https://res.cloudinary.com/ddicetqs5/image/upload/c_fill,f_auto,fl_force_strip,q_auto:best/v1763925059/wayfinder-images/rrldw7btn8w1xet1jpfl)
 
 Digital entrepreneurs are embracing agile methodologies to stay competitive in a fast-paced market. Let's explore two popular approaches:
 
@@ -102,7 +102,7 @@ XP takes software development practices to the extreme, focusing on technical ex
 
 ## Benefits of Agile for Digital Entrepreneurs
 
-![Leonardo AI | Athena Character Reference](https://res-5.cloudinary.com/ddicetqs5/image/upload/f_auto,fl_force_strip,q_auto:best/v1/wayfinder-ghost-blog/agile-methodologies-digital-entrepreneurship_benefits)
+![Leonardo AI | Athena Character Reference](https://res.cloudinary.com/ddicetqs5/image/upload/c_fill,f_auto,fl_force_strip,q_auto:best/v1763924309/wayfinder-images/purorule4u3eyf7oa9zc)
 
 Agile methodologies offer numerous advantages for digital entrepreneurs. Let's explore two major benefits:
 
@@ -140,7 +140,7 @@ By focusing on customer needs, agile entrepreneurs can create products that trul
 
 ## Overcoming Challenges in Agile Adoption
 
-![Leonardo AI | Athena Character Reference](https://res-4.cloudinary.com/ddicetqs5/image/upload/f_auto,fl_force_strip,q_auto:best/v1/wayfinder-ghost-blog/agile-methodologies-digital-entrepreneurship-overcoming-challenges)
+![Leonardo AI | Athena Character Reference](https://res.cloudinary.com/ddicetqs5/image/upload/c_fill,f_auto,fl_force_strip,q_auto:best/v1763925062/wayfinder-images/khbwfadpdfeacxvpgq8h)
 
 While agile offers many benefits, it's not without its challenges. Let's look at two common hurdles:
 
@@ -176,7 +176,7 @@ Each framework offers different approaches to scaling agile practices across lar
 
 ## Future Trends in Agile Digital Entrepreneurship
 
-![Leonardo AI | Athena Character Reference](https://res-1.cloudinary.com/ddicetqs5/image/upload/f_auto,fl_force_strip,q_auto:best/v1/wayfinder-ghost-blog/agile-methodologies-digital-entrepreneurship-future-trends)
+![Leonardo AI | Athena Character Reference](https://res.cloudinary.com/ddicetqs5/image/upload/c_fill,f_auto,fl_force_strip,q_auto:best/v1763925063/wayfinder-images/efilzwlrf9e4ozrfgizp)
 
 The world of agile is constantly evolving. Let's explore two exciting trends:
 
@@ -213,7 +213,7 @@ These tools help bridge the gap between remote team members, allowing for effect
 
 ## Your Agile Transformation Starts Now
 
-![Leonardo AI | Athena Character Reference](https://res-4.cloudinary.com/ddicetqs5/image/upload/f_auto,fl_force_strip,q_auto:best/v1/wayfinder-ghost-blog/agile-methodologies-digital-entrepreneurship-conclusion)
+![Leonardo AI | Athena Character Reference](https://res.cloudinary.com/ddicetqs5/image/upload/c_fill,f_auto,fl_force_strip,q_auto:best/v1763924314/wayfinder-images/mhjqpu8xyacs4xdzni4r)
 
 Agile methodologies are revolutionizing digital entrepreneurship. They offer a powerful toolkit for success in today's fast-paced business environment.
 

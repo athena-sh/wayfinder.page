@@ -2,7 +2,7 @@
 title: "Fun with Generative AI Art"
 published: 2024-01-10
 description: "DALL-E vs. Midjourney showdown: Which AI creates better fantasy book covers? Compare results from the same prompts."
-hero:  https://res.cloudinary.com/ddicetqs5/image/upload/c_fill,f_auto,fl_force_strip,q_auto:best/v1758592605/wayfinder-images/wornxkn4tnzs2fipheei
+hero: https://res.cloudinary.com/ddicetqs5/image/upload/c_fill,f_auto,fl_force_strip,q_auto:best/v1758592605/wayfinder-images/wornxkn4tnzs2fipheei
 image: paintbrush.svg
 tags: [AI, Art, Technology]
 category: Technology
@@ -29,11 +29,11 @@ Let's see what these AI artists can do!
 
 Remember our fantasy story from last time? Here's how DALL-E visualized it:
 
-![DALL-E's first interpretation](https://res.cloudinary.com/ddicetqs5/image/upload/v1733375528/wayfinder-images/0_N7LUI-2Z2k3rwz4S_bmlwvl.png)
+![DALL-E's first interpretation](https://res.cloudinary.com/ddicetqs5/image/upload/c_fill,f_auto,fl_force_strip,q_auto:best/wayfinder-images/0_N7LUI-2Z2k3rwz4S_bmlwvl.png)
 
-![DALL-E's second attempt](https://res.cloudinary.com/ddicetqs5/image/upload/v1733375832/wayfinder-images/0_Ed1Gc4wqYCPXF2yA_bodlui.png)
+![DALL-E's second attempt](https://res.cloudinary.com/ddicetqs5/image/upload/c_fill,f_auto,fl_force_strip,q_auto:best/wayfinder-images/0_Ed1Gc4wqYCPXF2yA_bodlui.png)
 
-![DALL-E's third variation](https://res.cloudinary.com/ddicetqs5/image/upload/v1733376103/wayfinder-images/0_bwj4iTcqg2cInU3R_rm0u7l.png)
+![DALL-E's third variation](https://res.cloudinary.com/ddicetqs5/image/upload/c_fill,f_auto,fl_force_strip,q_auto:best/v1763918154/wayfinder-images/sx79er2sbytcsfuih3ws)
 
 ## The Creative Challenge
 
@@ -45,19 +45,19 @@ Here's the exact prompt we used for both AI tools:
 
 Now let's see how Midjourney handled the same prompt:
 
-![Midjourney's first take](https://res.cloudinary.com/ddicetqs5/image/upload/v1733411587/wayfinder-images/0_DMssWtIFW5ETC0YS_gtneln.png)
+![Midjourney's first take](https://res.cloudinary.com/ddicetqs5/image/upload/c_fill,f_auto,fl_force_strip,q_auto:best/wayfinder-images/0_DMssWtIFW5ETC0YS_gtneln.png)
 
-![Midjourney's second interpretation](https://res.cloudinary.com/ddicetqs5/image/upload/v1733411714/wayfinder-images/0_G4xD-ogFvB-vGttd_ltcqcv.png)
+![Midjourney's second interpretation](https://res.cloudinary.com/ddicetqs5/image/upload/c_fill,f_auto,fl_force_strip,q_auto:best/wayfinder-images/0_G4xD-ogFvB-vGttd_ltcqcv.png)
 
-![Midjourney's third attempt](https://res.cloudinary.com/ddicetqs5/image/upload/v1733411762/wayfinder-images/0_5MokhzjqP0wUH0K7_fcsyto.png)
+![Midjourney's third attempt](https://res.cloudinary.com/ddicetqs5/image/upload/c_fill,f_auto,fl_force_strip,q_auto:best/wayfinder-images/0_5MokhzjqP0wUH0K7_fcsyto.png)
 
-![Midjourney's fourth variation](https://res.cloudinary.com/ddicetqs5/image/upload/v1733411828/wayfinder-images/0_lJN4NMlBZ3HOVsEZ_xisd5u.png)
+![Midjourney's fourth variation](https://res.cloudinary.com/ddicetqs5/image/upload/c_fill,f_auto,fl_force_strip,q_auto:best/wayfinder-images/0_lJN4NMlBZ3HOVsEZ_xisd5u.png)
 
 ## The Simple Test: Less is More?
 
 We tried a simpler prompt too - just "The Secret of Pandora's Box." Here's what we got:
 
-![DALL-E vs Midjourney simple prompt comparison](https://res.cloudinary.com/ddicetqs5/image/upload/v1733412235/wayfinder-images/1_HynlhTR1ZTgh8lAj1W5IuA_lnntm7.png)
+![DALL-E vs Midjourney simple prompt comparison](https://res.cloudinary.com/ddicetqs5/image/upload/c_fill,f_auto,fl_force_strip,q_auto:best/wayfinder-images/1_HynlhTR1ZTgh8lAj1W5IuA_lnntm7.png)
 
 _DALL-E on the left, Midjourney on the right_
 

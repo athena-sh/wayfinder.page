@@ -8,8 +8,6 @@ lang: ""
 #image: "./heroImage.jpg"
 ---
 
-
-
 ## Over Twenty-Five Years Ago
 
 I managed a Children's shoe store full-time during my undergraduate days. I found a way to introduce information technology (IT) to optimize routine tasks like calculating sales forecasts, goals, inventory control, etc.
@@ -18,7 +16,7 @@ I was anxious to pivot from retail management to the IT world. In fact, I was in
 
 ### Juxtaposition
 
-![Crafted with my imaginative prompts onMidjourney.](https://cdn-images-1.medium.com/max/800/1*q6T8XA389nB62R9UAGvIuw.png)
+![Crafted with my imaginative prompts on Midjourney.](https://res.cloudinary.com/ddicetqs5/image/upload/c_fill,f_auto,fl_force_strip,q_auto:best/v1763877106/wayfinder-images/vpgzt5kingjsns4apezf)
 
 Eventually, I was faced with a fork in the road. Keep doing what I'm doing or consider a significant change. I called an old friend, Tom   —  like a big brother figure   —  for advice on what I had been contemplating. The proposed change was risky and came with a lot of unknowns. You see, opportunity cost is what you forego. It could be the cost of doing nothing vs. maneuvering towards something new.
 

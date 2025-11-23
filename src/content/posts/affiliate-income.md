@@ -63,7 +63,7 @@ While reading, I also discovered how important it is to drink enough water (I co
 
 There are a ton of things that can and will happen if you don't have enough (I was in the hospital as a boy for dehydration on a drip for a week), but more importantly, the positive effects it can have when you drink enough or in abundance, which is why my wife and I have a few of these unique water bottles that measure your intake to ensure you are getting enough water each day.
 
-![HidrateSpark iOS app.](https://res.cloudinary.com/ddicetqs5/image/upload/v1733416453/wayfinder-images/1_C4yQmO9sahtlsaQUYEGxFw_gusg5c.png)
+![HidrateSpark iOS app.](https://res.cloudinary.com/ddicetqs5/image/upload/c_fill,f_auto,fl_force_strip,q_auto:best/v1733416453/wayfinder-images/1_C4yQmO9sahtlsaQUYEGxFw_gusg5c.png)
 
 ### Learning From The Example
 
@@ -71,11 +71,11 @@ I didn't have to convince anyone to buy something. See what I did there? I wrote
 
 There are many places to get an affiliate marketing membership from. My example uses Amazon's — click on a few of my links and look at the address bar in your browser.
 
-![URL Bar](https://res.cloudinary.com/ddicetqs5/image/upload/v1733417431/wayfinder-images/Screenshot_2024-12-05_at_11.50.16_AM_qd4kvj.png)
+![URL Bar](https://res.cloudinary.com/ddicetqs5/image/upload/c_fill,f_auto,fl_force_strip,q_auto:best/v1733417431/wayfinder-images/Screenshot_2024-12-05_at_11.50.16_AM_qd4kvj.png)
 
 You will notice my code "shopper-code-20." You can get one in just a few clicks — start [HERE](https://amzn.to/4inRG9F). Did you notice my affiliate links in this article? It's easy to grab and paste into an article from Amazon.
 
-![Amazon Associates SiteStripe](https://res.cloudinary.com/ddicetqs5/image/upload/v1733417304/wayfinder-images/Screenshot_2024-12-05_at_11.47.44_AM_ssykjj.png)
+![Amazon Associates SiteStripe](https://res.cloudinary.com/ddicetqs5/image/upload/c_fill,f_auto,fl_force_strip,q_auto:best/v1733417304/wayfinder-images/Screenshot_2024-12-05_at_11.47.44_AM_ssykjj.png)
 
 ### Can You Part With $50–$75 To Launch This Revenue Maker?
 

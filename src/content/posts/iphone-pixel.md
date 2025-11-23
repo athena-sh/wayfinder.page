@@ -70,7 +70,7 @@ At the end of the day, I wanted a phone that worked for me, not one that demande
 - **Software Freedom** – Customization, feature-rich options, and actual control over default apps? Yes, please.
 - **Price & Value** – Pixel phones offered flagship performance without requiring me to sell a kidney.
 - **Google ’ s Smart Features** – Smarter assistant, real-time transcription, and call screening that blocked spam before it reached my ears? Life-changing.
-- **Board of iPhone** — Look, USB-C has been around FOREVER before Apple only added it because of the [EU ultimatum](https://commission.europa.eu/news/eu-common-charger-rules-power-all-your-devices-single-charger-2024-12-28_en#:~:text=The%20EU's%20Common%20Charger%20Directive,will%20also%20apply%20to%20laptops.) and don't get me started on their [pain in the \\_\\_\\\* authentication](https://www.reddit.com/r/rant/comments/2kghik/apple_is_a_fucking_pain_in_the_ass/) and [auto-daily-lockouts](https://www.reddit.com/r/applehelp/comments/1ce39ck/any_idea_why_my_apple_id_would_be_locked_for/).
+- **Board of iPhone** — Look, USB-C has been around FOREVER before Apple only added it because of the [EU ultimatum](https://commission.europa.eu/news-and-media/news/eu-common-charger-rules-power-all-your-devices-single-charger-2024-12-28_en) and don't get me started on their [pain in the ASS authentication](https://www.reddit.com/r/rant/comments/2kghik/apple_is_a_fucking_pain_in_the_ass/) and [auto-daily-lockouts](https://www.reddit.com/r/applehelp/comments/1ce39ck/any_idea_why_my_apple_id_would_be_locked_for/).
 
 ### Adjusting to New Gestures
 

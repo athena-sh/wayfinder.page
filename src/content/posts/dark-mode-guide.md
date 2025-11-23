@@ -9,11 +9,9 @@ draft: false
 lang: ""
 ---
 
-
 ### Background
 
 In the digital age, where our lives are intertwined with screens, dark Mode has emerged as the unsung hero of our nocturnal browsing habits. It's not just a feature-it's a lifestyle. Let's dive into why embracing the dark side (of your screen) can be a game-changer, the slight bummer when apps or sites don't get with the program, and a nifty Chrome extension that's our knight in shining (or should we say, dimly lit) armor.
-
 
 ### Why Go Dark?
 
@@ -62,7 +60,7 @@ While preferences vary, many users find Dark Mode more comfortable for their eye
 **How Do I Enable Dark Mode?**  
 Most operating systems (like Windows, macOS, iOS, and Android) and applications offer a Dark Mode option in their settings. You can enable it manually or set it to activate automatically based on the time of day.
 
-![Dark Mode at the OS level on a Mac](https://cdn-images-1.medium.com/max/800/1*P7Sz_AYcX0R0x2AgdU_2FA.png)
+![Dark Mode at the OS level on a Mac](https://res.cloudinary.com/ddicetqs5/image/upload/c_fill,f_auto,fl_force_strip,q_auto:best/v1763877042/wayfinder-images/ug80rjm5ftsoszzwr6hf)
 
 **Will Dark Mode Work on All Websites and Apps?**  
 Not all websites and apps support Dark Mode natively. However, you can apply a dark theme to most digital environments using third-party browser extensions or system-wide dark mode settings.

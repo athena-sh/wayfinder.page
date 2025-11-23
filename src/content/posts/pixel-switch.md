@@ -172,7 +172,7 @@ Here's a screenshot of the [Google Store page showing the \$200-off deal on the 
 
 ![Google Store Pixel 9 Pro Deal Screenshot](https://res.cloudinary.com/ddicetqs5/image/upload/v1742770455/wayfinder-images/google-store-200-off_jpehcd)
 
-For comparison, my [iPhone 15 Pro Max devices were $1,199 each](https://www.apple.com/shop/buy-iphone/iphone-16-pro), so $2,398 for two. I didn ’ t have any promos with Verizon, so I paid full price. The upfront cost for the Pixels was definitely lower, even before the Google Fi credits.
+For comparison, my [iPhone 15 Pro Max devices were $1,199 each](https://www.apple.com/iphone/), so $2,398 for two. I didn ’ t have any promos with Verizon, so I paid full price. The upfront cost for the Pixels was definitely lower, even before the Google Fi credits.
 
 ### Fi Savings: The Cherry on Top
 

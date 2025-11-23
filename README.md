@@ -65,6 +65,16 @@ See the business-excellence post for a working example of the fixed donut chart 
 | `pnpm format`              | Format code using Biome                    |
 | `pnpm new-post <filename>` | Create a new post                          |
 
+### Maintenance Reports
+
+Several maintenance scripts write their output to a shared `reports/` directory at the project root (which is gitignored):
+
+- `scripts/audit-fix-citations.js` – writes `reports/citation-audit-report.txt` (Node version)
+- `scripts/audit-fix-citations.sh` – writes `reports/citation-audit-report.txt` (Bash version)
+- `scripts/process-post-images.js` – writes `reports/image-migration-report.json`
+
+You can safely delete files in `reports/` between runs; they are regenerated each time the scripts are executed.
+
 ### Content Structure
 
 ```

@@ -27,6 +27,7 @@ const __dirname = path.dirname(__filename);
 
 // Configuration
 const POSTS_DIR = "src/content/posts";
+const REPORTS_DIR = path.join(__dirname, "..", "reports");
 const REPORT_FILE = "citation-audit-report.txt";
 const TIMEOUT = 10000; // 10 seconds
 const USER_AGENT = "Mozilla/5.0 (compatible; LinkChecker/1.0)";
@@ -643,6 +644,8 @@ async function main() {
 	}
 	console.log("");
 
+	// Ensure reports directory exists
+	await fs.mkdir(REPORTS_DIR, { recursive: true });
 	const reportLines = [
 		`Citation Audit Report - ${new Date().toISOString()}`,
 		"======================================",
@@ -665,7 +668,8 @@ async function main() {
 	reportLines.push(`  Broken backlinks: ${stats.brokenBacklinks}`);
 
 	// Write report
-	await fs.writeFile(REPORT_FILE, reportLines.join("\n"));
+	const reportPath = path.join(REPORTS_DIR, REPORT_FILE);
+	await fs.writeFile(reportPath, reportLines.join("\n"));
 
 	// Print summary
 	console.log(`${colors.blue}=== Summary ===${colors.reset}`);
@@ -681,7 +685,7 @@ async function main() {
 		`Broken backlinks: ${colors.red}${stats.brokenBacklinks}${colors.reset}`,
 	);
 	console.log("");
-	console.log(`Full report saved to: ${REPORT_FILE}`);
+	console.log(`Full report saved to: ${reportPath}`);
 
 	const totalBroken = stats.brokenCitations + stats.brokenBacklinks;
 	process.exit(totalBroken > 0 ? 1 : 0);

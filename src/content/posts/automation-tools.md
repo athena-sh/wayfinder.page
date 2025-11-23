@@ -47,7 +47,7 @@ How can marketing automation improve your business processes? Research shows tha
 
 ## Top 13 Marketing Automation Tools for 2024: The Good, The Bad, and The "Why Didn't I Know About This Sooner?"
 
-![OpenArt AI | Athena Character Reference](https://res.cloudinary.com/ddicetqs5/image/upload/f_auto,fl_force_strip,q_auto:best/v1759001643/wayfinder-images/xrgnqpulwrotwdeefk9o)
+![OpenArt AI | Athena Character Reference](https://res.cloudinary.com/ddicetqs5/image/upload/c_fill,f_auto,fl_force_strip,q_auto:best/v1759001643/wayfinder-images/xrgnqpulwrotwdeefk9o)
 
 Alright, grab your notepads (or, let's be real, open a new tab) because we're about to dive into the crème de la crème of marketing automation tools. These bad boys are the Swiss Army knives of the digital marketing world – versatile, powerful, and sometimes a little overwhelming if you don't know what you're doing.
 
@@ -165,7 +165,7 @@ Sendinblue is like the Swiss Army knife that's trying to compete with the big, f
 
 ### 8. Drip: The E-commerce Automation Specialist
 
-![OpenArt AI | Athena Character Reference](https://res.cloudinary.com/ddicetqs5/image/upload/f_auto,fl_force_strip,q_auto:best/v1759001735/wayfinder-images/l20n57zkaidkrx3eq3rr)
+![OpenArt AI | Athena Character Reference](https://res.cloudinary.com/ddicetqs5/image/upload/c_fill,f_auto,fl_force_strip,q_auto:best/v1759001735/wayfinder-images/l20n57zkaidkrx3eq3rr)
 
 Features:
 
@@ -263,7 +263,7 @@ ConvertKit is like that cool art teacher who encourages you to express yourself.
 
 ## Choosing the Right Marketing Automation Tool: Eeny, Meeny, Miny, Moe (But Make It Strategic)
 
-![OpenArt AI | Athena Character Reference](https://res.cloudinary.com/ddicetqs5/image/upload/f_auto,fl_force_strip,q_auto:best/v1759001859/wayfinder-images/tmpvh9z1d0pirmf3diji)
+![OpenArt AI | Athena Character Reference](https://res.cloudinary.com/ddicetqs5/image/upload/c_fill,f_auto,fl_force_strip,q_auto:best/v1759001859/wayfinder-images/tmpvh9z1d0pirmf3diji)
 
 Alright, now that we've thrown a boatload of options at you, you might be feeling a bit overwhelmed. Don't worry, choosing a marketing automation tool isn't like choosing a spouse (though it might feel like it sometimes). Here's how to narrow down your options without resorting to a dartboard:
 
@@ -280,7 +280,7 @@ Remember, choosing a marketing automation tool is like dating – you might need
 
 ## Implementing Marketing Automation Successfully: How to Avoid Turning Your Marketing into a Terminator Scenario
 
-![OpenArt AI | Athena Character Reference](https://res.cloudinary.com/ddicetqs5/image/upload/f_auto,fl_force_strip,q_auto:best/v1759002019/wayfinder-images/lvuuqueqmnzq9ikc6tjq)
+![OpenArt AI | Athena Character Reference](https://res.cloudinary.com/ddicetqs5/image/upload/c_fill,f_auto,fl_force_strip,q_auto:best/v1759002019/wayfinder-images/lvuuqueqmnzq9ikc6tjq)
 
 So, you've chosen your marketing automation tool. Congratulations! Now comes the fun part – actually using it. Here's how to implement your new toy without causing a robot uprising:
 

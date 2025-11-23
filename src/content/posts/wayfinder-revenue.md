@@ -8,13 +8,11 @@ category: "Business"
 lang: ""
 ---
 
-
 _Series: Medium Monetization Tips_
 
 ### Introduction
 
 Welcome to a remarkable chapter in the story of Welcome Rain, where innovation meets exponential growth. As we embarked on our journey with Medium's "Friend of Medium" program, little did we know that it would revolutionize our revenue stream, multiplying it by an astonishing 10 times in mere days!
-
 
 This journey is not just about numbers; it's a tale of adaptation, foresight, and the magic that happens when you align with the right partners in the digital frontier.
 
@@ -34,7 +32,7 @@ This section of our story is not just a look back at where we've been but a test
 
 ### The Revenue Explosion: A 10-Fold Increase
 
-![](https://cdn-images-1.medium.com/max/800/0*mwTZFy_m8k-c_Fas.png)
+![](https://res.cloudinary.com/ddicetqs5/image/upload/c_fill,f_auto,fl_force_strip,q_auto:best/v1763877728/wayfinder-images/kjqwxgqo4aq2qsioeqcu)
 
 The impact of joining Medium's ‘ Friend of Medium' program on Welcome Rain's revenue was nothing short of spectacular-a monumental 10-fold increase within just a few days!
 

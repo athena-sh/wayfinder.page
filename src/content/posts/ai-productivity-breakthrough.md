@@ -83,7 +83,7 @@ The message is clear: **executive leadership is prioritizing AI adoption**, and 
 
 ## The Practical Game Plan: How to Join the 4X Club
 
-![](https://res.cloudinary.com/ddicetqs5/image/upload/f_auto,fl_force_strip,q_auto:best/v1758597022/wayfinder-images/yhseno1caaruty7rpkvf)
+![Image](https://res.cloudinary.com/ddicetqs5/image/upload/c_fill,f_auto,fl_force_strip,q_auto:best/v1758597022/wayfinder-images/yhseno1caaruty7rpkvf)
 
 Based on the UCLA research and productivity data, here's your roadmap:
 

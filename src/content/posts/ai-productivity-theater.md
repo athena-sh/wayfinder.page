@@ -80,7 +80,7 @@ Everything else? Treat with suspicion until the numbers say otherwise. For pract
 
 ## The "Adulting" Scorecard (Before You Ship)
 
-![](https://res.cloudinary.com/ddicetqs5/image/upload/f_auto,fl_force_strip,q_auto:best/v1762063823/wayfinder-images/oaxq0139w9k0ppbzdgza)
+![Image](https://res.cloudinary.com/ddicetqs5/image/upload/c_fill,f_auto,fl_force_strip,q_auto:best/v1762063823/wayfinder-images/oaxq0139w9k0ppbzdgza)
 
 _(Tape this to your PM's monitor)_
 

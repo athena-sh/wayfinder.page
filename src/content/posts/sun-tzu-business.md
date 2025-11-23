@@ -8,7 +8,6 @@ lang: ""
 #image: "./heroImage.jpg"
 ---
 
-
 ## Overview
 
 The ancient Chinese book "The Art of War" by Sun Tzu goes well beyond military tactics. Written in the fifth century BC, it has thirteen chapters that analyze different facets of fighting.
@@ -52,7 +51,7 @@ To put it briefly, you can create tactics that are not only wise but also long-l
 
 ## Attack using Tactical Positioning and Stratagem
 
-![Crafted using Athena's imaginative AI prompts on theDALLE3platform.](https://cdn-images-1.medium.com/max/800/1*_PzpMSb178_Us27ncbV8xg.png)
+![Crafted using Athena's imaginative AI prompts on theDALLE3platform.](https://res.cloudinary.com/ddicetqs5/image/upload/c_fill,f_auto,fl_force_strip,q_auto:best/v1763873923/wayfinder-images/ml4b0reeasesvo85vamu)
 
 Now that we're in the realm of Tzu's
 
@@ -78,7 +77,7 @@ Thus, it matters how you do things as much as what you do. You're not just playi
 
 ## Vitality, Weaknesses, and Strengths
 
-![Crafted using Athena's imaginative AI prompts on theDALLE3platform.](https://cdn-images-1.medium.com/max/800/1*VA1vpex8ZB_m9I-rKHif8Q.png)
+![Crafted using Athena's imaginative AI prompts on the DALLE3platform.](https://res.cloudinary.com/ddicetqs5/image/upload/c_fill,f_auto,fl_force_strip,q_auto:best/v1763873452/wayfinder-images/ffifus3q9bspady7houx)
 
 Fasten your seatbelts, for Tzu's "Energy" and "Weak Points and Strong" chapters are where business turns into a high-stakes game. This place has the atmosphere of a ninja and a detective together.
 
@@ -100,7 +99,7 @@ To put it briefly, these parts focus on being astute, quick, and strategic. Play
 
 ## Using Spycraft
 
-![Crafted using Athena's imaginative AI prompts on theDALLE3platform.](https://cdn-images-1.medium.com/max/800/1*YG99yKnNVF46beiVHGV5Dw.png)
+![Crafted using Athena's imaginative AI prompts on theDALLE3platform.](https://res.cloudinary.com/ddicetqs5/image/upload/c_fill,f_auto,fl_force_strip,q_auto:best/v1763873633/wayfinder-images/gxjor6hsprih3bmnmkl8)
 
 Greetings from Tzu's shadowy realm of "The Use of Spies." In this exciting chapter, Tzu assumes the role of the ultimate spymaster, reminding us that knowledge is the most potent tool in the corporate world.
 
@@ -118,7 +117,7 @@ Tzu's advice on using spies is essentially a reminder that in business, knowledg
 
 ## Final Thoughts
 
-![Crafted using Athena's imaginative AI prompts on theDALLE3platform.](https://cdn-images-1.medium.com/max/800/1*KgINCWjQh0PPUC1o2XDz8g.png)
+![Crafted using Athena's imaginative AI prompts on theDALLE3platform.](https://res.cloudinary.com/ddicetqs5/image/upload/c_fill,f_auto,fl_force_strip,q_auto:best/v1763873754/wayfinder-images/bfruhgbuyy9r366vkyww)
 
 As we get to the end of our exploration of Tzu's strategic genius in "The Art of War," it's evident that this work is a manual for contemporary business mastery rather than only an antiquated manual on war tactics.
 
@@ -138,6 +137,6 @@ Let's shift these antiquated tactics into contemporary triumphs. Are you prepare
 
 ## Compliance, Guidelines, and Acknowledgements
 
-![Leonardo.Ai | An owl counting.](https://res-5.cloudinary.com/ddicetqs5/image/upload/f_auto,fl_force_strip,q_auto:best/v1/wayfinder-ghost-blog/0_uGgtPirpHbchvnrc)
+![Leonardo.Ai | An owl counting.](https://res.cloudinary.com/ddicetqs5/image/upload/c_fill,f_auto,fl_force_strip,q_auto:best/v1763873852/wayfinder-images/qyemqv87rhfydffw69gw)
 
 - **Affiliate Disclosure:** As a participant in the Amazon Affiliate Program, I earn from qualifying purchases made through links provided in this content. This means if you click on a link and make a qualifying purchase, I may receive a commission at no additional cost to you. Thank you for supporting my work and allowing me to bring you valuable insights!

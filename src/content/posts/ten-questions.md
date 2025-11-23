@@ -8,7 +8,6 @@ category: "Guides"
 lang: ""
 ---
 
-
 _and ten answers from me!_
 
 These questions are from a story on Medium by Lynn L. Alexander
@@ -17,8 +16,7 @@ in the Read or Die! publication.
 
 Go ahead, write your answers, and read other's submissions to learn some quirky stuff about each other.
 
-
-![](https://cdn-images-1.medium.com/fit/c/160/160/0*DuFySplZhEkMGcYO)
+![](https://res.cloudinary.com/ddicetqs5/image/upload/c_fill,f_auto,fl_force_strip,q_auto:best/v1763877610/wayfinder-images/gqbvfhjdqeybkzenwpyc)
 
 **1. Do you use a top sheet?**  
 No, I don't use a top sheet, but my comforter has a cover.
@@ -67,4 +65,4 @@ _(Thanks,_ _Tooth Truth Roopa Vikesh\*\*, for the_ _inspiration_ _and for giving
 
 Tooth Truth Roopa Vikesh
 
-![](https://cdn-images-1.medium.com/fit/c/160/160/1*12VP38Uw7-aiufW2DP5Ohw.jpeg)
+![](https://res.cloudinary.com/ddicetqs5/image/upload/c_fill,f_auto,fl_force_strip,q_auto:best/v1763877637/wayfinder-images/zk72czj7ugmn06gutcce)

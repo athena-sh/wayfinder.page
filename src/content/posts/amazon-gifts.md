@@ -67,7 +67,7 @@ You also spare yourself the hassle of seeming like a bewildered Santa without th
 
 ## 5. Adopt a Last-Minute Approach: Calling All Procrastinators!
 
-![](https://res.cloudinary.com/ddicetqs5/image/upload/f_auto,fl_force_strip,q_auto:best/v1758610440/wayfinder-images/dgtbybozluqycgaw80p6)
+![Image](https://res.cloudinary.com/ddicetqs5/image/upload/c_fill,f_auto,fl_force_strip,q_auto:best/v1758610440/wayfinder-images/dgtbybozluqycgaw80p6)
 
 Thankfully, the [Amazon gift card](https://amzn.to/48wgPwh) is a lifesaver for all those people who put things off till the last minute.
 
