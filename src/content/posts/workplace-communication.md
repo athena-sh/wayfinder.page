@@ -1,15 +1,14 @@
 ---
-title: Master Effective Workplace Communication Skills
-description: Boost your career with our guide to effective workplace communication skills. Learn to speak clearly, write concisely, and listen actively. Start improving today!
+title: "Master Effective Workplace Communication Skills"
+description: "Boost your career with our guide to effective workplace communication skills. Learn to speak clearly, write concisely, and listen actively. Start improving today!"
 draft: false
+image: hands-clapping.svg
+hero: https://res.cloudinary.com/ddicetqs5/image/upload/c_fill,f_auto,fl_force_strip,q_auto:best/v1763955686/wayfinder-images/jbemcnqtfyzpetugij4u
 category: "Productivity"
-lang: ""
-tags:
-  - Communication Skills
+tags: ["Communication Skills"]
 published: 2024-11-18
+# https://res.cloudinary.com/ddicetqs5/image/upload/c_fill,f_auto,fl_force_strip,q_auto:best/v1763956364/wayfinder-images/srnnikzukchmbjszatg8
 ---
-
-#image: "./heroImage.jpg"
 
 ## Introduction
 
@@ -19,12 +18,13 @@ You're not alone. We've all been there, desperately trying to decipher corporate
 
 But here's the thing: effective communication isn't some mystical skill reserved for smooth-talking execs. It's something we can all master with a bit of practice and a dash of humor.
 
-
 In this guide, we'll break down the essentials of workplace communication. From speaking like a human (not a buzzword generator) to writing emails that won't bore people to tears, we've got you covered.
 
 So buckle up, fellow office warriors. It's time to level up your communication game and maybe, just maybe, make it through your next team meeting without facepalming.
 
 ## Speak Human, Not Corporate Jargon
+
+![Athena](https://res.cloudinary.com/ddicetqs5/image/upload/c_fill,f_auto,fl_force_strip,q_auto:best/v1763955992/wayfinder-images/gn1khyrcqfrtld2wg9lp)
 
 Let's face it, corporate jargon is the workplace equivalent of nails on a chalkboard. It's time to ditch the buzzword bingo and start speaking like a real person.
 
@@ -55,6 +55,8 @@ Try this: in your next meeting, challenge yourself to ask at least one thoughtfu
 And please, for the sake of office harmony, put your phone away during conversations. Nothing screams "I'm not listening" quite like scrolling through Instagram while your coworker is mid-sentence.
 
 ## Body Language Basics
+
+![Athena](https://res.cloudinary.com/ddicetqs5/image/upload/c_fill,f_auto,fl_force_strip,q_auto:best/v1763956267/wayfinder-images/r1wencrpdpk9awzrwh6h)
 
 You might have the vocabulary of Shakespeare, but if your body language screams "I'd rather be anywhere but here," your message is getting lost.
 
