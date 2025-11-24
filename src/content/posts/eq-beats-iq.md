@@ -4,7 +4,6 @@ description: "This is why emotional intelligence might be the real key to succes
 published: 2024-07-30
 draft: false
 tags: ["Emotional Intelligence", "Personal Growth"]
-#image: "./heroImage.jpg"
 category: "Wellness"
 lang: ""
 ---
