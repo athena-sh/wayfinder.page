@@ -1,6 +1,6 @@
 ---
-title: "Sell NVIDIA Stock Today—Before Wall Street Figures Out What You Already Know"
-published: 2025-11-24
+title: "Sell NVIDIA Stock Today — Before Wall Street Figures Out What You Already Know"
+published: 2025-11-23
 description: "NVIDIA's stock assumes permanent AI monopoly economics in a market where hardware cycles are brutal and monopolies never last."
 image: arrow-trend-down.svg
 hero: https://res.cloudinary.com/ddicetqs5/image/upload/c_fill,f_auto,fl_force_strip,q_auto:best/v1764014214/wayfinder-images/qd6ymejhfbqvh25bsm03

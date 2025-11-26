@@ -1,6 +1,6 @@
 ---
 title: "Sell NVIDIA Stock — The Competition Is Coming for Jensen's Throne"
-published: 2025-11-25
+published: 2025-11-24
 description: "NVIDIA's 80% AI chip monopoly faces threats from AMD, hyperscaler custom silicon, and shifting workloads. History says it won't last."
 image: arrow-trend-up.svg
 hero: https://res.cloudinary.com/ddicetqs5/image/upload/c_fill,f_auto,fl_force_strip,q_auto:best/v1764095404/wayfinder-images/fyqd66oqpux3olwnwwdv
@@ -162,7 +162,7 @@ This isn't speculation. This is happening right now. Every hyperscaler is divers
 
 Want contrarian tech analysis that challenges Wall Street groupthink? [Subscribe for investment insights](https://wayfinder.page/subscribe) that follow the data, not the hype.
 
-![SUBSCRIBE](https://res.cloudinary.com/ddicetqs5/image/upload/c_fill,f_auto,fl_force_strip,q_auto:best/v1763257626/wayfinder-images/rspfquexlvlljwpdlh3p)
+![Subscribe for investment insights](https://res.cloudinary.com/ddicetqs5/image/upload/c_fill,f_auto,fl_force_strip,q_auto:best/v1763257626/wayfinder-images/rspfquexlvlljwpdlh3p)
 
 Part 3 drops soon with the valuation math Wall Street doesn't want you to see.
 
