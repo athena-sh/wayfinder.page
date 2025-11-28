@@ -1,13 +1,12 @@
 ---
-title: 5 Game-Changing Strategies That Boosted My Workflow
-description: Struggling with Endless Deadlines? Discover How I Took Back Control and Supercharged My Productivity!
+title: "5 Game-Changing Strategies That Boosted My Workflow"
+description: "Struggling with Endless Deadlines? Discover How I Took Back Control and Supercharged My Productivity!"
+image: clock.svg
+hero: https://res.cloudinary.com/ddicetqs5/image/upload/c_fill,f_auto,fl_force_strip,q_auto:best/v1763934879/wayfinder-images/yqrqwshyalobekzvl6lv
 draft: false
 published: 2024-03-23
-#image: "./heroImage.jpg"
 category: "Productivity"
-lang: ""
 ---
-
 
 _I Tripled My Productivity in Just 30 Days Compared to My Previous 3 Months in 2024._
 
@@ -18,9 +17,6 @@ In a world overflowing with distractions, achieving significant personal and pro
 This isn't a lofty promise but the core premise of "The 12 Week Year" by Brian P. Moran and Michael Lennington.
 
 This revolutionary approach redefines the concept of a year, condensing it into 12 weeks, thereby instilling a sense of urgency, focus, and clarity that traditional annual planning needs simply lack.
-
-
-![Created by the author using a Wayfinder logo, an image of the book cover, and Canva to stylize.](https://res.cloudinary.com/ddicetqs5/image/upload/c_fill,f_auto,fl_force_strip,q_auto:best/v1763934879/wayfinder-images/yqrqwshyalobekzvl6lv)
 
 At its heart, "The 12 Week Year" challenges the status quo of annual goal setting, often leading to procrastination and lackluster results.
 

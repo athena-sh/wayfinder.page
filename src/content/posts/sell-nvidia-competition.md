@@ -98,6 +98,15 @@ Intel's Gaudi 3 accelerator costs roughly half the price of an NVIDIA H100 (\$15
 
 ::donut{title="AI Accelerator Power Consumption (Watts)" data="NVIDIA B200|1200|#FF6B6B,NVIDIA H100|700|#FFA500,Intel Gaudi 3|600|#0071C5,Google TPU v7|550|#4CAF50"}
 
+```mermaid
+pie showData
+    title AI Accelerator Power Consumption (Watts)
+    "NVIDIA B200" : 1200
+    "NVIDIA H100" : 700
+    "Intel Gaudi 3" : 600
+    "Google TPU v7" : 550
+```
+
 These alternatives may not match NVIDIA's raw performance in every benchmark. But for many inference workloads—which account for a growing share of AI compute—they're "good enough" at significantly lower cost and power consumption.
 
 ![Athena Character @ openart.ai](https://res.cloudinary.com/ddicetqs5/image/upload/c_fill,f_auto,fl_force_strip,q_auto:best/v1764015224/wayfinder-images/kvvzozmec5wtgr2vfnv0)
