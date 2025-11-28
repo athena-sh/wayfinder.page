@@ -193,7 +193,7 @@ This isn't a temporary trade dispute. It's a structural decoupling that permanen
 
 _(How to Express an AI Thesis Without Betting Everything on One Name)_
 
-If you believe in AI's long-term potential—and I do—there are better ways to express that thesis than concentrating in a single $4+ trillion company at peak valuation.
+If you believe in AI's long-term potential—and I do—there are better ways to express that thesis than concentrating in a single $4+ trillion company at peak valuation. Much like [effective productivity systems](/posts/workflow-optimization/) require diversification across multiple tools rather than betting everything on one approach, AI exposure works better through a portfolio of positions.
 
 ### Option 1: Semiconductor ETFs
 
@@ -231,7 +231,7 @@ This lets you participate in continued upside if I'm wrong, while protecting aga
 
 Full disclosure: I hold no NVIDIA position. I have exposure to semiconductor ETFs and selective individual positions in ASML and AMD. I believe AI is transformational, but I don't believe one company at one price captures that thesis best.
 
-Want help thinking through your own AI investment strategy? [Subscribe to the newsletter](https://wayfinder.page/subscribe) for ongoing analysis.
+Want help thinking through your own AI investment strategy? [Subscribe to the newsletter](https://wayfinder.page/subscribe) for ongoing analysis on investing, AI, and [systematic decision-making](/posts/beat-procrastination/) that avoids costly mistakes.
 
 ![SUBSCRIBE](https://res.cloudinary.com/ddicetqs5/image/upload/c_fill,f_auto,fl_force_strip,q_auto:best/v1764184937/wayfinder-images/nqc2cfplpiqx7gamjxbl)
 
@@ -315,7 +315,7 @@ The smart money is already diversifying. The institutions are trimming. The hype
 
 ### Q: Isn't the P/E ratio reasonable given growth rates?
 
-A: The forward P/E of 26-30x looks reasonable until you remember it's based on analyst projections that assume sustained 30%+ growth. If growth slows to 15-20% (which analysts expect by 2027), the multiple expands dramatically. The PEG ratio of 0.69 is attractive, but PEG fails when growth rates change—and they always change.
+A: The forward P/E of 26-30x looks reasonable until you remember it's based on analyst projections that assume sustained 30%+ growth. If growth slows to 15-20% (which analysts expect by 2027), the multiple expands dramatically. The PEG ratio of 0.69 is attractive, but PEG fails when growth rates change—and they always change. Investment discipline requires [systematic execution](/posts/workflow-optimization/) rather than betting on perpetual growth.
 
 ### Q: What about Blackwell's success?
 
