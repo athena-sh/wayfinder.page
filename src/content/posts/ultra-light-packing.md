@@ -35,6 +35,8 @@ Here's where I made the fatal mistake: I thought checking a bag would make trave
 
 **The 7 AM departure seemed reasonable.** Cleveland to Miami, Miami to Cancun, land by 4 PM. Simple, right?
 
+![Athena Character @ openart.ai](https://res.cloudinary.com/ddicetqs5/image/upload/c_fill,f_auto,fl_force_strip,q_auto:best/v1765658211/wayfinder-images/nc8dw3ncchxlshnf1t3k)
+
 Wrong. So spectacularly wrong.
 
 The Miami connection got delayed. Then delayed again. Then they changed gates. Twice. By the time I landed in Cancun at 9 PM, I was already exhausted, hungry, and behind on emails that couldn't wait.
