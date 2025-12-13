@@ -9,9 +9,9 @@ tags: ["Travel", "Productivity"]
 category: "Guides"
 ---
 
-## Introduction
+## Picture This
 
-Picture this: You're standing at baggage claim at 11 PM, watching that stupid carousel go round and round while everyone else's luggage appears except yours.
+You're standing at baggage claim at 11 PM, watching that stupid carousel go round and round while everyone else's luggage appears except yours.
 
 Meanwhile, the smart travelers who packed light are already home, probably in their pajamas, laughing at your misery. Don't be that person waiting for bags that may never come.
 
@@ -92,6 +92,8 @@ Let's get real about what checking a bag actually costs you. It's not just the $
 ## The Ultra-Light Essentials Kit
 
 _(Everything You Actually Need, Nothing You Don't)_
+
+![Athena Character @ openart.ai](https://res.cloudinary.com/ddicetqs5/image/upload/c_fill,f_auto,fl_force_strip,q_auto:best/v1765657701/wayfinder-images/vhppxvq1t8j5dift8eeq)
 
 Here's where most packing guides go wrong – they tell you what to bring without telling you what to ditch. Let's fix that.
 
