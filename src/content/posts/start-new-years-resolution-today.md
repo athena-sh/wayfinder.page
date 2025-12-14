@@ -1,5 +1,5 @@
 ---
-title: "Pro Tip: Start Your New Year's Resolution Today"
+title: "The Brilliant December Resolution Hack That Guarantees Success"
 description: "Don't wait for January 1st. Starting your resolution in December gives you a head start while everyone else is still planning."
 published: 2025-12-14
 draft: false
