@@ -1029,3 +1029,8 @@
 /zero-booked-land-first-freelance-design-clients /posts/first-clients 301!
 /zero-booked-land-first-freelance-design-clients/ /posts/first-clients/ 301!
 /blog/* /posts/:splat 301\!
+# Additional sales psychology redirect for "to-drive" variant
+/mastering-sales-psychology-5-key-impulses-to-drive-consumer-behavior /posts/sales-impulses 301!
+/mastering-sales-psychology-5-key-impulses-to-drive-consumer-behavior/ /posts/sales-impulses/ 301!
+/blog/mastering-sales-psychology-5-key-impulses-to-drive-consumer-behavior /posts/sales-impulses 301!
+/blog/mastering-sales-psychology-5-key-impulses-to-drive-consumer-behavior/ /posts/sales-impulses/ 301!
