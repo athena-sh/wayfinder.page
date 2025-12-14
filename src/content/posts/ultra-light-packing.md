@@ -3,7 +3,7 @@ title: "This One Packing Mistake Cost Me 17 Hours of Travel Nightmare"
 description: "Ditch checked baggage forever with this brutally honest guide to ultra-light travel packing. Learn the gear, tricks, and mindset that'll save you time, money, and sanity."
 published: 2025-12-13
 draft: false
-image: plane.svg
+image: plane-departure.svg
 hero: https://res.cloudinary.com/ddicetqs5/image/upload/c_fill,f_auto,fl_force_strip,q_auto:best/v1765649195/wayfinder-images/f2gojaqe6onfpxmmlng3
 tags: ["Travel", "Productivity"]
 category: "Guides"
