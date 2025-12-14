@@ -1,5 +1,5 @@
 ---
-title: "The Complete Guide to Using ChatGPT Effectively (What Actually Works)"
+title: "12 Secret ChatGPT Tricks That 90% of Users Desperately Want"
 published: 2025-11-06
 description: "MIT research shows 40% time savings on specific tasks—but only if you know where ChatGPT excels and where it fails. Here's your data-backed guide to getting real value from AI."
 image: chatgpt.svg
