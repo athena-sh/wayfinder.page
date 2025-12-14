@@ -228,6 +228,16 @@ Now I want to hear from you. What's your worst checked bag disaster? Have you ev
 
 Drop your travel nightmares in the comments. Let's commiserate and learn from each other's pain. Bonus points if your story involves international connections – those are always the most spectacular disasters.
 
+:::tip
+**Take away this**: Ultra-light packing isn't about deprivation. It's about _freedom_. Freedom from baggage fees, lost luggage anxiety, and wasted time at carousels. Pack like your sanity depends on it – because it does.
+:::
+
+---
+
+*Ready to revolutionize your travel game? Start with your next trip – challenge yourself to fit everything in a carry-on. Your future self will thank you when you're walking past that baggage claim carousel with a smug smile.*
+
+---
+
 ## FAQs
 
 **Q: What if I need more clothes for a longer trip?**
@@ -248,19 +258,9 @@ A: Wear your heaviest layer on the plane. Buy or rent heavy winter gear at your 
 **Q: How do I handle toiletries for longer trips?**
 A: Travel sizes last longer than you think. A 0.8oz toothpaste tube lasts weeks. Buy refills at your destination if needed.
 
-:::tip
-**Take away this**: Ultra-light packing isn't about deprivation. It's about _freedom_. Freedom from baggage fees, lost luggage anxiety, and wasted time at carousels. Pack like your sanity depends on it – because it does.
-:::
-
 :::important
 **Affiliate Disclosure**: As a participant in the Amazon Affiliate Program, I earn from qualifying purchases made through links provided in this content. This means if you click on a link and make a qualifying purchase, I may receive a commission at no additional cost to you. Thank you for supporting my work and allowing me to bring you valuable travel insights!
 :::
-
----
-
-*Ready to revolutionize your travel game? Start with your next trip – challenge yourself to fit everything in a carry-on. Your future self will thank you when you're walking past that baggage claim carousel with a smug smile.*
-
----
 
 [^1]: [SITA Baggage IT Insights 2024: Global baggage mishandling statistics](https://www.sita.aero/resources/surveys-reports/sita-baggage-it-insights-2024/)
 
