@@ -1,0 +1,409 @@
+# Wayfinder Blog - Claude Code Project Rules
+# This file runs on EVERY new Claude Code session startup
+# Last Updated: January 2, 2026
+
+## STARTUP SEQUENCE (MANDATORY - FOLLOW THIS ORDER)
+
+1. **READ FIRST (PRIMARY GUIDANCE):**
+   - `/WAYFINDER-VOICE-2026.md` - Complete voice & content standards (MOST IMPORTANT)
+   - `/CLAUDE.md` - Technical setup and project structure
+
+2. **UNDERSTAND THE CONTEXT:**
+   - This is Athena's publication "Wayfinder" - now accepting other writers
+   - Voice pivot: From casual/snarky solo blog → Professional publication leader
+   - Old guidance in `/guidance/` may be outdated - WAYFINDER-VOICE-2026.md supersedes
+
+3. **KNOW YOUR BOUNDARIES (CRITICAL):**
+   Limit file operations to these directories ONLY:
+   ```
+   ✅ ALLOWED:
+   - src/content/posts/          # Blog articles (markdown)
+   - scripts/                     # Utility scripts
+   - guidance/                    # Writing guidance docs
+   - src/assets/icons/            # SVG icons for frontmatter image field
+   - newsletters/                 # Newsletter content
+   - src/plugins/rehype-component-*.mjs  # Chart components (donut, line, bar)
+
+   ❌ DO NOT TOUCH:
+   - src/plugins/expressive-code/  # Syntax highlighting - leave alone
+   - node_modules/                 # Dependencies
+   - dist/                        # Build output
+   - .git/                        # Version control
+   ```
+
+4. **AVAILABLE TOOLS:**
+   ```bash
+   # Content creation
+   pnpm new-post                  # Create draft.md (overwrites if exists)
+
+   # Quality auditing (USE THESE!)
+   pnpm audit                     # Full quality report with headline scores
+   pnpm audit:simple              # High-risk articles only
+   pnpm audit:list                # Just filenames
+   pnpm audit --file <name>       # Single article audit
+   pnpm backlinks                 # Backlink audit summary (all articles)
+   pnpm backlinks --file <slug>   # Backlink suggestions for one article
+
+   # Development
+   pnpm dev                       # Start dev server
+   pnpm build                     # Production build
+   pnpm type-check                # TypeScript validation
+   ```
+
+## CHART COMPONENTS (IMPORTANT - ALWAYS FORGET THESE!)
+
+### Donut Charts (Distributions/Percentages)
+```markdown
+::donut{title="Chart Title" data="Label1|value|#color,Label2|value2|#color2"}
+```
+
+**Example:**
+```markdown
+::donut{title="Exercise Session Distribution Over 24 Months" data="Outdoor Walking|540|#a6da95,Indoor Gym|48|#8aadf4,Missed|12|#ed8796"}
+```
+
+**Colors Available:**
+- Green: `#a6da95` (good/positive)
+- Blue: `#8aadf4` (neutral/info)
+- Red: `#ed8796` (warning/negative)
+- Yellow: `#eed49f` (caution)
+- Purple: `#a5adcb` (other)
+
+### Line Charts (Trends Over Time)
+```markdown
+::linechart{title="Chart Title" data="Label1|value,Label2|value2,Label3|value3"}
+```
+
+**Example:**
+```markdown
+::linechart{title="LDL Cholesterol Over 18 Months" data="Start|142,Month 3|128,Month 6|115,Month 12|101,Month 18|98"}
+```
+
+### When to Use Charts
+- **Donut:** Distributions, percentages, session counts
+- **Line:** Trends over time, improvements, tracking
+- **Table:** Detailed comparisons with multiple metrics
+
+**File Locations:**
+- Donut: `src/plugins/rehype-component-donut-chart.mjs`
+- Line: `src/plugins/rehype-component-line-chart.mjs`
+
+## FRONTMATTER FORMAT (STRICT REQUIREMENTS)
+
+```yaml
+---
+title: "Direct Title Without Forced Humor"
+published: YYYY-MM-DD
+description: "Value proposition without hype"
+image: "icon-name.svg"  # From src/assets/icons/
+hero: "https://res.cloudinary.com/..."  # CDN URL
+tags: ["Tag1", "Tag2"]  # 2-3 tags
+category: "Category Name"
+draft: false
+lang: ""
+# Main niche: [Niche]
+# Sub-niche: [Sub-Category]
+# Long-tail keyword: [SEO phrase]
+---
+```
+
+**Available Icons (src/assets/icons/):**
+- apple.svg
+- rocket.svg
+- money-bill-trend-up.svg
+- scale-unbalanced.svg
+- newspaper.svg
+- twitter.svg
+- signal.svg
+- google.svg
+- person-walking.svg
+- champagne-glasses.svg
+- medium.svg
+- arrow-trend-up.svg (DEFAULT - "charting simple routes to success")
+
+**Default Images (use when no hero/image specified or low-scoring articles):**
+- Default hero: `https://res.cloudinary.com/ddicetqs5/image/upload/c_fill,f_auto,fl_force_strip,q_auto:best/v1767415438/wayfinder-images/ue87i82lhsgfkq5sxl8w`
+- Default icon: `arrow-trend-up.svg` (aligns with "charting simple routes to success" tagline)
+
+## CONTENT QUALITY STANDARDS
+
+### Voice Requirements (from WAYFINDER-VOICE-2026.md)
+
+**✅ DO:**
+- Write from real personal experience with real data
+- Lead with concrete details and validation
+- Use professional tone with authentic edge
+- Back claims with reputable citations
+- Include specific numbers and timelines
+
+**❌ DON'T:**
+- Use forced humor or snarky asides
+- Self-deprecate or undermine authority
+- Write "Let's dive in" or "Strap yourselves in"
+- Use parenthetical jokes like "_(Or How I Fake It)_"
+- Generic openings like "In today's fast-paced world..."
+
+### Citation Rules (CRITICAL)
+
+**Formula:** 1 citation per 500 words
+- 1,000 words = 2-3 citations
+- 2,000 words = 4-5 citations
+- 3,000 words = 6-7 citations
+- **Maximum 7 citations for articles under 3,500 words**
+
+**Quality Over Quantity:**
+- Peer-reviewed journals (PMC, Frontiers, etc.)
+- Major research institutions (NIH, AHA, CDC)
+- Recent studies (prefer 2024-2026)
+- Reputable publications (Harvard Health, Mayo Clinic)
+- Government research (SBA, BLS)
+
+**Avoid:**
+- Blog posts
+- Marketing content
+- Undated sources
+- Paywalled content
+- Broken/404 links
+
+### Required Elements
+
+**Every Article Needs:**
+1. ✅ CTA (Call to Action) using `:::tip` callout - place BEFORE FAQ
+2. ✅ FAQ section (5-7 questions)
+3. ✅ Real personal data with specific numbers
+4. ✅ Citations (appropriate to word count)
+5. ✅ Internal backlinks (1 per 750 words)
+6. ✅ Data visualizations where appropriate
+7. ✅ Professional but engaging tone
+8. ✅ Proper frontmatter with all fields
+
+## AUTOMATED QUALITY CONTROL
+
+**Before Submitting ANY Article:**
+```bash
+pnpm audit --file article-name
+```
+
+**Target Metrics:**
+- Risk Score: -10 or lower (negative is good!)
+- Red Flags: 0
+- Good Signals: 15+
+- Citations: Appropriate to word count
+- FAQ: Present
+
+**Risk Score Interpretation:**
+- >5 = 🔥 HIGH RISK (dumpster fire - rewrite needed)
+- 2-5 = ⚠️ MEDIUM RISK (review recommended)
+- ≤2 = ✅ LOW RISK (acceptable)
+- <0 = ⭐ EXCELLENT (authentic Wayfinder voice)
+
+**Example of Excellence:**
+```
+outdoor-exercise-truth.md
+- Risk Score: -24
+- Red Flags: 0
+- Good Signals: 24
+- Citations: 4 (perfect for 2,200 words)
+- FAQ: ✅
+```
+
+## COMMON TASKS & WORKFLOWS
+
+### Writing New Article
+
+1. Check if real experience exists to draw from
+2. If no authentic experience: **DON'T WRITE IT**
+3. If yes: Gather data, citations, personal metrics
+4. Use `pnpm new-post article-slug`
+5. Write with authentic voice (see WAYFINDER-VOICE-2026.md)
+6. Add appropriate citations (1 per 500 words)
+7. Include FAQ section
+8. Add charts/tables where data supports
+9. Run `pnpm audit --file article-slug`
+10. Iterate until risk score is negative
+
+### Auditing Existing Content
+
+```bash
+# Find all dumpster fires
+pnpm audit:simple
+
+# Review specific article
+pnpm audit --file article-name
+
+# Get list for batch review
+pnpm audit:list
+```
+
+**Decision Matrix:**
+- High Risk + No Real Experience = DELETE
+- High Risk + Real Experience = REWRITE
+- Medium Risk = Review and update
+- Low Risk = Minor tweaks if needed
+
+### Rewriting Dumpster Fires
+
+1. Read current version to extract any salvageable data
+2. Check if author has real experience to draw from
+3. If no experience: Recommend deletion
+4. If yes:
+   - Lead with real data/results
+   - Remove all forced humor
+   - Add proper citations
+   - Include personal metrics
+   - Add FAQ section
+   - Use charts for data visualization
+5. Reduce citations to appropriate ratio
+6. Run audit until risk score is negative
+
+## RED FLAGS TO WATCH FOR
+
+**In User Requests:**
+- "Make it funny" → Suggest authentic voice instead
+- "Add snarky subtitle" → Offer direct header
+- "Write like a blog post" → Clarify Wayfinder standards
+- No personal experience → Decline or research real data
+
+**In Existing Content:**
+- Generic AI phrases ("Let's dive in")
+- Forced humor ("fabulous disaster")
+- Self-deprecation undermining authority
+- Excessive citations (>7 for short articles)
+- Missing FAQ sections
+- No real data or personal metrics
+- Generic advice without backing
+
+## FILE ORGANIZATION
+
+**Blog Posts:**
+```
+src/content/posts/article-slug.md  # Flat file structure
+src/content/posts/article-slug/   # OR folder with index.md
+  index.md
+  image.jpg (⚠️ currently broken - use CDN)
+```
+
+**Newsletters:**
+```
+newsletters/NNN-title.md  # Newsletter content
+```
+
+**Guidance:**
+```
+guidance/START-HERE.md              # Primary guidance
+guidance/attention-grabbing.md      # Professional edge examples
+guidance/audit.md                   # Quality standards
+[other guidance files]
+```
+
+## SEARCH/GREP BOUNDARIES
+
+**When Searching Content:**
+```bash
+# ✅ CORRECT - Scoped to content
+grep -r "pattern" src/content/posts/
+grep -r "pattern" guidance/
+grep -r "pattern" newsletters/
+
+# ❌ WRONG - Too broad
+grep -r "pattern" .
+grep -r "pattern" src/
+```
+
+**Glob Patterns:**
+```bash
+# ✅ CORRECT
+src/content/posts/**/*.md
+src/assets/icons/*.svg
+src/plugins/rehype-component-*.mjs
+
+# ❌ WRONG
+src/**/*  # Too broad
+**/*.md   # Includes node_modules
+```
+
+## DECISION FRAMEWORK
+
+**Before Any Action, Ask:**
+
+1. **Is this my real experience?**
+   - ✅ "I spent $2,000 over 18 months" → Write it
+   - ❌ "Most people probably spend..." → Don't write it
+
+2. **Would this work for other writers?**
+   - ✅ Clear, data-driven voice → Scalable
+   - ❌ Personal schtick/forced humor → Doesn't scale
+
+3. **Does the data back this up?**
+   - ✅ Cited from reputable source → Include it
+   - ❌ "Studies show" without link → Remove it
+
+4. **Is the humor serving content?**
+   - ✅ Natural aside adding context → Keep it
+   - ❌ Forced joke undermining authority → Cut it
+
+5. **Will this pass the audit?**
+   - Run `pnpm audit --file` before finalizing
+   - Target: Negative risk score
+
+## CRITICAL REMINDERS
+
+1. **WAYFINDER-VOICE-2026.md is the source of truth** for voice & standards
+2. **Charts exist** - use them for data visualization (you always forget!)
+3. **Citation limits matter** - 1 per 500 words, max 7 for short articles
+4. **Audit before claiming done** - negative risk score is the goal
+5. **Real experience only** - no generic advice without personal data
+6. **Stay scoped** - posts, scripts, guidance, icons, newsletters, plugin components
+7. **Old guidance may conflict** - WAYFINDER-VOICE-2026.md supersedes
+
+## QUICK REFERENCE
+
+**Chart Syntax (DON'T FORGET!):**
+```markdown
+::donut{title="Title" data="Label|value|#color"}
+::linechart{title="Title" data="Label|value"}
+```
+
+**Citation Format:**
+```markdown
+Research found that X happened.[^1]
+
+[^1]: [Source Title - Publication](https://url.com)
+```
+
+**CTA Format (REQUIRED - place before FAQ):**
+```markdown
+:::tip[Want more real data and honest insights like this?]
+Join our free newsletter where I share what actually works—backed by real numbers, honest failures, and lessons learned from getting my hands dirty. No hype, no BS, just practical insights you can use.
+
+[**Subscribe to Wayfinder →**](https://wayfinder.eo.page/v6y87)
+:::
+```
+
+**FAQ Format:**
+```markdown
+## FAQ: Concise Topic
+
+### Q: Specific question?
+
+A: Direct answer with details.
+```
+
+**Audit Commands:**
+```bash
+pnpm audit              # Everything
+pnpm audit:simple       # High-risk only
+pnpm audit --file name  # Single article
+```
+
+---
+
+**END OF STARTUP SEQUENCE**
+
+You now have everything needed to work on Wayfinder content. Remember:
+- WAYFINDER-VOICE-2026.md = Voice & standards
+- CLAUDE.md = Technical setup
+- Charts exist (donut, linechart)
+- Audit before finishing
+- Real experience only
+- Stay scoped to allowed directories

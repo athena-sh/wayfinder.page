@@ -14,6 +14,10 @@
 		"upload-image": "DOTENV_CONFIG_SILENT=true node scripts/cloudinary-upload.js",
 		"flatten-posts": "DOTENV_CONFIG_SILENT=true node scripts/flatten-posts.js",
 		"remove-hero-images": "DOTENV_CONFIG_SILENT=true node scripts/remove-hero-images.js",
+		"audit": "node scripts/audit-articles.js",
+		"audit:simple": "node scripts/audit-articles.js --simple",
+		"audit:list": "node scripts/audit-articles.js --list",
+		"backlinks": "node scripts/suggest-backlinks.js",
 		"format": "biome format --write ./src",
 		"lint": "biome check --write ./src",
 		"preinstall": "npx only-allow pnpm"
