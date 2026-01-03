@@ -202,11 +202,13 @@ If you're looking for complicated, this isn't it. If you're looking for effectiv
 
 Your doctor will thank you.
 
-:::tip
-Want more real data and honest insights like this? Love productivity tips like these? **Join our FREE newsletter** where I share what actually works—backed by real numbers, honest failures, and lessons learned from getting my hands dirty. No hype, no BS, just practical insights you can use --> [Follow this link to subsribe today!](https://wayfinder.page/subscribe)
-:::
-
 ---
+
+:::tip
+Want more real data and honest insights like this? **Join our FREE newsletter** where I share what actually works—backed by real numbers, honest failures, and lessons learned from getting my hands dirty. No hype, no BS, just practical insights you can use.
+
+[**Subscribe to Wayfinder →**](https://wayfinder.page/subscribe)
+:::
 
 ## FAQ: Outdoor Walking for Health
 
