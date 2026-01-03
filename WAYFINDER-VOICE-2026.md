@@ -275,18 +275,20 @@ A: [Direct answer with specifics]
 **Standard CTA Format** (place before FAQ section):
 
 ```markdown
-:::tip[Want more real data and honest insights like this?]
-Join our free newsletter where I share what actually works—backed by real numbers, honest failures, and lessons learned from getting my hands dirty. No hype, no BS, just practical insights you can use.
+:::tip
+Want more real data and honest insights like this? **Join our FREE newsletter** where I share what actually works—backed by real numbers, honest failures, and lessons learned from getting my hands dirty. No hype, no BS, just practical insights you can use.
 
-[**Subscribe to Wayfinder →**](https://wayfinder.eo.page/v6y87)
+[**Subscribe to Wayfinder →**](https://wayfinder.page/subscribe)
 :::
 ```
 
 **CTA Principles:**
-- ✅ **Do:** Use `:::tip` callout for visual prominence
-- ✅ **Do:** Match the article's value proposition ("real data and honest insights like this")
+- ✅ **Do:** Use `:::tip` callout (no custom label - breaks Medium export)
+- ✅ **Do:** Match the article's value proposition
 - ✅ **Do:** Make the subscribe link bold and clickable
-- ✅ **Do:** Emphasize "free" - removes friction
+- ✅ **Do:** Emphasize "FREE" in caps - removes friction
+- ✅ **Do:** Use wayfinder.page/subscribe URL (canonical)
+- ❌ **Don't:** Use custom tip labels like `:::tip[Custom Text]` (breaks Medium export)
 - ❌ **Don't:** Use gimmicky language ("SMASH that subscribe button")
 - ❌ **Don't:** Make exaggerated promises ("10x your life")
 - ❌ **Don't:** Hide it at the very end after footnotes (place before FAQ)
