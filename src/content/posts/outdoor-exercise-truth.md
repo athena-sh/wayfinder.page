@@ -1,6 +1,6 @@
 ---
 title: "10,000 Steps Decimated My Cholesterol: 31% Drop in 18 Months"
-published: 2025-01-03
+published: 2026-01-03
 description: "Real data from someone who walks 10,000+ steps outdoors daily: lower cholesterol, better mental clarity, and cardiovascular benefits my doctor actually tracks."
 image: "person-walking.svg"
 hero: "https://res.cloudinary.com/ddicetqs5/image/upload/c_fill,f_auto,fl_force_strip,q_auto:best/v1767477936/wayfinder-images/lrfy2roqz6du1mdxwsby"
@@ -196,11 +196,17 @@ What it _does_ do extraordinarily well:
 
 If you want to look like a bodybuilder, outdoor walking isn't the answer. If you want health markers that make your doctor smile at your annual physical, it absolutely works.
 
-:::tip[Want more real data and honest insights like this?]
-Join our free newsletter where I share what actually works—backed by real numbers, honest failures, and lessons learned from getting my hands dirty. No hype, no BS, just practical insights you can use.
+**The simple truth**: Outdoor walking is the most sustainable form of cardiovascular exercise I've found. It improves every health marker my doctor tracks, costs essentially nothing beyond decent shoes, and doesn't feel like "working out."
 
-[**Subscribe to Wayfinder →**](https://wayfinder.eo.page/v6y87)
+If you're looking for complicated, this isn't it. If you're looking for effective, backed by both research and real-world health data, lace up your shoes and go for a walk.
+
+Your doctor will thank you.
+
+:::tip
+Want more real data and honest insights like this? Love productivity tips like these? **Join our FREE newsletter** where I share what actually works—backed by real numbers, honest failures, and lessons learned from getting my hands dirty. No hype, no BS, just practical insights you can use --> [Follow this link to subsribe today!](https://wayfinder.page/subscribe)
 :::
+
+---
 
 ## FAQ: Outdoor Walking for Health
 
@@ -227,14 +233,6 @@ A: Aim for moderate intensity—where you can talk in full sentences but can't c
 ### Q: Will this help with weight loss?
 
 A: Walking burns calories and improves metabolic health, but weight loss primarily comes from caloric deficit through diet. That said, the calorie burn from 10,000+ steps daily (400-600 calories depending on pace and body weight) creates a meaningful contribution to total daily energy expenditure. Combined with reasonable dietary habits, yes, it supports sustainable fat loss.
-
----
-
-**The simple truth**: Outdoor walking is the most sustainable form of cardiovascular exercise I've found. It improves every health marker my doctor tracks, costs essentially nothing beyond decent shoes, and doesn't feel like "working out."
-
-If you're looking for complicated, this isn't it. If you're looking for effective, backed by both research and real-world health data, lace up your shoes and go for a walk.
-
-Your doctor will thank you.
 
 ---
 
