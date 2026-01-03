@@ -1,6 +1,6 @@
 ---
 title: "10,000 Steps Decimated My Cholesterol: 31% Drop in 18 Months"
-published: 2026-01-03
+published: 2026-01-01
 description: "Real data from someone who walks 10,000+ steps outdoors daily: lower cholesterol, better mental clarity, and cardiovascular benefits my doctor actually tracks."
 image: "person-walking.svg"
 hero: "https://res.cloudinary.com/ddicetqs5/image/upload/c_fill,f_auto,fl_force_strip,q_auto:best/v1767477936/wayfinder-images/lrfy2roqz6du1mdxwsby"
